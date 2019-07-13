@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Monika and Sebastian, a Polish-Belgian couple that recently moved to the beautiful city of Leuven (Belgium) after living in marvelous Potsdam (Germany) the last 4 years. We both love to travel (especially when it includes hiking) and to embrace new experiences and challenges 🙂
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+We started traveling together in 2014, an have visited many cities in Belgium (Brussels, Antwerp, Bruges, Ghent) and Poland (Warsaw, Wrocław, Poznań, Krakow, Międzyzdroje, Zakopane). Every year we also aim to go for a longer hiking trip! So far we visited Morocco, Iceland, Georgia and most recently the Himalayas. We also discovered the beauty of the Karkonosze and Tatras mountain-ranges in Poland along with the Alps in Bergamo, Italy. We challeng ourselves to do different running competitions like half-marathons and obstacle runs (including the Iron Viking, which claims to be the worlds toughest marathon). On the top of than we did many weekend trips in Europe (Cambridge, Barcelona, Leipzig, Hamburg).
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This year, we decided to use few months of break between moving to Belgium and switching jobs to discover Southeast Asia. Our journey began with a month in Singapore, where we experienced tropical temperatures and stunning, extraordinary architecture. This was for us like a city from the future. After a short stay in Europe, we headed to Nepal and finished the Annapurna circuit in the Himalayas. We could not imagine a trip without some exhausting hiking among the highest peaks in the world. Then we started a search for mysterious temples in Cambodia, Laos and Thailand.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+<img src="{{ site.baseurl }}/assets/about.jpg" title="about us" class="profile">
+
+Join our endless travels by reading this blog!
