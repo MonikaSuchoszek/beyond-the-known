@@ -26,6 +26,6 @@ in the Himalayas. We could not imagine a trip without some exhausting hiking amo
 peaks in the world. Then we started a search for mysterious temples in Cambodia, Laos and 
 Thailand.
 
-<img src="{{ site.baseurl }}/assets/about.jpg" title="about us" class="profile">
-<a href="{{ site.baseurl }}/assets/about.jpg" data-lightbox="about" data-title="About us">Image</a>
+<a href="{{ site.baseurl }}/assets/about.jpg" data-lightbox="about" data-title="About us"><img src="{{ site.baseurl }}/assets/about.jpg" title="about us" class="profile" /></a>
+
 Join our endless travels by reading this blog!
