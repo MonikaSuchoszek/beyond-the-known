@@ -3,6 +3,10 @@
 # Compiled site
 _site
 
+# Site config
+_config.yml
+
+
 # Sass garbage
 .sass-cache
 
