@@ -8,7 +8,7 @@ tags:	travel hiking luxembourg
 cover:  "/assets/Luxembourg/DSC05283.JPG"
 ---
 
-Visiting Berdorf in Luxemburg? Why not! We couldn't miss our chance to finally check one of the options for a weekend trip when you live in Belgium. The initial idea was to do the whole Mullerthal trail route 2 which is around 37km. However, life is unpredictable and we had to modify our plans a little bit. Since we left Leuven on Saturday morning and arrived to Berdorf (the starting point of a trek) at 10.30 am there was not enough time to do the complete route qnd so on the way we decided to skip one loop and took a shortcut to the next village. The first part (around 6km) from Berdorf to Mullerthal led along big rocky walls, the further we got from the car parking, the quieter it got with less and less hikers on the way. The large, high rocks situated close to each other started to create narrow passages, darker and colder inside.
+Visiting Berdorf in Luxemburg? Why not! We couldn't miss our chance to finally check one of the options for a weekend trip when you live in Belgium. The initial idea was to do the whole Mullerthal trail route 2 which is around 37km. However, life is unpredictable and we had to modify our plans a little bit. Since we left Leuven on Saturday morning and arrived to Berdorf (the starting point of a trek) at 10.30 am there was not enough time to do the complete route so on the way we decided to skip one loop and took a shortcut to the next village. The first part (around 6km) from Berdorf to Mullerthal led along big rocky walls, the further we got from the car parking, the quieter it got with less and less hikers on the way. The large, high rocks situated close to each other started to create narrow passages, darker and colder inside.
 
 ![The part from Berdorf to Mullerthal](/assets/Luxembourg/DSC05267.JPG)
 
@@ -27,7 +27,7 @@ A bit further, close to the viewpoint Burgkapp, we had a chance to shorten our h
 ![Berdorf viewpoint](/assets/Luxembourg/DSC05316.JPG)
 
 The view of village Echternach where we had a dinner and ice cream :) Visiting this touristic place required us to walk down a steep path to the village and come back the same way what means steep uphill parts as well but it was worth it. On the photo below you can clearly see St. Willibrord Basilica, which dominates the landscape.
-4
+
 
 ![Village Echternal](/assets/Luxembourg/DSC05325.JPG)
 
@@ -36,6 +36,8 @@ The next day we explored the area nearby our camping in Berdorf. Amazing viewpoi
 ![Berdorf viewpoint](/assets/Luxembourg/DSC05378.JPG)
 
 ![Berdorf viewpoint](/assets/Luxembourg/DSC05389.JPG)
+
+![Narrow passage between big rocks](/assets/Luxembourg/DSC05396.JPG)
 
 The area has a lot to offer not only for hikers, runners or cyclists but also for sport climbers! Around 1km from the camping Martbusch you can find this little but very interesting area with sandstone rock. Most of the climbing routes are rated between 5 and 6. The beautiful forest surrounding this spot makes it colder, something every climber appreciates during the hot summer :)
 
