@@ -6,6 +6,7 @@ _site
 # Site config
 _config.yml
 
+start_server.sh
 
 # Sass garbage
 .sass-cache
