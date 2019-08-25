@@ -48,11 +48,14 @@ ga_tracking_id: "UA-47068418-4"
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: Travel
+    desc: "Read all about places we visited"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: Sports
+    desc: "Hiking, Running and other things we tried"
+
+  - cat: Food
+    desc: "Interesting cuisine that caught our attention"
 
 # Social icons and sharing options
 #
