@@ -204,11 +204,26 @@ pre code.hljs {
 	.post-list {
 		padding-top: 1em !important;
 		@extend %default-ul;
+
+		.post-excerpt-image {
+		  display: inline;
+		  height: 150px;
+		  width: auto;
+		  float: left;
+		  margin-right: 1em;
+		  object-fit: cover;
+      object-position: center;
+		}
+
+		.post-excerpt-text {
+		  text-align: justify;
+		}
 	}
 	.post-meta {
 		@include outer-container;
 		// padding: 1em 0;
 		color: $medium-gray;
+		clear: both;
 		.post-date {
 			@include span-columns(6);
 			text-align: left;
@@ -268,6 +283,7 @@ pre code.hljs {
 		}
 		.post-content {
 			padding: 1em 0;
+			text-align: justify;
 		}
 		.tags {
 			font-size: 0.9em;
