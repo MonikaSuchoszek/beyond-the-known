@@ -4,8 +4,11 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 
+destination: ./docs
+
 exclude:
   - "/vendor/"
+  - "/docs/"
 
 # Site settings
 title: Going beyond the known
