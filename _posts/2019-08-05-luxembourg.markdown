@@ -24,7 +24,7 @@ The Mullerthal village offers a camping site, some places to buy drinks and fast
 A bit further, close to the viewpoint Burgkapp, we had a chance to shorten our hike and go straight ahead to the village Consdorf, skipping the loop to the south and cutting off a few km. We passed Burgkapp, La Pineda camping site, Consdorf (there is a bakery close to the church) to finally reach Scheidgen where we picked up Mullerthal trail route 2 again. The part from here to Echternach was a bit borring. Beautiful, old forest but less groups of rocks which you can explore.
 
 <img src="/assets/Luxembourg/DSC05317.JPG" alt="Berdorf viewpoint" />
-<img src="/assets/Luxembourg/DSC05316.JPG" class="column-50" alt="Berdorf viewpoint" />
+<img src="/assets/Luxembourg/DSC05316.JPG" class="column-45" alt="Berdorf viewpoint" />
 
 The view of village Echternach where we had a dinner and ice cream :) Visiting this touristic place required us to walk down a steep path to the village and come back the same way what means steep uphill parts as well but it was worth it. On the photo below you can clearly see St. Willibrord Basilica, which dominates the landscape.
 
@@ -35,7 +35,7 @@ The next day we explored the area nearby our camping in Berdorf. Amazing viewpoi
 <img src="/assets/Luxembourg/DSC05378.JPG" alt="Berdorf viewpoint" />
 <img src="/assets/Luxembourg/DSC05389.JPG" alt="Berdorf viewpoint" />
 
-<img src="/assets/Luxembourg/DSC05396.JPG" class="column-50" alt="Narrow passage between big rocks" />
+<img src="/assets/Luxembourg/DSC05396.JPG" class="column-45" alt="Narrow passage between big rocks" />
 
 The area has a lot to offer not only for hikers, runners or cyclists but also for sport climbers! Around 1km from the camping Martbusch you can find this little but very interesting area with sandstone rock. Most of the climbing routes are rated between 5 and 6. The beautiful forest surrounding this spot makes it colder, something every climber appreciates during the hot summer :)
 
