@@ -12,7 +12,7 @@ Monika and Sebastian, a Polish-Belgian couple that recently moved to the beautif
 We started traveling together in 2014, an have visited many cities in Belgium 
 (Brussels, Antwerp, Bruges, Ghent) and Poland (Warsaw, Wrocław, Poznań, Krakow, Międzyzdroje, 
 Zakopane). Every year we also aim to go for a longer hiking trip! So far we visited Morocco, 
-Iceland, Georgia and most recently the Himalayas. We also discovered the beauty of the Karkonosze 
+Iceland, [Georgia]({% post_url 2017-10-10-Georgia-Murshkeli %}) and most recently the Himalayas. We also discovered the beauty of the Karkonosze 
 and Tatras mountain-ranges in Poland along with the Alps in Bergamo, Italy. We challeng ourselves 
 to do different running competitions like half-marathons and obstacle runs (including the Iron 
 Viking, which claims to be the worlds toughest marathon). On the top of than we did many weekend 
