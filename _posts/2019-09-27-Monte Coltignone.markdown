@@ -56,7 +56,7 @@ Monte Coltignone looks totally different from the other side which can be reache
 
 <img src="/assets/Italy/MonteColtignone/DSC06862.JPG" alt="Monte Coltignone" />
 
-A final sprint to catch the next bus, we were back on our way to Lecco.
+A final sprint to catch the next bus and we were back on our way to Lecco.
 
 
 __Practical info:__
