@@ -16,14 +16,13 @@ You can reach the peak by two trails: one passing Medale and one, easier but lon
 also the most popular. We don't like to walk the same way up and down the peak and obviously I wanted to 
 scramble a bit more and that was guaranteed by choosing the first option, Santiero G.E.R trail (number 59). 
 
-<!--For me the city itself was not particularly special but the surrounding mountains added a l
-ot of beauty to this place. Como has its beautiful cathedral, Varenna its castle with a spectacular view, 
-Bellagio its expensive shops and Lecco has spectacular mountains but you need to put in more effort (and 
-get more sweaty :p) to enjoy them. This day we attempted to climb Monte Coltignone. -->
-
-<img src="/assets/Italy/MonteColtignone/DSC06623.JPG" alt="Monte Coltignone" />
 
 <img src="/assets/Italy/MonteColtignone/DSC06621.JPG" alt="Monte Coltignone" />
+<p class="caption">Lecco, for me the city itself was not particularly special but the surrounding mountains added a lot 
+of beauty to this place. Como has its beautiful cathedral, Varenna its castle with a spectacular view, 
+Bellagio its expensive shops and Lecco has spectacular mountains but you need to put in more effort (and 
+get more sweaty :p) to enjoy them.</p>
+<img src="/assets/Italy/MonteColtignone/DSC06623.JPG" alt="Monte Coltignone" />
 
 <img src="/assets/Italy/MonteColtignone/IMG_105527361.JPG" alt="Monte Coltignone" />
 
