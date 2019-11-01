@@ -201,6 +201,17 @@ pre code.hljs {
 	/*
 	*	index.html
 	*/
+	blockquote {
+	  border-left: 0.2em solid $purple;
+	  background-color: lighten($purple, 40%);
+	  padding: 1em;
+	  width: 100%;
+	  margin-left: auto;
+    margin-right: auto;
+	  @include media ($tablet) {
+	    width: 75%
+	  }
+	}
 	.post-list {
 		padding-top: 1em !important;
 		@extend %default-ul;
@@ -531,3 +542,4 @@ pre code.hljs {
 		}
 	}
 }
+
