@@ -5,7 +5,7 @@ date:   2018-10-21 08:43:59
 author: Monika Suchoszek
 categories: travel
 tags:	travel culture laos
-cover:  "/assets/Laos/Vientian/DSC03261.jpg"
+cover:  "/assets/Laos/DonDet/DSC02996.jpg"
 ---
 
 Crossing the borders by land is always more complicated than by plane but we like challenges. Actually, the ride 
