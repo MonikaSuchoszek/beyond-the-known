@@ -25,3 +25,5 @@ In both cities there are plenty of PassApp drivers and we never had to wait long
 The downside is that, like Uber/Lyft the app relies on an active internet connection for calling a ride. While most restaurants offer Free Wifi for customers, using the app from other locations might prove more difficult. While we always found a solution, a tourist sim card with some mobile data included could be useful here and will pay for itself.
 
 Additional tip: Take a screenshot of the price the app suggest if you'll pay cash at the end of the ride. The app has its fair share of issues and once crashed on the driver's side. At that point there was no way for either of us to see the agreed upon price again.
+
+**Update November 2019:** PassApp is now available is a few more cities! Including Sihanoukville and Kampot.
