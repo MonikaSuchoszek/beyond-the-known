@@ -98,14 +98,14 @@ layout: default
 						<i class="fa fa-square fa-stack-2x"></i>
 						<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
 					</span>
-					<span class="page-number">{{page.previous.title}}</span>
+					<span class="page-number"><strong>Previous:</strong> {{page.previous.title}}</span>
 				</a>
 			{% endif %}
 		</span>
 		<span class="next-post">
 			{% if page.next.url %}
 				<a href="{{page.next.url | prepend: site.baseurl}}">
-					<span class="page-number">{{page.next.title}}</span>
+					<span class="page-number"><strong>Next:</strong> {{page.next.title}}</span>
 					<span class="fa-stack fa-lg">
 						<i class="fa fa-square fa-stack-2x"></i>
 						<i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
