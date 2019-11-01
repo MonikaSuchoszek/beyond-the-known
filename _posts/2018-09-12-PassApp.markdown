@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "PassApp: Getting around Phnom Penh and Siem Reap in style"
+date:   2018-09-12 08:43:59
+author: Sebastian Proost
+categories: travel
+tags:	travel cambodia tips technology
+cover:  "/assets/Cambodia/PassApp/DSC02350.jpg"
+---
+
+If you are like us and don't like haggling, negotiating prices for taxi and tuk-tuk rides will likely be your least favorite part about travelling through Cambodia. However, with <a href="https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.passapptaxis">PassApp</a> there is an alternative, at least in Phnom Penh and Siem Reap !
+
+<img src="/assets/Cambodia/PassApp/passapp_interface.png">
+<p class="caption">The pass app interface, virtually the same as Uber or Lyft</p>
+
+To make most of your time in Cambodia you'll probably have to take a taxi or tuk-tuk on more than a few occasions. While you can normally hail one in the street and ask for a quote, you are going to encounter drivers asking far more than what is reasonable. Fortunately there is a better way! ...at least in Phnom Penh and Siem Reap, <a href="https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.passapptaxis">PassApp</a> !
+
+<img src="/assets/Cambodia/PassApp/DSC02350.jpg">
+<p class="caption">An modern rickshaw: these suite 2-4 people depending on the model. They are a bit smaller but cheaper than TukTuks. We used these to get from one landmark to another. There isn't much room for backpacks, if you have those ordering a TukTuk or Taxi is better.</p>
+
+<a href="https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.passapptaxis">PassApp</a> is essentially the local version of Uber or Lyft and works in exactly the same way. You specify where you want to be picked up and where you are going, you see the price and the app calls for a driver. Once a driver accepts, you can see where they are and when he/she will arrive. Payment is either in cash or by linking a credit card to your PassApp account. Using the app the price will be immediately clear and, in our experience, far below the best offers we were able to get negotiating with a random driver on the street.
+
+In both cities there are plenty of PassApp drivers and we never had to wait long for a driver to take us for a ride.
+
+The downside is that, like Uber/Lyft the app relies on an active internet connection for calling a ride. While most restaurants offer Free Wifi for customers, using the app from other locations might prove more difficult. While we always found a solution, a tourist sim card with some mobile data included could be useful here and will pay for itself.
+
+Additional tip: Take a screenshot of the price the app suggest if you'll pay cash at the end of the ride. The app has its fair share of issues and once crashed on the driver's side. At that point there was no way for either of us to see the agreed upon price again.
