@@ -8,15 +8,24 @@ tags:	travel hiking italy
 cover:  "/assets/Italy/MonteColtignone/DSC06621.JPG"
 ---
 
-Lecco, a small city located on the southern tip of Lake Como turned out to be a fantastic base for hiking lovers. We could have actually stayed there longer than we did as we still had plenty of ideas for day hikes or just regular sightseeing. For me the city itself was not particularly special but the surrounding mountains added a lot of beauty to this place. Como has its beautiful cathedra, Varenna its castle with a spectacular view, Bellagio its expensive shops and Lecco has spectacular mountains but you need to put in more effort (and get more sweaty :p) to enjoy them. 
+After hiking to [Monte Resegone]({% post_url 2019-09-14-Monte Resegone %}), a day trip around the Como lake by 
+ferry, it was finally time for another hike, this time to Monte Coltignone. It was supposed to be 
+tough and it certainly was. Three kilometers and 1000m altitude gain, this can't be good :) 
+First we took a bus to Laorca (more details in the section practical info) where we started the hike. 
+You can reach the peak by two trails: one passing Medale and one, easier but longer route, which is 
+also the most popular. We don't like to walk the same way up and down the peak and obviously I wanted to 
+scramble a bit more and that was guaranteed by choosing the first option, Santiero G.E.R trail (number 59). 
+
+<!--For me the city itself was not particularly special but the surrounding mountains added a l
+ot of beauty to this place. Como has its beautiful cathedral, Varenna its castle with a spectacular view, 
+Bellagio its expensive shops and Lecco has spectacular mountains but you need to put in more effort (and 
+get more sweaty :p) to enjoy them. This day we attempted to climb Monte Coltignone. -->
 
 <img src="/assets/Italy/MonteColtignone/DSC06623.JPG" alt="Monte Coltignone" />
 
 <img src="/assets/Italy/MonteColtignone/DSC06621.JPG" alt="Monte Coltignone" />
 
 <img src="/assets/Italy/MonteColtignone/IMG_105527361.JPG" alt="Monte Coltignone" />
-
-After hiking to [Monte Resegone]({% post_url 2019-09-14-Monte Resegone %}), a day trip around the Como lake by ferry, it was finally time for another hike, this time to Monte Coltignone. It was supposed to be tough and it certainly was. Three kilometers and 1000m altitude gain, this can't be good :) First we took a bus to Laorca (more details in the section practical info) where we started the hike. You can reach the peak by two trails: one passing Medale and one, easier but longer route, which is also the most popular. We don't like to walk the same way up and down the peak and obviously I wanted to scramble a bit more and that was guaranteed by choosing the first option, Santiero G.E.R trail (number 59). 
 
 <img src="/assets/Italy/MonteColtignone/DSC06831.JPG" alt="Monte Coltignone" />
 

@@ -8,7 +8,17 @@ tags:	travel hiking italy
 cover:  "/assets/Italy/Monte_Resegone/DSC06696.JPG"
 ---
 
-Lecco, a small city located on the southern tip of Lake Como turned out to be a fantastic base for hiking lovers. We could have actually stayed here longer than we did as we still had plenty of ideas for day hikes or just regular sightseeing. More about the city itself in the next post :) Our host in Lecco knew a lot about the mountains surrounding this region and suggested us two of the most demanding hikes and we enthousiastically followed her ideas :D The weather predictions were really good so we decided not to wait long and do the most demanding hike to Monte Resegone (1875m) the next day. It was not the distance which made this hike challenging but the altitude gain of around 1500m. We started the hike from the place where we stayed in Lecco (Acquate district) and we made our way up to hiking path number 1 which we followed to rifugio Luigi Azzoni near the peak of Monte Resegone. This path starts at the bottom of the cable car in Versasio and it first leads through the forest on a nice, wide,rocky path. Then it passes a small group of houses (Frazione Costa) and a shelter Rifugio Antonio Stoppani. From there we could already admire the stunning view of Como lake and Lecco city. The path was clearly marked with red-white-yellow stripes with number one written in the middle. Marks were placed on the rocks or trees, so no worries to get lost (of course you need to pay attendion on the crossings with other paths e.g. with MTB trails or paths leading to via ferratas). 
+Lecco, a small city located on the southern tip of Lake Como turned out to be a fantastic base for hiking lovers. 
+We could have actually stayed here longer than we did as we still had plenty of ideas for day hikes or just regular 
+sightseeing. More about the city itself in the next post :) Our host in Lecco knew a lot about the mountains 
+surrounding this region and suggested us two of the most demanding hikes and we enthousiastically followed her 
+ideas :D The weather predictions were really good so we decided not to wait long and do the most demanding hike to 
+Monte Resegone (1875m) the next day. It was not the distance which made this hike challenging but the altitude 
+gain of around 1500m. We started the hike from the place where we stayed in Lecco (Acquate district) and we made 
+our way up to hiking path number 1 which we followed to rifugio Luigi Azzoni near the peak of Monte Resegone. This 
+path starts at the bottom of the cable car in Versasio and it first leads through the forest on a nice, wide,rocky 
+path. Then it passes a small group of houses (Frazione Costa) and a shelter Rifugio Antonio Stoppani. From there we 
+could already admire the stunning view of Como lake and Lecco city. The path was clearly marked with red-white-yellow stripes with number one written in the middle. Marks were placed on the rocks or trees, so no worries to get lost (of course you need to pay attendion on the crossings with other paths e.g. with MTB trails or paths leading to via ferratas). 
 
 <img src="/assets/Italy/Monte_Resegone/DSC06629.JPG" alt="Monte Resegone" />
 
