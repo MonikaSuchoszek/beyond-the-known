@@ -5,7 +5,7 @@ date:   2018-07-28 08:43:59
 author: Monika Suchoszek
 categories: travel
 tags:	travel culture history cambodia khmer
-cover:  "/assets/Cambodia/KampotKep/DSC02130.jpg"
+cover:  "/assets/Cambodia/Sihanoukville/DSC02085.jpg"
 ---
 
 In a nutshell, after a few weeks spent hiking in Nepal, we took a plane to Bangkok to start the second part of 
