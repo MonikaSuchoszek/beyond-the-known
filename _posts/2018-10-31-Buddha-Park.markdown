@@ -27,7 +27,7 @@ is full of Buddha images, Hindu gods, demons and animals common in both beliefs.
 snack or chill out in cafe nearby the Mekong river.
 
 <img src="/assets/Laos/BuddhaPark/DSC03214.jpg"/>
-<p class="caption>Enormous reclining Buddha (40 meters long) is one of the biggest attractions of the park</p>
+<p class="caption">Enormous reclining Buddha (40 meters long) is one of the biggest attractions of the park</p>
 <img src="/assets/Laos/BuddhaPark/DSC03228.jpg">
 <img src="/assets/Laos/BuddhaPark/DSC03211.jpg">
 <img src="/assets/Laos/BuddhaPark/DSC03239.jpg">
