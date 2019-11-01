@@ -99,7 +99,7 @@ On the photo below you can see one of the 5 gates which were leading to the anci
 <img src="/assets/Cambodia/AngkorWat/DSC02699.jpg">
 <img src="/assets/Cambodia/AngkorWat/DSC02697.jpg">
 <img src="/assets/Cambodia/AngkorWat/DSC02740.jpg">
-<p class="caption>Phimeanakas, small Hindu temple which is not reached by many visitors</p>
+<p class="caption">Phimeanakas, small Hindu temple which is not reached by many visitors</p>
 
 After a lunch break it was a time for the final highlight of that day, Ta Prohm. Made famous by the (first) Tomb Raider movie with Hollywood star, Angelina Jolie playing the role of Lara Croft. This temple is really special as trees were not removed during the renovation so you get an impression how Angkor looked when discovered by the French naturalist Henri Mouhot in 1860. Of course, a lot of work was done to prepare this place for tourists so that everyone can visit this place safely. We just loved this temple so much that decided to come back next day at the opening hour (7:30) to see this place without the crowd (we found a tuk tuk driver in the morning). Haha, it turned out that only during the first 30 minutes you can explore this place with only a small group of tourists because at 8am the first buses arrived. Anyway, it was totally worth it since morning sun was creating an amazing atmosphere inside! Trees are inseparable elements of the temples, they are both destroying and holding together the whole complex at the same time.
 
