@@ -18,7 +18,7 @@ description: A travel blog by Monika Suchoszek.
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.beyond-the-known.eu/" # the base hostname & protocol for your site
-cover: "/assets/index_header.jpg"
+cover: "/assets/about_header.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
