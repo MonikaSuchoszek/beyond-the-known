@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Pokhara and Kathmandu, activities to do and places to visit"
+title:  "Pokhara and Kathmandu: things to do and places to visit"
 date:   2018-07-20 08:43:59
 author: Monika Suchoszek
-categories: travel
+categories: travel food sports
 tags:	travel culture history nepal food nature
 cover:  "/assets/Nepal/PokharaKathmandu/DSC01890.jpg"
 ---
