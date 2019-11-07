@@ -9,8 +9,8 @@ cover:  "/assets/Nepal/PokharaKathmandu/DSC01890.jpg"
 ---
 
 After two weeks of hiking we really hoped to spend few quiet and relaxing days in Pokhara and we were not 
-disappointed :) Phewa Lake surrounded by the city and high peaks in the background looks stunning! Especially, 
-during sunset when the water change the color from blue to pinkish and the fishermen with their tiny wooden 
+disappointed :) Phewa Lake, surrounded by the city and high peaks in the background, looks stunning! Especially, 
+during sunset when the water changes colors from blue to pink-ish and the fishermen with their tiny wooden 
 boats are tending to their nets completed the scenery.
 
 <img src="/assets/Nepal/PokharaKathmandu/DSC01890.jpg" />
