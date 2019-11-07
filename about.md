@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+cover:  "/assets/about_header.jpg"
 ---
 
 
