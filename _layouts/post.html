@@ -91,29 +91,48 @@ layout: default
     {% endif %}
   {% endfor %}
 </section>
+
 {% if site.inter_post_navigation == true %}
 	<section class="post-navigation">
-		<span class="prev-post">
-			{% if page.previous.url %}
-				<a href="{{page.previous.url | prepend: site.baseurl}}">
-					<span class="fa-stack fa-lg">
-						<i class="fa fa-square fa-stack-2x"></i>
-						<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-					</span>
-					<span class="page-number"><strong>{{ items_text.previous }}:</strong> {{page.previous.title | truncatewords: 5}}</span>
-				</a>
+	<span class="prev-post">
+		{% for post in site.posts %}
+			{% if post.locale == page.locale %}
+				{% if prev %}
+						<a href="{{post.url | prepend: site.baseurl}}">
+							<span class="fa-stack fa-lg">
+								<i class="fa fa-square fa-stack-2x"></i>
+								<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+							</span>
+							<span class="page-number"><strong>{{ items_text.previous }}:</strong> {{page.previous.title | truncatewords: 5}}</span>
+						</a>
+				{% endif %}
+				{% assign prev = false %}
+				{% if post.id == page.id %}
+					{% assign prev = true %}
+				{% endif %}
 			{% endif %}
+		{% endfor %}
 		</span>
+
 		<span class="next-post">
-			{% if page.next.url %}
-				<a href="{{page.next.url | prepend: site.baseurl}}">
-					<span class="page-number"><strong>{{ items_text.next }}:</strong> {{page.next.title | truncatewords: 5}}</span>
-					<span class="fa-stack fa-lg">
-						<i class="fa fa-square fa-stack-2x"></i>
-						<i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-					</span>
-				</a>
+		{% for post in site.posts reversed %}
+			{% if post.lang == page.lang %}
+				{% if next %}
+			      <a href="{{ post.url | prepend: site.baseurl}}">
+							<span class="page-number"><strong>{{ items_text.next }}:</strong> {{page.next.title | truncatewords: 5}}</span>
+							<span class="fa-stack fa-lg">
+								<i class="fa fa-square fa-stack-2x"></i>
+								<i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+							</span>
+						</a>
+					{% break %}
+				{% endif %}
+				{% assign next = false %}
+				{% if post.id == page.id %}
+					{% assign next = true %}
+				{% endif %}
 			{% endif %}
+		{% endfor %}
 		</span>
 	</section>
 {% endif %}

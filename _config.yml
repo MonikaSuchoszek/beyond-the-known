@@ -18,6 +18,7 @@ defaults:
     values:
       locale: "en_US"
       permalink: en/:categories/:year/:month/:title/
+
 -
     scope:
       path: "_posts/pl"
@@ -32,6 +33,7 @@ languages:
     icon: /assets/flag-icon-en_US.png
     locale: "en_US"
     index: "/index.html"
+
 -
     name: Polski
     icon: /assets/flag-icon-pl_PL.png
