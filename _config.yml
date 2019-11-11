@@ -1,11 +1,14 @@
 # External gems
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 gems:
+  - jekyll-archives
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 exclude:
   - "/vendor/"
+
+destination: "./docs"
 
 # Site settings
 title: Going beyond the known
@@ -23,10 +26,25 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
-paginate: 7
-paginate_path: "/page:num/"
+
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: "/page/:num/"
+  sort_reverse: true
+
 inter_post_navigation: true
 highlightjs_theme: "monokai-sublime"
+
+# Archive settings (see https://github.com/jekyll/jekyll-archives/)
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: 'archive'
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
 
 # Disqus comments
 # disqus_shortname: bencentra
