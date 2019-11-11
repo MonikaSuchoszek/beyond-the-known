@@ -1,0 +1,21 @@
+en_US:
+    subtitle: "following our dreams"
+    reading_time: "Reading time"
+    posted: "Posted"
+    next: "Next"
+    previous: "Previous"
+    credit: "A travel blog by Monika Suchoszek."
+    by: "by"
+    in: "in"
+    contact: "Contact"
+
+pl_PL:
+    subtitle: "podążając za marzeniami"
+    reading_time: "Czas czytania"
+    posted: "Data"
+    next: "Następny"
+    previous: "Poprzedni"
+    credit: "Blog podróżniczy Moniki Suchoszek."
+    by: ""
+    in: ""
+    contact: "Kontakt"

@@ -1,17 +1,11 @@
----
-layout: default
-pagination:
-  enabled: true
-  locale: pl_PL
-permalink: /index.pl.html
----
+{% assign items_text = site.data.translations[page.locale] %}
 <div class="home">
 
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
       <h1 class="title">{{ site.title }}</h1>
-      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+      {% if items_text.subtitle %}<p class="subtitle">{{ items_text.subtitle }}</p>{% endif %}
     </header>
   </div>
 </div>
@@ -29,8 +23,8 @@ permalink: /index.pl.html
 			{% assign words = post.content | number_of_words %}
 		</section>
     <section class="post-meta">
-			<div class="post-date">Reading time: <strong>{% if words < 360 %} 1 minute {% else %} {{ words | divided_by:180 }} minutes {% endif %}</strong></div>
-      <div class="post-categories">Posted {{ post.date | date: "%B %-d, %Y" }}
+			<div class="post-date">{{ items_text.reading_time }}: <strong>{% if words < 360 %} 1 minute {% else %} {{ words | divided_by:180 }} minutes {% endif %}</strong></div>
+      <div class="post-categories">{{ items_text.posted }} {{ post.date | date: "%B %-d, %Y" }}
       {% if post.categories.size > 0 %} in {% for cat in post.categories %}
       <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
       {% endfor %}{% endif %}

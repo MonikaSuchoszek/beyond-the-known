@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
+{% assign items_text = site.data.translations[page.locale] %}
 <div class="post">
 
 <div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
       <h1 class="title">{{ page.title }}</h1>
-      <p class="info">by <strong>{{ page.author }}</strong></p>
+      <p class="info">{{ items_text.by }} <strong>{{ page.author }}</strong></p>
     </header>
   </div>
 </div>
@@ -19,7 +20,7 @@ layout: default
 <section class="post-meta">
   <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
   <div class="post-categories">
-  {% if page.categories.size > 0 %}in {% for cat in page.categories %}
+  {% if page.categories.size > 0 %}{{ items_text.in }} {% for cat in page.categories %}
   <a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
   {% endfor %}{% endif %}
   </div>
@@ -99,14 +100,14 @@ layout: default
 						<i class="fa fa-square fa-stack-2x"></i>
 						<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
 					</span>
-					<span class="page-number"><strong>Previous:</strong> {{page.previous.title | truncatewords: 5}}</span>
+					<span class="page-number"><strong>{{ items_text.previous }}:</strong> {{page.previous.title | truncatewords: 5}}</span>
 				</a>
 			{% endif %}
 		</span>
 		<span class="next-post">
 			{% if page.next.url %}
 				<a href="{{page.next.url | prepend: site.baseurl}}">
-					<span class="page-number"><strong>Next:</strong> {{page.next.title | truncatewords: 5}}</span>
+					<span class="page-number"><strong>{{ items_text.next }}:</strong> {{page.next.title | truncatewords: 5}}</span>
 					<span class="fa-stack fa-lg">
 						<i class="fa fa-square fa-stack-2x"></i>
 						<i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>

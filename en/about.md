@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 cover:  "/assets/about_header.jpg"
 main_nav: true
+locale: en_US
 ---
 
 

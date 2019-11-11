@@ -1,3 +1,5 @@
+{% assign items_text = site.data.translations[page.locale] %}
+
 <footer class="site-footer">
 
   <div class="wrapper">
@@ -8,9 +10,9 @@
 
       <p><strong>Site Map</strong></p>
       <ul class="pages">
-        {% for page in site.pages %}
-        {% if page.title and page.main_nav == true %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for link in site.pages %}
+        {% if link.title and link.main_nav == true and link.locale == page.locale %}
+          <li class="nav-link"><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
         {% endif %}
         {% endfor %}
       </ul>
@@ -43,7 +45,7 @@
 
     <div class="site-signature">
       <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
+      <p class="text">{{ items_text.credit }}</p>
     </div>
 
   </div>

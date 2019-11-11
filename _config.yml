@@ -26,6 +26,18 @@ defaults:
       locale: "pl_PL"
       permalink: pl/:categories/:year/:month/:title/
 
+languages:
+-
+    name: English
+    icon: /assets/flag-icon-en_US.png
+    locale: "en_US"
+    index: "/index.html"
+-
+    name: Polski
+    icon: /assets/flag-icon-pl_PL.png
+    locale: "pl_PL"
+    index: "/pl/index.html"
+
 # Site settings
 title: Going beyond the known
 subtitle: "following our dreams"
@@ -72,12 +84,27 @@ ga_tracking_id: "UA-47068418-4"
 descriptions:
   - cat: travel
     desc: "Read all about places we visited"
+    locale: "en_US"
 
   - cat: sports
     desc: "Hiking, Running and other things we tried"
+    locale: "en_US"
 
   - cat: food
     desc: "Interesting cuisine that caught our attention"
+    locale: "en_US"
+
+  - cat:  podroze
+    desc: "Wszystko o miejscach, które odwiedziliśmy"
+    locale: "pl_PL"
+
+  - cat: sport
+    desc: "Bieganie, wyprawy w góry oraz inne aktywności"
+    locale: "pl_PL"
+
+  - cat: "kuchnie swiata"
+    desc: "interesujące kuchnie świata, których smaku nigdy nie zapomnimy "
+    locale: "pl_PL"
 
 # Social icons and sharing options
 #

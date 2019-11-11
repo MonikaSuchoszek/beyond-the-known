@@ -1,23 +1,30 @@
 <header class="navigation" role="banner">
   <div class="navigation-wrapper">
-    <a href="{{ site.baseurl }}/" class="logo">
+		{% for language in site.languages %}
+		{% if page.locale == language.locale %}
+    <a href="{{ language.index | prepend: site.baseurl }}" class="logo">
       {% if site.logo %}
       <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
       {% else %}
       <span>{{ site.title }}</span>
       {% endif %}
     </a>
+		{% endif %}
+		{% endfor %}
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
       <i class="fa fa-bars"></i>
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-			{% for page in site.pages %}
-				{% if page.title and page.main_nav == true %}
-				<li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+			{% for link in site.pages %}
+				{% if link.title and link.main_nav == true and link.locale == page.locale%}
+				<li class="nav-link"><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
 				{% endif %}
 			{% endfor %}
-      </ul>
+			{% for language in site.languages %}
+				<li class="nav-link"><a href="{{ language.index | prepend: site.baseurl }}"><img src="{{  language.icon | prepend: site.baseurl  }}" /> {{ language.name }}</a></li>
+			{% endfor %}
+			</ul>
     </nav>
   </div>
 </header>
