@@ -10,6 +10,22 @@ exclude:
 
 destination: "./docs"
 
+defaults:
+-
+    scope:
+      path: "_posts/en"
+      type: "posts"
+    values:
+      locale: "en_US"
+      permalink: en/:categories/:year/:month/:title/
+-
+    scope:
+      path: "_posts/pl"
+      type: "posts"
+    values:
+      locale: "pl_PL"
+      permalink: pl/:categories/:year/:month/:title/
+
 # Site settings
 title: Going beyond the known
 subtitle: "following our dreams"
