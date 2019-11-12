@@ -9,6 +9,7 @@ module Jekyll
         dimensions = Jekyll.configuration({})['post_image']['dimensions']
         image = MiniMagick::Image.open(input)
         image.strip
+        image.compress "JPEG2000"
         image.resize dimensions
         image.write resized_path
       end
