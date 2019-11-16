@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="wrapper">
+<div class="page">
+
+  <header class="post-header">
+    <h1 class="post-title">Posts tagged with "{{ page.category| capitalize }}"</h1>
+  </header>
+
+  {% include page_divider.html %}
+
+  <article class="post-content">
+    <ul class="posts-list">
+      {% for post in site.posts %}
+			{% if post.categories contains page.category and post.locale == page.locale %}
+      <li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><span class="post-date"> - {{ post.date | date: "%B %-d, %Y" }}</span></li>
+			{%endif%}
+			{% endfor %}
+    </ul>
+  </article>
+
+</div>
+</div>
+<br>
