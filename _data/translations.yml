@@ -8,6 +8,8 @@ en_US:
     by: "by"
     in: "in"
     contact: "Contact"
+    tag_line: "Posts tagged with"
+    category_line: "Posts in category"
 
 pl_PL:
     subtitle: "podążając za marzeniami"
@@ -19,3 +21,5 @@ pl_PL:
     by: ""
     in: ""
     contact: "Kontakt"
+    tag_line: "Posty otagowane jako"
+    category_line: "Posty w kategorii"
