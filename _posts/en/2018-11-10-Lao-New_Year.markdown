@@ -4,7 +4,7 @@ title:  "Lao New Year's Celebrations"
 date:   2018-11-10 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel culture laos festival urban
+tags:	culture laos festival urban
 cover:  "/assets/Laos/NewYear/DSC03306.jpg"
 ---
 

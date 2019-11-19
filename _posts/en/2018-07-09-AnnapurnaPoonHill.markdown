@@ -4,7 +4,7 @@ title:  "Annapurna Circuit and Poon Hill combo"
 date:   2018-07-09 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel nepal hiking himalayas
+tags:	nepal hiking himalayas
 cover:  "/assets/Nepal/Annapurna/DSC01713.jpg"
 ---
 

@@ -4,7 +4,7 @@ title:  "Kampot and Kep, on the coast of Cambodia"
 date:   2018-08-12 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel culture history cambodia khmer
+tags:	culture history cambodia khmer
 cover:  "/assets/Cambodia/KampotKep/DSC02130.jpg"
 ---
 

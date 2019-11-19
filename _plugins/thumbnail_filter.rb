@@ -1,3 +1,5 @@
+require "mini_magick"
+
 module Jekyll
   module ThumbnailFilter
     def thumbnail_filter(input)

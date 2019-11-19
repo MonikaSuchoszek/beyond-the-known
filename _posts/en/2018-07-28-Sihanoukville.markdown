@@ -4,7 +4,7 @@ title:  "How we ended up in Sihanoukville..."
 date:   2018-07-28 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel culture history cambodia khmer
+tags:	culture history cambodia khmer
 cover:  "/assets/Cambodia/Sihanoukville/DSC02085.jpg"
 ---
 

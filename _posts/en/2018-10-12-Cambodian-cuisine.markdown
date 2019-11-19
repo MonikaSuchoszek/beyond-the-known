@@ -3,8 +3,8 @@ layout: post
 title:  "Yummy! Cambodian cuisine a well-kept secret :)"
 date:   2018-10-12 08:43:59
 author: Monika Suchoszek
-categories: food
-tags:	travel food cambodia khmer
+categories: travel food
+tags:	cambodia khmer
 cover:  "/assets/Cambodia/Food/DSC02375.jpg"
 ---
 

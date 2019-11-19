@@ -4,7 +4,7 @@ title:  "Don Det, a gateway to Laos"
 date:   2018-10-21 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel culture laos
+tags:	culture laos
 cover:  "/assets/Laos/DonDet/DSC02996.jpg"
 ---
 

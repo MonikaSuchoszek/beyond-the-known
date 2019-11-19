@@ -4,7 +4,7 @@ title:  "Phnom Penh, capital of Cambodia"
 date:   2018-09-07 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel culture history cambodia khmer
+tags:	culture history cambodia khmer
 cover:  "/assets/Cambodia/PhnomPenh/DSC02290.jpg"
 ---
 

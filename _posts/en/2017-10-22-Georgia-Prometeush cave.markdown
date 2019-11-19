@@ -4,7 +4,7 @@ title:  "Prometeus cave and canyons - day trip around Kutaisi"
 date:   2017-10-22 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel hiking georgia 
+tags:	hiking georgia 
 cover:  "/assets/Georgia/Prometeush_cave/IMG_0580.JPG"
 ---
 

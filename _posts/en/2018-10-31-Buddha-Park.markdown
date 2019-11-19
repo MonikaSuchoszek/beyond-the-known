@@ -4,7 +4,7 @@ title:  "Buddha Park in Vientian"
 date:   2018-10-31 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel culture laos urban
+tags:	culture laos urban
 cover:  "/assets/Laos/BuddhaPark/DSC03214.jpg"
 ---
 

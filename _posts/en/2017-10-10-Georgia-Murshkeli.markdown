@@ -4,7 +4,7 @@ title:  "Hike from Mestia to Zardlashi and Murshkeli villages"
 date:   2017-10-10 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel hiking georgia 
+tags:	hiking georgia 
 cover:  "/assets/Georgia/Murshkeli/IMG_0419.JPG"
 ---
 

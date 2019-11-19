@@ -4,7 +4,7 @@ title:  "A trip to Little Switzerland"
 date:   2019-08-06 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel hiking luxembourg 
+tags:	hiking luxembourg 
 cover:  "/assets/Luxembourg/DSC05283.JPG"
 ---
 

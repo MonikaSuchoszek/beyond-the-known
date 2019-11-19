@@ -4,7 +4,7 @@ title:  "PassApp: Getting around Phnom Penh and Siem Reap in style"
 date:   2018-09-12 08:43:59
 author: Sebastian Proost
 categories: travel
-tags:	travel cambodia tips technology
+tags:	cambodia tips technology
 cover:  "/assets/Cambodia/PassApp/DSC02350.jpg"
 ---
 

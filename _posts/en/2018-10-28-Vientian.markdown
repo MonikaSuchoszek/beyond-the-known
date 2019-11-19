@@ -4,7 +4,7 @@ title:  "Vientian, capital with an endless number of temples"
 date:   2018-10-28 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel culture laos urban
+tags:	culture laos urban
 cover:  "/assets/Laos/Vientian/DSC03261.jpg"
 ---
 

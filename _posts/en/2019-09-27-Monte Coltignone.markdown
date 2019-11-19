@@ -4,7 +4,7 @@ title:  "Another destination from Lecco, Monte Coltignone"
 date:   2019-09-27 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	travel hiking italy 
+tags:	hiking italy 
 cover:  "/assets/Italy/MonteColtignone/DSC06621.JPG"
 ---
 
