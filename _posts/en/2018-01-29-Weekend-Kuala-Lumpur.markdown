@@ -34,7 +34,7 @@ bottom to the top of 272 stairs, leading to the main cave. I can't imagine doing
 <img src="/assets/Malaysia/KualaLumpur/DSC00794-e1517205593637.jpg">
 
 Inside, there is a big chamber with not-so-impressive temples, further in you can climb to the next chamber which 
-is open to the sky. In general, I prefere the view from the outside. There are few shrines inside the cave, with 
+is open to the sky. In general, I prefer the view from the outside. There are few shrines inside the cave, with 
 lots of concrete around, this unfortunately took away some of the cave's natural beauty.
 
 <img src="/assets/Malaysia/KualaLumpur/DSC00746-e1517205716322.jpg">
