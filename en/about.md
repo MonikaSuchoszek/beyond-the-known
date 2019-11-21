@@ -21,13 +21,13 @@ to do different running competitions like half-marathons and obstacle runs (incl
 Viking, which claims to be the worlds toughest marathon). On the top of than we did many weekend 
 trips in Europe (Cambridge, Barcelona, Leipzig, Hamburg).
 
-This year, we decided to use few months of break between moving to Belgium and switching jobs to 
+This year, we decided to take a break between moving to Belgium and switching jobs to travel a few months and
 discover Southeast Asia. Our journey began with a month in [Singapore]({{ '/tag/en_US/singapore' | prepend: site.base }}), where we experienced 
 tropical temperatures and stunning, extraordinary architecture. This was for us like a city from 
 the future. After a short stay in Europe, we headed to [Nepal]({{ '/tag/en_US/nepal' | prepend: site.base }}) and finished the Annapurna circuit 
 in the [Himalayas]({{ '/tag/en_US/himalayas' | prepend: site.base }}). We could not imagine a trip without some exhausting hiking among the highest 
 peaks in the world. Then we started a search for mysterious temples in [Cambodia]({{ '/tag/en_US/cambodia' | prepend: site.base }}), 
-[Laos]({{ '/tag/en_US/laos' | prepend: site.base }}) and [Thailand]({{ '/tag/en_US/thailand' | prepend: site.base }}).
+[Laos]({{ '/tag/en_US/laos' | prepend: site.base }}) and Thailand.
 
 <a href="{{ site.baseurl }}/assets/about.jpg" data-lightbox="about" data-title="About us"><img src="{{ site.baseurl }}/assets/about.jpg" title="about us" class="profile" /></a>
 
