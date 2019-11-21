@@ -10,7 +10,7 @@ cover:  "/assets/IronViking/IMG-20170902-WA0002.jpg"
 
 "We'll never do this again!" that was a decision we made after approximately 32 km (however a year ago, during our 
 first attempt, I was swearing the same :p). This year we were fast enough to avoid elimination and finished the 
-Iron Viking (Water Edition) in 6 h 54 min The goal was to run full marathon with +100 obstacles within 7.5 hours. 
+Iron Viking (Water Edition) in 6 h 54 min. The goal was to run full marathon with +100 obstacles within 7.5 hours. 
 The obstacles were very diverse, some of them required strength for lifting and hauling heavy weights (which 
 were easier for Sebastian). I definitely preferred those with rings, metal tubes, ropes to go through which were 
 for me, a climber, easier but still big challenge and a lot of fun!
