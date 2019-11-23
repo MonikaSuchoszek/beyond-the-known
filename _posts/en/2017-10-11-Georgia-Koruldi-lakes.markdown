@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hiking in Georgia – to the Koruldi lakes"
-date:   2017-10-10 08:43:59
+date:   2017-10-11 08:43:59
 author: Monika Suchoszek
 categories: travel
 tags:	hiking georgia 
