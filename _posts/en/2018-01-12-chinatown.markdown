@@ -53,15 +53,15 @@ public transport. Next time I will not breath through my nose and try them :p
 <img src="assets/Singapore/DSC09497.jpg">
 
 Few days later, I noticed durian flavour cookies, chocolate and candy in one of the Chinese supermarkets. Since I 
-was very curious about the flavour, I bought bar of chocolate. How big my surprise was when I discovered tha these 
-products smell like fresh fruits! :O Ugh.... I do not recommend to open any of them in a public places ;) Now the 
+was very curious about the flavour, I bought bar of chocolate. How big my surprise was when I discovered that these 
+products smell like the fresh fruits! :O Ugh.... I do not recommend to open any of them in a public places ;) Now the 
 chocolate is wrapped tightly in a plastic bag and waiting on a balcony for someone willing to try it! :D
 
 <img src="assets/Singapore/IMG_20180112_18253884501.jpg">
 
 Chinatown is full of narrow streets, small shops, tailors where you can order a custom suit, which is fitted and 
 ready in only 6h, massage places and restaurants. However, food here is very similar to what you can find in Maxwell 
-center but at twice the price. I would reccoment to go for the cheaper and more authentic option, especially for 
+center but at twice the price. I would recommend to go for the cheaper and more authentic option, especially for 
 tourists on a budget.
 
 <img src="assets/Singapore/DSC09478-1-e1515723684531.jpg">
