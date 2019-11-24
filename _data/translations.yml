@@ -10,6 +10,8 @@ en_US:
     contact: "Contact"
     tag_line: "Posts tagged with"
     category_line: "Posts in category"
+    minute: "minute"
+    minutes: "minutes"
 
 pl_PL:
     subtitle: "podążając za marzeniami"
@@ -23,3 +25,5 @@ pl_PL:
     contact: "Kontakt"
     tag_line: "Posty otagowane jako"
     category_line: "Posty w kategorii"
+    minute: "minuta"
+    minutes: "minuty"
