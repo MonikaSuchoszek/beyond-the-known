@@ -19,7 +19,7 @@ cover:  "/assets/tags_header.jpg"
     <ul class="posts-list">
       {% for post in site.posts %}
 			{% if post.tags contains page.tag and post.locale == page.locale %}
-      <li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><span class="post-date"> - {{ post.date | date: "%B %-d, %Y" }}</span></li>
+      <li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><span class="post-date"> - {{ post.date | date: "%d-%m-%Y" }}</span></li>
 			{%endif%}
 			{% endfor %}
     </ul>
