@@ -5,7 +5,7 @@ date:   2017-10-01 08:43:59
 author: Monika Suchoszek
 categories: travel
 tags:	hiking georgia 
-cover:  "/assets/Georgia/Heshkili/IMG_0209.JPG"
+cover:  "/assets/Georgia/Heshkili/IMG_0209.jpg"
 ---
 
 Finally at 1 pm, it stopped raining and we could go for our first hike in Georgia! :D
