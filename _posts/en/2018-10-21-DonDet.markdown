@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	culture laos
 cover:  "/assets/Laos/DonDet/DSC02996.jpg"
+thumbnail:  "/assets/thumbnails/don_det.jpg"
 ---
 
 Crossing the borders by land is always more complicated than by plane but we like challenges. Actually, the ride 

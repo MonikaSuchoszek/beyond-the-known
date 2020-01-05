@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	hiking georgia 
 cover:  "/assets/Georgia/Koruldi/IMG_0479.jpg"
+thumbnail:  "/assets/thumbnails/koruldi.jpg"
 ---
 
 The longest and the most demanding trekking was planned for the last day of our stay in Mestia as the weather 

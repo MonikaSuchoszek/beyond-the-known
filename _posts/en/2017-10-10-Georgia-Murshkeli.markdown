@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	hiking georgia 
 cover:  "/assets/Georgia/Murshkeli/IMG_0419.JPG"
+thumbnail:  "/assets/thumbnails/murshkeli.jpg"
 ---
 
 

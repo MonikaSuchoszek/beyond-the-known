@@ -53,6 +53,10 @@ url: "https://www.beyond-the-known.eu/" # the base hostname & protocol for your 
 cover: "/assets/index_header.jpg"
 logo: "/assets/logo.png"
 
+thumbnail:
+    resize_dimensions: '430x288^'
+    crop_dimensions: '430x288+0+0'
+
 # Build settings
 markdown: kramdown
 

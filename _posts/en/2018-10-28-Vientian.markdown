@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	culture laos urban
 cover:  "/assets/Laos/Vientian/DSC03261.jpg"
+thumbnail:  "/assets/thumbnails/vientian.jpg"
 ---
 
 First something about how we got here. In a nutshell, after a short boat ride from Don Det to Nakasong, 

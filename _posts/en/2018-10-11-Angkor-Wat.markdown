@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	culture history cambodia khmer
 cover:  "/assets/Cambodia/AngkorWat/DSC02466.jpg"
+thumbnail:  "/assets/thumbnails/angkor_wat.jpg"
 ---
 
 > The cover of National Geographic which I saw 10 years ago and the article inside caused me to 

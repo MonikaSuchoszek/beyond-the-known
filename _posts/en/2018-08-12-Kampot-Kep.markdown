@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	culture history cambodia khmer
 cover:  "/assets/Cambodia/KampotKep/DSC02130.jpg"
+thumbnail:  "/assets/thumbnails/kampot_kep.jpg"
 ---
 
 Kampot is located on the banks of the Kampot River with many restaurants and bars next to the water. Architecture 

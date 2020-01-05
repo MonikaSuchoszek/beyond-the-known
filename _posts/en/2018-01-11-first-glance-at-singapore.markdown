@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	singapore urban nature culture
 cover:  "/assets/Singapore/DSC09244.jpg"
+thumbnail:  "/assets/thumbnails/singapore_first_glance.jpg"
 ---
 
 Nanyang campus, situated in the wast part of Singapore is the place we are going to stay for the next three 

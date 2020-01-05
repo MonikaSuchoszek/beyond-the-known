@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	food poland urban
 cover:  "/assets/Poland/Krakow/DSC01299.jpg"
+thumbnail:  "/assets/thumbnails/krakow.jpg"
 ---
 
 Our visit to Krakow started with the guided walking tour in the morning to get a proper introduction of the 

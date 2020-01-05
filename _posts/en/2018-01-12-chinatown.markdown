@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel food
 tags:	singapore urban nature culture
 cover:  "/assets/Singapore/DSC09536.jpg"
+thumbnail:  "/assets/thumbnails/chinatown.jpg"
 ---
 On the way to Chinatown we decided to stop for a lunch in less touristic place and mix with locals at Maxwell 
 food centre, one of many hawker centers in Singapore!

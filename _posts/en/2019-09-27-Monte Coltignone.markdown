@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	hiking italy 
 cover:  "/assets/Italy/MonteColtignone/DSC06621.JPG"
+thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
 ---
 
 After hiking to [Monte Resegone]({% post_url 2019-09-14-Monte Resegone %}), a day trip around the Como lake by 

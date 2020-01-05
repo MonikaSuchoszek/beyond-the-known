@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	nepal hiking himalayas
 cover:  "/assets/Nepal/Annapurna/DSC01517.jpg"
+thumbnail:  "/assets/thumbnails/annapurna.jpg"
 ---
 
 As always before a trip, I did my homework and researched what we'd need to take with us. This was no different 

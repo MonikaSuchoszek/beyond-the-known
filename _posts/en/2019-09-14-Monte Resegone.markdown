@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	hiking italy 
 cover:  "/assets/Italy/Monte_Resegone/DSC06696.JPG"
+thumbnail:  "/assets/thumbnails/monte_resegone.jpg"
 ---
 
 Lecco, a small city located on the southern tip of Lake Como turned out to be a fantastic base for hiking lovers. 

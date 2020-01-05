@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: sports
 tags:	running obstacle_course belgium
 cover:  "/assets/IronViking/IMG-20170902-WA0002.jpg"
+thumbnail:  "/assets/thumbnails/iron_viking.jpg"
 ---
 
 "We'll never do this again!" that was a decision we made after approximately 32 km (however a year ago, during our 

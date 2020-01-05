@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: podroze
 tags:	travel hiking italy 
 cover:  "/assets/Italy/MonteColtignone/DSC06621.JPG"
+thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
 ---
 
 Nothing to see here yet ... translation in progress :-)

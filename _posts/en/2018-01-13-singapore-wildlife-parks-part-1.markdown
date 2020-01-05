@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	singapore urban nature culture
 cover:  "/assets/Singapore/DSC09786.jpg"
+thumbnail:  "/assets/thumbnails/wildlife_parks_1.jpg"
 ---
 
 ## Jurong bird park

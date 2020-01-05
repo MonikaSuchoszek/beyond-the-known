@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	singapore urban nature culture
 cover:  "/assets/Singapore/DSC00198.jpg"
+thumbnail:  "/assets/thumbnails/wildlife_parks_2.jpg"
 ---
 
 ## Singapore Zoo

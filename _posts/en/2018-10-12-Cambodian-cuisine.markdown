@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel food
 tags:	cambodia khmer
 cover:  "/assets/Cambodia/Food/DSC02375.jpg"
+thumbnail:  "/assets/thumbnails/cambodian_cuisine.jpg"
 ---
 
 We had no clue what to expect about Cambodia cuisine. Is it actually different from Thai or Laotian cuisine? Before 

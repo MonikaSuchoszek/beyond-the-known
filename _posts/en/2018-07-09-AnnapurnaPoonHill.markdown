@@ -6,6 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	nepal hiking himalayas
 cover:  "/assets/Nepal/Annapurna/DSC01713.jpg"
+thumbnail:  "/assets/thumbnails/annapurna_poon_hill.jpg"
 ---
 
 We arrived in Kathmandu on the first of March and found ourselves jet-lagged and in the middle of the Holi festival, 
