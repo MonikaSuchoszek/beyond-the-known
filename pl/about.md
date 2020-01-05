@@ -14,7 +14,7 @@ okazje pochodzić po górach), nowe doświadczenia i wyzwania :)
 Nasze wspólne podróże zaczęliśmy w 2014 roku, odwiedzając do tej pory wiele miast zarówno w 
 Belgii (Bruksela, Antwerpia, Brugia, Gandawa) jak i w Polsce (Warszawa, Wrocław, Poznań, Kraków, Międzyzdroje, 
 Zakopane). Każde dłuższe wakacje spędzaliśmy w górach, najpierw tych w gorącym Maroku, potem przyszła kolej na 
-chłodniejszą Islandię, <a href="http://beyond-the-known.eu/pl/tag/gruzja/">Gruzję</a> oraz wreszcie upragnione 
+chłodniejszą Islandię, Gruzję oraz wreszcie upragnione 
 Himalaje. Odkrywaliśmy również uroki Karkonoszy i Tatr w Polsce oraz Alp w okolicach Bergamo, Włochy. Spróbowaliśmy 
 swoich sił podczas kilku półmaratonów oraz biegów w przeszkodami (najtrudniejszy, Iron Viking). Dodatkowo, każdy 
 dłuższy weekend wykorzytywaliśmy na krótsze wyjazdy w Europie (Cambridge, Barcelona, Lipsk, Hamburg).
