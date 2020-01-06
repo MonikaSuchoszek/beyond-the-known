@@ -131,8 +131,6 @@ social:
     desc: Fork me on GitHub
     share: false
 
-post_image:
-    dimensions: '430x288'
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
