@@ -62,7 +62,7 @@ markdown: kramdown
 
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 7
   permalink: "/page/:num/"
   sort_reverse: true
 
