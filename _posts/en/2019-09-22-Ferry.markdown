@@ -8,11 +8,16 @@ tags:	travel sightseeing italy
 cover:  "/assets/Italy/Ferry/DSC06758.JPG"
 thumbnail:  "/assets/thumbnails/ferry_varenna.jpg"
 ---
+One lazy day designated for sightseeing between two days of demanding hiking was the perfect idea! Ok ... this day ultimately was not so lazy with 16km of walking ;-)
+Varenna was our first destination that day, one of the top rated towns on the shores of Lake Como. Immediately after arriving we noticed a really long queue in front of the ferry.
+The first thing we did was buying tickets and actually getting some information about the ferry schedule which was very difficult to find online (scan of the ferry schedule
+in practical info section on the bottom of the post).
 
-Varenna was our first destination that day, one of the top rated towns on the shores of Lake Como. Immediately after arriving we noticed a really long queue in front of the ferry. The first thing we did was buying a tickets and actually getting some information about the ferry schedule which was very difficult to find online.
-
-We didn't know exactly what to see in this town. I just noticed on [MAPS.ME](https://maps.me/) (our favorite app with off line maps) a castle above and thought it's going to be a nice view from there. It was ... just look at the pictures below.
-
+We didn't know exactly what we should see in this town. I just noticed on [MAPS.ME](https://maps.me/) (our favorite app with offline maps) a castle above the town and thought
+there was going to be a nice view from there. I was right ! Just look at the pictures below. You have to buy a ticket to enter the castle which is in ruins now but nicely maintained with 
+"ghost" sculptures scattered around the place and few birds of prey sitting in the small olive garden where you can have a rest in the refreshing shadow. The best spot for a great
+view is the tower of the castle but unfortunately there were some very annoying insects attacking people so we could really barely enjoy the view and take photos. 
+ 
 <img src="/assets/Italy/Ferry/DSC06732.JPG" alt="Ferry" />
 
 <img src="/assets/Italy/Ferry/DSC06738.JPG" alt="Ferry" />
@@ -27,9 +32,18 @@ We didn't know exactly what to see in this town. I just noticed on [MAPS.ME](htt
 
 <img src="/assets/Italy/Ferry/DSC06772.JPG" alt="Ferry" />
 
-Colorful houses, narrow streets, lots of flowers, breathtaking view from the castle...the beauty of this town charmed us! :)
+Colorful houses, narrow streets, lots of flowers, a breathtaking view from the castle...the beauty of this town charmed us! :) However there was still a lot of sightseeing waiting
+for us in the next village. Before lunch we took a ferry to Bellagio, a must to visit while travelling in this region of Italy. The ferry took us there in around 15 min and it was really charming to see 
+Varenna disappearing in the distance.  The first thing you'll see while getting close to the shore are Bellagio's nice, big hotels.
 
-<img src="/assets/Italy/Ferry/DSC06782.JPG" alt="Ferry" />
+<img src="/assets/Italy/Ferry/DSC06804.JPG" alt="Ferry" />
+
+<img src="/assets/Italy/Ferry/DSC06807.JPG" alt="Ferry" />
+
+<img src="/assets/Italy/Ferry/DSC06814.JPG" alt="Ferry" />
+
+This small city is always really crowded, full of expensive shops and art galleries, shopping lovers will definitely feel satisfied there! ;)  We had a really italian lunch, carbonara
+and of course mandatory ice cream :) Next, we just walked through the park and along the shore of Como lake where we stumbled upon an exhibition with old motorcycles. 
 
 <img src="/assets/Italy/Ferry/DSC06785.JPG" alt="Ferry" />
 
@@ -37,19 +51,11 @@ Colorful houses, narrow streets, lots of flowers, breathtaking view from the cas
 
 <img src="/assets/Italy/Ferry/DSC06799.JPG" alt="Ferry" />
 
-<img src="/assets/Italy/Ferry/DSC06804.JPG" alt="Ferry" />
-
-<img src="/assets/Italy/Ferry/DSC06807.JPG" alt="Ferry" />
-
-
-We took a ferry to Bellagio, probably the most famous town at the shore of Como Lake. This one is famous because of....expensive shops which you can easily find here, art galleries :p
-
-<img src="/assets/Italy/Ferry/DSC06814.JPG" alt="Ferry" />
-
 <img src="/assets/Italy/Ferry/DSC06817.JPG" alt="Ferry" />
 
 <img src="/assets/Italy/Ferry/DSC06820.JPG" alt="Ferry" />
 
+<img src="/assets/Italy/Ferry/DSC06782.JPG" alt="Ferry" />
 
 <div class="row">
   <img src="/assets/Italy/Ferry/DSC06818.JPG" class="column-50" alt="Ferry" />
@@ -58,25 +64,36 @@ We took a ferry to Bellagio, probably the most famous town at the shore of Como 
 
 <img src="/assets/Italy/Ferry/DSC06823.JPG" alt="Ferry" />
 
-Beach in Lierna at the end to chill out
+We got quite tired in the afternoon and decided to head back to Lierna where the plan was to lay dawn on the beach and chill until sunset and then take a train back to Lecco.
+The ferry left from Bellagio on time, however, it was really tricky to find a right spot to wait. There are a lot of people waiting and the screens show only the most popular connections, which left
+many people confused (our connection was served by a boat, not a ferry). The beach in Lierna was not very nice, really rocky and narrow. A few days later we discovered much better one in another 
+village, Collico.
 
 <img src="/assets/Italy/Ferry/DSC06825.JPG" alt="Ferry" />
 
 
 __Practical info:__
 
-Castello di Vezio - entrance fee 4 euro per person
+  * [Castello di Vezio](http://www.castellodivezio.it/EN/home-en.html)  - entrance fee 4 euro per person, check their website for opening hours. 
 
-Ferry ticket from Varenna to Lierna with a change in Bellagio - 4,60 euro per person
+  * Ferry ticket from Varenna to Lierna with a change in Bellagio - 4,60 euro per person
 
 <img src="/assets/Italy/Ferry/DSC06776.JPG" alt="Ferry" />
 
-<img src="/assets/Italy/Ferry/.JPG" alt="Schedule" />
 
-<img src="/assets/Italy/Ferry/.JPG" alt="Schedule" />
+<img src="/assets/Italy/Ferry/IMG_20200112_schedule1.jpg" alt="Schedule1" />
 
-Train Lecco - Varenna 2,90 euro per person (we made a mistake of buying tickets on the train which cost us extra 4 euro per person! of course it doesn't applay to the 			  	  stations without a ticket machine like Lierna)
-	  Lierna - Lecco 2,50 euro per person
+
+<img src="/assets/Italy/Ferry/IMG_20200112_schedule2.jpg" alt="Schedule2" />
+
+  * Train tickets:
+
+    * Lecco - Varenna 2,90 euro per person. We made a mistake here and bought tickets on the train which cost us extra 4 euro 
+per person! Note that this fee doesn't apply when statring from a station without a ticket machine, for example Lierna  
+	  
+    * Lierna - Lecco 2,50 euro per person
+
+
 
 
 
