@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.beyond-the-known.eu//pl/podroze/2019/09/Monte-Coltignone/</loc>
-<lastmod>2019-09-27T10:43:59+02:00</lastmod>
+<loc>https://www.beyond-the-known.eu//travel/2019/10/17/Como-Morbegno-Sondrio.html</loc>
+<lastmod>2019-10-17T10:43:59+02:00</lastmod>
 </url>
 <url>
 <loc>https://www.beyond-the-known.eu//en/travel/2019/09/Monte-Coltignone/</loc>
@@ -11,6 +11,10 @@
 <url>
 <loc>https://www.beyond-the-known.eu//en/travel/2019/09/Ferry/</loc>
 <lastmod>2019-09-22T10:43:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu//pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/</loc>
+<lastmod>2019-09-14T10:43:59+02:00</lastmod>
 </url>
 <url>
 <loc>https://www.beyond-the-known.eu//en/travel/2019/09/Monte-Resegone/</loc>
@@ -234,12 +238,9 @@
 <loc>https://www.beyond-the-known.eu//tag/en_US/sightseeing/</loc>
 </url>
 <url>
-<loc>https://www.beyond-the-known.eu//tag/pl_PL/travel/</loc>
+<loc>https://www.beyond-the-known.eu//tag/pl_PL/trekking/</loc>
 </url>
 <url>
-<loc>https://www.beyond-the-known.eu//tag/pl_PL/hiking/</loc>
-</url>
-<url>
-<loc>https://www.beyond-the-known.eu//tag/pl_PL/italy/</loc>
+<loc>https://www.beyond-the-known.eu//tag/pl_PL/wlochy/</loc>
 </url>
 </urlset>

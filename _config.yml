@@ -6,6 +6,8 @@ gems:
 
 exclude:
   - "/vendor/"
+  - "start_server.sh"
+  - "Gemfile*"
 
 destination: "./docs"
 
