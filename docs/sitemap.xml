@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.beyond-the-known.eu//travel/2019/10/17/Como-Morbegno-Sondrio.html</loc>
+<loc>https://www.beyond-the-known.eu//en/travel/2019/10/Como-Morbegno-Sondrio/</loc>
 <lastmod>2019-10-17T10:43:59+02:00</lastmod>
 </url>
 <url>
@@ -236,6 +236,15 @@
 </url>
 <url>
 <loc>https://www.beyond-the-known.eu//tag/en_US/sightseeing/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu//tag/en_US/como/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu//tag/en_US/sondrio/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu//tag/en_US/morbegno/</loc>
 </url>
 <url>
 <loc>https://www.beyond-the-known.eu//tag/pl_PL/trekking/</loc>
