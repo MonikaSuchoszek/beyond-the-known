@@ -15,8 +15,8 @@ city offer tourists and give you also some practical tips.
 
 ## Como
 Como was our first stop, we spend there one intense day and I think it was enough to discover this city. We found a room located very close to the 
-city gate tower (Porta Torre), just a few minutes of walking distance to the heart of the city, Piazza del Duomo with impressive Cathedral of Como. To visit this cathedral 
-you need to purchase a ticket (1 euro) which will be a donation to support the renovation of the church. It's very low price for visiting such a stunning cathedral. I don't know 
+city gate tower (Porta Torre), a few minutes walking distance to the heart of the city, Piazza del Duomo with the impressive Cathedral of Como. To visit this cathedral 
+you need to purchase a ticket (1 euro) which will be a donation to support the renovation of the church. It's very low price for visiting such a stunning cathedral. I know 
 literally anything about different architectural styles, italian painters but I was impressed with the sculptures, paintings and overall unique atmosphere. I like how the 
 cathedral looks outside, with its white marble facade and splendid dome overlooking the city. 
 
@@ -31,12 +31,12 @@ cathedral looks outside, with its white marble facade and splendid dome overlook
 <p class="caption">The cathedral in Como surprised us with its inside beauty!</p>
 
 <img src="/assets/Italy/Como/small_DSC06491.jpg" alt="Como cathedra" />
-<p class="caption">Interesting monument in the shape of enormous hands in the park in front of the train station caught immediately our attention</p>
+<p class="caption">Interesting monument in the shape of enormous hands in the park in front of the train station immediately caught our attention</p>
 
 <img src="/assets/Italy/Como/small_DSC06556.jpg" alt="Monte Coltignone" />
 <p class="caption">The Volta Temple</p>
 
-After walking through the narrow streets of the old part of the city, we finally reached the lake! That was a stunning view :) We walked on the pier to see the city from the other perspective.
+After walking through the narrow streets of the old part of the city, we finally reached the lake! That was a stunning view :) We walked on the pier to see the city from an other perspective.
 Then we just started to walk along the shore, enjoying the impressive combination of water and mountains :) We quickly reached the park with the building looking like a greek
 temple. It was a museum dedicated to scientist and inventor, Aleksandro Volta who was born in Como in XVIII century. His tools, equipment and experiments, which led to the invention of the electrical battery, can be 
 seen here. The museum is relatively small and during our visit the exhibition on the first floor was closed. For those with
@@ -61,7 +61,7 @@ the top this way.
 <img src="/assets/Italy/Como/small_DSC06582.jpg" alt="Monte Coltignone" />
 
 Funicolare, the small cable car takes tourists to the peak of the hill from where you can admire a view of Como Lake and the city. However, for 
-us the view was not spectacular, maybe we just didn't find a right viewpoint. On the way back to funicolare we notice posters advertising a shuttle bus to lighthouse with
+us the view was not spectacular, maybe we just didn't find a right viewpoint. On the way back to funicolare we notice posters advertising a shuttle bus to the lighthouse with
  "the best view", maybe that was the place to go. You can find there few cafes, souvenirs shops and small church so I think it's still worth to go. 
  We had to wait like 30min in the queue to get down and it was horribly crowded and warm inside the cable car, yeah still high travel season.
 
@@ -167,10 +167,11 @@ to visit famous cathedral and Sforza Castle, these were actually our only ideas.
 <p class="caption"> Sforza Castle (XVth century)visible from Sempione Park, just behind the castle. Nice place to relax from the hustle of the city :) </p>
 
 I'm not really sure what to think about this city. The cathedral is definitely really impressive and worth to visit but the overall style of the city didn't attract out attention.
-Maybe we should visit the museum in the castle but we are not big history enthusiasts, more like a plants/animals/nature enthusiasts :)
+Maybe we should visit the museum in the castle but we are not big history enthusiasts, more like a plants/animals/nature enthusiast (Monika) and technology/robots/space (Sebastian) enthusiast :)
 
 
-  * Entrance fee to cathedral and rooftop by stairs (DUOMO PASS STAIRS) - 13 euro per person but if you want to use elevator then higher fee applies. The bought the ticket on the spot.
+  * Entrance fee to cathedral and rooftop by stairs (DUOMO PASS STAIRS) - 13 euro per person but if you want to use elevator then higher fee applies.
+  Tickets can be bought in the office next to the Cathedral 
 
   * Train from Colico to Milan - 7.30 per person
 
