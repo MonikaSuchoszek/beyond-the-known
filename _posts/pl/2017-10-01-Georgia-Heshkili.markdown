@@ -4,7 +4,7 @@ title:  "Trekking - dzień 1 - Heshkili"
 date:   2017-10-01 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	hiking gruzja 
+tags:	trekking gruzja 
 cover:  "/assets/Georgia/Heshkili/IMG_0209.jpg"
 thumbnail:  "/assets/thumbnails/heshkili.jpg"
 ---
