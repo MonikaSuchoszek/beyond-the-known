@@ -65,17 +65,21 @@ ready in only 6h, massage places and restaurants. However, food here is very sim
 center but at twice the price. I would recommend to go for the cheaper and more authentic option, especially for 
 tourists on a budget.
 
+<div class="row">
 <img src="/assets/Singapore/DSC09478-1-e1515723684531.jpg">
+<img src="/assets/Singapore/DSC09508-e1515723760877.jpg">
+</div>
 
 Sri Mariamman Temple, the oldest and the most important Hindu temple in Singapore, unique due to colorful statuary 
 above the entrance, you can visit it but remember to take off your shoes!
 
-<img src="/assets/Singapore/DSC09499-e1515723740236.jpg">
+<img src="/assets/Singapore/DSC09525.jpg">
 
 Thian Hock Keng temple is the oldest and the most important place of worship of the Hokkien people (a Chinese dialect 
 group) in the country.
 
 <img src="/assets/Singapore/DSC09526.jpg">
+<img src="/assets/Singapore/DSC09536.jpg">
 
 Oasia hotel near Tanjong Pagar stands out from other buildings which are mostly made with steel and glass. This one 
 has a unique claret color and few enormous gardens with swimming pools, an outstanding combination! :O

@@ -10,11 +10,7 @@ thumbnail:  "/assets/thumbnails/mestia.jpg"
 ---
 
 The morning welcomed us with snowfall! It was barely the beginning of autumn in Germany so we were really surprised 
-by a white landscape around.
-
-<img src="/assets/Georgia/Mestia/IMG_20171016_091934137_HDR-1.jpg">
-
-We decided to have a short walk to the church visible on a hill on the other side of the village when snowfall 
+by a white landscape around. We decided to have a short walk to the church visible on a hill on the other side of the village when snowfall 
 finally stopped. As always with me this turned out to be a 10km hike with 500m elevation gain :p
 
 <img src="/assets/Georgia/Mestia/IMG_0290.jpg">

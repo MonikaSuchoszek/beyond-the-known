@@ -17,7 +17,16 @@ official website the park is a home for 5000 birds across 400 species, 29 of the
 Huge free flying aviaries were the biggest surprise for me! We could easily meet Victoria Crowned Pigeons, 
 walking right next to us and at the same time see giant iguana lizard walking slowly on the top of the aviary :p
 
+<img src="/assets/Singapore/DSC09992.jpg">
+
 <img src="/assets/Singapore/DSC09786.jpg">
+
+<img src="/assets/Singapore/ESC00002.jpg">
+
+<div class="row">
+  <img src="/assets/Singapore/DSC09765.jpg" class="column-50" alt="Jurong bird park" />
+  <img src="/assets/Singapore/DSC09779-e1516592093835.jpg" class="column-50" alt="Jurong bird park" />
+</div>
 
 During our walk we also spotted stunning birds of paradise. They are very loud what actually helped us to notice 
 them and their gorgeous, colorful feathers.
@@ -27,11 +36,19 @@ them and their gorgeous, colorful feathers.
 The next interesting place in the park is called Lory Loft where you can walk on a suspension bridge, purchase 
 a portion of food and enjoy intimate moments with lories!
 
-<img src="/assets/Singapore/IMG_20180114_144103150.jpg">
+<div class="row">
+  <img src="/assets/Singapore/IMG_20180114_144103150.jpg" class="column-50" alt="Ferry" />
+  <img src="/assets/Singapore/DSC09761-e1516592046344.jpg" class="column-50" alt="Ferry" />
+</div>
+
+<img src="/assets/Singapore/DSC09983.jpg">
 
 Hornbills were amazing, with their colorful and outstanding beaks.
 
-<img src="/assets/Singapore/DSC09809-e1516592017408.jpg">
+<div class="row">
+  <img src="/assets/Singapore/DSC09809-e1516592017408.jpg" class="column-50" alt="Ferry" />
+  <img src="/assets/Singapore/DSC09812.jpg" class="column-50" alt="Ferry" />
+</div>
 
 Next, we joined the High Flyers show organised two times a day in the Pools Amphitheatre. During the show, 
 birds like flamingos, pelicans, parrots, hornbills are doing tricks, flying through a ring or sing. I loved the 
@@ -39,6 +56,7 @@ moments when these big birds were making loops in the air just above the audienc
 performance :D
 
 <img src="/assets/Singapore/DSC09918.jpg">
+<img src="/assets/Singapore/DSC09850.jpg">
 
 The feathers of flamingos have really intense orange colors what depands on the level of carotenoids in their diet.
 
@@ -50,6 +68,7 @@ flight! Owls showed us how incredibly silent their flight can be while Harris ha
 in the air. The last part belonged to ravenous vultures, circling around fake bull carcass.
 
 <img src="/assets/Singapore/DSC09934.jpg">
+<img src="/assets/Singapore/DSC09958.jpg">
 
 ## River safari
 
@@ -66,8 +85,12 @@ these slow-moving animals, most of the time resting submerged in the water. Actu
 and as I later read they don't do this very often, every few to 20 min :)
 
 <img src="/assets/Singapore/IMG_20180115_164900013.jpg">
+<img src="/assets/Singapore/IMG_20180115_140035651.jpg">
+ <img src="/assets/Singapore/IMG_20180115_151741170.jpg">
+         <img src="/assets/Singapore/IMG_20180115_164649690.jpg">
 
 Don't be surprised by the high number of monkeys running around in the special walk-through enclosure!
 
 <img src="/assets/Singapore/DSC00317.jpg">
+ <img src="/assets/Singapore/DSC00320.jpg">  
 
