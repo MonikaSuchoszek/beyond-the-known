@@ -28,6 +28,9 @@ walking right next to us and at the same time see giant iguana lizard walking sl
   <img src="/assets/Singapore/DSC09779-e1516592093835.jpg" class="column-50" alt="Jurong bird park" />
 </div>
 
+<img src="/assets/Singapore/DSC09968.jpg">
+<img src="/assets/Singapore/DSC09973.jpg">
+
 During our walk we also spotted stunning birds of paradise. They are very loud what actually helped us to notice 
 them and their gorgeous, colorful feathers.
 
@@ -93,4 +96,6 @@ Don't be surprised by the high number of monkeys running around in the special w
 
 <img src="/assets/Singapore/DSC00317.jpg">
  <img src="/assets/Singapore/DSC00320.jpg">  
+ 
+ 
 

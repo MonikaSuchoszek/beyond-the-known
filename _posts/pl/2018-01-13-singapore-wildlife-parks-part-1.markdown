@@ -29,6 +29,9 @@ Singapurze. Jak się później okazało, w tym właśnie parku znajduje się naj
   <img src="/assets/Singapore/DSC09779-e1516592093835.jpg" class="column-50" alt="Jurong bird park" />
 </div>
 
+<img src="/assets/Singapore/DSC09968.jpg">
+<img src="/assets/Singapore/DSC09973.jpg">
+
 Podczas spaceru, zauważyliśmy również rajskie ptaki, zachwycające swoim wyglądem. Głośne dźwięki, jakie wydają pomogły nam je zlokalizować i podziwiać 
 ich piękne, kolorowe pióra!
 
