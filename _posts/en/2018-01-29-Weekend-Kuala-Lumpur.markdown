@@ -23,9 +23,9 @@ a building become more highlighted and we preferred this magnificent version of 
 
 <img src="/assets/Malaysia/KualaLumpur/DSC00655.jpg">
 
-<img src="/assets/Malaysia/KualaLumpur/DSC00726.jpg">\
+<img src="/assets/Malaysia/KualaLumpur/DSC00726.jpg">
 
-<img src="/assets/Malaysia/KualaLumpur/DSC00701.jpg">\
+<img src="/assets/Malaysia/KualaLumpur/DSC00701.jpg">
 
 <div class="row">
   <img src="/assets/Malaysia/KualaLumpur/DSC00714-e1517205917967.jpg" class="column-50" alt="Jurong bird park" />

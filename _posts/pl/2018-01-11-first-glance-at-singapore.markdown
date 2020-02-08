@@ -30,6 +30,7 @@ Park Merliona był naszym pierwszym przystankiem. Ta prawie 9 metrowa statua z g
   (Sands Sky Park) z dachem w kształcie statku, teatr (Esplanade) z lewej strony i przytłaczające drapacze chmur.
 
 <img src="/assets/Singapore/DSC09244.jpg">
+<img src="/assets/Singapore/DSC100411.jpg">
 
 Podążając brzegiem rzeki, udaliśmy się w kierunku wspomnianego hotelu i słynnych ogrodów (Gardens by the Bay) ukrytych zaraz za nim. 
 Po drodze wstąpiliśmy do centrum handlowego (The shoppes) po kubek mrożonej kawy i chwilę wytchnienia w klimatyzowanych wnętrzach galerii.

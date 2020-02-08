@@ -32,6 +32,7 @@ famous Sands Sky Park with its unique ship-like top roof in front, Esplanade The
 skyscrapers in the back.
 
 <img src="/assets/Singapore/DSC09244.jpg">
+<img src="/assets/Singapore/DSC100411.jpg">
 
 Next, we took pleasant walk towards Marina Bay and Gardens hidden behind. We passed by a shopping centre 
 (The Shoppes) to grab ice coffee and cool down in air-conditioned mall :) As we walked through the shopping center, 
