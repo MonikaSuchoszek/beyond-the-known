@@ -27,7 +27,11 @@ done between 2005-2010 and revealed ruins of Krakow from even thousand years ago
 walk between old market streets, watch smith, goldsmith workshops and gathered detailed information about 
 trade routes passing Krakow in Middle ages and connecting the city with the rest of Europe.
 
-<img src="/assets/Poland/Krakow/DSC01231-e1519505249295.jpg" />
+<div class="row">
+  <img src="/assets/Poland/Krakow/DSC01231-e1519505249295.jpg" class="column-50" alt="Krakow" />
+  <img src="/assets/Poland/Krakow/DSC01249.jpg" class="column-50" alt="Krakow" />
+</div>
+
 
 Sukiennice (Cloth Hall) is a place were you can buy local souvenirs, most of the are hand made, like amber 
 jewelry, lacework, cloth handicrafts, wood carvings. We also noticed that many of them were actually cheaper 
@@ -51,6 +55,9 @@ admire the panoramic view of Tatras mountains and Zakopane :D I am not used to r
 effort ;) There are a few restaurants, food and souvenir stalls, skiing slopes and a small wooden church on the top.
 
 <img src="/assets/Poland/Krakow/DSC01326.jpg" />
+<img src="/assets/Poland/Krakow/DSC01331.jpg" />
+<img src="/assets/Poland/Krakow/DSC01334.jpg" />
+<img src="/assets/Poland/Krakow/DSC01337.jpg" />
 
 Next, we walked on Krupówki street, the main representative street in Zakopane full of hotels, restaurants and souvenir 
 shops. On small, wooden stalls you can also buy local confitures, honey and syrups made from many different fruits. 
@@ -59,6 +66,7 @@ with meat, one of the most famous polish dishes. After more shopping and a warm 
 headed back to Krakow.
 
 <img src="/assets/Poland/Krakow/DSC01343.jpg" />
+<img src="/assets/Poland/Krakow/DSC01342.jpg" />
 
 On our last day we visited two museums; <a href="http://www.mhk.pl/branches/eagle-pharmacy">The Eagle Pharmacy</a> 
 (Tadeusz Pankiewicz's Pharmacy) and <a href="http://www.mhk.pl/branches/oskar-schindlers-factory">Oskar's Schindler 
@@ -68,7 +76,9 @@ that time and which was the most popular. The book, written by the owner of this
 Ghetto Pharmacy" describes tragic events which occurred in the Krakow ghetto and was published just after the war. 
 There are movies to watch, photos to touch and documents to read, no-one would be bored here!
 
+<img src="/assets/Poland/Krakow/DSC01368.jpg" />
 <img src="/assets/Poland/Krakow/DSC01372.jpg" />
+
 
 The second museum describes Kraków under Nazi Occupation 1939-1945 and is located in the former administrative 
 building of Oskar Schindler’s Enamel Factory at 4 Lipowa Street. Very interactive exhibition full of individual 
@@ -79,6 +89,7 @@ took us almost two hours to visit the museum but I am pretty sure some people ca
 walking through 45 exhibition rooms and reading endless facts about Krakow's history.
 
 <img src="/assets/Poland/Krakow/DSC01378.jpg" />
+<img src="/assets/Poland/Krakow/DSC01386.jpg" />
 
 In the afternoon we headed to Kazimierz, a place where Jewish culture was flourishing for over 500 years until 1941 
 when Jewish people were relocated to ghetto. You can still visit a few synagogues including 
@@ -89,15 +100,17 @@ is full of atmospheric cafes and art galleries. Don't miss a chance to try some 
 Tasty food at a great price!
 
 <img src="/assets/Poland/Krakow/DSC01396.jpg" />
+<img src="/assets/Poland/Krakow/DSC01400.jpg" />
+<img src="/assets/Poland/Krakow/DSC01403.jpg" />
 
 __Souvenirs to buy:__
-  * Furs
+  * furs
   * amber jewellery
   * lacework
   * cloth handicrafts
   * wood carvings
   * accesories with polish folk patterns (umbrella, glasses case, apron, pillow case)
-  * Many people will be really happy to get ptasie mleczko (look section below) from Wawel or kabanosy (long thin dry sausage made usually of pork) as a souvenir ;)
+  * many people will be really happy to get ptasie mleczko (look section below) from Wawel or kabanosy (long thin dry sausage made usually of pork) as a souvenir ;)
 
 __Food to try:__
   * Pierogi - dumplings, hearty (meat, cabbage and mushrooms, Russian) or sweet version (sweet cottage cheese, apples, strawberries)
