@@ -77,6 +77,7 @@ few shots of the underwater world made with a GoPro Hero 3+ camera. The equipmen
 was pretty bad so snorkeling was not an easy task to do. My decision was to swim just around the boat and enjoy 
 Sebastian's photos afterwards :D
 
+<img src="/assets/Cambodia/Sihanoukville/DSC02101.JPG">
 <img src="/assets/Cambodia/Sihanoukville/GOPR7839.2.jpg">
 <img src="/assets/Cambodia/Sihanoukville/GOPR7902.1.jpg"> 
 

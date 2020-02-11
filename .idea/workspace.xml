@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b47bbe5d-1e98-418a-82eb-663a2808c8d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/beyond-the-known.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/monika.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_border-color.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_border-style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_border-width.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_ellipsis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_font-stacks.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_hide-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_margin.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_padding.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_position.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_prefixer.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_retina-image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_text-inputs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_timing-functions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_triangle.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/047875f94fdda1cc0201f9bad6abaa50df7a6216/_word-wrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_convert-units.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_directional-values.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_font-source-declaration.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_gradient-positions-parser.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_linear-angle-parser.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_linear-gradient-parser.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_linear-positions-parser.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_linear-side-corner-parser.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_radial-arg-parser.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_radial-gradient-parser.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_radial-positions-parser.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_render-gradients.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_shape-size-stripper.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/11eac6fe3f8ccb679bbbce592cb94b6bc3b3f273/_str-to-num.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_box-sizing.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_direction-context.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_display-context.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_fill-parent.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_omega.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_outer-container.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_pad.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_private.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_row.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_shift.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_span-columns.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_to-deprecate.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/1a6811e2dc243064bd9e81337bf5ba55d1188f3a/_visual-grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/235cbff9716053abdbb99f5d78db90b4054cc412/_new-breakpoint.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/235cbff9716053abdbb99f5d78db90b4054cc412/_private.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/2ed35045bf1bb4885ccefac859a2c317e95251c8/_asset-pipeline.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/2ed35045bf1bb4885ccefac859a2c317e95251c8/_prefixer.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/2ed35045bf1bb4885ccefac859a2c317e95251c8/_px-to-em.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/3b4dc2ae9884076659ab788fc70dc1dac4db07bc/_layout.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_assign-inputs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_contains-falsy.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_contains.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_is-length.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_is-light.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_is-number.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_is-size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_modular-scale.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_px-to-em.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_px-to-rem.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_shade.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_strip-units.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_tint.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_transition-property-name.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/4fed8ae89bfce2a30e31d99a9de5f8afa0e1e6d0/_unpack.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/6f2c592e1b7ccbf5f214168c5c127a7c63609939/_bourbon-deprecated-upcoming.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/6f2c592e1b7ccbf5f214168c5c127a7c63609939/_bourbon.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/88167bf70b84e6564dfc38f28abcfb11828cf1ab/_base.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/88167bf70b84e6564dfc38f28abcfb11828cf1ab/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/88167bf70b84e6564dfc38f28abcfb11828cf1ab/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/88167bf70b84e6564dfc38f28abcfb11828cf1ab/_lists.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/88167bf70b84e6564dfc38f28abcfb11828cf1ab/_tables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/88167bf70b84e6564dfc38f28abcfb11828cf1ab/_typography.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/88167bf70b84e6564dfc38f28abcfb11828cf1ab/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/a5d262c65fbe07f10c1e140c1aa094eb22707a0f/_neat-helpers.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/a5d262c65fbe07f10c1e140c1aa094eb22707a0f/_neat.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_animation.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_appearance.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_backface-visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_background-image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_background.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_border-image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_calc.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_columns.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_filter.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_flex-box.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_font-face.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_font-feature-settings.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_hidpi-media-query.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_hyphens.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_image-rendering.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_keyframes.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_linear-gradient.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_perspective.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_placeholder.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_radial-gradient.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_selection.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_text-decoration.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_transform.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_transition.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/b009f0d544e19c0004b6892effe7b4ce3d4988f2/_user-select.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/e0b16fa5a3b887c443e56ad9741b81c147330cee/_disable-warnings.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/e0b16fa5a3b887c443e56ad9741b81c147330cee/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.sass-cache/e0b16fa5a3b887c443e56ad9741b81c147330cee/_visual-grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/pl/2018-07-28-Sihanoukville.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Cambodia/Sihanoukville/DSC02101.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Cambodia/Sihanoukville/DSC02101.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/07/Sihanoukville/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag/pl_PL/kambodza/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag/pl_PL/khmerowie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag/pl_PL/otres/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag/pl_PL/plaza/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag/pl_PL/sihanoukville/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start_server.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/en/2018-07-28-Sihanoukville.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2018-07-28-Sihanoukville.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/category/en_US/food/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/food/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/category/pl_PL/jedzenie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/pl_PL/jedzenie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/category/pl_PL/podroze/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/pl_PL/podroze/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/category/pl_PL/sport/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/pl_PL/sport/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/sports/2017/09/Iron-Viking/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/sports/2017/09/Iron-Viking/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Chaaladi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Chaaladi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Heshkili/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Heshkili/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Koruldi-lakes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Koruldi-lakes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Mestia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Mestia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Murshkeli/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Murshkeli/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Prometeush-cave/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2017/10/Georgia-Prometeush-cave/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/01/Weekend-Kuala-Lumpur/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/01/Weekend-Kuala-Lumpur/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/01/first-glance-at-singapore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/01/first-glance-at-singapore/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/01/singapore-wildlife-parks-part-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/01/singapore-wildlife-parks-part-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/01/singapore-wildlife-parks-part-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/01/singapore-wildlife-parks-part-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/02/few-more-places-in-singapore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/02/few-more-places-in-singapore/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/02/three-days-krakow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/02/three-days-krakow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/07/Annapurna-Practical/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/07/Annapurna-Practical/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/07/AnnapurnaPoonHill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/07/AnnapurnaPoonHill/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/07/Sihanoukville/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/07/Sihanoukville/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/08/Kampot-Kep/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/08/Kampot-Kep/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/09/PassApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/09/PassApp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/09/PhnomPenh/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/09/PhnomPenh/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/10/Angkor-Wat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/10/Angkor-Wat/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/10/Buddha-Park/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/10/Buddha-Park/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/10/DonDet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/10/DonDet/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/10/Vientian/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/10/Vientian/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/11/Lao-New_Year/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/11/Lao-New_Year/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/08/luxembourg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/08/luxembourg/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/09/Ferry/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/09/Ferry/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/09/Monte-Coltignone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/09/Monte-Coltignone/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/09/Monte-Resegone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/09/Monte-Resegone/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/10/Como-Morbegno-Sondrio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/10/Como-Morbegno-Sondrio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/food/2018/01/chinatown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/food/2018/01/chinatown/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/food/2018/10/Cambodian-cuisine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/food/2018/10/Cambodian-cuisine/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/food/sports/2018/07/PokharaKathmandu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/food/sports/2018/07/PokharaKathmandu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/index.html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/index.html/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/index.html/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Chaaladi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Chaaladi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Heshkili/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Heshkili/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Koruldi-lakes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Koruldi-lakes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Mestia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Mestia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Murshkeli/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Murshkeli/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Prometeush-cave/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Prometeush-cave/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/01/Weekend-Kuala-Lumpur/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/01/Weekend-Kuala-Lumpur/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/01/first-glance-at-singapore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/01/first-glance-at-singapore/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/01/singapore-wildlife-parks-part-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/01/singapore-wildlife-parks-part-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/01/singapore-wildlife-parks-part-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/01/singapore-wildlife-parks-part-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/02/few-more-places-in-singapore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/02/few-more-places-in-singapore/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/02/three-days-krakow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/02/three-days-krakow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/07/Annapurna-Practical/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/07/Annapurna-Practical/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/07/AnnapurnaPoonHill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/07/AnnapurnaPoonHill/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/sport/2017/09/Iron-Viking-bieg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/sport/2017/09/Iron-Viking-bieg/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/belgium/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/belgium/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/cambodia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/cambodia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/como/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/como/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/culture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/culture/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/festival/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/festival/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/food/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/food/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/georgia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/georgia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/hiking/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/hiking/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/himalayas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/himalayas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/history/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/history/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/italy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/italy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/khmer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/khmer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/laos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/laos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/luxembourg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/luxembourg/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/malaysia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/malaysia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/morbegno/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/morbegno/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/nature/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/nature/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/nepal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/nepal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/obstacle_course/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/obstacle_course/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/poland/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/poland/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/running/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/running/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/sightseeing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/sightseeing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/singapore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/singapore/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/sondrio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/sondrio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/technology/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/technology/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/tips/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/tips/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/travel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/urban/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/urban/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/belgia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/belgia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/biegi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/biegi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/gruzja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/gruzja/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/himalaje/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/himalaje/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/historia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/historia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/jedzenie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/jedzenie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/kultura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/kultura/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/malezja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/malezja/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/miasto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/miasto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/natura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/natura/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/nepal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/nepal/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/polska/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/polska/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/singapur/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/singapur/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/trekking/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/trekking/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wlochy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wlochy/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WIGhnTVjztc6IWDrHt7r4DGIng" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/pl" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/pl" />
+      <recent name="$PROJECT_DIR$/_posts/en" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/en" />
+      <recent name="$PROJECT_DIR$/_posts/" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b47bbe5d-1e98-418a-82eb-663a2808c8d9" name="Default Changelist" comment="" />
+      <created>1578831245024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578831245024</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit with new install">
+      <created>1578831740578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578831740578</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding new files">
+      <created>1578831996568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578831996568</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new post ferry">
+      <created>1578857103588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578857103588</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new post ferry">
+      <created>1579815721930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579815721930</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new post cities around como lake">
+      <created>1580250538308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580250538308</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new post cities around como lake">
+      <created>1580333834837</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580333834837</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new post cities around como lake">
+      <created>1580571788255</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580571788255</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new polish posts">
+      <created>1580849541368</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580849541368</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new polish posts">
+      <created>1580851410137</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580851410137</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed issue with previous/next">
+      <created>1580854077769</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580854077769</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new post in polish, singapur">
+      <created>1580937873419</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580937873419</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new post in polish, singapur">
+      <created>1581022346362</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1581022346362</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new post in polish, malezja">
+      <created>1581022386087</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1581022386087</updated>
+    </task>
+    <task id="LOCAL-00014" summary="new post in polish, few more places in singapur pl">
+      <created>1581192165921</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581192165921</updated>
+    </task>
+    <task id="LOCAL-00015" summary="new posts in polish, nepal pl">
+      <created>1581252253602</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1581252253602</updated>
+    </task>
+    <task id="LOCAL-00016" summary="new posts in polish, nepal pl">
+      <created>1581255259141</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1581255259141</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit with new install" />
+    <MESSAGE value="adding new files" />
+    <MESSAGE value="new post ferry" />
+    <MESSAGE value="new post cities around como lake" />
+    <MESSAGE value="new polish posts" />
+    <MESSAGE value="fixed issue with previous/next" />
+    <MESSAGE value="new post in polish, singapur" />
+    <MESSAGE value="new post in polish, malezja" />
+    <MESSAGE value="new post in polish, few more places in singapur pl" />
+    <MESSAGE value="new posts in polish, nepal pl" />
+    <option name="LAST_COMMIT_MESSAGE" value="new posts in polish, nepal pl" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1581255258382">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="330" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1581255258381" />
+    <state x="481" y="82" width="387" height="570" key="RollbackChangesDialog" timestamp="1579423929396">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="481" y="82" width="387" height="570" key="RollbackChangesDialog/0.0.1366.743@0.0.1366.743" timestamp="1579423929396" />
+    <state x="278" y="107" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1581255261407">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="278" y="107" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1581255261407" />
+    <state x="376" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1578829831119">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="376" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.743@0.0.1366.743" timestamp="1578829831119" />
+    <state x="332" y="0" width="685" height="739" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581250195375">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="332" y="0" width="685" height="739" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.743@0.0.1366.743" timestamp="1581250195375" />
+    <state x="365" y="0" width="766" height="743" key="find.popup" timestamp="1581192123301">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="365" y="0" width="766" height="743" key="find.popup/0.0.1366.743@0.0.1366.743" timestamp="1581192123301" />
+    <state x="343" y="164" width="671" height="410" key="git4idea.merge.GitPullDialog" timestamp="1578830233960">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="343" y="164" width="671" height="410" key="git4idea.merge.GitPullDialog/0.0.1366.743@0.0.1366.743" timestamp="1578830233960" />
+  </component>
+</project>
