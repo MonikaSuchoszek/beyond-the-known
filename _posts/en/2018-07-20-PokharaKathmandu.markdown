@@ -42,8 +42,10 @@ To relax after exciting morning, we decided to visit a Tal Barahi Temple situate
 be easily reached by a shared boat. This place did not make a big impression on us but it is an important pagoda 
 for Hindu people, dedicated to the worship of a Barahi goddess.
 
+<img src="/assets/Nepal/PokharaKathmandu/IMG_20180319_164321517.jpg" />
 <img src="/assets/Nepal/PokharaKathmandu/DSC01893.jpg" />
 <p class="caption">Believers waiting to give their offerings to the goddess.</p>
+<img src="/assets/Nepal/PokharaKathmandu/DSC01899.jpg" />
 
 On our last day in Pokhara we rented two kayaks to spend some time on the lake paddling around the tiny 
 island with hindu temple on it and exploring a lakeshore with lush vegetation. At one point we noticed a 

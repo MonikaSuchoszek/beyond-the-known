@@ -24,7 +24,11 @@ found a minivan to the border (120THB, 1.5h ride), the Thailand - Cambodia check
 the first step to hypothermia but still got a stamp healthy :D) and after few minutes we were already in 
 Cambodia. After a long bargaining and a short ride with a tuk tuk (150 THB) we arrived at our guesthouse in 
 Koh Kong (no reservation, we just found on a google maps one nearby with a decent rating), where we also booked a 
-bus to Sihanoukville, leaving next day morning (7$ per person). The only problem we had, was to get some dollars 
+bus to Sihanoukville, leaving next day morning (7$ per person). 
+
+<img src="/assets/Cambodia/Sihanoukville/IMG_20180327_151819163.jpg">
+
+The only problem we had, was to get some dollars 
 from one of the three ATMs in town (our credit card had a rather low limit for cash withdrawals, check this before 
 you leave !). The dollar is used here as a stronger currency and only small things, below 1$ like fruits or 
 vegetables from the street stalls you can buy using Cambodian riel. Very often we got change in Cambodian Riel 
@@ -41,7 +45,13 @@ orange color of the soil. What a stunning contrast!
 <p class="caption">Don't worry! There are asphalt roads in Cambodia, this one leads to one of the villages</p>
 
 We decided to stay the next two nights close to Otres Beach. To get there we had to take a tuk tuk from the
-bus station in the center of the city, where our bus finished its ride (5$). There are only few streets full 
+bus station in the center of the city, where our bus finished its ride (5$). But first, let's eat some healthy breakfast! Look at that color, 
+dragon fruit always mades it so pretty and tasty at the same time. I don't need to mention that all fruits tasted sooo much different and better than what
+we can experience here. 
+
+<img src="/assets/Cambodia/Sihanoukville/IMG_20180327_141957311.jpg">
+ 
+There are only few streets full 
 of bars and restaurants in Otres Beach, some shops, a hairdresser, a beauty salon and plenty options for an 
 accommodation. This place has really relaxing atmosphere and nice, not very crowded beach with many bars. 
 However we noticed enormous construction sites nearby, there will be new Chinese resorts which will possibly 

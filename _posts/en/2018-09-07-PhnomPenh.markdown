@@ -35,7 +35,7 @@ For the afternoon, we planned a more pleasant place to visit, the Royal Palace a
 <img src="/assets/Cambodia/PhnomPenh/DSC02324-e1536745911256.jpg"><img src="/assets/Cambodia/PhnomPenh/DSC02284-e1536745786214.jpg">
 <img src="/assets/Cambodia/PhnomPenh/IMG_20180401_164429271.jpg"><img src="/assets/Cambodia/PhnomPenh/DSC02302-e1536745795589.jpg">
 
-The floor of Silver Pagoda is covered with more than 5000 silver tails (at least 5 tons of silver!) though it was difficult to notice since there is a huge carpet on the floor for protection. It is a place where the King meets with monks. Inside, we spotted a big golden Buddah statue which weights 90kg and is adored with 2086 diamonds ? There is also surprisingly small but very famous the "Emerald Buddha" of Cambodia which sits atope throne in the centre of a temple. Its shiny, green crystals readily keep the attendion of many visitors. I also really liked royal stupas located around Silver Pagoda which hold cremains of Kings.
+The floor of Silver Pagoda is covered with more than 5000 silver tails (at least 5 tons of silver!) though it was difficult to notice since there is a huge carpet on the floor for protection. It is a place where the King meets with monks. Inside, we spotted a big golden Buddah statue which weights 90kg and is adored with 2086 diamonds. There is also surprisingly small but very famous the "Emerald Buddha" of Cambodia which sits atope throne in the centre of a temple. Its shiny, green crystals readily keep the attendion of many visitors. I also really liked royal stupas located around Silver Pagoda which hold cremains of Kings.
 
 <img src="/assets/Cambodia/PhnomPenh/DSC02313.jpg">
 <p class="caption">Silver Pagoda, known as the Pagoda of the Emerald Buddha.</p>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nasza przygoda w Kambodży właśnie sie rozpoczęła, witaj Sihanoukville!"
+title:  "Nasza przygoda w Kambodży właśnie się rozpoczęła, witaj Sihanoukville!"
 date:   2018-07-28 08:43:59
 author: Monika Suchoszek
 categories: podroze
@@ -9,7 +9,7 @@ cover:  "/assets/Cambodia/Sihanoukville/DSC02085.jpg"
 thumbnail:  "/assets/thumbnails/sihanoukeville.jpg"
 ---
 
-W skrócie wyglądało to tak, po kilku tygodniach spędzonych na trekkingu w Himalajach, polecieliśmy do Bangkoku, aby tam rozpocząć drugi etap naszej podróży, tym razem w 
+W skrócie wyglądało to tak. Po kilku tygodniach spędzonych na trekkingu w Himalajach, polecieliśmy do Bangkoku, aby tam rozpocząć drugi etap naszej podróży, tym razem w 
 bardzo odmiennym klimacie :) Naszym pomysłem było wyruszenie najpierw do Kambodży, następnie Laosu i z powrotem do Tajlandii, przemierzając ją od północy na południe i 
 kończąc ponownie w Bangkoku. Mieliśmy szczęście zatrzymać się w hotelu, którego właściciel był na tyle miły, że pozwolił nam zostawić nasz sprzęt trekkingowy u siebie w
  magazynie do czasu, aż wrócimy spowrotem do Bangkoku. Nasze plecaki stały się niespodziewanie lekkie i był to znak, że czas wyruszyć do Kambodży :D

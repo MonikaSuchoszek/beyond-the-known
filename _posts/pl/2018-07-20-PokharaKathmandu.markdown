@@ -34,8 +34,10 @@ Muszę jednak przyznać, że zobaczenie ziemii z innej perspektywy było niezapo
 Po tak ekscytującym poranku, postanowiliśmy po południu odwiedzić świątynię&nbsp;Tal Barahi, która znajduje się na malutkiej wyspie, gdzie można bez problemu dostać 
 się łódką. Może i miejsce nie zrobiło na nas dużego wrażenia, ale jest z pewnością bardzo ważne dla wyznawców hinduizmu, poświęcone bogini Barahi.
 
+<img src="/assets/Nepal/PokharaKathmandu/IMG_20180319_164321517.jpg" />
 <img src="/assets/Nepal/PokharaKathmandu/DSC01893.jpg" />
 <p class="caption">Wyznawcy czekający w kolejce, aby oddać cześć bogini Barahi</p>
+<img src="/assets/Nepal/PokharaKathmandu/DSC01899.jpg" />
 
 Ostatniego dnia naszego pobytu w Pokharze, wypożyczyliśmy kajaki, aby popływać trochę wokół odwiedzonej przez nas poprzedniego dnia wyspy i bujnie porośniętych
  roślinnością brzegów jeziora. W pewnym momencie zauważyliśmy pięknego, niebieskiego ptaka, który bardzo przypominał zimorodka. Niestety nie udało się podpłynąć na 
