@@ -10,13 +10,13 @@ thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
 ---
 
 
-Po cudownym dniu spędzonym na trekkingu w masywie [Monte Resegone]({% post_url 2019-09-14-Monte Resegone %}) oraz odwiedzeniu pięknych miasteczek nad
+Po cudownym dniu spędzonym na trekkingu w masywie [Monte Resegone]({% post_url 2019-09-14-Monte Resegone %}) oraz zwiedzaniu pięknych miasteczek nad
 brzegiem jeziora Como, przyszedł czas na kolejne wyzwanie. Zasugerowanym przez naszą godpodynie szczytem była Monte Coltignone, leżąca w okolicy dzielnicy
-Laorka. Miało być wymagająco i zdecydowanie było, na odcinku zaledwie 3 km teren wznosi się ok 1000m także było stromo! 
+Laorka. Miało być wymagająco i zdecydowanie było, na odcinku zaledwie 3 km teren wznosi się ok 1000m, tak że było stromo! 
 
-Wcześnie rano pojechaliśmy autobusem do dzielicy położonej po drugiej stronie miasta, zwanej Laorka (więcej info w sekcji praktyczne informacje), gdzie 
-zaczeliśmy trekking. Na szczyt prowadzą dwie trasy: pierwsza, bardziej wymagająca mija szczyt Medale a druga jest dłuższa, mniej wymagająca i przez to bardziej
-popularna. Z racji tego, że chcieliśmy sprawdzić oba warianty a wolimy wchodzic niz schodzic po stromym terenie, szlak Santiero G.E.R (numer 59) mijający Medale 
+Wcześnie rano pojechaliśmy autobusem do dzielicy położonej po drugiej stronie miasta - zwanej Laorka (więcej info w sekcji praktyczne informacje), gdzie 
+zaczeliśmy trekking. Na szczyt prowadzą dwie trasy: pierwsza, bardziej wymagająca mija szczyt Medale, druga jest dłuższa oraz mniej wymagająca i przez to bardziej
+popularna. Z racji tego, że chcieliśmy sprawdzić oba warianty a wolimy wchodzić niż schodzić po stromym terenie to szlak Santiero G.E.R (numer 59) mijający Medale 
 był naszym pierwszym wyborem.
  
 <img src="/assets/Italy/MonteColtignone/DSC06621.JPG" alt="Monte Coltignone" />
@@ -28,13 +28,13 @@ ruiny zameku ze spektakularnymi widokami, Bellagio ekskluzywne sklepy a Lecco ni
 
 <img src="/assets/Italy/MonteColtignone/DSC06831.JPG" alt="Monte Coltignone" />
 
-Cały czas ścieżka wiła się zygzakiem bardzo stromo pod górę! Tylko pierwsze kilkaset metrów prowadzące wzdłuż ostatnich kilku domów było łagodne, po wkroczeniu do lasu
+Cały czas ścieżka wiła się zygzakiem bardzo stromo pod górę! Tylko pierwsze kilkaset metrów prowadzące wzdłuż ostatnich kilku domów było łagodne, a po wkroczeniu do lasu
 ścieża stała się natychmiast stroma i wąska. Nasze łydki były wciąż bardzo obolałe po poprzedniej wycieczce na Monte Resegone, więc nie mielismy zawrotnego tempa marszu :)
 W pewnym momencie doszlismy do przecięcia dwóch szlaków: 57 prowadzącego do Monte San Martino oraz szlaku nr 59 do Monte Coltignone (Santiero G.E.R). Po krótkiej
-przerwie i drugim sniadaniu z widokiem na pobliske Corno Medale, ruszyliśmy w dalszą drogę. Teren był teraz bardziej eksponowany, zaczęliśmy pokonywać skalne fragmenty
+przerwie na drugie śniadanie z widokiem na pobliske Corno Medale, ruszyliśmy w dalszą drogę. Teren był teraz bardziej eksponowany, zaczęliśmy pokonywać skalne fragmenty
 z użyciem łańcuchów. Widać było wreszcie jezioro oraz otaczające nas skaliste szczyty. W pewnym momencie doszliśmy do małej jamy z rzeźbą Madonny i to włąsnie tam
-znajduje sie najtrudniejszy odcinek szlaku który przy tak słonecznej pogodzie nie sparwił Nam żadnych problemów ale faktycznie skała była prawie że pionowa więc
-z pewnością niektórzy moga czuc się tam niekomfortowo (odcinek z łańcuchami).
+znajduje sie najtrudniejszy odcinek szlaku, który przy tak słonecznej pogodzie nie sparwił nam żadnych problemów, ale skała była prawie pionowa, więc
+niektórzy mogą czuć się niekomfortowo (odcinek z łańcuchami).
 
 <img src="/assets/Italy/MonteColtignone/DSC06833.JPG" alt="Monte Coltignone" />
 
@@ -44,9 +44,9 @@ z pewnością niektórzy moga czuc się tam niekomfortowo (odcinek z łańcucham
 
 <img src="/assets/Italy/MonteColtignone/DSC06841.JPG" alt="Monte Coltignone" />
 
-Pomimo tego, że było słonecznie i ciepło, widoczność była dość kiepska, szczyty w oddali oraz jezioro były widoczne jakby za mgłą co widać również na zdjęciach.
+Pomimo tego, że było słonecznie i ciepło, widoczność była dość kiepska. Szczyty w oddali oraz jezioro były widoczne jakby za mgłą co widać również na zdjęciach. a
 ku naszemu zdziwieniu szczyt z drugiej strony był zupełnie płaski i prowadziła na niego bardzo szeroka i wygodna ścieżka, która zaczyna się może kilometr niżej na parkingu.
-My się męczymy, że tu dojść a równie dobrze można tu podjechać prawie na sam szczyt :D Z tego względu możemy stąd podziwiać widoki tylko na jedną stronę masywu.
+My się męczymy jak tu dojść, a równie dobrze można podjechać prawie na sam szczyt :D Z tego względu możemy stąd podziwiać widoki tylko na jedną stronę masywu.
 
 
 <img src="/assets/Italy/MonteColtignone/DSC06845.JPG" alt="Monte Coltignone" />
@@ -60,15 +60,15 @@ My się męczymy, że tu dojść a równie dobrze można tu podjechać prawie na
 Monte Coltignone wygląda zupełnie inaczej, podchadząc na szczyt od strony schroniska S.E.L Rocca-Locatelli, położonego w Piani Resinelli, gdzie obok znajduje się duży parking.
 Podążając ze szczytu w kierunku schroniska, mogliśmy podziwiać w oddali masyw Grigny (drugie zdjęcie poniżej), który wyglądał bardzo imponująco. Są to wyższe i skaliste wierzchołki 
 polecane przez naszą gospodynię jakby ktoś był bardziej zainteresowany tego typu szlakami. Po minięciu (niestety zamkniętego) schroniska, ruszyliśmy szlakiem w dół, podążając za 
-biało-czerwonymi oznaczeniami aż do samej Laorki. Ta ścieżka sie dłuższa (ponad 5km) ale za to nie ma na niej ani jednego łańcucha, skały do pokonanie, ale jest za do mnóstwo 
-kamieni wię kto co woli. Myślę, że to była dobra decyzja by ta strona schodzi, bo schodzenie po bardzo stromym szlaku jak ten którym wchodziliśmy nie byłoby przyjemne.
+biało-czerwonymi oznaczeniami aż do samej Laorki. Ta ścieżka jest dłuższa (ponad 5km) ale za to nie ma ani jednego łańcucha czy skały do pokonanie, ale jest mnóstwo 
+kamieni - więc co kto woli. Myślę, że to była dobra decyzja by tą stroną schodzić, bo schodzenie po bardzo stromym szlaku jak ten którym wchodziliśmy, nie byłoby przyjemne.
 
 <img src="/assets/Italy/MonteColtignone/DSC06855.JPG" alt="Monte Coltignone" />
 <img src="/assets/Italy/MonteColtignone/DSC06854.JPG" alt="Monte Coltignone" />
 <img src="/assets/Italy/MonteColtignone/DSC06862.JPG" alt="Monte Coltignone" />
 <img src="/assets/Italy/MonteColtignone/DSC06861.JPG" alt="Monte Coltignone" />
 
-Na koniec szybki bieg, aby złapac nadjeżdżający autobus i byliśmy spowrotem w drodze do Lecco :) 
+Na koniec szybki bieg, aby złapac nadjeżdżający autobus i byliśmy zpowrotem w drodze do Lecco :) 
 
 
 __Informacje praktyczne:__

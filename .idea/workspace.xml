@@ -2,80 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b47bbe5d-1e98-418a-82eb-663a2808c8d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/pl/2019-09-27-Monte Coltignone.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Italy/MonteColtignone/DSC06861.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Italy/MonteColtignone/DSC06861.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03430.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03432.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03434.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03450.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03455.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03482.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03500.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03503.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03517.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03518.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03519.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03528.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03565.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03570.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03574.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03575.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03578.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03587.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03595.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03616.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03641.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03652.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03654.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03664.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03673.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03676.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03680.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03692.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03696.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03699.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03712.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03722.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangPrabang/DSC03724.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Monte-Coltignone/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/pl_PL/bieganie/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/tag/pl_PL/como/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/pl/2019-09-27-Monte Coltignone.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/pl/2019-09-27-Monte Coltignone.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03430.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03430.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03432.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03432.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03434.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03434.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03450.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03450.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03455.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03455.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03482.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03482.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03500.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03500.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03503.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03503.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03517.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03517.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03518.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03518.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03519.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03519.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03528.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03528.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03565.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03565.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03570.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03570.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03574.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03574.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03575.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03575.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03578.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03578.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03587.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03587.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03595.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03595.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03616.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03616.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03641.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03641.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03652.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03652.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03654.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03654.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03664.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03664.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03673.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03673.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03676.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03676.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03680.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03680.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03692.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03692.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03696.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03696.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03699.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03699.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03712.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03712.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03722.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03722.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/LuangPrabang/DSC03724.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/LuangPrabang/DSC03724.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/food/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/food/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" afterDir="false" />
@@ -144,6 +73,7 @@
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/08/Kampot-Kep/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/08/Kampot-Kep/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/09/PhnomPenh/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/09/PhnomPenh/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Ferry/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Ferry/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Monte-Coltignone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Monte-Coltignone/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" afterDir="false" />
@@ -183,7 +113,9 @@
       <change beforePath="$PROJECT_DIR$/docs/tag/en_US/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/travel/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/en_US/urban/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/urban/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/belgia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/belgia/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/bieganie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/bieganie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/biegi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/biegi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/como/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/como/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/gruzja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/gruzja/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/himalaje/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/himalaje/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/historia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/historia/index.html" afterDir="false" />
@@ -410,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582484245841</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="new polish post, monte coltignone">
+      <created>1582578698731</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1582578698731</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -427,7 +366,8 @@
     <MESSAGE value="new posts in polish, cambodia 1 pl" />
     <MESSAGE value="new posts in polish, vang vieng + phnom penh pl" />
     <MESSAGE value="animate on scroll added" />
-    <option name="LAST_COMMIT_MESSAGE" value="animate on scroll added" />
+    <MESSAGE value="new polish post, monte coltignone" />
+    <option name="LAST_COMMIT_MESSAGE" value="new polish post, monte coltignone" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1582578681954">
@@ -438,10 +378,10 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="481" y="82" width="387" height="570" key="RollbackChangesDialog/0.0.1366.743@0.0.1366.743" timestamp="1579423929396" />
-    <state x="278" y="107" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1582484251064">
+    <state x="278" y="107" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1582578753488">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="278" y="107" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1582484251064" />
+    <state x="278" y="107" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1582578753488" />
     <state x="376" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1578829831119">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
