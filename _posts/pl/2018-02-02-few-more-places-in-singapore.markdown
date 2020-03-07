@@ -8,8 +8,8 @@ tags:	jedzenie singapur miasto natura
 cover:  "/assets/Singapore/DSC101027.jpg"
 thumbnail:  "/assets/thumbnails/singapore_more.jpg"
 coords:
-  lat: 1.2230965
-  lng: 103.8583345
+  lat: 1.223204 
+  lng: 103.861145
 ---
 
 

@@ -8,8 +8,8 @@ tags:	culture laos urban
 cover:  "/assets/Laos/BuddhaPark/DSC03214.jpg"
 thumbnail:  "/assets/thumbnails/buddha_park.jpg"
 coords:
-  lat: 17.912517
-  lng: 102.7625888
+  lat: 17.912435
+  lng: 102.764951
 ---
 
 Buddha Park, located 26km from the city center, was our main destination for that day. We decided to use 

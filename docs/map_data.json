@@ -162,8 +162,8 @@
       "content" :  "Buddha Park, located 26km from the city center, was our main destination for that day. We decided to use the public transportation to get there and it turned out to be an easy and cheap solution.  First you need to go to the central bus station which is divided into..."
       
        , "coords" : {
-          "lat" : 17.912517,
-          "lng" : 102.7625888
+          "lat" : 17.912435,
+          "lng" : 102.764951
       }
       
     } ,
@@ -190,8 +190,8 @@
       "content" :  "Crossing the borders by land is always more complicated than by plane but we like challenges. Actually, the ride from Siem Reap to Don Det in Laos was smoother than we were expecting :) Maybe due to the right choice of bus company (Asia Van Transfer) or just pure luck...."
       
        , "coords" : {
-          "lat" : 13.9726908,
-          "lng" : 105.9117596
+          "lat" : 13.975908,
+          "lng" : 105.920664
       }
       
     } ,
@@ -292,8 +292,8 @@
       "content" :  "W skrócie wyglądało to tak. Po kilku tygodniach spędzonych na trekkingu w Himalajach, polecieliśmy do Bangkoku, aby tam rozpocząć drugi etap naszej podróży, tym razem w bardzo odmiennym klimacie :) Naszym pomysłem było wyruszenie najpierw do Kambodży, następnie Laosu i z powrotem do Tajlandii, przemierzając ją od północy na południe..."
       
        , "coords" : {
-          "lat" : 10.567682,
-          "lng" : 103.5495693
+          "lat" : 10.571719,
+          "lng" : 103.551498
       }
       
     } ,
@@ -306,8 +306,8 @@
       "content" :  "In a nutshell, after a few weeks spent hiking in Nepal, we took a plane to Bangkok to start the second part of our journey, this time in very different weather conditions :) Our idea was to make a loop through Cambodia, Laos and then back to Thailand, crossing the..."
       
        , "coords" : {
-          "lat" : 10.567682,
-          "lng" : 103.5495693
+          "lat" : 10.571719,
+          "lng" : 103.551498
       }
       
     } ,
@@ -320,8 +320,8 @@
       "content" :  "Po prawie dwóch tygodniach intensywnego trekkingu, przyszedł czas na regenerację i odpoczynek. Pokhara okazała się idealnym miejsce na kilkudniowy pobyt, dzięki relaksującej atmosferze miasta (przynajmniej okolicy nad jeziorem), pysznemu jedzeniu i wielu dostępnym atrakcjom. Jezioro Phewa otoczone zielonymi wzgórzami i białymi szczytami w oddali wygląda niesamowicie! Zwłaszcza podczas zachodów słońca,..."
       
        , "coords" : {
-          "lat" : 28.2112292,
-          "lng" : 83.9531099
+          "lat" : 28.205833,
+          "lng" : 83.961983
       }
       
     } ,
@@ -334,8 +334,8 @@
       "content" :  "After two weeks of hiking we really hoped to spend few quiet and relaxing days in Pokhara and we were not disappointed :) Phewa Lake, surrounded by the city and high peaks in the background, looks stunning! Especially, during sunset when the water changes colors from blue to pink-ish and..."
       
        , "coords" : {
-          "lat" : 28.2112292,
-          "lng" : 83.9531099
+          "lat" : 28.205833,
+          "lng" : 83.961983
       }
       
     } ,
@@ -366,8 +366,8 @@
       "content" :  "Po dobrej godzinie spędzonej na lotnisku, szczęśliwi i z wizą w ręku, ruszyliśmy w poszukiwaniu taksówki, która zawiozłaby nas do dzielnicy Thamel. Najłatwiej jest wykupić przejazd oficjalną taksówka z miasta, ceny są ustalone z góry, 700 rupii w okolice naszego hotelu (w drodze powrotnej znaleźliśmy z łatwością taksówkę za 500..."
       
        , "coords" : {
-          "lat" : 28.7933761,
-          "lng" : 83.9211594
+          "lat" : 28.793532,
+          "lng" : 83.939208
       }
       
     } ,
@@ -380,8 +380,8 @@
       "content" :  "We arrived in Kathmandu on the first of March and found ourselves jet-lagged and in the middle of the Holi festival, Nepal’s most colorful holiday! It happened by accident so we were totally shocked at the beginning and not ready for what was coming :) Before we even reached our..."
       
        , "coords" : {
-          "lat" : 28.7933761,
-          "lng" : 83.9211594
+          "lat" : 28.793532,
+          "lng" : 83.939208
       }
       
     } ,
@@ -422,8 +422,8 @@
       "content" :  "Wyspa St John i Kusu 18S$ bilet w obie strony, łódka odpływa z Marina South Pier, niewiele połaczeń, lepiej sprawdzić aktualny rozkład na stronie internetowej Po 25 minutach rejsu, łódka dociera do wyspy St John, gdzie przez kilka godzin opalałam i przechadzałam się po plaży, która była zadziwiajaco ładna, jednak..."
       
        , "coords" : {
-          "lat" : 1.2230965,
-          "lng" : 103.8583345
+          "lat" : 1.223204,
+          "lng" : 103.861145
       }
       
     } ,
@@ -436,8 +436,8 @@
       "content" :  "St John’s Island and Kusu Island 18S$ return ticket, departure from Marina South Pier, there are only a few connections a day, check the current schedule online. First, after 25 minutes, the boat arrived at St John’s Island, where I spent few hours walking on a beach and sunbathing. You..."
       
        , "coords" : {
-          "lat" : 1.2230965,
-          "lng" : 103.8583345
+          "lat" : 1.223204,
+          "lng" : 103.861145
       }
       
     } ,
@@ -534,8 +534,8 @@
       "content" :  "W drodze do dzielnicy chińskiej (Chinatown) postanowiliśmy zatrzymać się na lunch w mniej turystycznym miejscu, gdzie mogliśmy spróbować lokalnych potraw i napojów, a mianowicie w Maxwell hawker center. Jednym z wielu takich miejsc w Singapurze, gdzie pod jednym dachem możemy znaleźć dziesiatki, jak i nie setki straganów z potrawami z..."
       
        , "coords" : {
-          "lat" : 1.2801425,
-          "lng" : 103.8425351
+          "lat" : 1.282453,
+          "lng" : 103.843415
       }
       
     } ,
@@ -548,8 +548,8 @@
       "content" :  "On the way to Chinatown we decided to stop for a lunch in less touristic place and mix with locals at Maxwell food centre, one of many hawker centers in Singapore! You can find here dozens of stalls with huge variety of food, refreshing local beverages and sweet treats. As..."
       
        , "coords" : {
-          "lat" : 1.2801425,
-          "lng" : 103.8425351
+          "lat" : 1.282453,
+          "lng" : 103.843415
       }
       
     } ,

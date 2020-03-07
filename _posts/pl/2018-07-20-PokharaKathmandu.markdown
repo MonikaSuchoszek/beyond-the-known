@@ -8,8 +8,8 @@ tags:	historia nepal kultura
 cover:  "/assets/Nepal/PokharaKathmandu/DSC01890.jpg"
 thumbnail:  "/assets/thumbnails/pokhara_kathmandu.jpg"
 coords:
-  lat: 28.2112292
-  lng: 83.9531099
+  lat: 28.205833
+  lng: 83.961983
 ---
 
 Po prawie dwóch tygodniach intensywnego trekkingu, przyszedł czas na regenerację i odpoczynek. Pokhara okazała się idealnym miejsce na 

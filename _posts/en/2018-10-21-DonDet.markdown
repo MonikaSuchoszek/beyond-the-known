@@ -8,8 +8,8 @@ tags:	culture laos
 cover:  "/assets/Laos/DonDet/DSC02996.jpg"
 thumbnail:  "/assets/thumbnails/don_det.jpg"
 coords:
-  lat: 13.9726908
-  lng: 105.9117596
+  lat: 13.975908
+  lng: 105.920664
 ---
 
 Crossing the borders by land is always more complicated than by plane but we like challenges. Actually, the ride 
