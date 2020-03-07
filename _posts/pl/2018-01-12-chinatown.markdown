@@ -7,6 +7,9 @@ categories: podroze jedzenie
 tags:	singapur miasto natura kultura
 cover:  "/assets/Singapore/DSC09536.jpg"
 thumbnail:  "/assets/thumbnails/chinatown.jpg"
+coords:
+  lat: 1.2801425
+  lng: 103.8425351
 ---
 W drodze do dzielnicy chińskiej (Chinatown) postanowiliśmy zatrzymać się na lunch w mniej turystycznym miejscu, gdzie mogliśmy spróbować 
 lokalnych potraw i napojów, a mianowicie w Maxwell hawker center.

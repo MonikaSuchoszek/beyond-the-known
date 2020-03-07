@@ -7,6 +7,9 @@ categories: podroze
 tags:	singapur miasto natura 
 cover:  "/assets/Singapore/DSC09244.jpg"
 thumbnail:  "/assets/thumbnails/singapore_first_glance.jpg"
+coords:
+  lat: 1.2867892
+  lng: 103.8545014
 ---
 
 Kolejne 3 tygodnie spędzimy w Singapurze, mieszkając na kampusie Uniwersytetu Nanyang, który znajduje się w zachodniej cześci miasta. 

@@ -304,6 +304,11 @@
       "locale"   : "pl_PL",
       "content" :  "Miasto to jest dobrym wyborem na weekendową wycieczkę, jeśli nie przeszkadza Wam 7 godzinna podróż autokarem (zdecydowanie nie było to 5 godzin, jak zapewniał przewoźnik, długie kolejki na przejściu granicznym oraz duży ruch samochodowy w samym Kuala Lumpur). Pomimo opóźnienia, ulewy w sobotnie popołudnie i małych problemów z wymeldowaniem z..."
       
+       , "coords" : {
+          "lat" : 3.1578931,
+          "lng" : 101.7119808
+      }
+      
     } ,
 
     {
@@ -312,6 +317,11 @@
       "date"     : "January 29, 2018",
       "locale"   : "en_US",
       "content" :  "This city is a very good choice if you have free weekend and you don’t mind to be on a bus for 7h (definitely not 5h as a bus company advertised, expect long queues on the check points at the border and heavy traffic in Kuala Lumpur). Despite delays, heavy..."
+      
+       , "coords" : {
+          "lat" : 3.1578931,
+          "lng" : 101.7119808
+      }
       
     } ,
 
@@ -322,6 +332,11 @@
       "locale"   : "pl_PL",
       "content" :  "Singapurskie Zoo Najważniejszą cechą, wyróżniającą Singapurskie Zoo na tle innych jest interesująca struktura tego parku. Wybiegi dla zwierząt są niezwykle zielone, ogrodzone przeważnie głębokim rowem zamiast ogrodzenia, co sprawia wrażenie, że widzimy zwierzęta w ich naturalnym środowisku. W wielu miejscach małpy, ptaki czy nietoperze latają i skaczą wolno wokół odwiedzających...."
       
+       , "coords" : {
+          "lat" : 1.4046188,
+          "lng" : 103.7883253
+      }
+      
     } ,
 
     {
@@ -330,6 +345,11 @@
       "date"     : "January 14, 2018",
       "locale"   : "en_US",
       "content" :  "Singapore Zoo The unique structure of the Singapore zoo is the biggest asset of the park. Animals’ runs are full of plants, surrounded by deep ditch instead of fence, creating the illusion of walking among animals in their natural habitats. In many places monkeys, birds, bats are running and flying..."
+      
+       , "coords" : {
+          "lat" : 1.4046188,
+          "lng" : 103.7883253
+      }
       
     } ,
 
@@ -340,6 +360,11 @@
       "locale"   : "pl_PL",
       "content" :  "Jurong bird park Park poświęcony głównie ptakom Jurong bird park był pierwszym z czterech jaki odwiedziliśmy w Singapurze. Jak się później okazało, w tym właśnie parku znajduje się największa liczba gatunków, które widziałam po raz pierwszy w życiu! Zgodnie z opisem na stronie internetowej, żyje tutaj 5 tys. ptaków, które..."
       
+       , "coords" : {
+          "lat" : 1.3187065,
+          "lng" : 103.7064417
+      }
+      
     } ,
 
     {
@@ -348,6 +373,11 @@
       "date"     : "January 13, 2018",
       "locale"   : "en_US",
       "content" :  "Jurong bird park Jurong bird park was the first of all four parks visited by us. This one has the largest number of species I have never seen in my life! According to the official website the park is a home for 5000 birds across 400 species, 29 of them..."
+      
+       , "coords" : {
+          "lat" : 1.3187065,
+          "lng" : 103.7064417
+      }
       
     } ,
 
@@ -358,6 +388,11 @@
       "locale"   : "pl_PL",
       "content" :  "W drodze do dzielnicy chińskiej (Chinatown) postanowiliśmy zatrzymać się na lunch w mniej turystycznym miejscu, gdzie mogliśmy spróbować lokalnych potraw i napojów, a mianowicie w Maxwell hawker center. Jednym z wielu takich miejsc w Singapurze, gdzie pod jednym dachem możemy znaleźć dziesiatki, jak i nie setki straganów z potrawami z..."
       
+       , "coords" : {
+          "lat" : 1.2801425,
+          "lng" : 103.8425351
+      }
+      
     } ,
 
     {
@@ -366,6 +401,11 @@
       "date"     : "January 12, 2018",
       "locale"   : "en_US",
       "content" :  "On the way to Chinatown we decided to stop for a lunch in less touristic place and mix with locals at Maxwell food centre, one of many hawker centers in Singapore! You can find here dozens of stalls with huge variety of food, refreshing local beverages and sweet treats. As..."
+      
+       , "coords" : {
+          "lat" : 1.2801425,
+          "lng" : 103.8425351
+      }
       
     } ,
 
@@ -376,6 +416,11 @@
       "locale"   : "pl_PL",
       "content" :  "Kolejne 3 tygodnie spędzimy w Singapurze, mieszkając na kampusie Uniwersytetu Nanyang, który znajduje się w zachodniej cześci miasta. Do kampusu przylega od zachodu obszar lasu tropikalnego, który jest terenem militarnym i granica kraju jednocześnie. Wstęp na ten obszar jest pilnie strzeżony przez wojsko. Kampus jest dość odizolowany od reszty miasta,..."
       
+       , "coords" : {
+          "lat" : 1.2867892,
+          "lng" : 103.8545014
+      }
+      
     } ,
 
     {
@@ -384,6 +429,11 @@
       "date"     : "January 11, 2018",
       "locale"   : "en_US",
       "content" :  "Nanyang campus, situated in the wast part of Singapore is the place we are going to stay for the next three weeks. More to the west, there is nothing else than rainforest which is at the same time a military area, closed for visitors and border of the country. The..."
+      
+       , "coords" : {
+          "lat" : 1.2867892,
+          "lng" : 103.8545014
+      }
       
     } ,
 
@@ -394,6 +444,11 @@
       "locale"   : "pl_PL",
       "content" :  "Do zagospodarowania mieliśmy prawie trzy pełne dni w Kutaisi, co w zupełności wystarczyło na odwiedzenie najważniejszych punktów miasta, zrobienie zakupów na lokalnym rynku oraz eksplorację kilku ciekawych przyrodniczo miejsc. Podczas naszej całodniowej wycieczki  w okolicach Kutaisi, towarzyszył nam właściciel pensjonatu, w którym się zatrzymaliśmy i spełniał rolę kierowcy oraz doradcy..."
       
+       , "coords" : {
+          "lat" : 42.3766362,
+          "lng" : 42.6008596
+      }
+      
     } ,
 
     {
@@ -402,6 +457,11 @@
       "date"     : "October 22, 2017",
       "locale"   : "en_US",
       "content" :  "We had almost three full days planned in Kutaisi bafore taking an early flight back to Berlin. That was enough time to explore Kutaisi, do shopping in a local market and check out few natural monuments nearby the city. With the host of our guesthouse acting as our personal driver..."
+      
+       , "coords" : {
+          "lat" : 42.3766362,
+          "lng" : 42.6008596
+      }
       
     } ,
 

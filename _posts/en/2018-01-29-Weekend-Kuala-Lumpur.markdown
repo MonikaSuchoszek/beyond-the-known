@@ -7,6 +7,9 @@ categories: travel
 tags:	culture malaysia urban
 cover:  "/assets/Malaysia/KualaLumpur/DSC00649.jpg"
 thumbnail:  "/assets/thumbnails/kuala_lumpur.jpg"
+coords:
+  lat: 3.1578931
+  lng: 101.7119808
 ---
 
 This city is a very good choice if you have free weekend and you don't mind to be on a bus for 7h (definitely not 5h 

@@ -7,6 +7,9 @@ categories: travel
 tags:	hiking georgia 
 cover:  "/assets/Georgia/Prometeush_cave/IMG_0580.JPG"
 thumbnail:  "/assets/thumbnails/prometeush_cave.jpg"
+coords:
+  lat: 42.3766362
+  lng: 42.6008596
 ---
 
 We had almost three full days planned in Kutaisi bafore taking an early flight back to Berlin. That was enough time to explore Kutaisi, do shopping in a local market and check out few natural monuments nearby the city. With the host of our guesthouse acting as our personal driver we were able to visit the Prometheus cave and two canyons: Martivili and Okatse.

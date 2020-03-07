@@ -7,6 +7,9 @@ categories: podroze
 tags:	trekking gruzja 
 cover:  "/assets/Georgia/Prometeush_cave/IMG_0580.JPG"
 thumbnail:  "/assets/thumbnails/prometeush_cave.jpg"
+coords:
+  lat: 42.3766362
+  lng: 42.6008596
 ---
 
 Do zagospodarowania mieliśmy prawie trzy pełne dni w Kutaisi, co w zupełności wystarczyło na odwiedzenie najważniejszych punktów miasta, 

@@ -7,6 +7,9 @@ categories: travel
 tags:	singapore urban nature culture
 cover:  "/assets/Singapore/DSC09786.jpg"
 thumbnail:  "/assets/thumbnails/wildlife_parks_1.jpg"
+coords:
+  lat: 1.3187065
+  lng: 103.7064417
 ---
 
 ## Jurong bird park

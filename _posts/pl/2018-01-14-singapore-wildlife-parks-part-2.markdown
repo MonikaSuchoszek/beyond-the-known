@@ -7,6 +7,9 @@ categories: podroze
 tags:	singapur miasto natura
 cover:  "/assets/Singapore/DSC00198.jpg"
 thumbnail:  "/assets/thumbnails/wildlife_parks_2.jpg"
+coords:
+  lat: 1.4046188
+  lng: 103.7883253
 ---
 
 ## Singapurskie Zoo

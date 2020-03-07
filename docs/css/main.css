@@ -744,11 +744,12 @@ pre code.hljs {
       text-decoration: underline; }
 
 #map {
-  height: 95vh;
+  height: 90vh;
   min-height: 250px;
-  width: 100%;
   margin: 0;
-  padding: 0; }
+  position: absolute;
+  width: 100%;
+  left: 0; }
 
 p.map_info_window {
   width: 350px; }
