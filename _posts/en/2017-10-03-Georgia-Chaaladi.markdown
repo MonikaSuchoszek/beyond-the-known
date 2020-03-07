@@ -7,6 +7,9 @@ categories: travel
 tags:	hiking georgia 
 cover:  "/assets/Georgia/Chaaladi/IMG_0351.jpg"
 thumbnail:  "/assets/thumbnails/chaaladi.jpg"
+coords:
+  lat: 43.1142451
+  lng: 42.7287766
 ---
 One of the most popular destinations for a hike in the proximity of Mestia is Chaaladi glacier. A very easy walk can 
 take you there, following along a dirt road this would even be considered boring by some. Loud trucks, driving to 

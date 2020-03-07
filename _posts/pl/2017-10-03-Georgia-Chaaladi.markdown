@@ -7,6 +7,9 @@ categories: podroze
 tags:	trekking gruzja 
 cover:  "/assets/Georgia/Chaaladi/IMG_0351.jpg"
 thumbnail:  "/assets/thumbnails/chaaladi.jpg"
+coords:
+  lat: 43.1142451
+  lng: 42.7287766
 ---
 Jednym z popularnych celów wędrówek w okolicach Mestii, jest lodowiec Chaaladi. Prowadzi do niego bardzo łatwa ścieżka, początkowo kilka kilometrów 
 wzdłuż drogi gruntowej, co niektórzy moga uznać za nieatrakcyjne. I rzeczywiście, głośne ciężarówki, które kursowały do pobliskiej budowy, czyniły 

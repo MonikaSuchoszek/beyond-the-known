@@ -7,6 +7,9 @@ categories: podroze
 tags:	trekking gruzja
 cover:  "/assets/Georgia/Koruldi/IMG_0445.jpg"
 thumbnail:  "/assets/thumbnails/koruldi.jpg"
+coords:
+  lat: 43.0874116
+  lng: 42.6869057
 ---
 
 Najdłuższą wycieczkę zaplanowaliśmy na ostatni dzień naszego pobytu w Mestii, gdyż wtedy dopiero pogoda miała być bardzo stabilna a to z pewnością przyda nam się w drodze

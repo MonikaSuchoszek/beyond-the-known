@@ -7,6 +7,9 @@ categories: travel
 tags:	hiking georgia 
 cover:  "/assets/Georgia/Mestia/IMG_20171016_134841992_HDR.jpg"
 thumbnail:  "/assets/thumbnails/mestia.jpg"
+coords:
+  lat: 43.052971
+  lng: 42.7454973
 ---
 
 The morning welcomed us with snowfall! It was barely the beginning of autumn in Germany so we were really surprised 

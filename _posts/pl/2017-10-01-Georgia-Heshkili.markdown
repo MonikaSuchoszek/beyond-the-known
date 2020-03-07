@@ -7,6 +7,9 @@ categories: podroze
 tags:	trekking gruzja 
 cover:  "/assets/Georgia/Heshkili/IMG_0209.jpg"
 thumbnail:  "/assets/thumbnails/heshkili.jpg"
+coords:
+  lat: 43.025855
+  lng: 42.7123773
 ---
 
 Dzień przywitał nas niestety deszczem, jednak wczesnym popołudniem wypogodziło się i postanowiliśmy od razu wyruszyć na naszą pierwszą wędrówkę w Gruzji! :D

@@ -7,6 +7,9 @@ categories: podroze
 tags:	trekking gruzja 
 cover:  "/assets/Georgia/Mestia/IMG_20171016_134841992_HDR.jpg"
 thumbnail:  "/assets/thumbnails/mestia.jpg"
+coords:
+  lat: 43.052971
+  lng: 42.7454973
 ---
 
 Kolejny poranek powitał nas opadem śniegu! Co za zmiana w porównaniu z poprzednim dniem.
