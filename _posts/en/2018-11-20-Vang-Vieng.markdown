@@ -7,6 +7,9 @@ categories: travel
 tags:	hiking laos cycling cave lagoon 
 cover:  "/assets/Laos/VangVieng/DSC03339.JPG"
 thumbnail:  "/assets/thumbnails/vang_vieng.jpg"
+coords:
+  lat: 18.919847
+  lng: 102.4442046
 ---
 
 During the bus ride we noticed a huge change of scenery. We were going further to the north of the country, to the mountainous region of Laos, and that was clearly visible. Vang Vieng, a town with the 

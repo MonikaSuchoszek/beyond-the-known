@@ -7,6 +7,9 @@ categories: travel
 tags:	italy Como Sondrio Morbegno  
 cover:  "/assets/Italy/Como/small_DSC06573.jpg"
 thumbnail:  "/assets/thumbnails/small_DSC06573.jpg"
+coords:
+  lat: 45.8117952
+  lng: 9.083471
 ---
 
 During 10 days spent in Italy, we visited quite a few cities (Como, Lecco, Milan, Morbegro, Sondrio), discovered amazing mountains, managed to rest one day on the shore of 

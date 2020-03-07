@@ -7,6 +7,9 @@ categories: travel
 tags:	culture laos festival urban
 cover:  "/assets/Laos/NewYear/DSC03306.jpg"
 thumbnail:  "/assets/thumbnails/lao_new_year.jpg"
+coords:
+  lat: 17.976631
+  lng: 102.6342173
 ---
 
 Pi Mai Lao, celebration of the New Year in Laos during the hottest part of the year was an 

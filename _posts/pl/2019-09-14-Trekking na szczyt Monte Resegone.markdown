@@ -7,6 +7,9 @@ categories: podroze
 tags:	trekking wlochy 
 cover:  "/assets/Italy/Monte_Resegone/DSC06696.JPG"
 thumbnail:  "/assets/thumbnails/monte_resegone.jpg"
+coords:
+  lat: 45.8581666
+  lng: 9.4689035
 ---
 Lecco, miasto w  którym zatrzymaliśmy się na kilka dni, okazało się być wspaniałą baza wypadową dla miłośników pieszych wędrówek. Położenie miasta nad samym jeziorem Como
 (południowy kraniec jeziora) zapewnia niesamowite połączenie gór i błękitu wody widocznej w oddali. Moglibyśmy tam zostać dłużej, miasto oferuje możliwość wielu jednodniowych 

@@ -7,6 +7,11 @@
       "locale"   : "pl_PL",
       "content" :  "Podczas 10 dni spędzonych w północnych Włoszech, odwiedziliśmy kilka urokliwych miast (Como, Lecco, Milan, Morbegro, Sondrio), odkryliśmy przepiękne góry, zdołalismy spędzić na plaży jeden dzień (Colico) oraz spróbować nieskończonej ilości różnych smaków włoskich lodów, które wg mnie są najlepsze! :D Spróbuje więc napisać krótko, co każde z odwiedzonych przez nas..."
       
+       , "coords" : {
+          "lat" : 45.8117952,
+          "lng" : 9.083471
+      }
+      
     } ,
 
     {
@@ -15,6 +20,11 @@
       "date"     : "October 17, 2019",
       "locale"   : "en_US",
       "content" :  "During 10 days spent in Italy, we visited quite a few cities (Como, Lecco, Milan, Morbegro, Sondrio), discovered amazing mountains, managed to rest one day on the shore of Como Lake (Colico) and tried countless times Italian ice cream, which by the way are for me the best in the..."
+      
+       , "coords" : {
+          "lat" : 45.8117952,
+          "lng" : 9.083471
+      }
       
     } ,
 
@@ -25,6 +35,11 @@
       "locale"   : "pl_PL",
       "content" :  "Po cudownym dniu spędzonym na trekkingu w masywie Monte Resegone oraz zwiedzaniu pięknych miasteczek nad brzegiem jeziora Como, przyszedł czas na kolejne wyzwanie. Zasugerowanym przez naszą godpodynie szczytem była Monte Coltignone, leżąca w okolicy dzielnicy Laorka. Miało być wymagająco i zdecydowanie było, na odcinku zaledwie 3 km teren wznosi się..."
       
+       , "coords" : {
+          "lat" : 45.8851317,
+          "lng" : 9.3894263
+      }
+      
     } ,
 
     {
@@ -33,6 +48,11 @@
       "date"     : "September 27, 2019",
       "locale"   : "en_US",
       "content" :  "After hiking to Monte Resegone, a day trip around the Como lake by ferry, it was finally time for another hike, this time to Monte Coltignone. It was supposed to be tough and it certainly was. Three kilometers and 1000m altitude gain, this can’t be good :) First we took..."
+      
+       , "coords" : {
+          "lat" : 45.8851317,
+          "lng" : 9.3894263
+      }
       
     } ,
 
@@ -43,6 +63,11 @@
       "locale"   : "pl_PL",
       "content" :  "Jeden dzień przeznaczony na zwiedzanie małych miasteczek położonych nad brzegiem jeziora Como, wydała się być idealnym rozwiązaniem na odpoczynek i regenerację przed kolejnym trekkingiem zaplanowanym już na kolejny dzień. Jak zwykle byliśmy dość aktywni, korzystaliśmy z pociągu, płyneliśmy promami a to przeplatane zwiedzaniem Varenny, Bellagio oraz Lierny (ok 16km spacerkiem)...."
       
+       , "coords" : {
+          "lat" : 45.9841062,
+          "lng" : 9.2588656
+      }
+      
     } ,
 
     {
@@ -51,6 +76,11 @@
       "date"     : "September 22, 2019",
       "locale"   : "en_US",
       "content" :  "One lazy day designated for sightseeing between two days of demanding hiking was the perfect idea! Ok … this day ultimately was not so lazy with 16km of walking ;-) Varenna was our first destination that day, one of the top rated towns on the shores of Lake Como. Immediately..."
+      
+       , "coords" : {
+          "lat" : 45.9841062,
+          "lng" : 9.2588656
+      }
       
     } ,
 
@@ -61,6 +91,11 @@
       "locale"   : "pl_PL",
       "content" :  "Lecco, miasto w którym zatrzymaliśmy się na kilka dni, okazało się być wspaniałą baza wypadową dla miłośników pieszych wędrówek. Położenie miasta nad samym jeziorem Como (południowy kraniec jeziora) zapewnia niesamowite połączenie gór i błękitu wody widocznej w oddali. Moglibyśmy tam zostać dłużej, miasto oferuje możliwość wielu jednodniowych wycieczek w pobliskie..."
       
+       , "coords" : {
+          "lat" : 45.8581666,
+          "lng" : 9.4689035
+      }
+      
     } ,
 
     {
@@ -69,6 +104,11 @@
       "date"     : "September 14, 2019",
       "locale"   : "en_US",
       "content" :  "Lecco, a small city located on the southern tip of Lake Como turned out to be a fantastic base for hiking lovers. We could have actually stayed here longer than we did as we still had plenty of ideas for day hikes or just regular sightseeing. More about the city..."
+      
+       , "coords" : {
+          "lat" : 45.8581666,
+          "lng" : 9.4689035
+      }
       
     } ,
 
@@ -79,6 +119,11 @@
       "locale"   : "en_US",
       "content" :  "Visiting Berdorf in Luxemburg? Why not! We couldn’t miss our chance to finally check one of the options for a weekend trip when you live in Belgium. The initial idea was to do the whole Mullerthal trail route 2 which is around 37km. However, life is unpredictable and we had..."
       
+       , "coords" : {
+          "lat" : 49.8187435,
+          "lng" : 6.3486244
+      }
+      
     } ,
 
     {
@@ -87,6 +132,11 @@
       "date"     : "November 20, 2018",
       "locale"   : "en_US",
       "content" :  "During the bus ride we noticed a huge change of scenery. We were going further to the north of the country, to the mountainous region of Laos, and that was clearly visible. Vang Vieng, a town with the reputation as the perfect destination for people eager to party a lot..."
+      
+       , "coords" : {
+          "lat" : 18.919847,
+          "lng" : 102.4442046
+      }
       
     } ,
 
@@ -97,6 +147,11 @@
       "locale"   : "en_US",
       "content" :  "Pi Mai Lao, celebration of the New Year in Laos during the hottest part of the year was an unexpected event we gladly joined  :D Officially it is a 3-day celebration but in some cities like Vientian or Luang Prabang it can last over a week. During the New Year..."
       
+       , "coords" : {
+          "lat" : 17.976631,
+          "lng" : 102.6342173
+      }
+      
     } ,
 
     {
@@ -105,6 +160,11 @@
       "date"     : "October 31, 2018",
       "locale"   : "en_US",
       "content" :  "Buddha Park, located 26km from the city center, was our main destination for that day. We decided to use the public transportation to get there and it turned out to be an easy and cheap solution.  First you need to go to the central bus station which is divided into..."
+      
+       , "coords" : {
+          "lat" : 17.912517,
+          "lng" : 102.7625888
+      }
       
     } ,
 
@@ -115,6 +175,11 @@
       "locale"   : "en_US",
       "content" :  "First something about how we got here. In a nutshell, after a short boat ride from Don Det to Nakasong, we took a bus to Pakse where we were supposed to have a lunch break. Instead of this, the bus stopped on the side of the road and we had..."
       
+       , "coords" : {
+          "lat" : 17.971106,
+          "lng" : 102.6175025
+      }
+      
     } ,
 
     {
@@ -123,6 +188,11 @@
       "date"     : "October 21, 2018",
       "locale"   : "en_US",
       "content" :  "Crossing the borders by land is always more complicated than by plane but we like challenges. Actually, the ride from Siem Reap to Don Det in Laos was smoother than we were expecting :) Maybe due to the right choice of bus company (Asia Van Transfer) or just pure luck...."
+      
+       , "coords" : {
+          "lat" : 13.9726908,
+          "lng" : 105.9117596
+      }
       
     } ,
 
@@ -141,6 +211,11 @@
       "date"     : "October 11, 2018",
       "locale"   : "en_US",
       "content" :  "The cover of National Geographic which I saw 10 years ago and the article inside caused me to dream about discovering the Khmer Empire. It felt so unreal back then and fortunately some dreams come true earlier than you would expect. There I was, standing in front of Angkor Enterprise..."
+      
+       , "coords" : {
+          "lat" : 13.4124693,
+          "lng" : 103.8669857
+      }
       
     } ,
 

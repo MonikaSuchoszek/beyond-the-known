@@ -7,6 +7,9 @@ categories: podroze
 tags:	miasto włochy prom jezioro
 cover:  "/assets/Italy/Ferry/DSC06758.JPG"
 thumbnail:  "/assets/thumbnails/ferry_varenna.jpg"
+coords:
+  lat: 45.9841062
+  lng: 9.2588656
 ---
 Jeden dzień przeznaczony na zwiedzanie małych miasteczek położonych nad brzegiem jeziora Como, wydała się być idealnym rozwiązaniem
 na odpoczynek i regenerację przed kolejnym trekkingiem zaplanowanym już na kolejny dzień. Jak zwykle byliśmy dość aktywni, korzystaliśmy z pociągu, 

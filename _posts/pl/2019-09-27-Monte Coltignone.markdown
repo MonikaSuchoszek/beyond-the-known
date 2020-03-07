@@ -7,6 +7,9 @@ categories: podroze
 tags:	trekking włochy bieganie Como jezioro
 cover:  "/assets/Italy/MonteColtignone/DSC06621.JPG"
 thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
+coords:
+  lat: 45.8851317
+  lng: 9.3894263
 ---
 
 

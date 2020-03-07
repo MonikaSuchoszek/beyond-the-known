@@ -7,6 +7,9 @@ categories: travel
 tags:	culture history cambodia khmer
 cover:  "/assets/Cambodia/AngkorWat/DSC02466.jpg"
 thumbnail:  "/assets/thumbnails/angkor_wat.jpg"
+coords:
+  lat: 13.4124693
+  lng: 103.8669857
 ---
 
 > The cover of National Geographic which I saw 10 years ago and the article inside caused me to 

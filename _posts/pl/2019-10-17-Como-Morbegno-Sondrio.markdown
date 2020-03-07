@@ -7,6 +7,9 @@ categories: podroze
 tags:	włochy Como Sondrio Morbegno  
 cover:  "/assets/Italy/Como/small_DSC06573.jpg"
 thumbnail:  "/assets/thumbnails/small_DSC06573.jpg"
+coords:
+  lat: 45.8117952
+  lng: 9.083471
 ---
 
 Podczas 10 dni spędzonych w północnych Włoszech, odwiedziliśmy kilka urokliwych miast (Como, Lecco, Milan, Morbegro, Sondrio), odkryliśmy przepiękne góry, zdołalismy spędzić na plaży
