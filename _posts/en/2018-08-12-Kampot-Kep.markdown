@@ -134,6 +134,7 @@ buses were leaving. Now we had time to lay on the sand, swim and admire the Viet
 (it is only 20km to the Vietnamese border by land). As expected our bus arrived with more than 1 hour of delay, 
 we really needed to accept the reality of transportation in Asia.
 
+<img src="/assets/Cambodia/KampotKep/DSC02202.JPG">
 <img src="/assets/Cambodia/KampotKep/DSC02203.jpg">
 <img src="/assets/Cambodia/KampotKep/DSC02204.jpg">
 <p class="caption">Food stands next to the beach, offering a freshly squeezed sugar cane juice and kind of 

@@ -14,23 +14,25 @@
 <ul class="post-list">
   {% for post in paginator.posts %}
   <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-				<img class="post-excerpt-image" src="{{ post.thumbnail | prepend: site.baseurl }}" /></a>
-      <p class="post-excerpt-text">{{ post.content | strip_html | truncatewords: 50 }}</p>
-			{% assign words = post.content | number_of_words %}
-		</section>
-    <section class="post-meta">
-			<div class="post-date">{{ items_text.reading_time }}: <strong>{% if words < 360 %} 1 {{items_text.minute}} {% else %} {{ words | divided_by:180 }} {{items_text.minutes}} {% endif %}</strong></div>
-      <div class="post-categories">{{ items_text.posted }} {{ post.date | date: "%d-%m-%Y" }}
-      {% if post.categories.size > 0 %} {{ items_text.in }} {% for cat in post.categories %}
-      <a href="{{ site.baseurl }}/category/{{ post.locale }}/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-      {% endfor %}{% endif %}
-      </div>
-    </section>
+		<div data-aos="fade-in">
+			<h2>
+				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</h2>
+			<section class="post-excerpt" itemprop="description">
+				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+					<img class="post-excerpt-image" src="{{ post.thumbnail | prepend: site.baseurl }}" /></a>
+				<p class="post-excerpt-text">{{ post.content | strip_html | truncatewords: 50 }}</p>
+				{% assign words = post.content | number_of_words %}
+			</section>
+			<section class="post-meta">
+				<div class="post-date">{{ items_text.reading_time }}: <strong>{% if words < 360 %} 1 {{items_text.minute}} {% else %} {{ words | divided_by:180 }} {{items_text.minutes}} {% endif %}</strong></div>
+				<div class="post-categories">{{ items_text.posted }} {{ post.date | date: "%d-%m-%Y" }}
+				{% if post.categories.size > 0 %} {{ items_text.in }} {% for cat in post.categories %}
+				<a href="{{ site.baseurl }}/category/{{ post.locale }}/{{ cat }}">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
+				{% endfor %}{% endif %}
+				</div>
+			</section>
+		</div>
   </li>
   {% if forloop.last == false %}
   <hr>

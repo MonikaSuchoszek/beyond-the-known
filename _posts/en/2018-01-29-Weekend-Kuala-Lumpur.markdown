@@ -20,7 +20,17 @@ local people are taking care of the tourists and selling wide angle lenses for p
 a building become more highlighted and we preferred this magnificent version of a Petronas Towers :D
 
 <img src="/assets/Malaysia/KualaLumpur/DSC00661-e1517205904767.jpg">
+
+<img src="/assets/Malaysia/KualaLumpur/DSC00655.jpg">
+
 <img src="/assets/Malaysia/KualaLumpur/DSC00726.jpg">
+
+<img src="/assets/Malaysia/KualaLumpur/DSC00701.jpg">
+
+<div class="row">
+  <img src="/assets/Malaysia/KualaLumpur/DSC00714-e1517205917967.jpg" class="column-50" alt="Jurong bird park" />
+  <img src="/assets/Malaysia/KualaLumpur/DSC00719-e1517205893851.jpg" class="column-50" alt="Jurong bird park" />
+</div>
 
 Next day, after a fast breakfast at some indian stall, we headed out, full of energy, to the Batu Caves. Our initial 
 idea was to go there by train, however due to maintenance works we had to wait 2h for the next one (better check 
@@ -32,14 +42,23 @@ of the festival). We noticed followers carrying metal constructions with peacock
 colorful but heavy burden (can weight up to 100 kg). After a short, powerful dance these men started walking from the 
 bottom to the top of 272 stairs, leading to the main cave. I can't imagine doing this in that heat!
 
-<img src="/assets/Malaysia/KualaLumpur/DSC00794-e1517205593637.jpg">
+
+<div class="row">
+  <img src="/assets/Malaysia/KualaLumpur/DSC00794-e1517205593637.jpg" class="column-50" alt="Jurong bird park" />
+  <img src="/assets/Malaysia/KualaLumpur/DSC00759-e1517205729246.jpg" class="column-50" alt="Jurong bird park" />
+</div>
+
 
 Inside, there is a big chamber with not-so-impressive temples, further in you can climb to the next chamber which 
 is open to the sky. In general, I prefer the view from the outside. There are few shrines inside the cave, with 
 lots of concrete around, this unfortunately took away some of the cave's natural beauty.
 
-<img src="/assets/Malaysia/KualaLumpur/DSC00746-e1517205716322.jpg">
-<img src="/assets/Malaysia/KualaLumpur/DSC00768-e1517205584843.jpg">
+<div class="row">
+  <img src="/assets/Malaysia/KualaLumpur/DSC00746-e1517205716322.jpg" class="column-50" alt="Jurong bird park" />
+  <img src="/assets/Malaysia/KualaLumpur/DSC00768-e1517205584843.jpg" class="column-50" alt="Jurong bird park" />
+</div>
+
+<img src="/assets/Malaysia/KualaLumpur/DSC00766.jpg">
 
 Next, we visited Ramayana cave (7 ringgit), near the train station. This place was quiet with few visitors inside. 
 We could see there many very colorful sculptures showing different scenes of the Indian epic Ramayana. Nice lighting 
@@ -57,8 +76,12 @@ bus, we decided to walk through the market street in Chinatown (full of souvenir
 cheaper than in Singapore. You still can bargain to get better deals) and then headed towards Berjaya Times Square 
 from where we caught a bus back to Singapore.
 
-<img src="/assets/Malaysia/KualaLumpur/DSC00850.jpg">
+    
+<img src="/assets/Malaysia/KualaLumpur/DSC00837.jpg">
 
+<img src="/assets/Malaysia/KualaLumpur/DSC00843.jpg">
+
+<img src="/assets/Malaysia/KualaLumpur/DSC00845.jpg">
 
 
 __Practical info:__

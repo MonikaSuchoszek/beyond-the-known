@@ -103,7 +103,7 @@ layout: default
 								<i class="fa fa-square fa-stack-2x"></i>
 								<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
 							</span>
-							<span class="page-number"><strong>{{ items_text.previous }}:</strong> {{page.previous.title | truncatewords: 5}}</span>
+							<span class="page-number"><strong>{{ items_text.previous }}:</strong> {{post.title | truncatewords: 5}}</span>
 						</a>
 				{% endif %}
 				{% assign prev = false %}
@@ -116,10 +116,10 @@ layout: default
 
 		<span class="next-post">
 		{% for post in site.posts reversed %}
-			{% if post.lang == page.lang %}
+			{% if post.locale == page.locale %}
 				{% if next %}
 			      <a href="{{ post.url | prepend: site.baseurl}}">
-							<span class="page-number"><strong>{{ items_text.next }}:</strong> {{page.next.title | truncatewords: 5}}</span>
+							<span class="page-number"><strong>{{ items_text.next }}:</strong> {{post.title | truncatewords: 5}}</span>
 							<span class="fa-stack fa-lg">
 								<i class="fa fa-square fa-stack-2x"></i>
 								<i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>

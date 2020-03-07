@@ -30,6 +30,7 @@ spots for Singaporeans to escape from the busy life in the city. Citizens rememb
 and therefore on island you can find tortoise shelter. I noticed that few of them had a gold shell. People 
 believe that touching a tortoise can bring good fortune :)
 
+<img src="/assets/Singapore/DSC101057.jpg" />
 <img src="/assets/Singapore/DSC101064.jpg" />
 <img src="/assets/Singapore/DSC101049.jpg" />
 
@@ -49,6 +50,7 @@ few minutes we didn't have any problems with the smell anymore). The owner of th
 can easily recognize good quality fruits but smelling them and tapping them with his machete.
 
 <img src="/assets/Singapore/DSC100558.jpg" />
+<img src="/assets/Singapore/DSC100579.jpg" />
 <img src="/assets/Singapore/DSC100581.jpg" />
 
 ## Sands Sky Park - observatory deck 
@@ -62,6 +64,7 @@ visible to us only from a distance. There is also a bar where you can enjoy a dr
 
 <img src="/assets/Singapore/DSC100965.jpg" />
 <img src="/assets/Singapore/DSC100998.jpg" />
+<img src="/assets/Singapore/G1217510.jpg" />
 
 ## Bukit Timah and MacRitchie nature reservoir 
 
@@ -77,8 +80,10 @@ banded flying snake), lizards and many interesting plants. We are used to hike w
 this trip made as really exhausted! High temperatures and humidity ever higher than in the city made this day really 
 difficult but it was worth it! :D
 
+
 <img src="/assets/Singapore/DSC101164.jpg" />
 <img src="/assets/Singapore/DSC101175.jpg" />
+<img src="/assets/Singapore/DSC101136.jpg" />
 
 ## Haw Par Villa
 262 Pasir Panjang Rd, Singapore, free entry
@@ -89,6 +94,7 @@ from sumo wrestles, through mermaids to laughing Buddha. The number of different
 overwhelming for me ... or maybe that was due to the high temperatures :p It is very different for the other places 
 in Singapore so you should visit it to get a feeling of Chinese folklore.
 
+<img src="/assets/Singapore/DSC101108.jpg" />
 <img src="/assets/Singapore/DSC101114.jpg" />
 <img src="/assets/Singapore/DSC101119.jpg" />
 
@@ -105,3 +111,4 @@ beaches and many dining areas.
 
 <img src="/assets/Singapore/DSC101079.jpg" />
 <img src="/assets/Singapore/DSC101092.jpg" />
+<img src="/assets/Singapore/DSC101102.jpg" /

@@ -36,14 +36,16 @@ lot, especially acrobatic maneuvers at the end which I skipped for the obvious r
 were not so clearly visible that day. Overall, it was an unforgettable experience to see the earth from another 
 perspective :D
 
-<img src="/assets/Nepal/PokharaKathmandu/G0034109.jpg" />
+<img src="/assets/Nepal/PokharaKathmandu/G0034109.JPG" />
 
 To relax after exciting morning, we decided to visit a Tal Barahi Temple situated on a tiny island which could 
 be easily reached by a shared boat. This place did not make a big impression on us but it is an important pagoda 
 for Hindu people, dedicated to the worship of a Barahi goddess.
 
+<img src="/assets/Nepal/PokharaKathmandu/IMG_20180319_164321517.jpg" />
 <img src="/assets/Nepal/PokharaKathmandu/DSC01893.jpg" />
 <p class="caption">Believers waiting to give their offerings to the goddess.</p>
+<img src="/assets/Nepal/PokharaKathmandu/DSC01899.jpg" />
 
 On our last day in Pokhara we rented two kayaks to spend some time on the lake paddling around the tiny 
 island with hindu temple on it and exploring a lakeshore with lush vegetation. At one point we noticed a 
@@ -81,6 +83,7 @@ steep stairs lead  to the top of the hill. Along the way to the temple, many sma
 and snacks.
 
 <img src="/assets/Nepal/PokharaKathmandu/DSC01944.jpg">
+<img src="/assets/Nepal/PokharaKathmandu/DSC01951.jpg">
 
 On the top of the hill, besides the main temple there are many smaller once and workshops selling handmade items. 
 In one of them we bought a stone with carved mantra, Om Mani Padme Hum (phrase repeated during meditation) and 
@@ -100,8 +103,8 @@ Buddhist metal or bronze statues and sculptures creating great opportunity for a
 <img src="/assets/Nepal/PokharaKathmandu/DSC01983.jpg">
 <p class="caption">Part of the square where you need to pay an entrance fee</p>
 
-<img src="/assets/Nepal/PokharaKathmandu/DSC01979.jpg">
-<img src="/assets/Nepal/PokharaKathmandu/DSC01987.jpg">
+<img src="/assets/Nepal/PokharaKathmandu/DSC01979.JPG">
+<img src="/assets/Nepal/PokharaKathmandu/DSC01987.JPG">
 
 Our taxi driver recommended us *the only quiet place in the city* to relax, 
 <a href="http://www.gardenofdreams.org.np/">Garden of Dreams</a> :p Haha, he was absolutely right! This peaceful 
