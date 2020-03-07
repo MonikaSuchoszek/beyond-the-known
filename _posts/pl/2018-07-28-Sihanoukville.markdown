@@ -7,6 +7,9 @@ categories: podroze
 tags:	natura kambodza khmerowie Sihanoukville plaza otres
 cover:  "/assets/Cambodia/Sihanoukville/DSC02085.jpg"
 thumbnail:  "/assets/thumbnails/sihanoukeville.jpg"
+coords:
+  lat: 10.567682
+  lng: 103.5495693
 ---
 
 W skrócie wyglądało to tak. Po kilku tygodniach spędzonych na trekkingu w Himalajach, polecieliśmy do Bangkoku, aby tam rozpocząć drugi etap naszej podróży, tym razem w 

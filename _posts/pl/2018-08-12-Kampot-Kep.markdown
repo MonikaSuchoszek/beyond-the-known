@@ -7,6 +7,9 @@ categories: podroze
 tags:	kultura kambodża plaza wybrzeże 
 cover:  "/assets/Cambodia/KampotKep/DSC02130.jpg"
 thumbnail:  "/assets/thumbnails/kampot_kep.jpg"
+coords:
+  lat: 10.612414
+  lng: 104.317535
 ---
 
 Miasto Kampot położone jest nad rzeką o tej samej nazwie, a jej nadbrzeże wypełnione jest restauracjami i barami nad samą wodą. Architektura budynków, 

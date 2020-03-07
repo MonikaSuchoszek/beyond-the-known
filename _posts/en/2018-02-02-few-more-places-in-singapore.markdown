@@ -7,6 +7,9 @@ categories: travel
 tags:	food singapore urban nature 
 cover:  "/assets/Singapore/DSC101027.jpg"
 thumbnail:  "/assets/thumbnails/singapore_more.jpg"
+coords:
+  lat: 1.2230965
+  lng: 103.8583345
 ---
 
 

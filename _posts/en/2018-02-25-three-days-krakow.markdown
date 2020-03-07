@@ -7,6 +7,9 @@ categories: travel
 tags:	food poland urban
 cover:  "/assets/Poland/Krakow/DSC01299.jpg"
 thumbnail:  "/assets/thumbnails/krakow.jpg"
+coords:
+  lat: 50.0616853
+  lng: 19.9350731
 ---
 
 Our visit to Krakow started with the guided walking tour in the morning to get a proper introduction of the 

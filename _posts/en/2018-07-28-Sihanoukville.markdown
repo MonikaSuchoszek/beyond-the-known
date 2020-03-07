@@ -7,6 +7,9 @@ categories: travel
 tags:	culture history cambodia khmer
 cover:  "/assets/Cambodia/Sihanoukville/DSC02085.jpg"
 thumbnail:  "/assets/thumbnails/sihanoukeville.jpg"
+coords:
+  lat: 10.567682
+  lng: 103.5495693
 ---
 
 In a nutshell, after a few weeks spent hiking in Nepal, we took a plane to Bangkok to start the second part of 

@@ -7,6 +7,9 @@ categories: podroze
 tags:	kultura historia kambodża khmer palac świątynie 
 cover:  "/assets/Cambodia/PhnomPenh/DSC02290.jpg"
 thumbnail:  "/assets/thumbnails/phnom_penh.jpg"
+coords:
+  lat: 11.563902
+  lng: 104.9290634
 ---
 
 Świetną decyzją był wybór hotelu niedaleko ogromnego marketu Phsar Thmei, gdzie z łatwością mogliśmy kupić świeże owoce, warzywa oraz ciuchy, buty, biżuterię czy drobne pamiątki.

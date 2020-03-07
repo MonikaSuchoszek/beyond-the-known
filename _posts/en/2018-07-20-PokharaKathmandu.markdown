@@ -7,6 +7,9 @@ categories: travel food sports
 tags:	culture history nepal nature
 cover:  "/assets/Nepal/PokharaKathmandu/DSC01890.jpg"
 thumbnail:  "/assets/thumbnails/pokhara_kathmandu.jpg"
+coords:
+  lat: 28.2112292
+  lng: 83.9531099
 ---
 
 After two weeks of hiking we really hoped to spend few quiet and relaxing days in Pokhara and we were not 

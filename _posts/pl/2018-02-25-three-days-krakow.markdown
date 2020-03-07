@@ -7,6 +7,9 @@ categories: podroze
 tags:	jedzenie polska miasto
 cover:  "/assets/Poland/Krakow/DSC01299.jpg"
 thumbnail:  "/assets/thumbnails/krakow.jpg"
+coords:
+  lat: 50.0616853
+  lng: 19.9350731
 ---
 
 Nasz pobyt w Krakowie rozpoczęliśmy od spaceru z przewodnikiem (<a href="https://freewalkingtour.com/krakow/">Free Walking tour</a>), aby dokładnie poznać bogatą historię

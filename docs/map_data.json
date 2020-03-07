@@ -160,6 +160,11 @@
       "locale"   : "pl_PL",
       "content" :  "Świetną decyzją był wybór hotelu niedaleko ogromnego marketu Phsar Thmei, gdzie z łatwością mogliśmy kupić świeże owoce, warzywa oraz ciuchy, buty, biżuterię czy drobne pamiątki. W budynku nieopodal znajdował się duży supermarket w europejskim stylu, jedyny jak się poźniej okazało, na jaki przyszło nam się natknąc podczas całej podróży. Budynek..."
       
+       , "coords" : {
+          "lat" : 11.563902,
+          "lng" : 104.9290634
+      }
+      
     } ,
 
     {
@@ -168,6 +173,11 @@
       "date"     : "September 07, 2018",
       "locale"   : "en_US",
       "content" :  "We encountered some difficulties with the bus again. This time, it stopped in totally different part of the city then what was promised to us. A few tuk-tuk drivers were already waiting to drive us closer to the city center but as expected the price was again way too high...."
+      
+       , "coords" : {
+          "lat" : 11.563902,
+          "lng" : 104.9290634
+      }
       
     } ,
 
@@ -178,6 +188,11 @@
       "locale"   : "pl_PL",
       "content" :  "Miasto Kampot położone jest nad rzeką o tej samej nazwie, a jej nadbrzeże wypełnione jest restauracjami i barami nad samą wodą. Architektura budynków, nazwy hoteli i wielu restauracji nawiązują do czasów, kiedy miasto było kolonią francuską. Region ten słynie przede wszystkim z produkcji pieprzu i soli. Z tego powodu, odwiedzenie..."
       
+       , "coords" : {
+          "lat" : 10.612414,
+          "lng" : 104.317535
+      }
+      
     } ,
 
     {
@@ -186,6 +201,11 @@
       "date"     : "August 12, 2018",
       "locale"   : "en_US",
       "content" :  "Kampot is located on the banks of the Kampot River with many restaurants and bars next to the water. Architecture of the buildings and many names of the restaurants and hotels refer to the time when this city was a French colony. This region is famous mainly because of pepper..."
+      
+       , "coords" : {
+          "lat" : 10.612414,
+          "lng" : 104.317535
+      }
       
     } ,
 
@@ -196,6 +216,11 @@
       "locale"   : "pl_PL",
       "content" :  "W skrócie wyglądało to tak. Po kilku tygodniach spędzonych na trekkingu w Himalajach, polecieliśmy do Bangkoku, aby tam rozpocząć drugi etap naszej podróży, tym razem w bardzo odmiennym klimacie :) Naszym pomysłem było wyruszenie najpierw do Kambodży, następnie Laosu i z powrotem do Tajlandii, przemierzając ją od północy na południe..."
       
+       , "coords" : {
+          "lat" : 10.567682,
+          "lng" : 103.5495693
+      }
+      
     } ,
 
     {
@@ -204,6 +229,11 @@
       "date"     : "July 28, 2018",
       "locale"   : "en_US",
       "content" :  "In a nutshell, after a few weeks spent hiking in Nepal, we took a plane to Bangkok to start the second part of our journey, this time in very different weather conditions :) Our idea was to make a loop through Cambodia, Laos and then back to Thailand, crossing the..."
+      
+       , "coords" : {
+          "lat" : 10.567682,
+          "lng" : 103.5495693
+      }
       
     } ,
 
@@ -214,6 +244,11 @@
       "locale"   : "pl_PL",
       "content" :  "Po prawie dwóch tygodniach intensywnego trekkingu, przyszedł czas na regenerację i odpoczynek. Pokhara okazała się idealnym miejsce na kilkudniowy pobyt, dzięki relaksującej atmosferze miasta (przynajmniej okolicy nad jeziorem), pysznemu jedzeniu i wielu dostępnym atrakcjom. Jezioro Phewa otoczone zielonymi wzgórzami i białymi szczytami w oddali wygląda niesamowicie! Zwłaszcza podczas zachodów słońca,..."
       
+       , "coords" : {
+          "lat" : 28.2112292,
+          "lng" : 83.9531099
+      }
+      
     } ,
 
     {
@@ -222,6 +257,11 @@
       "date"     : "July 20, 2018",
       "locale"   : "en_US",
       "content" :  "After two weeks of hiking we really hoped to spend few quiet and relaxing days in Pokhara and we were not disappointed :) Phewa Lake, surrounded by the city and high peaks in the background, looks stunning! Especially, during sunset when the water changes colors from blue to pink-ish and..."
+      
+       , "coords" : {
+          "lat" : 28.2112292,
+          "lng" : 83.9531099
+      }
       
     } ,
 
@@ -250,6 +290,11 @@
       "locale"   : "pl_PL",
       "content" :  "Po dobrej godzinie spędzonej na lotnisku, szczęśliwi i z wizą w ręku, ruszyliśmy w poszukiwaniu taksówki, która zawiozłaby nas do dzielnicy Thamel. Najłatwiej jest wykupić przejazd oficjalną taksówka z miasta, ceny są ustalone z góry, 700 rupii w okolice naszego hotelu (w drodze powrotnej znaleźliśmy z łatwością taksówkę za 500..."
       
+       , "coords" : {
+          "lat" : 28.7933761,
+          "lng" : 83.9211594
+      }
+      
     } ,
 
     {
@@ -258,6 +303,11 @@
       "date"     : "July 09, 2018",
       "locale"   : "en_US",
       "content" :  "We arrived in Kathmandu on the first of March and found ourselves jet-lagged and in the middle of the Holi festival, Nepal’s most colorful holiday! It happened by accident so we were totally shocked at the beginning and not ready for what was coming :) Before we even reached our..."
+      
+       , "coords" : {
+          "lat" : 28.7933761,
+          "lng" : 83.9211594
+      }
       
     } ,
 
@@ -268,6 +318,11 @@
       "locale"   : "pl_PL",
       "content" :  "Nasz pobyt w Krakowie rozpoczęliśmy od spaceru z przewodnikiem (Free Walking tour), aby dokładnie poznać bogatą historię miasta. Spacer po starym miaście zaczęliśmy niedaleko Barbakanu i bramy Floriańskiej (część fortyfikacji miejskiej) a skończyliśmy po około 2.5 godzinie na Wawelu, zlokalizowanym na wzgórzu o tej samiej nazwie. Pomimo pięknej, słonecznej pogody,..."
       
+       , "coords" : {
+          "lat" : 50.0616853,
+          "lng" : 19.9350731
+      }
+      
     } ,
 
     {
@@ -276,6 +331,11 @@
       "date"     : "February 25, 2018",
       "locale"   : "en_US",
       "content" :  "Our visit to Krakow started with the guided walking tour in the morning to get a proper introduction of the city and its rich history. We jointed FREE walking TOUR though Krakow’s old town which started between St. Florian´s Gate and Barbican and finished at Wawel castle, located on the..."
+      
+       , "coords" : {
+          "lat" : 50.0616853,
+          "lng" : 19.9350731
+      }
       
     } ,
 
@@ -286,6 +346,11 @@
       "locale"   : "pl_PL",
       "content" :  "Wyspa St John i Kusu 18S$ bilet w obie strony, łódka odpływa z Marina South Pier, niewiele połaczeń, lepiej sprawdzić aktualny rozkład na stronie internetowej Po 25 minutach rejsu, łódka dociera do wyspy St John, gdzie przez kilka godzin opalałam i przechadzałam się po plaży, która była zadziwiajaco ładna, jednak..."
       
+       , "coords" : {
+          "lat" : 1.2230965,
+          "lng" : 103.8583345
+      }
+      
     } ,
 
     {
@@ -294,6 +359,11 @@
       "date"     : "February 02, 2018",
       "locale"   : "en_US",
       "content" :  "St John’s Island and Kusu Island 18S$ return ticket, departure from Marina South Pier, there are only a few connections a day, check the current schedule online. First, after 25 minutes, the boat arrived at St John’s Island, where I spent few hours walking on a beach and sunbathing. You..."
+      
+       , "coords" : {
+          "lat" : 1.2230965,
+          "lng" : 103.8583345
+      }
       
     } ,
 
