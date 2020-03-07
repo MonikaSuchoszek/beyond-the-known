@@ -1,12 +1,15 @@
 <!DOCTYPE html>
-<html>
+
+
+<html lang="pl">
+
 
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Category: travel</title>
+  <title>Mapy</title>
   <meta name="description" content="A travel blog by Monika Suchoszek.">
   
   <meta name="author" content="Monika Suchoszek">
@@ -17,6 +20,7 @@
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/monokai-sublime.min.css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
+	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
   <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
   <link rel="shortcut icon" href="/assets/icons/favicon.ico" type="image/x-icon">
@@ -44,9 +48,9 @@
   <meta property="og:description" content="A travel blog by Monika Suchoszek." />
   <meta property="og:url" content="https://www.beyond-the-known.eu/" />
   <meta property="og:site_name" content="Going beyond the known" />
-  <meta property="og:title" content="Category: travel" />
+  <meta property="og:title" content="Mapy" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://www.beyond-the-known.eu//assets/categories_header.jpg" />
+  <meta property="og:image" content="https://www.beyond-the-known.eu//assets/posts_header.jpg" />
   <meta property="og:image:type" content="image/png" />
   <meta property="og:image:width" content="612" />
   <meta property="og:image:height" content="605" />
@@ -55,9 +59,9 @@
   
   <!-- Twitter: card tags -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Category: travel">
+  <meta name="twitter:title" content="Mapy">
   <meta name="twitter:description" content="A travel blog by Monika Suchoszek.">
-  <meta name="twitter:image" content="https://www.beyond-the-known.eu//assets/categories_header.jpg">
+  <meta name="twitter:image" content="https://www.beyond-the-known.eu//assets/posts_header.jpg">
   <meta name="twitter:url" content="https://www.beyond-the-known.eu/">
   
 
@@ -65,7 +69,7 @@
 
   <!-- Site styles -->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="https://www.beyond-the-known.eu//category/pl_PL/travel/">
+  <link rel="canonical" href="https://www.beyond-the-known.eu//pl/mapy/">
   <link rel="alternate" type="application/rss+xml" title="Going beyond the known" href="https://www.beyond-the-known.eu//feed.xml" />
 </head>
 
@@ -102,7 +106,97 @@
 				
 			
 				
+			
+				
+				<li class="nav-link"><a href="/pl/mapy/">Mapy</a>
+				
+			
+				
+			
+				
+			
+				
 				<li class="nav-link"><a href="/pl/posts/">Posty</a>
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
 				
 			
 				
@@ -197,94 +291,239 @@
 
 
     <div class="page-content">
-        
-<div class="post">
-
-<div class="post-header-container has-cover" style="background-image: url(/assets/categories_header.jpg);">
+        <div class="post-header-container has-cover" style="background-image: url(/assets/posts_header.jpg);">
   <div class="scrim has-cover">
     <header class="post-header">
-			<h1 class="title">Posty w kategorii <em>Travel</em></h1>
+      <h1 class="title">Mapy</h1>
     </header>
   </div>
 </div>
 
 <div class="wrapper">
+<div class="page">
+
+
 
   <article class="post-content">
-    <ul class="posts-list">
-      
-			
-			
-			
-			
-			
-      <li><strong><a class="post-link" href="/pl/travel/2019/09/Monte-Resegone/">A day hike to Monte Resegone</a></strong><span class="post-date"> - 14-09-2019</span></li>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-    </ul>
+    <div id="map"></div>
+
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script>
+	var map;
+	function initMap() {
+		map = new google.maps.Map(document.getElementById('map'), {
+			center: {lat: 50.8798, lng: 4.7005},
+			zoom: 2,
+			styles: [
+  {
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.icon",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#616161"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.country",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#808080"
+      },
+      {
+        "visibility": "on"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#bdbdbd"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#eeeeee"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#757575"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#e5e5e5"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#ffffff"
+      }
+    ]
+  },
+  {
+    "featureType": "road.arterial",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#757575"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#dadada"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#616161"
+      }
+    ]
+  },
+  {
+    "featureType": "road.local",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#e5e5e5"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#eeeeee"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#c9c9c9"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  }
+]
+		});
+
+		function addMarker(props) {
+			var marker = new google.maps.Marker({
+				position: props.coords,
+				map: map
+			});
+
+			var infoWindow = new google.maps.InfoWindow({
+				content: '<h2><a href="' + props.url + '">' + props.title + '</a></h2><p class="map_info_window">' + props.content + '</p>'
+			});
+
+			marker.addListener('click', function() {
+				infoWindow.open(map, marker);
+			});
+
+		}
+
+		$.getJSON( "/map_data.json", function( data ) {
+			var page_locale = "pl_PL";
+
+			data.forEach(function(el){
+			  if (el.locale == page_locale && typeof el.coords !== 'undefined') {
+			    console.log(el);
+				  addMarker(el);
+				}
+			})
+		});
+
+	}
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap&style=element:geometry%7Ccolor:0xf5f5f5&style=element:labels.icon%7Cvisibility:off&style=element:labels.text.fill%7Ccolor:0x616161&style=element:labels.text.stroke%7Ccolor:0xf5f5f5&style=feature:administrative.country%7Celement:geometry.stroke%7Ccolor:0x808080%7Cvisibility:on&style=feature:administrative.land_parcel%7Celement:labels.text.fill%7Ccolor:0xbdbdbd&style=feature:poi%7Celement:geometry%7Ccolor:0xeeeeee&style=feature:poi%7Celement:labels.text.fill%7Ccolor:0x757575&style=feature:poi.park%7Celement:geometry%7Ccolor:0xe5e5e5&style=feature:poi.park%7Celement:labels.text.fill%7Ccolor:0x9e9e9e&style=feature:road%7Celement:geometry%7Ccolor:0xffffff&style=feature:road.arterial%7Celement:labels.text.fill%7Ccolor:0x757575&style=feature:road.highway%7Celement:geometry%7Ccolor:0xdadada&style=feature:road.highway%7Celement:labels.text.fill%7Ccolor:0x616161&style=feature:road.local%7Celement:labels.text.fill%7Ccolor:0x9e9e9e&style=feature:transit.line%7Celement:geometry%7Ccolor:0xe5e5e5&style=feature:transit.station%7Celement:geometry%7Ccolor:0xeeeeee&style=feature:water%7Celement:geometry%7Ccolor:0xc9c9c9&style=feature:water%7Celement:labels.text.fill%7Ccolor:0x9e9e9e" async defer></script>
+
+
   </article>
 
 </div>
 </div>
-<br>
 
     </div>
 
@@ -312,7 +551,97 @@
         
         
         
+        
+        
+          <li class="nav-link"><a href="/pl/mapy/">Mapy</a>
+        
+        
+        
+        
+        
+        
+        
           <li class="nav-link"><a href="/pl/posts/">Posty</a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -441,6 +770,13 @@
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script>
+	AOS.init({
+   once: true
+	});
+</script>
 
 <script type="text/javascript">
 $(document).ready(function() {
@@ -473,8 +809,8 @@ $(document).ready(function() {
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-47068418-4', 'auto');
   ga('send', 'pageview', {
-    'page': '/category/pl_PL/travel/',
-    'title': 'Category: travel'
+    'page': '/pl/mapy/',
+    'title': 'Mapy'
   });
 </script>
 

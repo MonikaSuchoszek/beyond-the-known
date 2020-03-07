@@ -7,6 +7,9 @@ categories: sport
 tags:	biegi belgia
 cover:  "/assets/IronViking/IMG-20170902-WA0002.jpg"
 thumbnail:  "/assets/thumbnails/iron_viking.jpg"
+coords:
+  lat: 51.151706
+  lng: 3.8708973
 ---
 
 "Nigdy wiecej!" takie było nasze postanowienie po przebiegnięciu ok 32km (chociaż muszę przyznać, że w zeszłym roku zapadła podobna decyzja :p). 

@@ -1,5 +1,10 @@
 <!DOCTYPE html>
+{% if page.locale %}
+{% assign locale_parts = page.locale | split: "_" %}
+<html lang="{{ locale_parts[0] }}">
+{% else %}
 <html>
+{% endif %}
 
   {% include head.html %}
 

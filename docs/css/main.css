@@ -742,3 +742,13 @@ pre code.hljs {
           margin-right: 0; } }
     .site-footer .site-signature a {
       text-decoration: underline; }
+
+#map {
+  height: 95vh;
+  min-height: 250px;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+
+p.map_info_window {
+  width: 350px; }

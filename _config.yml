@@ -77,6 +77,9 @@ highlightjs_theme: "monokai-sublime"
 # Google analytics
 ga_tracking_id: "UA-47068418-4"
 
+# Google maps API key
+google_maps_api_key: "AIzaSyDBP15TP4Fd7fZykz38sGIHJl0phWLUSdA"
+
 # Category descriptions (for archive pages)
 descriptions:
   - cat: travel

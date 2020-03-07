@@ -1,0 +1,213 @@
+<div id="map"></div>
+
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script>
+	var map;
+	function initMap() {
+		map = new google.maps.Map(document.getElementById('map'), {
+			center: {lat: 50.8798, lng: 4.7005},
+			zoom: 2,
+			styles: [
+  {
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.icon",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#616161"
+      }
+    ]
+  },
+  {
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#f5f5f5"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.country",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#808080"
+      },
+      {
+        "visibility": "on"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#bdbdbd"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#eeeeee"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#757575"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#e5e5e5"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  },
+  {
+    "featureType": "road",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#ffffff"
+      }
+    ]
+  },
+  {
+    "featureType": "road.arterial",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#757575"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#dadada"
+      }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#616161"
+      }
+    ]
+  },
+  {
+    "featureType": "road.local",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#e5e5e5"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.station",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#eeeeee"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "color": "#c9c9c9"
+      }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#9e9e9e"
+      }
+    ]
+  }
+]
+		});
+
+		function addMarker(props) {
+			var marker = new google.maps.Marker({
+				position: props.coords,
+				map: map
+			});
+
+			var infoWindow = new google.maps.InfoWindow({
+				content: '<h2><a href="' + props.url + '">' + props.title + '</a></h2><p class="map_info_window">' + props.content + '</p>'
+			});
+
+			marker.addListener('click', function() {
+				infoWindow.open(map, marker);
+			});
+
+		}
+
+		$.getJSON( "{{ "/map_data.json" | prepend: site.base }}", function( data ) {
+			var page_locale = "{{ page.locale }}";
+
+			data.forEach(function(el){
+			  if (el.locale == page_locale && typeof el.coords !== 'undefined') {
+			    console.log(el);
+				  addMarker(el);
+				}
+			})
+		});
+
+	}
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key={{ site.config.google_maps_api_key }}&callback=initMap&style=element:geometry%7Ccolor:0xf5f5f5&style=element:labels.icon%7Cvisibility:off&style=element:labels.text.fill%7Ccolor:0x616161&style=element:labels.text.stroke%7Ccolor:0xf5f5f5&style=feature:administrative.country%7Celement:geometry.stroke%7Ccolor:0x808080%7Cvisibility:on&style=feature:administrative.land_parcel%7Celement:labels.text.fill%7Ccolor:0xbdbdbd&style=feature:poi%7Celement:geometry%7Ccolor:0xeeeeee&style=feature:poi%7Celement:labels.text.fill%7Ccolor:0x757575&style=feature:poi.park%7Celement:geometry%7Ccolor:0xe5e5e5&style=feature:poi.park%7Celement:labels.text.fill%7Ccolor:0x9e9e9e&style=feature:road%7Celement:geometry%7Ccolor:0xffffff&style=feature:road.arterial%7Celement:labels.text.fill%7Ccolor:0x757575&style=feature:road.highway%7Celement:geometry%7Ccolor:0xdadada&style=feature:road.highway%7Celement:labels.text.fill%7Ccolor:0x616161&style=feature:road.local%7Celement:labels.text.fill%7Ccolor:0x9e9e9e&style=feature:transit.line%7Celement:geometry%7Ccolor:0xe5e5e5&style=feature:transit.station%7Celement:geometry%7Ccolor:0xeeeeee&style=feature:water%7Celement:geometry%7Ccolor:0xc9c9c9&style=feature:water%7Celement:labels.text.fill%7Ccolor:0x9e9e9e" async defer></script>
