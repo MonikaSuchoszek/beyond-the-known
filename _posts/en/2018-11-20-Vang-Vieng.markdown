@@ -91,10 +91,10 @@ standing in bars and restaurants. These drinks don't look very appealing to me b
 __Practical info:__
 
 How we got to Vang Vieng was described in a previous post. 
-  * renting a mountain bike - 30000 KIP per person, as always the condition of the bikes left much to be desired (at least this time my tyre didn't explode!)
-  * entrance to the cave - 10000 KIP per person 
-  * waterproof bag - 60000 KIP yeah, people were still crazy about Lao New Year celebrations and didn't stop pouring a water on everyone for many days :D
-  * dress bought on the night market - 40000 KIP 
-  * lunch/dinner - 60000 KIP for both of us <a href="https://www.tripadvisor.com/Restaurant_Review-g612363-d2490847-Reviews-A_M_D_Restaurant-Vang_Vieng_Vientiane_Province.html">A.M.D Restaurant</a> or <a href="https://www.tripadvisor.com/Restaurant_Review-g612363-d9794459-Reviews-Lao_Valhalla_Restaurant-Vang_Vieng_Vientiane_Province.html">Lao Valhalla Restaurant</a> 
-  * minivan to Luang Prabang - 110000 KIP per person
+  * renting a mountain bike - 30k KIP per person, as always the condition of the bikes left much to be desired (at least this time my tyre didn't explode!)
+  * entrance to the cave - 10k KIP per person 
+  * waterproof bag - 60k KIP yeah, people were still crazy about Lao New Year celebrations and didn't stop pouring a water on everyone for many days :D
+  * dress bought on the night market - 40k KIP 
+  * lunch/dinner - 60k KIP for both of us <a href="https://www.tripadvisor.com/Restaurant_Review-g612363-d2490847-Reviews-A_M_D_Restaurant-Vang_Vieng_Vientiane_Province.html">A.M.D Restaurant</a> or <a href="https://www.tripadvisor.com/Restaurant_Review-g612363-d9794459-Reviews-Lao_Valhalla_Restaurant-Vang_Vieng_Vientiane_Province.html">Lao Valhalla Restaurant</a> 
+  * minivan to Luang Prabang - 110k KIP per person
 

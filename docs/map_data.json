@@ -127,6 +127,20 @@
     } ,
 
     {
+      "title"    : "Luang Prabang, charming river bank and waterfalls",
+      "url"      : "/en/travel/2018/12/Luang-Prabang/",
+      "date"     : "December 05, 2018",
+      "locale"   : "en_US",
+      "content" :  "This part of Laos is so beautiful! The first 30min of our from Vang Vieng, the landscape was particularly idyllic. Rice paddies, many lush, green hills with almost vertical slopes were en exceptional combination. Some parts of the road were destroyed by a land slide from the hill. Many big..."
+      
+       , "coords" : {
+          "lat" : 19.89247,
+          "lng" : 102.135622
+      }
+      
+    } ,
+
+    {
       "title"    : "Vang Vieng, getting closer to the mountains in north Laos",
       "url"      : "/en/travel/2018/11/Vang-Vieng/",
       "date"     : "November 20, 2018",
@@ -169,7 +183,7 @@
     } ,
 
     {
-      "title"    : "Vientian, capital with an endless number of temples",
+      "title"    : "Vientiane, capital with an endless number of temples",
       "url"      : "/en/travel/2018/10/Vientian/",
       "date"     : "October 28, 2018",
       "locale"   : "en_US",
