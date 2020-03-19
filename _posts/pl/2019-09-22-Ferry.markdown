@@ -14,7 +14,7 @@ coords:
 gallery_items:
   - image: "/assets/Italy/Ferry/DSC06785.JPG"
     gallery_image: "/assets/gallery/bellagio_ferry.jpg"
-    description: "Polish description"
+    description: "Piękne miasteczko Bellagio widoczne z promu."
       
 ---
 Jeden dzień przeznaczony na zwiedzanie małych miasteczek położonych nad brzegiem jeziora Como, wydała się być idealnym rozwiązaniem
