@@ -1,0 +1,19 @@
+
+{% assign items_text = site.data.translations[page.locale] %}
+
+<div class="gallery-items">
+{% for post in site.posts %}
+	{% if post.locale == page.locale %}
+		{% for item in post.gallery_items %}
+		<div class="gallery-item">
+			<a href="{{ item.image | prepend: site.baseurl }}" data-lightbox="gallery_image" data-title="{{ item.description }} <a href='{{ post.url }}'>{{ items_text.read_more }}</a>">
+  			<img src="{{ item.gallery_image | prepend: site.baseurl }}" title="{{ item.description }}">
+			</a>
+		</div>
+		{% endfor %}
+	{% endif %}
+{% endfor %}
+</div>
+
+<br />
+

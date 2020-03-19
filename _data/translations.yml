@@ -12,6 +12,7 @@ en_US:
     category_line: "Posts in category"
     minute: "minute"
     minutes: "minutes"
+    read_more: "Read more..."
 
 pl_PL:
     subtitle: "podążając za marzeniami"
@@ -27,3 +28,4 @@ pl_PL:
     category_line: "Posty w kategorii"
     minute: "minuta"
     minutes: "min."
+    read_more: "Czytaj więcej..."
