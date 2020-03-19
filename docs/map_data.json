@@ -113,6 +113,20 @@
     } ,
 
     {
+      "title"    : "Odkrywając skalne labirynty w Małej Szwajcarii",
+      "url"      : "/pl/podroze/2019/08/luxembourg/",
+      "date"     : "August 06, 2019",
+      "locale"   : "pl_PL",
+      "content" :  "Kiedy dostaliśmy od znajomej propozycję wyjazdu do Luxemburga, nie wahaliśmy się ani chwili. Naszym celem były okolice miasteczka Berdorf, które okazało się idealnym wyborem na weekendową wycieczkę dla ludzi lubiących aktywnie spędzać czas. Naszym pomysłem było przejście słynnego szlaku Mullerthal 2 (37km), jednak trochę zmodyfikowaliśmy nasze plany. Z racji tego,..."
+      
+       , "coords" : {
+          "lat" : 49.8187435,
+          "lng" : 6.3486244
+      }
+      
+    } ,
+
+    {
       "title"    : "A trip to Little Switzerland",
       "url"      : "/en/travel/2019/08/luxembourg/",
       "date"     : "August 06, 2019",
