@@ -12,7 +12,7 @@ coords:
   lng: 9.2588656
   
 gallery_items:
-  - image: "/assets/Italy/Ferry/DSC06758.JPG"
+  - image: "/assets/Italy/Ferry/DSC06785.JPG"
     gallery_image: "/assets/gallery/bellagio_ferry.jpg"
     description: "Piękne miasteczko Bellagio widoczne z promu."
 
