@@ -114,7 +114,7 @@ should keep that in mind. Therefore be respectful and only participate in the ce
 <img src="/assets/Laos/LuangPrabang/DSC03722.jpg" alt="Vang Vieng village" />
 <img src="/assets/Laos/LuangPrabang/DSC03724.jpg" alt="Vang Vieng village" />
 
-Muang Ngoi was our next destination, a village located on the banks of the Nam Ou River where we got by minivan and boat and where I have seen an enormous amount of butterflies!
+Muang Ngoy was our next destination, a village located on the banks of the Nam Ou River where we got by minivan and boat and where I have seen an enormous amount of butterflies!
 Pretty amazing to walk being surrounded by several dozen of them at the same time :) Bungalow with hammock, bananas from the garden and the mountains around made this place really
 special for us.
 
