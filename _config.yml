@@ -59,6 +59,10 @@ thumbnail:
     resize_dimensions: '430x288^'
     crop_dimensions: '430x288+0+0'
 
+gallery_items:
+    resize_dimensions: '430x288^'
+    crop_dimensions: '430x288+0+0'
+
 # Build settings
 markdown: kramdown
 

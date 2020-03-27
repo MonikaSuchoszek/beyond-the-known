@@ -10,6 +10,12 @@ thumbnail:  "/assets/thumbnails/ferry_varenna.jpg"
 coords:
   lat: 45.9841062
   lng: 9.2588656
+  
+gallery_items:
+  - image: "/assets/Italy/Ferry/DSC06785.JPG"
+    gallery_image: "/assets/gallery/bellagio_ferry.jpg"
+    description: "The beautiful city Bellagio as seen from the Ferry."
+
 ---
 One lazy day designated for sightseeing between two days of demanding hiking was the perfect idea! Ok ... this day ultimately was not so lazy with 16km of walking ;-)
 Varenna was our first destination that day, one of the top rated towns on the shores of Lake Como. Immediately after arriving we noticed a really long queue in front of the ferry.
