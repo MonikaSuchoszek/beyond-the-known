@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/pokhara_kathmandu.jpg"
 coords:
   lat: 28.205833
   lng: 83.961983
+  
+gallery_items:
+  - image: "/assets/Nepal/PokharaKathmandu/DSC01951.jpg"
+    gallery_image: "/assets/gallery/kathmandu.jpg"
+    description: "Sculpture in front of Swayambhunath temple, Kathmandu, Nepal."
 ---
 
 After two weeks of hiking we really hoped to spend few quiet and relaxing days in Pokhara and we were not 

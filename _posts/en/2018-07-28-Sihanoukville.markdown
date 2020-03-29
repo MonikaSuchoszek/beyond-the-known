@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/sihanoukeville.jpg"
 coords:
   lat: 10.571719
   lng: 103.551498
+  
+gallery_items:
+  - image: "/assets/Cambodia/Sihanoukville/DSC02089.jpg"
+    gallery_image: "/assets/gallery/Sihanoukville_islands.jpg"
+    description: "Koh Ta Kiev, island on the coast of Cambodia."
 ---
 
 In a nutshell, after a few weeks spent hiking in Nepal, we took a plane to Bangkok to start the second part of 

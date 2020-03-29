@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/prometeush_cave.jpg"
 coords:
   lat: 42.3766362
   lng: 42.6008596
+  
+gallery_items:
+  - image: "/assets/Georgia/Prometeush_cave/IMG_0580.JPG"
+    gallery_image: "/assets/gallery/prometeushcave.jpg"
+    description: "Jaskinie Prometeusza, ciekawy pomysł na jednodniową wycieczką w okolicach Kutaisi, Gruzja."
 ---
 
 Do zagospodarowania mieliśmy prawie trzy pełne dni w Kutaisi, co w zupełności wystarczyło na odwiedzenie najważniejszych punktów miasta, 

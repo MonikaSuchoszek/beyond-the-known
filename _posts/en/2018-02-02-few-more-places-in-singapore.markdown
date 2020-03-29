@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/singapore_more.jpg"
 coords:
   lat: 1.223204 
   lng: 103.861145
+  
+gallery_items:
+  - image: "/assets/Singapore/DSC100998.jpg"
+    gallery_image: "/assets/gallery/singapore_more.jpg"
+    description: "Sands Sky Park - observatory deck, one of the few more attractions of Singapore."
 ---
 
 
@@ -83,7 +88,6 @@ banded flying snake), lizards and many interesting plants. We are used to hike w
 this trip made as really exhausted! High temperatures and humidity ever higher than in the city made this day really 
 difficult but it was worth it! :D
 
-
 <img src="/assets/Singapore/DSC101164.jpg" />
 <img src="/assets/Singapore/DSC101175.jpg" />
 <img src="/assets/Singapore/DSC101136.jpg" />
@@ -114,4 +118,4 @@ beaches and many dining areas.
 
 <img src="/assets/Singapore/DSC101079.jpg" />
 <img src="/assets/Singapore/DSC101092.jpg" />
-<img src="/assets/Singapore/DSC101102.jpg" /
+<img src="/assets/Singapore/DSC101102.jpg" />

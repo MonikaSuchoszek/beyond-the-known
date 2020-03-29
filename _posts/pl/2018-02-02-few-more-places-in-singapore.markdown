@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/singapore_more.jpg"
 coords:
   lat: 1.223204 
   lng: 103.861145
+  
+gallery_items:
+  - image: "/assets/Singapore/DSC100998.jpg"
+    gallery_image: "/assets/gallery/singapore_more.jpg"
+    description: "Sands Sky Park - platforma widokowa, jedna z wielu kolejnych atrakcji Singapuru."
 ---
 
 

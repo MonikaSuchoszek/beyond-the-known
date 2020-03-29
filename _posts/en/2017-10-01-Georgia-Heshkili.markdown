@@ -10,10 +10,15 @@ thumbnail:  "/assets/thumbnails/heshkili.jpg"
 coords:
   lat: 43.025855
   lng: 42.7123773
+  
+gallery_items:
+  - image: "/assets/Georgia/Heshkili/IMG_0258.jpg"
+    gallery_image: "/assets/gallery/heshkili.jpg"
+    description: "Beautiful nature and colours of autumn, Georgia."
 ---
 
 Finally at 1 pm, it stopped raining and we could go for our first hike in Georgia! :D
-
+colours of Autumn
 <img src="/assets/Georgia/Heshkili/IMG_0209.jpg">
 
 The walk, in direction to Hatsvali cable-car station, is around 7km long and you could easily take a 

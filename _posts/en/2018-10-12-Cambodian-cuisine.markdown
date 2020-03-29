@@ -7,6 +7,12 @@ categories: travel food
 tags:	cambodia khmer
 cover:  "/assets/Cambodia/Food/DSC02375.jpg"
 thumbnail:  "/assets/thumbnails/cambodian_cuisine.jpg"
+
+gallery_items:
+  - image: "/assets/Cambodia/Food/IMG_20180402_134642009.jpg"
+    gallery_image: "/assets/gallery/food)cambodia.jpg"
+    description: "Lok Lak - stir fried slices of beef or chicken with garlic and oyster sauce served on 
+lettuce with rice and Kampot pepper sauce. An amazing Cambodia cuisine!"
 ---
 
 We had no clue what to expect about Cambodia cuisine. Is it actually different from Thai or Laotian cuisine? Before 

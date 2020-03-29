@@ -5,11 +5,16 @@ date:   2017-10-11 08:43:59
 author: Monika Suchoszek
 categories: travel
 tags:	hiking georgia 
-cover:  "/assets/Georgia/Koruldi/IMG_0479.jpg"
+cover:  "/assets/Georgia/Koruldi/IMG_0445.jpg"
 thumbnail:  "/assets/thumbnails/koruldi.jpg"
 coords:
   lat: 43.0874116
   lng: 42.6869057
+  
+gallery_items:
+  - image: "/assets/Georgia/Koruldi/IMG_0455.jpg"
+    gallery_image: "/assets/gallery/korduli.jpg"
+    description: "Koruldi lakes, group of alpine lakes at the foot of Mt. Ushba, Georgia."
 ---
 
 The longest and the most demanding trekking was planned for the last day of our stay in Mestia as the weather 

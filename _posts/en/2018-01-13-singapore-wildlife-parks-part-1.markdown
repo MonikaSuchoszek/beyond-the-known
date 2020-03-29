@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/wildlife_parks_1.jpg"
 coords:
   lat: 1.3187065
   lng: 103.7064417
+  
+gallery_items:
+  - image: "/assets/Singapore/DSC09918.jpg"
+    gallery_image: "/assets/gallery/singapore_parks1.jpg"
+    description: "Jurong bird park and River safari, wildlife parks in Singapore."
 ---
 
 ## Jurong bird park

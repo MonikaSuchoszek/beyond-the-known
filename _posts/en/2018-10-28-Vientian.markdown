@@ -10,6 +10,13 @@ thumbnail:  "/assets/thumbnails/vientian.jpg"
 coords:
   lat: 17.971106
   lng: 102.6175025
+  
+gallery_items:
+  - image: "/assets/Laos/Vientian/DSC03176.jpg"
+    gallery_image: "/assets/gallery/vientiane_capital.jpg"
+    description: "Vientiane, capital of Laos has a great variety of Buddhist temples."
+---
+
 ---
 
 First something about how we got here. In a nutshell, after a short boat ride from Don Det to Nakasong, 

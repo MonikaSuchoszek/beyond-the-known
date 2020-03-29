@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/small_DSC06573.jpg"
 coords:
   lat: 45.8117952
   lng: 9.083471
+  
+gallery_items:
+  - image: "/assets/Italy/Como/DSC06968.JPG"
+    gallery_image: "/assets/gallery/Como_cities.jpg"
+    description: "Miasta w rejonie jeziora Como są zdecydowanie warte odwiedzenia, Włochy."
 ---
 
 Podczas 10 dni spędzonych w północnych Włoszech, odwiedziliśmy kilka urokliwych miast (Como, Lecco, Milan, Morbegro, Sondrio), odkryliśmy przepiękne góry, zdołalismy spędzić na plaży

@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/chinatown.jpg"
 coords:
   lat: 1.282453
   lng: 103.843415
+  
+gallery_items:
+  - image: "/assets/Singapore/DSC09536.jpg"
+    gallery_image: "/assets/gallery/chinatown.jpg"
+    description: "Świątynia Thian Hock Keng, dzielnica Chinatown w Singapurze."
 ---
 W drodze do dzielnicy chińskiej (Chinatown) postanowiliśmy zatrzymać się na lunch w mniej turystycznym miejscu, gdzie mogliśmy spróbować 
 lokalnych potraw i napojów, a mianowicie w Maxwell hawker center.

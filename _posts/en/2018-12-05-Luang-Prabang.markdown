@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/luang_prabang.jpg"
 coords:
   lat: 19.892470
   lng: 102.135622
+  
+gallery_items:
+  - image: "/assets/Laos/LuangPrabang/DSC03616.jpg"
+    gallery_image: "/assets/gallery/luang_prabang.jpg"
+    description: "Mekong River in the late afternoon sun, Luang Prabang in northern Laos"
 ---
 
 This part of Laos is so beautiful! The first 30min of our from Vang Vieng, the landscape was particularly idyllic.

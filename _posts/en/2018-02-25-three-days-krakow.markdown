@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/krakow.jpg"
 coords:
   lat: 50.0616853
   lng: 19.9350731
+  
+gallery_items:
+  - image: "/assets/Poland/Krakow/DSC01268.jpg"
+    gallery_image: "/assets/gallery/cracow.jpg"
+    description: "Wawel castle, visiting Kraków in Poland."
 ---
 
 Our visit to Krakow started with the guided walking tour in the morning to get a proper introduction of the 

@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/muang_ngoy.jpg"
 coords:
   lat: 20.710645
   lng: 102.673892
+  
+gallery_items:
+  - image: "/assets/Laos/MuangNgoy/DSC03867.jpg"
+    gallery_image: "/assets/gallery/river_muangngoy.jpg"
+    description: "Small boat took us to Muang Ngoy, place where we enjoyed the quiet and simplicity of life."
 ---
 
 We set off again, this time in search of pure nature, exceptional mountains and, most importantly, places where people are honest and even simple 

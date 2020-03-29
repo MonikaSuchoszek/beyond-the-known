@@ -10,8 +10,12 @@ thumbnail:  "/assets/thumbnails/murshkeli.jpg"
 coords:
   lat: 43.058743
   lng: 42.7900843
+  
+gallery_items:
+  - image: "/assets/Georgia/Murshkeli/IMG_0383.JPG"
+    gallery_image: "/assets/gallery/murshkeli.jpg"
+    description: "Dzikie stado koni, niedaleko wioski Mestia, Gruzja."
 ---
-
 
 Wreszcie pogoda się polepszyła, powitało Nas piękne słońce z samego rana i dlatego postanowiliśmy od razu wyruszyć na kolejną wędrówkę. 
 Tym razem był to pierwszy odcinek szlaku prowadzącego do Ushguli, ostatniej wioski do której można dojechać samochodem przy dobrej pogodzie. 

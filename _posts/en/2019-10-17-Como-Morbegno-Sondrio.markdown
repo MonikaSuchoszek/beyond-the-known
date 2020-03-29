@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/small_DSC06573.jpg"
 coords:
   lat: 45.8117952
   lng: 9.083471
+  
+gallery_items:
+  - image: "/assets/Italy/Como/DSC06968.JPG"
+    gallery_image: "/assets/gallery/Como_cities.jpg"
+    description: "The cities in the area of Como lake are definitely worth to visit, Italy"
 ---
 
 During 10 days spent in Italy, we visited quite a few cities (Como, Lecco, Milan, Morbegro, Sondrio), discovered amazing mountains, managed to rest one day on the shore of 

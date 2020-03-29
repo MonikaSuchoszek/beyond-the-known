@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/singapore_first_glance.jpg"
 coords:
   lat: 1.2867892
   lng: 103.8545014
+  
+gallery_items:
+  - image: "/assets/Singapore/DSC09345.jpg"
+    gallery_image: "/assets/gallery/marinabay.jpg"
+    description: "Cloud Forest, one of the conservatories in Gardens by the Bay, Singapore."
 ---
 
 Nanyang campus, situated in the wast part of Singapore is the place we are going to stay for the next three 
@@ -28,6 +33,7 @@ kids used to play in a past.
 
 <img src="/assets/Singapore/DSC09227-e1515649497111.jpg">
 <img src="/assets/Singapore/DSC09225.jpg">
+<img src="/assets/Singapore/DSC09230.jpg">
 
 Merlion Park was our first stop, an almost 9m tall statue with a lion's head and fish-like body represents 
 Singapore as a both the "Lion City" and a "Sea town". Located by the Singapore river with a beautiful view on the 
@@ -36,6 +42,7 @@ skyscrapers in the back.
 
 <img src="/assets/Singapore/DSC09244.jpg">
 <img src="/assets/Singapore/DSC100411.jpg">
+
 
 Next, we took pleasant walk towards Marina Bay and Gardens hidden behind. We passed by a shopping centre 
 (The Shoppes) to grab ice coffee and cool down in air-conditioned mall :) As we walked through the shopping center, 
@@ -49,7 +56,10 @@ visit two cooled conservatories: Flower Dome and Cloud Forest. Actually I was fr
 from greenhouses with tropical rainforest plants ;) There were still Christmas decorations inside Flower Dome and 
 wooden sculptures of figures from Alice in Wonderland, nicely incorporated between the plants.
 
+<img src="/assets/Singapore/DSC09277.jpg">
+<img src="/assets/Singapore/DSC09404.jpg">
 <img src="/assets/Singapore/DSC09289.jpg">
+<img src="/assets/Singapore/DSC09326.jpg">
 
 The second conservatory, Cloud Forest has really amazing construction inside! World's tallest indoor waterfall at 
 35 meters was the first highlight of this place. Next, we experienced wonderful Cloud Walk and Tree Top Walk with 
@@ -58,11 +68,14 @@ conservatories run on sustainable energy, produces mostly from biomass (twigs, b
 and from parks. The by-product of this process, ash, is mixed with soil acting as a rich, organic fertilizer.
 
 <img src="/assets/Singapore/DSC09345.jpg">
+<img src="/assets/Singapore/DSC09381.jpg">
+<img src="/assets/Singapore/DSC09390.jpg">
 
 Later, we met a family of otters, fooling around in one of the ponds of Gardens by the Bay. There was also a huge 
 lizard, not very active but big enough to attract attention. Of course people gathered around the animals to take 
 photos and movies. Good that, I had my long-focus camera lens so I could keep a distance and not disturb them.
 
+<img src="/assets/Singapore/DSC09419-1.jpg">  
 <img src="/assets/Singapore/DSC09431.jpg">
 
 After sunset we enjoyed a 15 minutes long light and sound show (the theme was "a trip through Asia") near 

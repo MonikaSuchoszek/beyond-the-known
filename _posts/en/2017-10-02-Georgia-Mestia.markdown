@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/mestia.jpg"
 coords:
   lat: 43.052971
   lng: 42.7454973
+  
+gallery_items:
+  - image: "/assets/Georgia/Mestia/IMG_0309.jpg"
+    gallery_image: "/assets/gallery/mestia.jpg"
+    description: "Walking around Mestia village, Georgia."
 ---
 
 The morning welcomed us with snowfall! It was barely the beginning of autumn in Germany so we were really surprised 

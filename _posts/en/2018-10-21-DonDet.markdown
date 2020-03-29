@@ -10,6 +10,12 @@ thumbnail:  "/assets/thumbnails/don_det.jpg"
 coords:
   lat: 13.975908
   lng: 105.920664
+  
+gallery_items:
+  - image: "/assets/Laos/DonDet/DSC03074.jpg"
+    gallery_image: "/assets/gallery/dondet.jpg"
+    description: "Don Det, island in the Mekong delta with spectacular waterfalls and the best 
+sunsets in SE Asia!"
 ---
 
 Crossing the borders by land is always more complicated than by plane but we like challenges. Actually, the ride 

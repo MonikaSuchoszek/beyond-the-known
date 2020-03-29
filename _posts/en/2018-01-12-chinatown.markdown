@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/chinatown.jpg"
 coords:
   lat: 1.282453
   lng: 103.843415
+  
+gallery_items:
+  - image: "/assets/Singapore/DSC09536.jpg"
+    gallery_image: "/assets/gallery/chinatown.jpg"
+    description: "Thian Hock Keng temple, Chinatown district in Singapore."
 ---
 On the way to Chinatown we decided to stop for a lunch in less touristic place and mix with locals at Maxwell 
 food centre, one of many hawker centers in Singapore!

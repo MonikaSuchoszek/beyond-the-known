@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/krakow.jpg"
 coords:
   lat: 50.0616853
   lng: 19.9350731
+  
+gallery_items:
+  - image: "/assets/Poland/Krakow/DSC01268.jpg"
+    gallery_image: "/assets/gallery/cracow.jpg"
+    description: "Zamek Królewski na Wawelu to jedno z miejsc o największym znaczeniu historycznym i kulturalnym w Polsce."
 ---
 
 Nasz pobyt w Krakowie rozpoczęliśmy od spaceru z przewodnikiem (<a href="https://freewalkingtour.com/krakow/">Free Walking tour</a>), aby dokładnie poznać bogatą historię

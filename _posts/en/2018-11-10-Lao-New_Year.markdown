@@ -10,15 +10,20 @@ thumbnail:  "/assets/thumbnails/lao_new_year.jpg"
 coords:
   lat: 17.976631
   lng: 102.6342173
+  
+gallery_items:
+  - image: "/assets/Laos/NewYear/DSC03309.jpg"
+    gallery_image: "/assets/gallery/lao_newyear.jpg"
+    description: "One of the countless temples in Vientiane, capital of Laos."
 ---
 
 Pi Mai Lao, celebration of the New Year in Laos during the hottest part of the year was an 
-unexpected event we gladly joined  :D Officially it is a 3-day celebration but in some cities 
-like Vientian or Luang Prabang it can last over a week. During the New Year celebrations the entrance 
+unexpected event we gladly joined :D Officially it is a 3-day celebration but in some cities 
+like Vientiane or Luang Prabang it can last over a week. During the New Year celebrations the entrance 
 to all temples is free.
 
 That day we decided to visit Pha That Luang, a large gold-covered stupa; a national monument and the 
-symbol of Vientian. We again used the public transportation to get to this part of the city (bus nr 
+symbol of Vientiane. We again used the public transportation to get to this part of the city (bus nr 
 10 from the crossing near the central bus station, we found the correct bus stop based on the map 
 with information on the central bus station).
 

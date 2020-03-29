@@ -7,6 +7,11 @@ categories: podroze
 tags:	nepal trekking himalaje
 cover:  "/assets/Nepal/Annapurna/DSC01517.jpg"
 thumbnail:  "/assets/thumbnails/annapurna.jpg"
+
+gallery_items:
+  - image: "/assets/Nepal/Annapurna/IMG_20180301_142008148_HDR.jpg"
+    gallery_image: "/assets/gallery/annapurna_in_practice.jpg"
+    description: "Jedzenie, woda, zakwaterowanie, transport...informacje praktyczne o trekkingu wokół Annapurny."
 ---
 
 Jak zawsze przed wyjazdem, starałam się dokładnie przemysleć kwestię bagażu, zwłaszcza tym razem, kiedy jachliśmy pierwszy raz na tak długi wyjazd. Do tego 

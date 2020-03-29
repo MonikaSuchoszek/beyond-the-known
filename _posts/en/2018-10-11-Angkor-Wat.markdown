@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/angkor_wat.jpg"
 coords:
   lat: 13.4124693
   lng: 103.8669857
+  
+gallery_items:
+  - image: "/assets/Cambodia/AngkorWat/DSC02403.jpg"
+    gallery_image: "/assets/gallery/angkorwat.jpg"
+    description: "Discovering the Khmer Empire, Siem Reap in Cambodia."
 ---
 
 > The cover of National Geographic which I saw 10 years ago and the article inside caused me to 
@@ -90,18 +95,32 @@ inside with speakers to amplify his voice :-O I do need to admit that this compl
 when great lotus-shaped towers reflected on the surface of the pond. Angkor Wat lacks some of the intricate 
 decorations you can find in some of the smaller temples :-D
 
-<img src="/assets/Cambodia/AngkorWat/DSC02669-e1537469214229.jpg">
-<img src="/assets/Cambodia/AngkorWat/DSC02656-e1537469193109.jpg">
+<div class="row">
+  <img src="/assets/Cambodia/AngkorWat/DSC02669-e1537469214229.jpg" class="column-50" alt="Angkor Wat in Cambodia" />
+  <img src="/assets/Cambodia/AngkorWat/DSC02656-e1537469193109.jpg" class="column-50" alt="Angkor Wat in Cambodia" />
+</div>
 
-On the photo below you can see one of the 5 gates which were leading to the ancient city of Angkor Thom where inside you can find a famous Bayon, one of our favorite spots! Unfortunately, nowadays it is surrounded by a big roundabout&nbsp; so you can see and hear the traffic during your visit inside. The temples located a bit further from the roads had this natural atmosphere of isolation and mystery. It was already very crowded when we arrived there, especially on the top level. However, we found a quiet, narrow, mysterious corridors on the ground level. Away from the crowds we felt like true explorers :) Afterwards we walked through Baphuon, Phimeanakas to finally see The Elephant Terrace and the&nbsp;Terrace of the Leper King.
+On the photo below you can see one of the 5 gates which were leading to the ancient city of Angkor Thom where inside
+ you can find a famous Bayon, one of our favorite spots! Unfortunately, nowadays it is surrounded by a big roundabout&nbsp; so
+  you can see and hear the traffic during your visit inside. The temples located a bit further from the roads had this
+   natural atmosphere of isolation and mystery. It was already very crowded when we arrived there, especially on the top 
+   level. However, we found a quiet, narrow, mysterious corridors on the ground level. Away from the crowds we felt like
+    true explorers :) Afterwards we walked through Baphuon, Phimeanakas to finally see The Elephant Terrace and the&nbsp;Terrace
+     of the Leper King.
 
-<img src="/assets/Cambodia/AngkorWat/DSC02560-e1537367557483.jpg">
-<img src="/assets/Cambodia/AngkorWat/DSC02468.jpg">
+<div class="row">
+  <img src="/assets/Cambodia/AngkorWat/DSC02560-e1537367557483.jpg" class="column-50" alt="A gate leading to the ancient city of Angkor Thom" />
+  <img src="/assets/Cambodia/AngkorWat/DSC02468.jpg" class="column-50" alt="Angkor Wat in Cambodia" />
+</div>
+
 <img src="/assets/Cambodia/AngkorWat/DSC02677.jpg">
 <p class="caption">Bayon with 216 gigantic smiling stone faces of&nbsp;Jayavarman VII who also built this temple</p>
 
-<img src="/assets/Cambodia/AngkorWat/DSC02699.jpg">
-<img src="/assets/Cambodia/AngkorWat/DSC02697.jpg">
+<div class="row">
+  <img src="/assets/Cambodia/AngkorWat/DSC02699.jpg" class="column-50" alt="Famous Bayon, one of our favorite spots!" />
+  <img src="/assets/Cambodia/AngkorWat/DSC02697.jpg" class="column-50" alt="Famous Bayon, one of our favorite spots!" />
+</div>
+
 <img src="/assets/Cambodia/AngkorWat/DSC02740.jpg">
 <p class="caption">Phimeanakas, small Hindu temple which is not reached by many visitors</p>
 

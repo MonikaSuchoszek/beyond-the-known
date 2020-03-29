@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/heshkili.jpg"
 coords:
   lat: 43.025855
   lng: 42.7123773
+  
+gallery_items:
+  - image: "/assets/Georgia/Heshkili/IMG_0258.jpg"
+    gallery_image: "/assets/gallery/heshkili.jpg"
+    description: "Piękna przyroda i niesamowite kolory jesieni, odkrywamy uroki Gruzji."
 ---
 
 Dzień przywitał nas niestety deszczem, jednak wczesnym popołudniem wypogodziło się i postanowiliśmy od razu wyruszyć na naszą pierwszą wędrówkę w Gruzji! :D

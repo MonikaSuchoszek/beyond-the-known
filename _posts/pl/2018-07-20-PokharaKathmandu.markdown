@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/pokhara_kathmandu.jpg"
 coords:
   lat: 28.205833
   lng: 83.961983
+  
+gallery_items:
+  - image: "/assets/Nepal/PokharaKathmandu/DSC01951.jpg"
+    gallery_image: "/assets/gallery/kathmandu.jpg"
+    description: "Rzeźby przed światynią Swayambhunath, Kathmandu, Nepal."
 ---
 
 Po prawie dwóch tygodniach intensywnego trekkingu, przyszedł czas na regenerację i odpoczynek. Pokhara okazała się idealnym miejsce na 

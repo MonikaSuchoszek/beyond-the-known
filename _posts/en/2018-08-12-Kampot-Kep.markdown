@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/kampot_kep.jpg"
 coords:
   lat: 10.612414
   lng: 104.317535
+  
+gallery_items:
+  - image: "/assets/Cambodia/KampotKep/DSC02153.jpg"
+    gallery_image: "/assets/gallery/pepperplantation.jpg"
+    description: "Visiting a pepper plantation was our number one thing to do in Kampot, Cambodia."
 ---
 
 Kampot is located on the banks of the Kampot River with many restaurants and bars next to the water. Architecture 
@@ -80,7 +85,7 @@ dry season.
 and how the production process looks like, we started the practical part of the presentation, tasting. Good that 
 we ordered some sodas at the beginning :) We were really surprise by the fruity aroma of the pepper.</p>
 <img src="/assets/Cambodia/KampotKep/DSC02153.jpg">
-<p class="caption"In the late afternoon, warm colors of the plantation...</p>
+<p class="caption">In the late afternoon, warm colors of the plantation...</p>
 
 On the way back to the city, we stopped for a moment at the salt fields. Unfortunately, this year the wet season 
 came earlier and harvest of salt was already finished (usually dry season last until the end of April and 

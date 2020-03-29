@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/koruldi.jpg"
 coords:
   lat: 43.0874116
   lng: 42.6869057
+  
+gallery_items:
+  - image: "/assets/Georgia/Koruldi/IMG_0455.jpg"
+    gallery_image: "/assets/gallery/korduli.jpg"
+    description: "Jeziora Koruldi, w drodze do grupy jezior alpejskich u podnóża góry Ushba, Gruzja."
 ---
 
 Najdłuższą wycieczkę zaplanowaliśmy na ostatni dzień naszego pobytu w Mestii, gdyż wtedy dopiero pogoda miała być bardzo stabilna a to z pewnością przyda nam się w drodze

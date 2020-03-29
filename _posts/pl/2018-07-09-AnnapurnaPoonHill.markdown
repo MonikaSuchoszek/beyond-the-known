@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/annapurna_poon_hill.jpg"
 coords:
   lat: 28.793532 
   lng: 83.939208
+  
+gallery_items:
+  - image: "/assets/Nepal/Annapurna/DSC01637.jpg"
+    gallery_image: "/assets/gallery/annapurna_poonhill.jpg"
+    description: "Trekking w Nepalu, wokół szczytu Annapurna oraz na punkt widokowy Poon Hill."
 ---
 
 

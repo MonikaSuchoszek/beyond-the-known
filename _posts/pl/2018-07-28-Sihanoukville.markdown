@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/sihanoukeville.jpg"
 coords:
   lat: 10.571719
   lng: 103.551498
+  
+gallery_items:
+  - image: "/assets/Cambodia/Sihanoukville/DSC02089.jpg"
+    gallery_image: "/assets/gallery/Sihanoukville_islands.jpg"
+    description: "Koh Ta Kiev, wyspa na wybrzeżu Kambodży."
 ---
 
 W skrócie wyglądało to tak. Po kilku tygodniach spędzonych na trekkingu w Himalajach, polecieliśmy do Bangkoku, aby tam rozpocząć drugi etap naszej podróży, tym razem w 

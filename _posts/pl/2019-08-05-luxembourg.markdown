@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/little_switzerland.jpg"
 coords:
   lat: 49.8187435
   lng: 6.3486244
+  
+gallery_items:
+  - image: "/assets/Luxembourg/DSC05267.JPG"
+    gallery_image: "/assets/gallery/berdorf_region.jpg"
+    description: "Skalne labirynty w rejonie miasta Berdorf, Luksemburg"
 ---
 
 Kiedy dostaliśmy od znajomej propozycję wyjazdu do Luxemburga, nie wahaliśmy się ani chwili. Naszym celem były okolice miasteczka Berdorf, które okazało się idealnym

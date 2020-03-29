@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/kampot_kep.jpg"
 coords:
   lat: 10.612414
   lng: 104.317535
+  
+gallery_items:
+  - image: "/assets/Cambodia/KampotKep/DSC02153.jpg"
+    gallery_image: "/assets/gallery/pepperplantation.jpg"
+    description: "Zwiedzanie plantacji pieprzu było naszym głównym celem podczas pobytu w Kampot, Kambodża."
 ---
 
 Miasto Kampot położone jest nad rzeką o tej samej nazwie, a jej nadbrzeże wypełnione jest restauracjami i barami nad samą wodą. Architektura budynków, 

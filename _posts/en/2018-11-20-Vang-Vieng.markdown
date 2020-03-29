@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/vang_vieng.jpg"
 coords:
   lat: 18.919847
   lng: 102.4442046
+  
+gallery_items:
+  - image: "/assets/Laos/VangVieng/DSC03414.JPG"
+    gallery_image: "/assets/gallery/vang_vieng.jpg"
+    description: "Vang Vieng, nearby hills covered with thick vegetation, rising abruptly from the surrounding flat fields."
 ---
 
 During the bus ride we noticed a huge change of scenery. We were going further to the north of the country, to the mountainous region of Laos, and that was clearly visible. Vang Vieng, a town with the 

@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
 coords:
   lat: 45.8851317
   lng: 9.3894263
+  
+gallery_items:
+  - image: "/assets/Italy/MonteColtignone/DSC06831.JPG"
+    gallery_image: "/assets/gallery/monte_coltignone.jpg"
+    description: "On the way to the peak, route nr 59 to Monte Coltignone, Italy"
 ---
 
 After hiking to [Monte Resegone]({% post_url 2019-09-14-Monte Resegone %}), a day trip around the Como lake by 
@@ -32,7 +37,12 @@ get more sweaty :p) to enjoy them.</p>
 
 <img src="/assets/Italy/MonteColtignone/DSC06831.JPG" alt="Monte Coltignone" />
 
-The whole way up was really steep! Except the first couple hundreds meters when we passed a few houses before entering the forest. As we made our way up the mountain, the path didn't get flatter even for a moment and our calves were still really sore after the previous hike. So we were walking slowly but steady to finally reach the wooden sign indicating route number 57 to Monte San Martino and route nr 59 to Monte Coltignone (Santiero G.E.R). We took a short break there, looking at the peak Corno Medale, which was really close to us (we think there is no touristic path to this peak). Now we were on more exposed terrain, with rocks to climb, chains to hold. At one point we passed a tiny cavern with a Madonna statue, right before the most difficult part of the hike :)
+The whole way up was really steep! Except the first couple hundreds meters when we passed a few houses before entering the forest. 
+As we made our way up the mountain, the path didn't get flatter even for a moment and our calves were still really sore after the previous 
+hike. So we were walking slowly but steady to finally reach the wooden sign indicating route number 57 to Monte San Martino and route nr 59 
+to Monte Coltignone (Santiero G.E.R). We took a short break there, looking at the peak Corno Medale, which was really close to us (we think 
+there is no touristic path to this peak). Now we were on more exposed terrain, with rocks to climb, chains to hold. At one point we passed 
+a tiny cavern with a Madonna statue, right before the most difficult part of the hike :)
 
 <img src="/assets/Italy/MonteColtignone/DSC06833.JPG" alt="Monte Coltignone" />
 

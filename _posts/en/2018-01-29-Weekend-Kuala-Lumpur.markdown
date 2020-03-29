@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/kuala_lumpur.jpg"
 coords:
   lat: 3.1578931
   lng: 101.7119808
+  
+gallery_items:
+  - image: "/assets/Malaysia/KualaLumpur/DSC00726.jpg"
+    gallery_image: "/assets/gallery/kualalumpur.jpg"
+    description: "Petronas Towers at night, the tallest building in Kuala Lumpur, Malaysia."
 ---
 
 This city is a very good choice if you have free weekend and you don't mind to be on a bus for 7h (definitely not 5h 

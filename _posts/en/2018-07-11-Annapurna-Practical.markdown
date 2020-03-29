@@ -7,6 +7,11 @@ categories: travel
 tags:	nepal hiking himalayas
 cover:  "/assets/Nepal/Annapurna/DSC01517.jpg"
 thumbnail:  "/assets/thumbnails/annapurna.jpg"
+
+gallery_items:
+  - image: "/assets/Nepal/Annapurna/IMG_20180301_142008148_HDR.jpg"
+    gallery_image: "/assets/gallery/annapurna_in_practice.jpg"
+    description: "Food, water, accommodation, transportation...practical information about Annapurna Circuit."
 ---
 
 As always before a trip, I did my homework and researched what we'd need to take with us. This was no different 

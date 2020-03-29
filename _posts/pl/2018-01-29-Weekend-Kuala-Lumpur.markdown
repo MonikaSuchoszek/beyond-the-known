@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/kuala_lumpur.jpg"
 coords:
   lat: 3.1578931
   lng: 101.7119808
+  
+gallery_items:
+  - image: "/assets/Malaysia/KualaLumpur/DSC00726.jpg"
+    gallery_image: "/assets/gallery/kualalumpur.jpg"
+    description: "Petronas Towers pod osłona nocy, najwyższe budynki w mieście Kuala Lumpur, Malezja."
 ---
 
 Miasto to jest dobrym wyborem na weekendową wycieczkę, jeśli nie przeszkadza Wam 7 godzinna podróż autokarem (zdecydowanie nie było to 5 godzin, jak zapewniał przewoźnik,

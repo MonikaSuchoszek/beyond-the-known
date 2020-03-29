@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
 coords:
   lat: 45.8851317
   lng: 9.3894263
+  
+gallery_items:
+  - image: "/assets/Italy/MonteColtignone/DSC06831.JPG"
+    gallery_image: "/assets/gallery/monte_coltignone.jpg"
+    description: "W drodze na szczyt, szlak nr 59 na Monte Coltignone, Włochy."
 ---
 
 

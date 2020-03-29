@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/singapore_first_glance.jpg"
 coords:
   lat: 1.2867892
   lng: 103.8545014
+  
+gallery_items:
+  - image: "/assets/Singapore/DSC09345.jpg"
+    gallery_image: "/assets/gallery/marinabay.jpg"
+    description: "Cloud Forest, szklarnia z roślinnością lasu tropikalnego w ogrodach Gardens by the Bay, Singapur."
 ---
 
 Kolejne 3 tygodnie spędzimy w Singapurze, mieszkając na kampusie Uniwersytetu Nanyang, który znajduje się w zachodniej cześci miasta. 

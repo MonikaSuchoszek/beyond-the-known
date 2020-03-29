@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/monte_resegone.jpg"
 coords:
   lat: 45.8581666
   lng: 9.4689035
+  
+gallery_items:
+  - image: "/assets/Italy/Monte_Resegone/DSC06677.JPG"
+    gallery_image: "/assets/gallery/monte_resegone.jpg"
+    description: "Route to Monte Resegone got more interesting above the tree-line where we could enjoy the impressive rock formations, Italy."
 ---
 
 Lecco, a small city located on the southern tip of Lake Como turned out to be a fantastic base for hiking lovers. 
@@ -26,7 +31,13 @@ could already admire the stunning view of Como lake and Lecco city. The path was
 
 <img src="/assets/Italy/Monte_Resegone/DSC06629.JPG" alt="Monte Resegone" />
 
-I was eager to reach the higher parts of the trail, above the tree-line and enjoy the impressive rock formations. I got super excited when I saw the first chains, that meant the path was about to get more interesting! :D In many places it was necessary to use hands, it was more like a scrambling than normal hike but these parts I just loved. Not everyone would be so excited (including my boyfriend) but I was climbing for 7 years so that part of me will always love the feeling of rocks and being in the exposed terrain. We had amazing weather but be aware that this path is difficult and many accidents happens there when it's icy or rainy. 
+I was eager to reach the higher parts of the trail, above the tree-line and enjoy the impressive rock 
+formations. I got super excited when I saw the first chains, that meant the path was about to get more
+ interesting! :D In many places it was necessary to use hands, it was more like a scrambling than normal 
+ hike but these parts I just loved. Not everyone would be so excited (including my boyfriend) but I was 
+ climbing for 7 years so that part of me will always love the feeling of rocks and being in the exposed 
+ terrain. We had amazing weather but be aware that this path is difficult and many accidents happens there
+  when it's icy or rainy. 
 
 <img src="/assets/Italy/Monte_Resegone/DSC06646.JPG" alt="Monte Resegone" />
 
@@ -40,11 +51,22 @@ I was eager to reach the higher parts of the trail, above the tree-line and enjo
 
 <img src="/assets/Italy/Monte_Resegone/DSC06699.JPG" alt="Monte Resegone" />
 
-The view from the peak was really cool, mountains all around, when clouds moved out of the way we could see distant peaks and of course Como lake which, all together, create a spectacular experience! We stood there for a while admiring the mountain peaks. With over 30 peaks on the horizon, I found it really useful to look at the metal plate with points to all off them indicating their names and heights. There is a shelter next to the peak so you can grab some snacks, sandwich or even a simple hot meal.
+The view from the peak was really cool, mountains all around, when clouds moved out of the way we could
+ see distant peaks and of course Como lake which, all together, create a spectacular experience! We stood 
+ there for a while admiring the mountain peaks. With over 30 peaks on the horizon, I found it really useful
+  to look at the metal plate with points to all off them indicating their names and heights. There is a 
+  shelter next to the peak so you can grab some snacks, sandwich or even a simple hot meal.
 
 <img src="/assets/Italy/Monte_Resegone/IMG_121345847.JPG" class="column-45" alt="Monte Resegone" />
 
-We decided to try another hiking path and go back to Piani d'Erna by trail number 10 (passing a few peaks, Punta Stoppani, Manzoni & Dente) which is less popular and unfortunately had way more loose rocks which actually makes it quite difficult to walk down as there was a high probability of falling down. Our muscles were constantly tense and got really tired after the first difficult part with some chains and falling rocks. Also, it got very foggy, the visibility was really low as shown on the photos below. If you really don't like to do twice the same path then I would recommend to go up to the peak by the route number 10 and go down with number 1 which is still difficult but has less loosy rocks which are especially annoying while going down.
+We decided to try another hiking path and go back to Piani d'Erna by trail number 10 (passing a few
+ peaks, Punta Stoppani, Manzoni & Dente) which is less popular and unfortunately had way more loose rocks
+  which actually makes it quite difficult to walk down as there was a high probability of falling down.
+   Our muscles were constantly tense and got really tired after the first difficult part with some chains 
+   and falling rocks. Also, it got very foggy, the visibility was really low as shown on the photos below. 
+   If you really don't like to do twice the same path then I would recommend to go up to the peak by the 
+   route number 10 and go down with number 1 which is still difficult but has less loosy rocks which are 
+   especially annoying while going down.
 
 <img src="/assets/Italy/Monte_Resegone/IMG_134055691.JPG" alt="Monte Resegone" />
 

@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/wildlife_parks_2.jpg"
 coords:
   lat: 1.4046188
   lng: 103.7883253
+  
+gallery_items:
+  - image: "/assets/Singapore/DSC00156-1.jpg"
+    gallery_image: "/assets/gallery/singapore_parks2.jpg"
+    description: "Singapore Zoo, unique in its structure and atmosphere."
 ---
 
 ## Singapore Zoo
@@ -50,7 +55,7 @@ catch flying discs, jump out of the water and touch a ball. It turned out to be 
 <img src="/assets/Singapore/DSC00117.jpg">
 
 During another show "Elephants at work and play" three of the zoo's Asian Elephants were introduced along with their keepers, called Mahouts. They demonstrated their power 
-by pushing giant logs from the water but also showed us how gentle they can be by picking up a coin with the tip of their long trunks or puting a hat back on the keeper's 
+by pushing giant logs from the water but also showed us how gentle they can be by picking up a coin with the tip of their long trunks or putting a hat back on the keeper's 
 head :) Elephants made us laugh when they were stealing food from keepers' pockets or pretending to go sleep (creatively using soft branches as a pillow) :p There was a 
 token feeding session at the end of a show, where a limited number of food baskets could be purchased and fed to the animals by visitors :D
 
@@ -58,7 +63,8 @@ token feeding session at the end of a show, where a limited number of food baske
 <img src="/assets/Singapore/DSC00171.jpg">
 <img src="/assets/Singapore/DSC00198.jpg">
 
-RepTopia, part of the Zoo dedicated to reptiles and amphibians was a nice surprise for us. We could see there huge lizards, tiny frogs and chameleon during his feeding session ;p
+RepTopia, part of the Zoo dedicated to reptiles and amphibians was a nice surprise for us. We could see there huge lizards, tiny frogs and chameleon during
+ his feeding session ;p
 
 <img src="/assets/Singapore/DSC00254.jpg">
 <img src="/assets/Singapore/DSC00251.jpg">
@@ -90,7 +96,7 @@ During the tram ride (around 30-40min) we passed 6 different geographical region
 for each of them. The English commentary was really helpful, providing information about animals as we passed them. 
 I was the most impressed by the giant Asian Elephant, White African Lions and Greater Asian Rhinoceros. Worth to 
 add that in some parts, animals such as deers were running freely in very close proximity from the tram, no fences 
-at all, unforgetable experience!
+at all, unforgettable experience!
 
 __Practical information:__
 

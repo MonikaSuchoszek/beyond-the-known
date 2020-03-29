@@ -10,10 +10,15 @@ thumbnail:  "/assets/thumbnails/buddha_park.jpg"
 coords:
   lat: 17.912435
   lng: 102.764951
+  
+gallery_items:
+  - image: "/assets/Laos/BuddhaPark/DSC03211.jpg"
+    gallery_image: "/assets/gallery/buddahpark.jpg"
+    description: "Buddha Park, a sculpture park with more than 200 religious statues made of concrete near Vientiane."
 ---
 
 Buddha Park, located 26km from the city center, was our main destination for that day. We decided to use 
-the public transportation to get there and it turned out to be an easy and cheap solution.  First you need 
+the public transportation to get there and it turned out to be an easy and cheap solution. First you need 
 to go to the central bus station which is divided into two parts: CBS1 and CBS2. You can easily find an 
 information boards about bus routes and prices with the description in English. It was necessary to get 
 bus number 14 from the CBS2 part of the bus station and after around 40 min of a bus ride we arrived to 
@@ -35,8 +40,12 @@ snack or chill out in cafe nearby the Mekong river.
 <img src="/assets/Laos/BuddhaPark/DSC03228.jpg">
 <img src="/assets/Laos/BuddhaPark/DSC03211.jpg">
 <img src="/assets/Laos/BuddhaPark/DSC03239.jpg">
-<img src="/assets/Laos/BuddhaPark/DSC03210.jpg">
-<img src="/assets/Laos/BuddhaPark/IMG_20180413_110811403.jpg" />
+
+<div class="row">
+  <img src="/assets/Laos/BuddhaPark/DSC03210.jpg" class="column-50" alt="Buddha Park in Laos" />
+  <img src="/assets/Laos/BuddhaPark/IMG_20180413_110811403.jpg" class="column-50" alt="Buddha Park in Laos" />
+</div>
+
 <img src="/assets/Laos/BuddhaPark/IMG_20180413_111236224_LL.jpg">
 <p class="caption">The way to the view terrace was through a dark hell :O</p>
 <img src="/assets/Laos/BuddhaPark/DSC03249.jpg">

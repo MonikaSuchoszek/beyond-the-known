@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/mestia.jpg"
 coords:
   lat: 43.052971
   lng: 42.7454973
+  
+gallery_items:
+  - image: "/assets/Georgia/Mestia/IMG_0309.jpg"
+    gallery_image: "/assets/gallery/mestia.jpg"
+    description: "Spacerując wokół wioski Mestia, Gruzja."
 ---
 
 Kolejny poranek powitał nas opadem śniegu! Co za zmiana w porównaniu z poprzednim dniem.

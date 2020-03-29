@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/wildlife_parks_2.jpg"
 coords:
   lat: 1.4046188
   lng: 103.7883253
+  
+gallery_items:
+  - image: "/assets/Singapore/DSC00156-1.jpg"
+    gallery_image: "/assets/gallery/singapore_parks2.jpg"
+    description: "Zoo w Singapurze, absolutnie wyjątkowe w swoim rodzaju!"
 ---
 
 ## Singapurskie Zoo

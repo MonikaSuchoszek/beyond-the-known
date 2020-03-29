@@ -10,6 +10,11 @@ thumbnail:  "/assets/thumbnails/annapurna_poon_hill.jpg"
 coords:
   lat: 28.793532 
   lng: 83.939208
+  
+gallery_items:
+  - image: "/assets/Nepal/Annapurna/DSC01637.jpg"
+    gallery_image: "/assets/gallery/annapurna_poonhill.jpg"
+    description: "Hiking in Nepal, both Annapurna circuit and Poon Hill trek."
 ---
 
 We arrived in Kathmandu on the first of March and found ourselves jet-lagged and in the middle of the Holi festival, 
