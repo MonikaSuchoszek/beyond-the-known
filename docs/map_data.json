@@ -248,6 +248,20 @@
     } ,
 
     {
+      "title"    : "Angkor Wat: rozwój oraz upadek imperium Khmerów",
+      "url"      : "/pl/travel/2018/10/Angkor-Wat/",
+      "date"     : "October 11, 2018",
+      "locale"   : "pl_PL",
+      "content" :  "Okładka magazynu National Geographic którego egzemplarz wpadł w moje ręce 10 lat temu oraz artykuł w środku sprawiły, że zaczęłam marzyć o odkrywaniu dawnego imperium Khmerów. Wtedy wydawało mi się wręcz nierealne, ale na szczęście niektóre marzenia spełniają się szybciej niż byśmy się tego spodziewali! I tak oto, stoję w..."
+      
+       , "coords" : {
+          "lat" : 13.4124693,
+          "lng" : 103.8669857
+      }
+      
+    } ,
+
+    {
       "title"    : "Angkor Wat: the rise and fall of the Khmer Empire",
       "url"      : "/en/travel/2018/10/Angkor-Wat/",
       "date"     : "October 11, 2018",
