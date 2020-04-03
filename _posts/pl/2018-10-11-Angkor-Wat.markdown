@@ -19,12 +19,12 @@ gallery_items:
 
 > Okładka magazynu National Geographic którego egzemplarz wpadł w moje ręce 10 lat temu oraz artykuł w środku
 sprawiły, że zaczęłam marzyć o odkrywaniu dawnego imperium Khmerów. Wtedy wydawało mi się wręcz nierealne, ale 
-na szczęście niektóre marzenia spełniają się szybciej niż byśmy się tego spodziewali! I tak oto, stoję w
-niedowierzaniu przed bramą wjazdową do parku archeologicznego Angkor, z 3-dniowym biletem wstępu w dłoni :D
+na szczęście niektóre marzenia spełniają się szybciej niż byśmy się tego spodziewali! I tak oto, stoję
+niedowierzając przed bramą wjazdową do parku archeologicznego Angkor, z 3-dniowym biletem wstępu w dłoni :D
 
 <img src="/assets/Cambodia/AngkorWat/GOPR8004.jpg" />
 <p class="caption">Czas zacząć przygodę! Duża butelka wody od razu wylądowała w koszyku mojego roweru, już 
-wczesnym rankiem upał był nieubłagalny a zgodnie z przepisami, w parku archeologicznym trzeba mieć zakryte
+wczesnym rankiem upał był nieznośny a zgodnie z przepisami, w parku archeologicznym trzeba mieć zakryte
 ramiona oraz kolana.</p>
 
 Imperium Khmerskie rozciągało się na ogromnym obszarze Azji Południowo-Wschodniej, od Birmy na zachodzie aż po Wietnam
@@ -171,7 +171,7 @@ kreują niesamowity klimat tego miejsca, który zapadnie na długo w naszej pami
 <p class="caption">Bliskość przyrody i jej potęga sprawiaja, że jest to jedna z tych świątyń, które koniecznie trzeba zaobaczyć!</p>
 
 Angkor Wat to nie tylko świątynie, ale również okoliczne wiosku z targami i sklepikami, które mijaliśmy pomiędzy kolejnymi przystankami.
-Po porannym odwiedzeniu Ta Phrom, zdecydowaliśmy udać się do bardziej odległych oraz mniej popularnych świątyń: Banteay Samre, Lolei (cała w rusztowaniach!),
+Po porannym zwiedzeniu Ta Phrom, zdecydowaliśmy udać się do bardziej odległych oraz mniej popularnych świątyń: Banteay Samre, Lolei (cała w rusztowaniach!),
 Preah Koh oraz Bakong. Niestety, aby się tam dostać jechaliśmy prawie 10km bardzo ruchliwą drogą, gdzie mijały nas ciężarówki, także byliśmy bardzo
 zestresowani w naszym małym tuk-tuku nie wspominając już jakości powietrza podczas tej szalonej jazdy. 
 
@@ -197,7 +197,7 @@ i spędzając całe dnie z rodzicami</p>
 w których kryły się prawdziwe skarby, puszki coli czy sprita leżące w towarzystwie topniejącego lodu :D</p>
 <img src="/assets/Cambodia/AngkorWat/IMG_20180406_091619909.jpg">
 <p class="caption">Kierowca naszego tuk-tuk zatrzymał się, aby zatankować :O Wcześniej kupował plastikową butelkę z benzyną przy drodze, więc ta stacja była
-już na wyższym poziomie :)</p>
+w tych warunkach luksusem! :)</p>
 
 Angkor Wat to ogromny park archeologiczny, gdzie można kupić lokalne produkty wytwarzane przez mieszkańców na miejscu
 (rzeźby, obrazy mnichów malowane akwarelą, które bardzo mnie urzekły) a także tanie magnesy, które już zbyt oryginalne nie są.
