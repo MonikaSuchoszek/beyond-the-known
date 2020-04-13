@@ -52,7 +52,9 @@ a tiny cavern with a Madonna statue, right before the most difficult part of the
 
 <img src="/assets/Italy/MonteColtignone/DSC06841.JPG" alt="Monte Coltignone" />
 
-Despite it being a very nice, sunny day, the visibility was not great. We couldn't clearly see the lake and distant peaks. When we reached the top of the mountain we were quite surprised to see a big forest on the other side, after this whole steep part. So basically you have a nice view but only on one side of the mountain, the one we have chosen to get to the peak.
+Despite it being a very nice, sunny day, the visibility was not great. We couldn't clearly see the lake and distant peaks.
+ When we reached the top of the mountain we were quite surprised to see a big forest on the other side, after this whole steep 
+ part. So basically you have a nice view but only on one side of the mountain, the one we have chosen to get to the peak.
 
 <img src="/assets/Italy/MonteColtignone/DSC06845.JPG" alt="Monte Coltignone" />
 
@@ -62,7 +64,12 @@ Despite it being a very nice, sunny day, the visibility was not great. We couldn
 
 <img src="/assets/Italy/MonteColtignone/DSC06851.JPG" alt="Monte Coltignone" />
 
-Monte Coltignone looks totally different from the other side which can be reached by wide, easy path from the shelter S.E.L Rocca-Locatelli in Piani Resinelli (you can park your car there). Between the peak and the shelter we could admired a stunning peaks of Grigna massif in a distance (first photo below). On the way back we passed Casa Museo di Villa Gerosa, Rifugio S.E.L Rocca-Locatelli in Piani Resinelli which was unfortunatley closed. Next, we followed the stream Torrente Calolden where the path got steeper and really rocky until we finally reached Laorca village again. The path we took to go down from Monte Coltignone was much easier, of course steep and exhausting but not dangerous (no exposed terrain or chains). 
+Monte Coltignone looks totally different from the other side which can be reached by wide, easy path from the shelter S.E.L Rocca-Locatelli in 
+Piani Resinelli (you can park your car there). Between the peak and the shelter we could admired a stunning peaks of Grigna massif in a
+ distance (first photo below). On the way back we passed Casa Museo di Villa Gerosa, Rifugio S.E.L Rocca-Locatelli in Piani Resinelli which was
+  unfortunatley closed. Next, we followed the stream Torrente Calolden where the path got steeper and really rocky until we finally reached
+   Laorca village again. The path we took to go down from Monte Coltignone was much easier, of course steep and exhausting but not dangerous 
+   (no exposed terrain or chains). 
 
 <img src="/assets/Italy/MonteColtignone/DSC06854.JPG" alt="Monte Coltignone" />
 

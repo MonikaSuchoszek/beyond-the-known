@@ -58,6 +58,8 @@ lettuce with rice and Kampot pepper sauce (mix of lime juice and pepper)</p>
 <img src="/assets/Cambodia/Food/IMG_20180401_173055730.jpg" />
 <p class="caption">Tapioca pudding with banana and sesame. Bananas which are available in Europe 
 are not suited for cooking something like this ... I already found out the hard way !</p>
+<img src="/assets/Cambodia/Food/IMG_20180406_160644123_01.jpg" />
+
 
 Since we were traveling only by bus, it is important to mention what you can get as a snack during a break. 
 Fried banana chips, cut fruits, various meat from barbecue, rice in banana leaves, cold beverages and sweets like 
@@ -82,8 +84,11 @@ in Europe. Look at the second row from the top (right photo), huge mangoes! They
 0.5kg :O I got pretty addicted and had one almost every day :)
 
 <img src="/assets/Cambodia/Food/DSC02375.jpg">
-<img src="/assets/Cambodia/Food/IMG_20180405_184320713.jpg">
-
+<div class="row">
+  <img src="/assets/Cambodia/Food/IMG_20180405_184320713.jpg" class="column-50" alt="Street stall with delicious fruit shakes!" />
+  <img src="/assets/Cambodia/Food/IMG_20180427_065638522_01.jpg" class="column-50" alt="Huge mangoes! They literally weight always at least 
+0.5kg" />
+</div>
 
 __Recommended restaurants in Cambodia:__
   * <a href="https://www.tripadvisor.com/Restaurant_Review-g293940-d2372913-Reviews-Kabbas_Restaurant-Phnom_Penh.html">Kabbas</a> , <a href="https://www.tripadvisor.com/Restaurant_Review-g293940-d10226831-Reviews-350_BBQ_Cafe-Phnom_Penh.html">350 BBQ Cafe</a> or <a href="https://www.tripadvisor.com/Restaurant_Review-g293940-d3454214-Reviews-David_s_Restaurant_Handmade_Noodles-Phnom_Penh.html">David's Restaurant </a>in Phnom Penh

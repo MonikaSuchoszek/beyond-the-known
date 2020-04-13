@@ -105,7 +105,7 @@ very warm and most of the pople in the village were having a midday break in the
 
 The next day we took a boat back to Nong Khiaw, where we stayed few days, exploring the surrounding steep hills! It got ever more challenging :) We bought a ticket for a boat in
 the early morning, ticket office is located very close to the pier what is indicated by the signs next to the road. We noticed there a empty shell of cluster bomb as a reminder and warning
-that millions of them are still killing hundreds of innocent people every year (40% of victims are kids, confusing the bombs with toys), after almost 50 years from the end of the this war. 
+that millions of them are still killing hundreds of innocent people every year (the half of victims are kids, confusing the bombs with toys), after almost 50 years from the end of the this war. 
 Muang Ngoy is nice place to relax, cool to come here for a few days to experience something different than hustle and bustle of big cities like Luang Prabang.
 
 <img src="/assets/Laos/MuangNgoy/DSC03867.jpg" alt="Boats transporting people and good up and down the river" />
