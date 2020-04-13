@@ -141,6 +141,20 @@
     } ,
 
     {
+      "title"    : "Crossing the border with Thailand from Luang Namtha in northern Laos",
+      "url"      : "/en/travel/2019/02/Luang_Namtha/",
+      "date"     : "February 11, 2019",
+      "locale"   : "en_US",
+      "content" :  "Finally, it was a time to cross the border with Thailand and start our adventure in the last country on our list during this trip. We knew that it’s not possible to take a bus in one go from Nong Khiaw to the border with Thailand, 400km further. Therefore, we..."
+      
+       , "coords" : {
+          "lat" : 20.972146,
+          "lng" : 101.409897
+      }
+      
+    } ,
+
+    {
       "title"    : "Nong Khiaw: amazing viewpoints overlooking Nam Ou river",
       "url"      : "/en/travel/2019/02/Nong_Khiaw/",
       "date"     : "February 05, 2019",
@@ -257,7 +271,7 @@
       "url"      : "/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/",
       "date"     : "October 12, 2018",
       "locale"   : "pl_PL",
-      "content" :  "Nie mieliśmy pojęcia czego możemy spodziewać się po kuchni kambodżańskiej. Czy faktycznie bardzo rożni się od kuchni tajskiej lub laotańskiej? Jak do tej pory wszystkie dania z tego kontynenty wrzucaliśmy do jednego worka, dania z kuchni azjatyckiej :D Teraz śmiało możemy stwierdzić, że każdy kraj zaskoczył nas pewnymi połaczeniami smaków,..."
+      "content" :  "Nie mieliśmy pojęcia czego możemy spodziewać się po kuchni kambodżańskiej. Czy faktycznie bardzo rożni się od kuchni tajskiej lub laotańskiej? Jak do tej pory wszystkie dania z tego kontynentu wrzucaliśmy do jednego worka, jako dania kuchni azjatyckiej :D Teraz śmiało możemy stwierdzić, że każdy kraj zaskoczył nas pewnymi połaczeniami smaków,..."
       
     } ,
 

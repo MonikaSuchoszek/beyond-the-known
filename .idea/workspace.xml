@@ -2,95 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac42faad-c085-4dc0-8809-b7828ce0f95e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/Cambodia/Food/IMG_20180406_160644123_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Cambodia/Food/IMG_20180427_065638522_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03901.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03905.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03906.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03909.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03919.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03935.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03953.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03964.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03966.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03967.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03974.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03976.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03987.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03997.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03998.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/GOPR8271.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180406_160644123.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180406_160644123_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180417_180612528.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180422.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180422_125148412.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180423.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/Screenshot from 2020-04-05 18-30-52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/Screenshot from 2020-04-05 18-34-47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/gallery/river_nongkhiaw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/thumbnails/nong_khiaw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Cambodia/Food/IMG_20180406_160644123_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Cambodia/Food/IMG_20180427_065638522_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03901.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03905.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03906.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03909.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03919.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03935.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03953.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03964.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03966.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03967.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03974.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03976.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03987.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03997.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03998.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/GOPR8271.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180406_160644123.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180406_160644123_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180417_180612528.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180422.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180422_125148412.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180423.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/Screenshot from 2020-04-05 18-30-52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/Screenshot from 2020-04-05 18-34-47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/gallery/river_nongkhiaw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/thumbnails/nong_khiaw.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/travel/2019/02/Nong_Khiaw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/page/6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/en/2019-02-11-Luang_Namtha.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/DSC04003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/DSC04005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/DSC04007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/DSC04008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/DSC04011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/DSC04012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/DSC04013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/IMG_20180426_113727096_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/IMG_20180427_112044409_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/IMG_20180427_120144135_HDR_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/IMG_20180427_143221203_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/IMG_20180427_144444927_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/IMG_20180427_144450803_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/LuangNamtha/Screenshot from 2020-04-05 18-36-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/DSC03914.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/thumbnails/luang_namtha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/DSC04003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/DSC04005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/DSC04007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/DSC04008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/DSC04011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/DSC04012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/DSC04013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/IMG_20180426_113727096_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/IMG_20180427_112044409_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/IMG_20180427_120144135_HDR_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/IMG_20180427_143221203_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/IMG_20180427_144444927_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/IMG_20180427_144450803_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/LuangNamtha/Screenshot from 2020-04-05 18-36-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/DSC03914.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/thumbnails/luang_namtha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/en/travel/2019/02/Luang_Namtha/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/en/2018-10-12-Cambodian-cuisine.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2018-10-12-Cambodian-cuisine.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/en/2018-10-28-Vientian.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2018-10-28-Vientian.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/en/2019-01-19-Muang_Ngoy.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2019-01-19-Muang_Ngoy.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/en/2019-09-27-Monte Coltignone.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2019-09-27-Monte Coltignone.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Cambodia/Food/IMG_20180405_184320713.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Cambodia/Food/IMG_20180405_184320713.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/GOPR8271.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180422_125148412_HDR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180422_144643829_HDR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180422_172027521_HDR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180422_172027521_HDR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180422_172041443_HDR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180423_091225114_HDR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180423_091225114_HDR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180423_105414542_HDR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180423_105414542_HDR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180423_105431405_HDR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180423_105431405_HDR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180423_134523219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180424_100455236.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180424_100455236.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180425_103219716.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Laos/NongKhiaw/IMG_20180425_103219716.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Cambodia/Food/IMG_20180405_184320713.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/Cambodia/Food/IMG_20180405_184320713.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/GOPR8271.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180422_125148412_HDR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180422_144643829_HDR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180422_172027521_HDR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180422_172027521_HDR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180422_172041443_HDR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180423_091225114_HDR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180423_091225114_HDR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180423_105414542_HDR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180423_105414542_HDR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180423_105431405_HDR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180423_105431405_HDR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180423_134523219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180424_100455236.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180424_100455236.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180425_103219716.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/Laos/NongKhiaw/IMG_20180425_103219716.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/en/2018-10-11-Angkor-Wat.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2018-10-11-Angkor-Wat.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/en/2019-02-05-Nong_Khiaw.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2019-02-05-Nong_Khiaw.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/pl/2018-10-12-Cambodian-cuisine.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/pl/2018-10-12-Cambodian-cuisine.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gallery/river_muangngoy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/gallery/river_muangngoy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/gallery/river_muangngoy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/gallery/river_muangngoy.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/food/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/food/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" afterDir="false" />
@@ -125,6 +76,7 @@
       <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/11/Vang-Vieng/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/11/Vang-Vieng/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/travel/2018/12/Luang-Prabang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2018/12/Luang-Prabang/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/01/Muang_Ngoy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/01/Muang_Ngoy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/02/Nong_Khiaw/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/02/Nong_Khiaw/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/08/luxembourg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/08/luxembourg/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/09/Ferry/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/09/Ferry/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/travel/2019/09/Monte-Coltignone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2019/09/Monte-Coltignone/index.html" afterDir="false" />
@@ -136,19 +88,14 @@
       <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/gallery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/gallery/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/map/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/map/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/map_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/map_data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/page/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pl/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/6/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/galeria/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/galeria/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/index.html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pl/index.html/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pl/index.html/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/page/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pl/index.html/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/page/4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pl/mapa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/mapa/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Chaaladi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Chaaladi/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Heshkili/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Heshkili/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Koruldi-lakes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Koruldi-lakes/index.html" afterDir="false" />
@@ -172,8 +119,8 @@
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/10/Como-Morbegno-Sondrio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/10/Como-Morbegno-Sondrio/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pl/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/posts/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/sport/2017/09/Iron-Viking-bieg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/sport/2017/09/Iron-Viking-bieg/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/travel/2018/10/Angkor-Wat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/travel/2018/10/Angkor-Wat/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
@@ -266,13 +213,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/pl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/en" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/pl" />
       <recent name="$PROJECT_DIR$/_posts/en" />
+      <recent name="$PROJECT_DIR$/_posts/pl" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -340,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585928677224</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new post en nong khiaw and new post pl food cambodia">
+      <created>1586766575324</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586766575325</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -350,13 +305,18 @@
     <MESSAGE value="update gallery en and pl" />
     <MESSAGE value="new post pl Angkor" />
     <MESSAGE value="new post pl Angkor update" />
-    <option name="LAST_COMMIT_MESSAGE" value="new post pl Angkor update" />
+    <MESSAGE value="new post en nong khiaw and new post pl food cambodia" />
+    <option name="LAST_COMMIT_MESSAGE" value="new post en nong khiaw and new post pl food cambodia" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1585928676584">
+    <state x="427" y="227" width="498" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586784461554">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1585928676584" />
+    <state x="427" y="227" width="498" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.743@0.0.1366.743" timestamp="1586784461554" />
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1586766571600">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1586766571600" />
     <state x="393" y="86" width="566" height="563" key="MultipleFileMergeDialog" timestamp="1585296625537">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
@@ -365,14 +325,14 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="183" y="4" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1583607160302" />
-    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1585928681544">
+    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1586766625058">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1585928681544" />
-    <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586697859630">
+    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1586766625058" />
+    <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586785438344">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.743@0.0.1366.743" timestamp="1586697859630" />
+    <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.743@0.0.1366.743" timestamp="1586785438344" />
     <state x="339" y="162" width="671" height="410" key="git4idea.merge.GitPullDialog" timestamp="1583660328564">
       <screen x="0" y="0" width="1366" height="743" />
     </state>

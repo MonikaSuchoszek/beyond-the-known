@@ -42,6 +42,7 @@ should have left at least half an hour earlier. We reached the peak after an int
 but also of the river leading to Muang Ngoy. The map below shows more details about the distance and total climb of this 
 technically easy but physically challenging climb because of its steepness and high humidity. 
 
+<img src="/assets/Laos/NongKhiaw/DSC03914.jpg" alt="First viewpoint, Pha Daeng Peak. " />
 <img src="/assets/Laos/NongKhiaw/DSC03919.jpg" alt="First viewpoint, Pha Daeng Peak. " />
 <img src="/assets/Laos/NongKhiaw/DSC03935.jpg" alt="View of the Nong Khiaw town, bridge visible in the bottom part of the picture" />
 <img src="/assets/Laos/NongKhiaw/IMG_20180423_091225114_HDR.jpg" alt="First viewpoint, Pha Daeng Peak." />

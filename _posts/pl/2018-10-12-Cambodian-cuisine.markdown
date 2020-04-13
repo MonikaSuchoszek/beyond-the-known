@@ -16,18 +16,18 @@ z ryżem i sosem pieprzowym, oczywiście z prowincji Kampot. Przykład niesamowi
 ---
 
 Nie mieliśmy pojęcia czego możemy spodziewać się po kuchni kambodżańskiej. Czy faktycznie bardzo rożni się od kuchni tajskiej
-lub laotańskiej? Jak do tej pory wszystkie dania z tego kontynenty wrzucaliśmy do jednego worka, dania z kuchni azjatyckiej :D 
+lub laotańskiej? Jak do tej pory wszystkie dania z tego kontynentu wrzucaliśmy do jednego worka, jako dania kuchni azjatyckiej :D 
 Teraz śmiało możemy stwierdzić, że każdy kraj zaskoczył nas pewnymi połaczeniami smaków, specyficznymi czasem dla danego regionu.
 Oczywiście mieliśmy okazję wielokrotnie próbować dań z Tajlandii czy Wietnamu mieszkając niedaleko Berlina, ale nigdy nie 
 spotkaliśmy się z ofertą dań pochodzących z Kambodży. Dlaczego tak się dzieje? Tylko niewielka liczba rdzennych
 mieszkańców tego kraju mieszka poza jego granicami (największa ich populacja osiedliła się we Francji), gdzie mogliby 
 promować potrawy pochodzące ze swojego kraju. Inna kwestią są bardzo wysokie opłaty administracyjne za wyrobienie paszportu
 (100$ za paszport ważny przez 10lat, w Wietnamie ta opłata wynosi tylko 15$), bardzo niewielka liczba ludzi podróżuje poza
-granicami kraju. Podczas rozmowy kierowca naszego tuktuka przyznał, że tylko raz w życiu był nad morzem w Kambodży, oddalonym o 450km.
+granicę kraju. Podczas rozmowy kierowca naszego tuktuka przyznał, że tylko raz w życiu był nad morzem w Kambodży, oddalonym o 450km.
 Przyznał też, że ludzie tam nie wyjeżdżają na wakacje, tylko co najwyżej odwiedzają rodzinę w sąsiednich miastach. Podał nam 
 przykładowo zarobki osoby pracujacej w hotelu, jest to średnio 70-120$ miesięcznie w zależności od stanowiska. Wiele osób pracuje
 na dwie zmiany, np w dzień w fabryce a wieczorem dorabiając jako kierowca tuk-tuka, aby w ten sposób utrzymać rodzinę. Można 
-sobie łatwo wyobrazić, że przy takiej pensji można tylko pomażyć o podróżach, jeśli na sam paszport trzeba wydać miesięczną pensję :(
+sobie łatwo wyobrazić, że przy takiej pensji można tylko pomarzyć o podróżach, jeśli na sam paszport trzeba wydać miesięczną pensję :(
 
 My całkowicie się w kuchni kambodżańskiej zakochaliśmy i był to nasz kraj nr 1 w Azji, jeśli chodzi o jedzenie. Spróbuje poniżej opisać
 kilka dań, które pojawiały się często w restauracjach i które oczywiście przetestowaliśmy :D Warto wspomnieć również o śniadaniu, które
@@ -59,14 +59,14 @@ z ryżem i sosem pieprzowym (mix soku z limonki i pieprzu), oczywiście z prowin
 <p class="caption">Mango sticky rice, lepki ryż z kawałkami świeżego mango oraz sosem kokosowym był naszym specjalnym deserem Wielkanocnym :)</p>
 <img src="/assets/Cambodia/Food/IMG_20180401_173055730.jpg" />
 <p class="caption">Pudding z tapioki z bananem oraz sezamem. Niestety banany zakupione w Europie, okazały się nieodpowiednie do takiego dania o 
-czym przekonałam się na własnej skórze po powrocie. Rzeczywiście zwykłe banany miały ak również inny smak niż te kupowane w Europie, były mniejsze
-i miały bardzie budyniową konsystencję.</p>
+czym przekonałam się na własnej skórze po powrocie. Zwykłe banany miały również inny smak niż te kupowane w Europie, były mniejsze
+i miały bardziej budyniową konsystencję.</p>
 <img src="/assets/Cambodia/Food/IMG_20180406_160644123_01.jpg" />
 
 Z racji tego, że podróżowaliśmy tylko autobusami, warto wspomnieć o przekąskach dostępnych podczas przystanków. 
 Chipsy bananowe, kawałki świeżych owoców, mięso sprzedawane z grila, ryż zawinięty w liście bananowca, chłodne napoje oraz słodycze to główne 
 przekąski. Na dłuższe przerwy kierowcy zatrzymywali się przy małych barach, gdzie mogliśmy zamówić proste dania takie jak smażony makaron,ryż
-z jajkiem oraz warzywam lub zupy. Czasem podczaj jazdy bardziej lokalnym autobusem lub w mniej turystycznych częściach kraju, kobiety sprzedające 
+z jajkiem oraz warzywami lub zupy. Czasem podczaj jazdy bardziej lokalnym autobusem lub w mniej turystycznych częściach kraju, kobiety sprzedające 
 smażonego kurczaka, grilowane ryby na patyku, mięsne szaszłyki czy jajka balut. Jest to ugotowane jajko z rozwijającym się w środku zarodkiem 
 kurczaka lub kaczki, zdecydowanie przekąska nie dla Europejczyków! Oczywiście dla wielu ludzi jest to przysmak na tyle wyjątkowy, że pewna 63 letnia
 kobieta została zatrzymana na lotnisku w Singapurze podczas próby przemytu 490 jajek, za co przyszło jej <a href="https://www.straitstimes.com/singapore/courts-crime/63-year-old-woman-fined-7000-for-attempting-to-smuggle-490-balut-duck-eggs"> 
