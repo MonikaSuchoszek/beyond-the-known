@@ -52,9 +52,10 @@ that the hostel we booked was located nearby be as well as a night market which 
 Of course if you do everything by yourself it's likely going to be a half the price for the tickets and it might be possible 
 to do this in one day as well if you are lucky. You would have to start with an early bus to Huay Xai at 8.30am, after around 
 4.5h of drive you are at your destination. We noticed the prices of some tickets, e.g. local bus from Chiang Khong to 
-Chiang Rai was 60BTH (2$), tuk-tuk to the bridge 40BTH and bus crossing the bridge was again 40BTH. While getting on the
+Chiang Rai was 120BTH (4$), tuk-tuk to the bridge 40BTH and bus crossing the bridge was again 40BTH. While getting on the
 local bus to Chiang Rai, we saw a schedule of the buses and they also operate in the afternoons. 
 
+<img src="/assets/Laos/LuangNamtha/IMG_20180427_134320156_01.jpg" alt="Our ticket for a bus to Chiang Rai" />
 <img src="/assets/Laos/LuangNamtha/IMG_20180427_143221203_01.jpg" alt="Tuk-tuk on the border with Thailand" />
 <div class="row">
   <img src="/assets/Laos/LuangNamtha/IMG_20180427_144444927_01.jpg" class="column-50" alt="Local bus in Thailand" />
@@ -65,10 +66,9 @@ local bus to Chiang Rai, we saw a schedule of the buses and they also operate in
 __Practical info:__
 
   * minivan to Luang Namtha from Nong Khiaw - 6.5h, 70k KIP per person
-  * crossing the border with Thailand with the assistance of travel agency (Green Gateway travel agency, not sure about the name) - 200k KIP per person
+  * crossing the border with Thailand with the assistance of travel agency (Gat Way Tour travel agency) - 200k KIP per person
   * tuk-tuk from bus station to city center of Nong Khiaw - 15k KIP per person (8km)
   * renting a mountain bike - 20k KIP per person,
-  * entrance to village Baani and cave - 10k KIP per person
   * lunch/dinner - 50k-70k KIP for both of us, we recommend <a href="https://www.tripadvisor.com/Restaurant_Review-g424933-d3935763-Reviews-Lai_s_Place-Luang_Namtha_Luang_Namtha_Province.html">Lai's Place Restaurant</a>
   * guesthouse - 60k KIP per night
   
