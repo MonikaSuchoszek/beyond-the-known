@@ -253,6 +253,20 @@
     } ,
 
     {
+      "title"    : "Don Det, czarujące wrota Laosu",
+      "url"      : "/pl/podroze/2018/10/DonDet/",
+      "date"     : "October 21, 2018",
+      "locale"   : "pl_PL",
+      "content" :  "Przekraczanie granicy droga lądową jest zawsze bardziej wymagające niż za pomocą samolotu, ale wiążą się z tym przygody i większa niezależność, którą lubimy. Być może mieliśmy szczęście, ale nasza podróż z Siem Reap do Don Det w Laosie przebiegła sprawniej niż sobie to wyobrażaliśmy. Może nasze niskie oczekiwania uratowały sytuację..."
+      
+       , "coords" : {
+          "lat" : 13.975908,
+          "lng" : 105.920664
+      }
+      
+    } ,
+
+    {
       "title"    : "Don Det, a gateway to Laos",
       "url"      : "/en/travel/2018/10/DonDet/",
       "date"     : "October 21, 2018",
