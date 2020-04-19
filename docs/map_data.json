@@ -239,6 +239,20 @@
     } ,
 
     {
+      "title"    : "Vientiane, stolica kraju z nieskończoną ilością świątyń",
+      "url"      : "/pl/podroze/2018/10/Vientian/",
+      "date"     : "October 28, 2018",
+      "locale"   : "pl_PL",
+      "content" :  "Nasza podróż do tego miasta nie należała do najłatwiejszych. W skrócie wyglądało to tak, najpierw poranny rejs łódką z Don Det do Nakasong, następnie autobus do Pakse, gdzie mieliśmy mieć przerwę na lunch. Zamiast tego, autobus jadący do Pakse w pewnej chwili zatrzymał się na poboczu drogi i kierowca wytłumaczył..."
+      
+       , "coords" : {
+          "lat" : 17.971106,
+          "lng" : 102.6175025
+      }
+      
+    } ,
+
+    {
       "title"    : "Vientiane, capital with an endless number of temples",
       "url"      : "/en/travel/2018/10/Vientian/",
       "date"     : "October 28, 2018",

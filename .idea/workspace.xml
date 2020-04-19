@@ -2,8 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac42faad-c085-4dc0-8809-b7828ce0f95e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/pl/2018-10-28-Vientian.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/pl/index.html/page/5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/10/Vientian/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/en/2018-10-21-DonDet.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2018-10-21-DonDet.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/pl/2018-10-21-DonDet.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/pl/2018-10-21-DonDet.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/31602874_1879401955468351_8866737232703127552_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/31789386_1879402052135008_7015016410074054656_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/31895289_1879402395468307_8305864256746684416_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8344.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8388.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8471.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8494.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8497.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/IMG_20180503_102535887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangMai/IMG_20180503_114800328_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04036.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/GOPR8291.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180427_184156030_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_084909825_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_085409576_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_085428653_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_085452708_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_090013522_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_090018519_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_090139026_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_092152914_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_092942631_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/Phayao/GOPR8294.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/31602874_1879401955468351_8866737232703127552_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/31789386_1879402052135008_7015016410074054656_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/31895289_1879402395468307_8305864256746684416_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8344.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8388.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8471.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8494.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8497.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/IMG_20180503_102535887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/IMG_20180503_114800328_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04036.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/GOPR8291.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180427_184156030_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_084909825_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_085409576_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_085428653_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_085452708_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_090013522_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_090018519_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_090139026_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_092152914_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_092942631_HDR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/Phayao/GOPR8294.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/food/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/food/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" afterDir="false" />
@@ -82,6 +133,7 @@
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/07/Sihanoukville/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/07/Sihanoukville/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/08/Kampot-Kep/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/08/Kampot-Kep/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/09/PhnomPenh/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/09/PhnomPenh/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/10/DonDet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/10/DonDet/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/08/luxembourg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/08/luxembourg/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Ferry/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Ferry/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Monte-Coltignone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Monte-Coltignone/index.html" afterDir="false" />
@@ -150,6 +202,7 @@
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/khmer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/khmer/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/khmerowie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/khmerowie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/kultura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/kultura/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/laos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/laos/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/luksemburg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/luksemburg/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/malezja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/malezja/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/miasto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/miasto/index.html" afterDir="false" />
@@ -160,10 +213,13 @@
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/plaza/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/plaza/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/polska/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/polska/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/prom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/prom/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/rowery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/rowery/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/singapur/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/singapur/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/trekking/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/trekking/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wioska/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wioska/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wlochy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wlochy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wybrzeże/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wybrzeże/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wyspa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wyspa/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/włochy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/włochy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/świątynie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/świątynie/index.html" afterDir="false" />
     </list>
@@ -279,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586889799973</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new post pl don det">
+      <created>1587211971488</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587211971488</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,17 +355,18 @@
     <MESSAGE value="new post en nong khiaw and new post pl food cambodia" />
     <MESSAGE value="new post en crossing the border with thailand" />
     <MESSAGE value="new post en crossing the border with thailand update" />
-    <option name="LAST_COMMIT_MESSAGE" value="new post en crossing the border with thailand update" />
+    <MESSAGE value="new post pl don det" />
+    <option name="LAST_COMMIT_MESSAGE" value="new post pl don det" />
   </component>
   <component name="WindowStateProjectService">
     <state x="427" y="227" width="498" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586784461554">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="427" y="227" width="498" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.743@0.0.1366.743" timestamp="1586784461554" />
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1586889798790">
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1587309282992">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1586889798790" />
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1587309282992" />
     <state x="393" y="86" width="566" height="563" key="MultipleFileMergeDialog" timestamp="1585296625537">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
@@ -311,10 +375,10 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="183" y="4" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1583607160302" />
-    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1586889803549">
+    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1587211976300">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1586889803549" />
+    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1587211976300" />
     <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586785438344">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
@@ -323,9 +387,9 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="339" y="162" width="671" height="410" key="git4idea.merge.GitPullDialog/0.0.1366.743@0.0.1366.743" timestamp="1583660328564" />
-    <state x="343" y="64" width="672" height="678" key="search.everywhere.popup" timestamp="1585774334979">
+    <state x="343" y="64" width="672" height="678" key="search.everywhere.popup" timestamp="1587234791759">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="343" y="64" width="672" height="678" key="search.everywhere.popup/0.0.1366.743@0.0.1366.743" timestamp="1585774334979" />
+    <state x="343" y="64" width="672" height="678" key="search.everywhere.popup/0.0.1366.743@0.0.1366.743" timestamp="1587234791759" />
   </component>
 </project>

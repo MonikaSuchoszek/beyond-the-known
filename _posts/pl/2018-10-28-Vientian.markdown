@@ -1,0 +1,113 @@
+---
+layout: post
+title:  "Vientiane, stolica kraju z nieskończoną ilością świątyń"
+date:   2018-10-28 08:43:59
+author: Monika Suchoszek
+categories: podroze
+tags:	kultura laos miasto
+cover:  "/assets/Laos/Vientian/DSC03261.jpg"
+thumbnail:  "/assets/thumbnails/vientian.jpg"
+coords:
+  lat: 17.971106
+  lng: 102.6175025
+  
+gallery_items:
+  - image: "/assets/Laos/Vientian/DSC03176.jpg"
+    gallery_image: "/assets/gallery/vientiane_capital.jpg"
+    description: "Vientiane, w stolicy Laosu znajduje się ogromna ilość świątyń Buddyjskich."
+---
+
+
+Nasza podróż do tego miasta nie należała do najłatwiejszych. W skrócie wyglądało to tak, najpierw poranny rejs łódką z Don Det do 
+Nakasong, następnie autobus do Pakse, gdzie mieliśmy mieć przerwę na lunch. Zamiast tego, autobus jadący do Pakse w pewnej
+chwili zatrzymał się na poboczu drogi i kierowca wytłumaczył nam, że mamy się przesiąść do kolejnego, który już na nas czekał.
+Tak oto, razem z 6 innymi pasażerami wylądowaliśmy w lokalnym autobusie, gdzie nikt nie mówił po angielsku i jechaliśmy tak
+bez żadnej przerwy przez kolejne 7godzin! Nie byliśmy na to zupełnie przygotowani. Czasem autobus na moment się zatrzymywał
+i nagle do środka wbiegały kobiety sprzedajace jakieś mięsa, jajka balut, dziwne przekąski, których nie miałam odwagi
+kupować w ciemno. Innym razem autobus się zatrzymał, ktoś gdzieś wybiegał i po chwili wracał z czymś w ręce a my nie wiedzieliśmy
+co się dzieje. W pewnym momencie zatrzymałam prawdopodobnie biletera i na migi wytłumaczyłam, że muszę pilnie skorzystać z toalety co 
+skończyło się tym, że zatrzymał on autobus i zapytał w pobliskim sklepie czy moge skorzystać z toalety na zapleczu, ehhh porażka!
+Tyle godzin bez nawet jednej normalnej przerwy i bez jedzenia zupełnie zniszczyło nasz humor. 
+Do Thathek dojechaliśmy już po zmroku i od razu udaliśmy się na poszukiwania noclegu, jak najbliżej dworca autobusoweg
+z którego jutro ponownie ruszymy, kolejnym autobusem do Vientiane. Jakże byliśmy szczęśliwi, gdy zaraz przy dworcu znaleźliśmy 
+kilka straganów z jedzeniem i nawet miękki chlebek udało nam się kupić :) Po ok 15min znaleźliśmy również czysty hostel w dobrej
+cenie więc zaraz po kolacji oraz prysznicu, zapadliśmy w kamienny sen. Następnego dnia z samego rana wyruszyliśmy do Vientiane autobusem VIP,
+który na szczęście okazał się bardzo komfortowy i tym razem mieliśmy kilka przerw, w miejscach gdzie były toalety i stragany
+z jedzeniem, czyli wyglądało to tak, jak prawie zawsze. Po 6.5 godzinach jazdy wysiedliśmy na Southern Bus Station w Vientiane, 
+12km od centrum miasta. Po raz kolejny musieliśmy wziąć tuk-tuka do naszego hostelu, kierowcy wewnątrz stacji autobusowej
+żądali za to 60 000 Kip, my natomiast wyszliśmy poza teren dworca i od razu znaleźliśmy wielu kierowców tuk-tuków, którzy
+zgodzili się od razu na 30 000 Kip. Zatrzymaliśmy się w Vientiane 3 dni aby to właśnie tutaj obchodzić laotański Nowy Rok! :)
+
+W Vientiane znajduje się mnóstwo światyń buddyjskich i pierwszy dzień naszego pobytu, spędziliśmy na ich odkrywaniu i poszukiwaniu
+tej ulubionej. Wejście do większości z nich jest bezpłatne, za wyjątkiem Phra Keo oraz Wat Sisaket. Pierwsza z nich, widoczna
+poniżej, jest teraz przekształcone w małe muzeum ze sztuką religijną Laosu. Zieleń dookoła tego muzeum była niezwykle zadbana 
+i było to bardzo ciche i przyjemne miejsce :)
+ 
+<img src="/assets/Laos/Vientian/DSC03165.jpg" />
+<img src="/assets/Laos/Vientian/DSC03172.jpg" />
+<p class="caption">Phra Keo</p>
+
+Druga, odwiedzona przez nas świątynia była dość wyjątkowa, charakteryzowała się ścianami na których znajdowały się rzędy
+małych półeczek wypełnionych maleńkimi posągami Buddy (są ich tam tysiące!). Również wewnętrzne mury otaczające teren 
+świątyni, wypełnione były ponownie posagami Buddy. Światynia ta wyróżniała się również innymi kolorami, które były bardziej
+stonowane z mniejszą ilością złota oraz jaskrawych kolorów.
+
+<img src="/assets/Laos/Vientian/DSC03187.jpg" />
+<p class="caption">Wat Sisaket</p>
+<img src="/assets/Laos/Vientian/DSC03182.jpg" />
+<p class="caption">Wielka ściana światyni pełniła rolę galerii z posągami Buddy</p>
+
+Po odwiedzeniu około 10 innych światyń zauważyliśmy, że wszystkie buddyjskie świątynie przyozdobione są motywem węża smoka, zwanym naga, który 
+chroni miasto oraz żyje w rzece Mekong. Mnichowie wciąż zajęci byli czyszczeniem oraz przystrajaniem świątyń, aby były one gotowe na 
+przybycie wielu wiernych podczas [obchodów Nowego Roku]({% post_url  2018-11-10-Lao-New_Year %}), już za dwa dni.
+
+<img src="/assets/Laos/Vientian/DSC03261.jpg" />
+<p class="caption">Naga strzeżące wejścia do świątyni</p>
+<img src="/assets/Laos/Vientian/DSC03135.jpg" />
+<p class="caption">Od razu rzuciło nam się w oczy, że niemal wszystkie świątynie zostały już częściowo przystrojone, ale
+mnisi wciąż pracowali nad dalszymi dekoracjami, aby świątynie wyglądały zachwycająco podczas obchodów Nowego Roku</p>
+<img src="/assets/Laos/Vientian/DSC03142.jpg" />
+<p class="caption">W środku jednej ze świątyń. Zazwyczaj turyści moga wejść do środka światyni, jednak trzeba przestrzegać
+zasad opisanych na tablicach przed wejściem i przede wszystkim sciągnąć buty (gdy chodzimy w sandałach, warto mieć ze sobą
+dodatkowe skarpetki, gdy nie chcemy chodzić boso po tych wszystkich światyniach) </p>
+
+<img src="/assets/Laos/Vientian/DSC03176.jpg" />
+<p class="caption">Niezliczone złote posągi Buddy znajdują się zarówno w światyni, jak i wokół niej</p>
+
+Po przerwie na lunch ruszyliśmy do centrum pomocy dla ofiar niewybuchów, <a href="http://copelaos.org/">COPE </a>. 
+Laos, podobnie jak Kambodży ma w swojej historii smutny okres, który wciąż wpływa na życie ludzi w tym kraju. Podczas
+9 lat trwania Wojny Wietnamskiej w Laosie (1964 - 73), ponad 270 milionów bomb kasetowych zostało zrzuconych na obszar tego kraju
+(więcej niż łaczna ilość bomb użytych podczas obu wojen światowych). Nawet 30% w tych bomb nie wybuchło i amunicja nie została
+z nich uwolniona a ich obecność wciąż przeraża mieszkańców Laosu. Pomimo wielu działań mających na celu usunięcie tych bomb,
+każdego roku setki ludzi zostaje poważnie okaleczonych a część z nich ginie, wśród ofiar połowa to dzieci. Do wybuchu dochodzi zazwyczaj, kiedy ludzie uprawiają pole, 
+gotują na ogniu albo kiedy dzieci bawią się znalezionymi na polu metalowymi kulkami wielkości piłeczki tenisowej,
+nieświadome grożącego im, śmiertelnego niebezpieczeństwa :( COPE oferuje rehabilitację oraz dostarcza kule ortopedyczne,
+wózki inwalidzkie oraz protezy dla poszkodowanych. Co najważniejsze, daje im również nadzieję na normalniejsze życie.
+
+<img src="/assets/Laos/Vientian/DSC03191.jpg">
+<p class="caption">Rzeźba wykonana z elementów bomby kasetowej przed wejściem do centrum informacyjnego COPE </p>
+<img src="/assets/Laos/Vientian/DSC03192.jpg">
+<p class="caption">Każda z bomb kasetowych zawiera 600-700 małych kul zwanych subamunicją...</p>
+<img src="/assets/Laos/Vientian/IMG_20180423_105414542_HDR.jpg">
+<p class="caption">Region Nong Khiaw w północnym Laosie wciaż stanowi zagrożenie dla jego mieszkańców </p>
+<img src="/assets/Laos/Vientian/IMG_20180423_105431405_HDR.jpg">
+<p class="caption">Zalecane jest nie schodzenie z wyznaczonych ścieżek w wielu regionach Laosu</p>
+
+Wieczorem przyszła pora na odwiedzenie promenady nad rzeką Mekong oraz nocnego marketu. Zauważyliśmy wydzielony obszar z 
+nowymi straganami, drewnianymi, odpowiednio zadaszonymi, który wyglądał jak nowy, jednak tylko niewielka część ludzi handlowała właśnie tutaj. 
+Zdecydowana wiekszość z nich nadal rozkładała swój towar na ulicy ciagnącej się wzdłuż promenady, która była niezwykle
+zatłoczona! Stragany ciagnęły się od punktu widokowego - zachód słońca (sunset viewpoint) aż do pomnika Chao Anouvong.
+
+<img src="/assets/Laos/Vientian/IMG_20180412_191904124.jpg" />
+<p class="caption">Miejsce na nowe nocne targowisko było ładnie oświetlone, jednak wciąż dość puste...</p>
+<img src="/assets/Laos/Vientian/IMG_20180412_191659775.jpg" />
+<p class="caption">Nie mogliśmy wypatrzeć nic ciekawego na nocnym targowisku czego bylibyśmy pewni :p dlatego wybraliśmy się 
+do knajpy z wietnamską kuchnią, gdzie menu było również w języku angielskim co zawsze jest bardzo pomocne!</p>
+
+__Informacje praktyczne:__
+
+  * Bilet autobusowy do Thakhet (z Don Det) - 110 000 Kip / od osoby
+  * Bilet autobusowy do Vientiane (z Thakhet) - 80 000 Kip / od osoby
+  * Tuk-tuk z dworca autobusowego do centrum Vientiane - 30 000 Kip
+  * Bilet wstępu do Wat Sisaket, Phrat Keo - 10 000 Kip od osoby
+  * Wstęp do centrum COPE jest darmowy, jednak na końcu wycieczki można wesprzeć organizację w ich niezwykłych działaniach!
