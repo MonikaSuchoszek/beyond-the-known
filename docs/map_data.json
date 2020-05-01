@@ -225,6 +225,20 @@
     } ,
 
     {
+      "title"    : "Buddha Park w stolicy Laosu, Vientiane",
+      "url"      : "/pl/travel/2018/10/Buddha-Park/",
+      "date"     : "October 31, 2018",
+      "locale"   : "pl_PL",
+      "content" :  "Buddha Park, zlokalizowany ok 26km od centrum miasta, był naszym głównym celem tego dnia. Postanowiliśmy w końcu wypróbować transport publiczny w Laosie, który okazał się bardzo tanim i jednocześnie łatwym sposobem dostania się w to miejsce. Najpierw udaliśmy się do głównego dworca autobusowego, który jest podzielony na dwie części: CBS1..."
+      
+       , "coords" : {
+          "lat" : 17.912435,
+          "lng" : 102.764951
+      }
+      
+    } ,
+
+    {
       "title"    : "Buddha Park in Vientian",
       "url"      : "/en/travel/2018/10/Buddha-Park/",
       "date"     : "October 31, 2018",
