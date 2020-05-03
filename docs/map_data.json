@@ -141,6 +141,20 @@
     } ,
 
     {
+      "title"    : "Chiang Rai: first stop in northern Thailand",
+      "url"      : "/en/travel/2019/03/Chiang_Rai/",
+      "date"     : "March 01, 2019",
+      "locale"   : "en_US",
+      "content" :  "We started our day with the early bus to Wat Rong Khun, known among tourists as the White Temple. We used a local bus leaving from the Chiang Rai Bus Terminal 1 (just next to the night bazaar). It was very easy to find the correct bus stop because it..."
+      
+       , "coords" : {
+          "lat" : 19.905303,
+          "lng" : 99.836221
+      }
+      
+    } ,
+
+    {
       "title"    : "Crossing the border with Thailand from Luang Namtha in northern Laos",
       "url"      : "/en/travel/2019/02/Luang_Namtha/",
       "date"     : "February 11, 2019",

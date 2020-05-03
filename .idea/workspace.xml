@@ -2,91 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac42faad-c085-4dc0-8809-b7828ce0f95e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/pl/2018-10-31-Buddha-Park.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/BuddhaPark/IMG_20180413_093157285_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/BuddhaPark/IMG_20180413_093202676_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Laos/DonDet/IMG_20180409_175844012_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangMai/31602874_1879401955468351.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangMai/31789386_1879402052135008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangMai/31895289_1879402395468307.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8344.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8388.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8471.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8494.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangMai/GOPR8497.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangMai/IMG_20180503_102535887_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC02017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04032.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04036.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04041.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04054.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04068.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04097.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04104.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04117.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04121.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04127.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04131.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04158.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/GOPR8291.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180427_184156030_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_084909825_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_085409576_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_085452708_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_090013522_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_090018519_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_090139026_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_092152914_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_092942631_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_095504061_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_135019590_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/Phayao/GOPR8294.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Thailand/Phayao/IMG_20180429_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/BuddhaPark/IMG_20180413_093157285_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/BuddhaPark/IMG_20180413_093202676_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Laos/DonDet/IMG_20180409_175844012_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/31602874_1879401955468351.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/31789386_1879402052135008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/31895289_1879402395468307.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8344.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8388.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8471.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8494.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/GOPR8497.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangMai/IMG_20180503_102535887_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC02017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04032.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04036.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04041.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04054.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04068.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04097.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04104.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04117.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04121.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04127.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04131.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04158.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/GOPR8291.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180427_184156030_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_084909825_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_085409576_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_085452708_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_090013522_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_090018519_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_090139026_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_092152914_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_092942631_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_095504061_HDR_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_135019590_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/Phayao/GOPR8294.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/Phayao/IMG_20180429_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/pl/travel/2018/10/Buddha-Park/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gallery/white_temple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/thumbnails/white_temple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/gallery/white_temple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/thumbnails/white_temple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/en/travel/2019/03/Chiang_Rai/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag/en_US/thailand/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/en/2018-10-21-DonDet.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2018-10-21-DonDet.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/pl/2018-10-21-DonDet.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/pl/2018-10-21-DonDet.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC02017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04032.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04032.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04036.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Thailand/ChiangRai/DSC04036.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_084909825_HDR_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Thailand/ChiangRai/IMG_20180428_090139026_HDR_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gallery/river_muangngoy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/gallery/river_muangngoy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC02017.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04032.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04032.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04036.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/DSC04036.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_084909825_HDR_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/Thailand/ChiangRai/IMG_20180428_090139026_HDR_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/gallery/river_muangngoy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/gallery/river_muangngoy.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/food/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/food/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" afterDir="false" />
@@ -133,13 +72,22 @@
       <change beforePath="$PROJECT_DIR$/docs/en/travel/food/sports/2018/07/PokharaKathmandu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/food/sports/2018/07/PokharaKathmandu/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/gallery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/gallery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/map/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/map/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/map_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/map_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/page/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/page/6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/galeria/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/galeria/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/index.html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/index.html/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/page/2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/index.html/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/page/3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/index.html/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/page/4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/index.html/page/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/index.html/page/5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/mapa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/mapa/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Chaaladi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Chaaladi/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Heshkili/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Heshkili/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Koruldi-lakes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2017/10/Georgia-Koruldi-lakes/index.html" afterDir="false" />
@@ -167,8 +115,10 @@
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/posts/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/sport/2017/09/Iron-Viking-bieg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/sport/2017/09/Iron-Viking-bieg/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/travel/2018/10/Angkor-Wat/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/travel/2018/10/Angkor-Wat/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/travel/2018/10/Buddha-Park/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/travel/2018/10/Buddha-Park/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/en_US/Como/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/Como/index.html" afterDir="false" />
@@ -263,14 +213,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/pl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/en" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/pl" />
       <recent name="$PROJECT_DIR$/_posts/en" />
+      <recent name="$PROJECT_DIR$/_posts/pl" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -373,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587309286719</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="new post pl buddah park">
+      <created>1588338563654</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588338563654</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -408,10 +365,10 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="183" y="4" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1583607160302" />
-    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1587309300942">
+    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1588338575499">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1587309300942" />
+    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1588338575499" />
     <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586785438344">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
