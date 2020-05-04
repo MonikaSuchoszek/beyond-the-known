@@ -51,7 +51,7 @@ description: A travel blog by Monika Suchoszek.
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.beyond-the-known.eu/" # the base hostname & protocol for your site
+url: "https://www.beyond-the-known.eu" # the base hostname & protocol for your site
 cover: "/assets/index_header.jpg"
 logo: "/assets/logo.png"
 

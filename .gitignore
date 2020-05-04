@@ -16,4 +16,4 @@ start_server.sh
 vendor/
 
 .idea
-.idea/
+.idea/*

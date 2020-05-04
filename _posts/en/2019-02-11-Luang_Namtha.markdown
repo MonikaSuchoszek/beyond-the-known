@@ -13,7 +13,7 @@ coords:
   
 gallery_items:
   - image: "/assets/Laos/LuangNamtha/DSC04011.jpg"
-    gallery_image: "/assets/gallery/river_muangngoy.jpg"
+    gallery_image: "/assets/gallery/luang_namtha_fields.jpg"
     description: "Fields around Luang Namtha."
 ---
 
