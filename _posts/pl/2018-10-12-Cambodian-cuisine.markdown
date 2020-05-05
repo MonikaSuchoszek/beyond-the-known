@@ -7,7 +7,7 @@ categories: podroze jedzenie
 tags:	kambodża khmer
 cover:  "/assets/Cambodia/Food/DSC02375.jpg"
 thumbnail:  "/assets/thumbnails/cambodian_cuisine.jpg"
-
+post_id: cambodia_food
 gallery_items:
   - image: "/assets/Cambodia/Food/IMG_20180402_134642009.jpg"
     gallery_image: "/assets/gallery/food)cambodia.jpg"

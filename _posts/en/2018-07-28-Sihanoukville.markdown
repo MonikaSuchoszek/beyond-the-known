@@ -7,6 +7,7 @@ categories: travel
 tags:	culture history cambodia khmer
 cover:  "/assets/Cambodia/Sihanoukville/DSC02085.jpg"
 thumbnail:  "/assets/thumbnails/sihanoukeville.jpg"
+post_id: cambodia_sihanoukville
 coords:
   lat: 10.571719
   lng: 103.551498

@@ -5,6 +5,7 @@ permalink: /pl/about/
 cover:  "/assets/about_header.jpg"
 main_nav: true
 locale: pl_PL
+post_id: about_page
 ---
 
 Monika i Sebastian, polsko-belgijska para, która niedawno przeprowadziła się do pięknego miasta Leuven (Belgia) a 

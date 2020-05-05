@@ -7,6 +7,7 @@ categories: podroze
 tags:	miasto włochy prom jezioro
 cover:  "/assets/Italy/Ferry/DSC06758.JPG"
 thumbnail:  "/assets/thumbnails/ferry_varenna.jpg"
+post_id: italy_ferry_varenna
 coords:
   lat: 45.9841062
   lng: 9.2588656

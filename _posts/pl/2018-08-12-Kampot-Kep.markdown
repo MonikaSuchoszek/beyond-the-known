@@ -7,6 +7,7 @@ categories: podroze
 tags:	kultura kambodża plaza wybrzeże 
 cover:  "/assets/Cambodia/KampotKep/DSC02130.jpg"
 thumbnail:  "/assets/thumbnails/kampot_kep.jpg"
+post_id: cambodia_kampot_kep
 coords:
   lat: 10.612414
   lng: 104.317535

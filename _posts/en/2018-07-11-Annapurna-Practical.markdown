@@ -7,7 +7,7 @@ categories: travel
 tags:	nepal hiking himalayas
 cover:  "/assets/Nepal/Annapurna/DSC01517.jpg"
 thumbnail:  "/assets/thumbnails/annapurna.jpg"
-
+post_id: nepal_annapurna_practical
 gallery_items:
   - image: "/assets/Nepal/Annapurna/IMG_20180301_142008148_HDR.jpg"
     gallery_image: "/assets/gallery/annapurna_in_practice.jpg"

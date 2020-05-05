@@ -7,6 +7,7 @@ categories: travel
 tags:	hiking georgia 
 cover:  "/assets/Georgia/Prometeush_cave/IMG_0580.JPG"
 thumbnail:  "/assets/thumbnails/prometeush_cave.jpg"
+post_id: georgia_prometeush_cave
 coords:
   lat: 42.3766362
   lng: 42.6008596

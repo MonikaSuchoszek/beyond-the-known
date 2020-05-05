@@ -7,6 +7,7 @@ categories: travel
 tags:	culture malaysia urban
 cover:  "/assets/Malaysia/KualaLumpur/DSC00649.jpg"
 thumbnail:  "/assets/thumbnails/kuala_lumpur.jpg"
+post_id: malaysia_kuala_lumpur
 coords:
   lat: 3.1578931
   lng: 101.7119808

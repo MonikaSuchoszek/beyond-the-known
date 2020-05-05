@@ -7,6 +7,7 @@ categories: podroze
 tags:	singapur miasto natura 
 cover:  "/assets/Singapore/DSC09244.jpg"
 thumbnail:  "/assets/thumbnails/singapore_first_glance.jpg"
+post_id: singapore_first_glance
 coords:
   lat: 1.2867892
   lng: 103.8545014

@@ -7,6 +7,7 @@ categories: podroze
 tags:	trekking gruzja
 cover:  "/assets/Georgia/Murshkeli/IMG_0419.JPG"
 thumbnail:  "/assets/thumbnails/murshkeli.jpg"
+post_id: georgia_murshkeli
 coords:
   lat: 43.058743
   lng: 42.7900843

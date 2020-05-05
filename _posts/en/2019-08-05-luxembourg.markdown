@@ -7,6 +7,7 @@ categories: travel
 tags:	hiking luxembourg 
 cover:  "/assets/Luxembourg/DSC05283.JPG"
 thumbnail:  "/assets/thumbnails/little_switzerland.jpg"
+post_id: luxembourg_berdorf
 coords:
   lat: 49.8187435
   lng: 6.3486244

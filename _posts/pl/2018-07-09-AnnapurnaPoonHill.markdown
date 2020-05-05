@@ -7,6 +7,7 @@ categories: podroze
 tags:	nepal trekking himalaje
 cover:  "/assets/Nepal/Annapurna/DSC01713.jpg"
 thumbnail:  "/assets/thumbnails/annapurna_poon_hill.jpg"
+post_id: nepal_annapurna_poon_hill
 coords:
   lat: 28.793532 
   lng: 83.939208

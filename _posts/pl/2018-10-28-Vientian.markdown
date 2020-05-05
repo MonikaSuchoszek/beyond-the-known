@@ -7,6 +7,7 @@ categories: podroze
 tags:	kultura laos miasto
 cover:  "/assets/Laos/Vientian/DSC03261.jpg"
 thumbnail:  "/assets/thumbnails/vientian.jpg"
+post_id: laos_vientiane
 coords:
   lat: 17.971106
   lng: 102.6175025

@@ -7,6 +7,7 @@ categories: podroze
 tags:	trekking gruzja 
 cover:  "/assets/Georgia/Chaaladi/IMG_0351.jpg"
 thumbnail:  "/assets/thumbnails/chaaladi.jpg"
+post_id: georgia_chaaladi
 coords:
   lat: 43.1142451
   lng: 42.7287766

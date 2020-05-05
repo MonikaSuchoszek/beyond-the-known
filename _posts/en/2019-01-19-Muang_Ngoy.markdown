@@ -7,6 +7,7 @@ categories: travel
 tags:	laos village mountains river
 cover:  "/assets/Laos/MuangNgoy/DSC03794.jpg"
 thumbnail:  "/assets/thumbnails/muang_ngoy.jpg"
+post_id: laos_muang_ngoy
 coords:
   lat: 20.710645
   lng: 102.673892

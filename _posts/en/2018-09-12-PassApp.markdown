@@ -7,6 +7,7 @@ categories: travel
 tags:	cambodia tips technology
 cover:  "/assets/Cambodia/PassApp/DSC02350.jpg"
 thumbnail:  "/assets/thumbnails/passapp.jpg"
+post_id: cambodia_passapp
 ---
 
 If you are like us and don't like haggling, negotiating prices for taxi and tuk-tuk rides will likely be your least favorite part about travelling through Cambodia. However, with <a href="https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.passapptaxis">PassApp</a> there is an alternative, at least in Phnom Penh and Siem Reap !

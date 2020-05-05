@@ -7,6 +7,7 @@ categories: travel
 tags:	culture history cambodia khmer
 cover:  "/assets/Cambodia/PhnomPenh/DSC02290.jpg"
 thumbnail:  "/assets/thumbnails/phnom_penh.jpg"
+post_id: cambodia_phnom_penh
 coords:
   lat: 11.563902
   lng: 104.9290634

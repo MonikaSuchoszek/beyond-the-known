@@ -7,6 +7,7 @@ categories: travel
 tags:	laos village cycling 
 cover:  "/assets/Laos/LuangNamtha/DSC04011.jpg"
 thumbnail:  "/assets/thumbnails/luang_namtha.jpg"
+post_id: laos_luang_namtha
 coords:
   lat: 20.972146
   lng: 101.409897

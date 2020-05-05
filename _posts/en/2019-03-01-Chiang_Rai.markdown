@@ -7,6 +7,7 @@ categories: travel
 tags:	thailand city  
 cover:  "/assets/Thailand/ChiangRai/IMG_20180428_085452708_HDR_01.jpg"
 thumbnail:  "/assets/thumbnails/white_temple.jpg"
+post_id: thailand_chiang_rai
 coords:
   lat: 19.905303
   lng: 99.836221

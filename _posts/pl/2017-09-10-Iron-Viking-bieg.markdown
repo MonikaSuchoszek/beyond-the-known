@@ -10,6 +10,7 @@ thumbnail:  "/assets/thumbnails/iron_viking.jpg"
 coords:
   lat: 51.151706
   lng: 3.8708973
+post_id: iron_viking
 ---
 
 "Nigdy wiecej!" takie było nasze postanowienie po przebiegnięciu ok 32km (chociaż muszę przyznać, że w zeszłym roku zapadła podobna decyzja :p). 

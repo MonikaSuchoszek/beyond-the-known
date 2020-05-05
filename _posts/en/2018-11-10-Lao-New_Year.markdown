@@ -7,6 +7,7 @@ categories: travel
 tags:	culture laos festival urban
 cover:  "/assets/Laos/NewYear/DSC03306.jpg"
 thumbnail:  "/assets/thumbnails/lao_new_year.jpg"
+post_id: laos_new_year
 coords:
   lat: 17.976631
   lng: 102.6342173

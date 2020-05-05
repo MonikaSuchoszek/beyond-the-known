@@ -7,6 +7,7 @@ categories: travel
 tags:	hiking laos cycling cave lagoon 
 cover:  "/assets/Laos/VangVieng/DSC03339.JPG"
 thumbnail:  "/assets/thumbnails/vang_vieng.jpg"
+post_id: laos_vang_vieng
 coords:
   lat: 18.919847
   lng: 102.4442046

@@ -7,6 +7,7 @@ categories: travel
 tags:	singapore urban nature culture
 cover:  "/assets/Singapore/DSC00198.jpg"
 thumbnail:  "/assets/thumbnails/wildlife_parks_2.jpg"
+post_id: singapore_wildlife_parks_2
 coords:
   lat: 1.4046188
   lng: 103.7883253

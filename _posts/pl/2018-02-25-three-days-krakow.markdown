@@ -7,6 +7,7 @@ categories: podroze
 tags:	jedzenie polska miasto
 cover:  "/assets/Poland/Krakow/DSC01299.jpg"
 thumbnail:  "/assets/thumbnails/krakow.jpg"
+post_id: poland_krakow
 coords:
   lat: 50.0616853
   lng: 19.9350731

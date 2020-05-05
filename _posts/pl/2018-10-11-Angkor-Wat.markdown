@@ -7,6 +7,7 @@ categories: travel
 tags:	kultura historia Kambodża khmerowie
 cover:  "/assets/Cambodia/AngkorWat/DSC02466.jpg"
 thumbnail:  "/assets/thumbnails/angkor_wat.jpg"
+post_id: cambodia_angkor_wat
 coords:
   lat: 13.4124693
   lng: 103.8669857

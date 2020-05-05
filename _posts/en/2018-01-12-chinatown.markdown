@@ -7,6 +7,7 @@ categories: travel food
 tags:	singapore urban nature culture
 cover:  "/assets/Singapore/DSC09536.jpg"
 thumbnail:  "/assets/thumbnails/chinatown.jpg"
+post_id: singapore_chinatown
 coords:
   lat: 1.282453
   lng: 103.843415

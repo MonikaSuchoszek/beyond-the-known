@@ -7,6 +7,7 @@ categories: travel
 tags:	laos city mountains river
 cover:  "/assets/Laos/NongKhiaw/IMG_20180423_105414542_HDR.jpg"
 thumbnail:  "/assets/thumbnails/nong_khiaw.jpg"
+post_id: laos_nong_khiaw
 coords:
   lat: 20.574870
   lng: 102.605278

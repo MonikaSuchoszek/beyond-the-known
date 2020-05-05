@@ -7,6 +7,7 @@ categories: podroze
 tags:	trekking gruzja
 cover:  "/assets/Georgia/Koruldi/IMG_0445.jpg"
 thumbnail:  "/assets/thumbnails/koruldi.jpg"
+post_id: georgia_koruldi_lakes
 coords:
   lat: 43.0874116
   lng: 42.6869057

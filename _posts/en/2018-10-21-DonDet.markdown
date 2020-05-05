@@ -7,6 +7,8 @@ categories: travel
 tags:	culture laos
 cover:  "/assets/Laos/DonDet/DSC02996.jpg"
 thumbnail:  "/assets/thumbnails/don_det.jpg"
+post_id: laos_don_det
+
 coords:
   lat: 13.975908
   lng: 105.920664

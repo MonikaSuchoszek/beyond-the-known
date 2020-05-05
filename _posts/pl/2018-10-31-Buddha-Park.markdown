@@ -7,6 +7,7 @@ categories: travel
 tags:	kultura laos miasto
 cover:  "/assets/Laos/BuddhaPark/DSC03214.jpg"
 thumbnail:  "/assets/thumbnails/buddha_park.jpg"
+post_id: laos_buddha_park
 coords:
   lat: 17.912435
   lng: 102.764951

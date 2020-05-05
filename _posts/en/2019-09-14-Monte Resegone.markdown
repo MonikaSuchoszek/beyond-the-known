@@ -7,6 +7,7 @@ categories: travel
 tags:	hiking italy 
 cover:  "/assets/Italy/Monte_Resegone/DSC06696.JPG"
 thumbnail:  "/assets/thumbnails/monte_resegone.jpg"
+post_id: italy_monte_resegone
 coords:
   lat: 45.8581666
   lng: 9.4689035

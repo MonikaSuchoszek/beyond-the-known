@@ -7,6 +7,7 @@ categories: travel
 tags:	laos city monks waterfalls
 cover:  "/assets/Laos/LuangPrabang/DSC03712.jpg"
 thumbnail:  "/assets/thumbnails/luang_prabang.jpg"
+post_id: laos_luang_prabang
 coords:
   lat: 19.892470
   lng: 102.135622

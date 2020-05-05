@@ -7,6 +7,8 @@ categories: travel food sports
 tags:	culture history nepal nature
 cover:  "/assets/Nepal/PokharaKathmandu/DSC01890.jpg"
 thumbnail:  "/assets/thumbnails/pokhara_kathmandu.jpg"
+post_id: nepal_kathmandu
+
 coords:
   lat: 28.205833
   lng: 83.961983
