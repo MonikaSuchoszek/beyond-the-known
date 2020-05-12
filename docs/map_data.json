@@ -225,6 +225,20 @@
     } ,
 
     {
+      "title"    : "Obchody Nowego Roku w Laosie",
+      "url"      : "/pl/podroze/2018/11/Lao-New_Year/",
+      "date"     : "November 10, 2018",
+      "locale"   : "pl_PL",
+      "content" :  "Pi Mai Lao, obchody Nowego Roku w Laosie, podczas najbardziej upalnej części roku były niespodziewanym wydarzeniem podczas naszej podróży :D Oficjalnie święto trwa 3 dni, ale w wielu miastach takich jak Vientiane czy Luang Prabang może się to przeciągnąć do ponad tygodnia. Podczas tych dni ludzie odwiedzają światynie (do wszystkich..."
+      
+       , "coords" : {
+          "lat" : 17.976631,
+          "lng" : 102.6342173
+      }
+      
+    } ,
+
+    {
       "title"    : "Lao New Year's Celebrations",
       "url"      : "/en/travel/2018/11/Lao-New_Year/",
       "date"     : "November 10, 2018",
