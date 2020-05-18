@@ -211,6 +211,20 @@
     } ,
 
     {
+      "title"    : "Vang Vieng, podążając w kierunku górskiej części Laosu",
+      "url"      : "/pl/podroze/2018/11/Vang-Vieng/",
+      "date"     : "November 20, 2018",
+      "locale"   : "pl_PL",
+      "content" :  "Podczas jazdy minivanem od razu zauważyliśmy dużą zmianę krajobrazu, wkraczaliśmy w północną, górzystą część Laosu. Vang Vieng, miasteczko słynne ze świetnych warunków do imprezowania, zaskoczyło nas jednak niesamowitą naturą! Okoliczne, strome wzgórza, bujnie pokryte roślinnością, niespodziewanie wyrastają z okolicznych pól i to one są cechą charakterystyczną tego regionu. Do tego..."
+      
+       , "coords" : {
+          "lat" : 18.919847,
+          "lng" : 102.4442046
+      }
+      
+    } ,
+
+    {
       "title"    : "Vang Vieng, getting closer to the mountains in north Laos",
       "url"      : "/en/travel/2018/11/Vang-Vieng/",
       "date"     : "November 20, 2018",
