@@ -183,6 +183,20 @@
     } ,
 
     {
+      "title"    : "Muang Ngoy: drewniany domek, hamak, motyle oraz rozkoszna cisza",
+      "url"      : "/pl/podroze/2019/01/Muang_Ngoy/",
+      "date"     : "January 19, 2019",
+      "locale"   : "pl_PL",
+      "content" :  "Wyruszyliśmy po raz kolejny, tym razem w poszukiwaniu nieskażonej natury, wyjatkowych gór i co najważniejsze miejsca, gdzie ludzie są wyjątkowo szczerzy i nawet najprostrze jedzenie smakuje wyjątkowo. Północna część Laosu pokazała Nam swoje prawdziwe piękno, nauczyła delektować się ciszą i otaczającą nas naturą. Rzeka Nam Ou jest jednym z ważniejszych..."
+      
+       , "coords" : {
+          "lat" : 20.710645,
+          "lng" : 102.673892
+      }
+      
+    } ,
+
+    {
       "title"    : "Muang Ngoy: our small bungalow, butterflies and blissful silence",
       "url"      : "/en/travel/2019/01/Muang_Ngoy/",
       "date"     : "January 19, 2019",

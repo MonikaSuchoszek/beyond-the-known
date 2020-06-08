@@ -68,7 +68,7 @@ we could admire the river, surrounding peaks and village in all its glory.
 <img src="/assets/Laos/MuangNgoy/DSC03784.jpg" alt="Reached the viewpoint at the top" />
 <img src="/assets/Laos/MuangNgoy/GOPR8251.jpg" alt="Obligatory selfie at the top" />
 
-After we came back to our bungalove and had some cold soda, we got our energy back! Our next idea for that day was to go for a hike to the next village, called Baani,
+After we came back to our bungalow and had some cold soda, we got our energy back! Our next idea for that day was to go for a hike to the next village, called Baani,
 which is located further from the river. We walked through Muang Ngoy, looking at the houses and everyday life of the people living here. I need to admit that houses 
 looked really poor but on the other hand every front yard was really clean and tidy. People really take care of what they have.
 

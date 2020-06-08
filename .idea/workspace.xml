@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac42faad-c085-4dc0-8809-b7828ce0f95e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/en/2019-01-19-Muang_Ngoy.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2019-01-19-Muang_Ngoy.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/food/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/food/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" afterDir="false" />
@@ -87,6 +89,7 @@
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/10/Vientian/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/10/Vientian/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/11/Lao-New_Year/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/11/Lao-New_Year/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/11/Vang-Vieng/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/11/Vang-Vieng/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2018/12/Luang-Prabang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2018/12/Luang-Prabang/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/08/luxembourg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/08/luxembourg/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Ferry/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Ferry/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Monte-Coltignone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Monte-Coltignone/index.html" afterDir="false" />
@@ -163,6 +166,7 @@
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/luksemburg/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/luksemburg/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/malezja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/malezja/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/miasto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/miasto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/mnisi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/mnisi/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/natura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/natura/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/nepal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/nepal/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/otres/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/otres/index.html" afterDir="false" />
@@ -175,6 +179,7 @@
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/trekking/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/trekking/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wioska/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wioska/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wlochy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wlochy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wodospad/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wodospad/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wybrzeże/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wybrzeże/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wyspa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wyspa/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/włochy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/włochy/index.html" afterDir="false" />
@@ -327,7 +332,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589827978387</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new post pl luang prabang">
+      <created>1591467748446</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591467748446</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -345,17 +357,18 @@
     <MESSAGE value="new post pl buddah park" />
     <MESSAGE value="new post pl lao new year" />
     <MESSAGE value="new post pl vang vieng" />
-    <option name="LAST_COMMIT_MESSAGE" value="new post pl vang vieng" />
+    <MESSAGE value="new post pl luang prabang" />
+    <option name="LAST_COMMIT_MESSAGE" value="new post pl luang prabang" />
   </component>
   <component name="WindowStateProjectService">
     <state x="427" y="227" width="498" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586784461554">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="427" y="227" width="498" height="281" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.743@0.0.1366.743" timestamp="1586784461554" />
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1589827976427">
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1591638475445">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1589827976427" />
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1591638475445" />
     <state x="393" y="86" width="566" height="563" key="MultipleFileMergeDialog" timestamp="1585296625537">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
@@ -364,10 +377,10 @@
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="183" y="4" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1583607160302" />
-    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1589827988566">
+    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1591467751961">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1589827988566" />
+    <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1591467751961" />
     <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586785438344">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
