@@ -6,7 +6,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	italy Como Sondrio Morbegno  
 cover:  "/assets/Italy/Como/small_DSC06573.jpg"
-thumbnail:  "/assets/thumbnails/small_DSC06573.jpg"
+thumbnail:  "/assets/thumbnails/italy_como.jpg"
 post_id: italy_como
 coords:
   lat: 45.8117952

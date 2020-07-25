@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Oranjezon Natuurgebied: a flashback to my childhood holidays in Poland",
+      "url"      : "/en/travel/2020/07/Oranjezon-Netherlands/",
+      "date"     : "July 11, 2020",
+      "locale"   : "en_US",
+      "content" :  "This was our first chance for a day trip after coronavirus-related restrictions had been lifted and since our friend from Berlin came to visit us, there was no way we were not goint to take advantage of the nice weather and visit the beach :D As we still wanted to..."
+      
+       , "coords" : {
+          "lat" : 51.586448,
+          "lng" : 3.582747
+      }
+      
+    } ,
+
+    {
       "title"    : "Miasteczka w okolicy jeziora Como",
       "url"      : "/pl/podroze/2019/10/Como-Morbegno-Sondrio/",
       "date"     : "October 17, 2019",
