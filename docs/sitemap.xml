@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://www.beyond-the-known.eu/en/travel/2020/08/Zeeland-Nieuwvliet/</loc>
+<lastmod>2020-08-09T10:43:59+02:00</lastmod>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/en/travel/2020/07/Zeeland-Cadzand/</loc>
+<lastmod>2020-07-19T10:43:59+02:00</lastmod>
+</url>
+<url>
 <loc>https://www.beyond-the-known.eu/en/travel/2020/07/Oranjezon-Netherlands/</loc>
 <lastmod>2020-07-11T10:43:59+02:00</lastmod>
 </url>
@@ -468,6 +476,9 @@
 </url>
 <url>
 <loc>https://www.beyond-the-known.eu/tag/en_US/dunes/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/en_US/Cadzand-Bad/</loc>
 </url>
 <url>
 <loc>https://www.beyond-the-known.eu/tag/pl_PL/biegi/</loc>
