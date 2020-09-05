@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Zeeland again! Day trip from Nieuwvliet to Vlissingen"
-date:   2020-08-09 08:43:59
+date:   2020-07-19 08:43:59
 author: Monika Suchoszek
 categories: travel
 tags:	Netherlands beach sea dunes  
