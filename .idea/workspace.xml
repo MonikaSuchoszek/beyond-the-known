@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac42faad-c085-4dc0-8809-b7828ce0f95e" name="Default Changelist" comment="two new posts zeeland en">
+    <list default="true" id="ac42faad-c085-4dc0-8809-b7828ce0f95e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/en/2020-07-19-Zeeland-Nieuwvliet.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2020-07-19-Zeeland-Nieuwvliet.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/en/2020-08-09-Zeeland-Cadzand.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2020-08-09-Zeeland-Cadzand.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/travel/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/en/travel/2020/07/Oranjezon-Netherlands/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/travel/2020/07/Oranjezon-Netherlands/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/en/travel/2020/07/Zeeland-Cadzand/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/gallery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/gallery/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/map_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/map_data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/Cadzand-Bad/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/Cadzand-Bad/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/Netherlands/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/Netherlands/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/beach/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/beach/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/dunes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/dunes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag/en_US/sea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/sea/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599329208693</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="two new posts zeeland en">
+      <created>1599330460627</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1599330460627</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,10 +220,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="two new posts zeeland en" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1599329837803">
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1599331028802">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1599329837803" />
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1599331028802" />
     <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1599329216664">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
