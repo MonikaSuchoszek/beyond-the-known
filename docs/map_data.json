@@ -29,6 +29,20 @@
     } ,
 
     {
+      "title"    : "Rezerwat przyrody Oranjezon, powrót do wczesnych wakacyjnych wspomnień",
+      "url"      : "/pl/podroze/2020/07/Oranjezon-Netherlands/",
+      "date"     : "July 11, 2020",
+      "locale"   : "pl_PL",
+      "content" :  "Była to nasza pierwsza okazja na wycieczkę weekendową, zaraz po tym, jak rząd belgijski zniósł restrykcje dotyczące przemieszczania się oraz otworzył swoje granice. Nasza znajoma z Berlina właśnie miała Nas odwiedzić, więc nie było mowy o tym, aby tego nie wykorzystać i nie pokazać jej Holandi :D Ponieważ nadal naszym..."
+      
+       , "coords" : {
+          "lat" : 51.586448,
+          "lng" : 3.582747
+      }
+      
+    } ,
+
+    {
       "title"    : "Oranjezon Natuurgebied: a flashback to my childhood holidays in Poland",
       "url"      : "/en/travel/2020/07/Oranjezon-Netherlands/",
       "date"     : "July 11, 2020",
