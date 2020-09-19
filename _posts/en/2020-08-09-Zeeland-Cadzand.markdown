@@ -14,7 +14,7 @@ coords:
   lng: 3.449261
   
 gallery_items:
-  - image: "/assets/Netherlands/Nieuwvliet/DSC07287.edit.jpg"
+  - image: "/assets/Netherlands/Nieuwvliet/DSC07292.edit.jpg"
     gallery_image: "/assets/gallery/Cadzand.jpg"
     description: "Beautiful dunes on the coast of the North Sea, the Netherlands"
 ---
