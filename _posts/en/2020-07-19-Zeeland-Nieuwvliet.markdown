@@ -14,7 +14,7 @@ coords:
   lng: 3.449261
   
 gallery_items:
-  - image: "/assets/Netherlands/Nieuwvliet/DSC07255.jpg"
+  - image: "/assets/Netherlands/Nieuwvliet/DSC07287.edit.jpg"
     gallery_image: "/assets/gallery/Nieuwvliet.jpg"
     description: "Seal playing cheerfully with the water, spotted from the beach near Nieuwvliet, the Netherlands"
 ---

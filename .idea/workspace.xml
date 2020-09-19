@@ -2,8 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac42faad-c085-4dc0-8809-b7828ce0f95e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/en/2020-09-06-Belgium-Namur.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07366.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07371.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07372.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07376.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07380.1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07384.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07385.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07389.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07391.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07392.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07394.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07399.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07405.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07406.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07412.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07418.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07424.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07430.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07434.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07435.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07438.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07449.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07450.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07455.1.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07457.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Belgium/Namur/DSC07463.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/gallery/Namur.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/thumbnails/Namur.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/thumbnails/Namur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07366.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07371.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07372.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07376.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07380.1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07384.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07385.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07389.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07391.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07392.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07394.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07399.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07405.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07406.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07412.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07418.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07424.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07430.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07434.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07435.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07438.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07449.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07450.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07455.1.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07457.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/Belgium/Namur/DSC07463.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/gallery/Namur.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/thumbnails/Namur.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/thumbnails/Namur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/en/travel/2020/09/Belgium-Namur/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag/en_US/Belgium/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag/en_US/Namur/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tag/en_US/Wallonia/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/thumbnails/Oranjezon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/en/2020-07-19-Zeeland-Nieuwvliet.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/en/2020-07-19-Zeeland-Nieuwvliet.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/food/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/food/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/category/en_US/sports/index.html" afterDir="false" />
@@ -99,6 +164,7 @@
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Monte-Coltignone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Monte-Coltignone/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2019/10/Como-Morbegno-Sondrio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2019/10/Como-Morbegno-Sondrio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pl/podroze/2020/07/Oranjezon-Netherlands/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/2020/07/Oranjezon-Netherlands/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/01/chinatown/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/index.html" afterDir="false" />
@@ -152,6 +218,7 @@
       <change beforePath="$PROJECT_DIR$/docs/tag/en_US/village/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/village/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/en_US/waterfalls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/en_US/waterfalls/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/Como/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/Como/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/Holandia/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/Holandia/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/Kambodża/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/Kambodża/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/Morbegno/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/Morbegno/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/Sihanoukville/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/Sihanoukville/index.html" afterDir="false" />
@@ -177,6 +244,7 @@
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/malezja/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/malezja/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/miasto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/miasto/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/mnisi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/mnisi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/morze/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/morze/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/natura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/natura/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/nepal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/nepal/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/otres/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/otres/index.html" afterDir="false" />
@@ -192,6 +260,7 @@
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wlochy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wlochy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wodospad/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wodospad/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wybrzeże/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wybrzeże/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wydmy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wydmy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/wyspa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/wyspa/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/włochy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/włochy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/tag/pl_PL/świątynie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tag/pl_PL/świątynie/index.html" afterDir="false" />
@@ -212,14 +281,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/pl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/en" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_posts/pl" />
       <recent name="$PROJECT_DIR$/_posts/en" />
+      <recent name="$PROJECT_DIR$/_posts/pl" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -392,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599331087669</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="new post pl zeeland oranjezon">
+      <created>1599589735974</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1599589735974</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -416,20 +492,21 @@
     <MESSAGE value="pushing new feed and removed workspace file" />
     <MESSAGE value="two new posts zeeland en" />
     <MESSAGE value="two new posts zeeland cadzand" />
-    <option name="LAST_COMMIT_MESSAGE" value="two new posts zeeland cadzand" />
+    <MESSAGE value="new post pl zeeland oranjezon" />
+    <option name="LAST_COMMIT_MESSAGE" value="new post pl zeeland oranjezon" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1599589734255">
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2" timestamp="1600537074514">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1599589734255" />
+    <state x="326" y="0" width="697" height="739" key="CommitChangelistDialog2/0.0.1366.743@0.0.1366.743" timestamp="1600537074514" />
     <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2" timestamp="1599331102066">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
     <state x="274" y="105" width="802" height="524" key="Vcs.Push.Dialog.v2/0.0.1366.743@0.0.1366.743" timestamp="1599331102066" />
-    <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1595616437475">
+    <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599766277827">
       <screen x="0" y="0" width="1366" height="743" />
     </state>
-    <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.743@0.0.1366.743" timestamp="1595616437475" />
+    <state x="449" y="52" width="451" height="631" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.743@0.0.1366.743" timestamp="1599766277827" />
   </component>
 </project>

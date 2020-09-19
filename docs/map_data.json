@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "French-speaking part of Belgium, Namur and Villers Abbey",
+      "url"      : "/en/travel/2020/09/Belgium-Namur/",
+      "date"     : "September 06, 2020",
+      "locale"   : "en_US",
+      "content" :  "The old wall of a medieval fortress made of red bricks and stone with the river slowly running in the background or maybe ruins of the abbey from XI century… these scenes for the unique pictures came to my mind while wondering about destination for the upcoming, sunny weekend. Photography..."
+      
+       , "coords" : {
+          "lat" : 50.459952,
+          "lng" : 4.862697
+      }
+      
+    } ,
+
+    {
       "title"    : "Zeeland again! Walk by the beach to Cadzand-Bad",
       "url"      : "/en/travel/2020/08/Zeeland-Cadzand/",
       "date"     : "August 09, 2020",
