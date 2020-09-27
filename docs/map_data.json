@@ -29,6 +29,20 @@
     } ,
 
     {
+      "title"    : "Zeeland, region w Holandii, który ponownie urzekł nas swoim spokojem. Wycieczka z Nieuwvliet do Vlissingen",
+      "url"      : "/pl/podroze/2020/07/Zeeland-Nieuwvliet/",
+      "date"     : "July 19, 2020",
+      "locale"   : "pl_PL",
+      "content" :  "Długi weekend zbliżał się nieubłagalnie a my ciągle zmienialiśmy plany, ponieważ ciężko było zdecydować, gdzie pojechać, gdy rząd belgijski wprowadzał coraz więcej ograniczeń dotyczących podróżowania. Stworzona została lista państw/regionów po wizycie których, rekomendowana lub nakazywana była kwarantanna. Luxemburg, nasz pierwszy cel podróży, został na niej umieszczony, dlatego zmieniliśmy plany i..."
+      
+       , "coords" : {
+          "lat" : 51.390729,
+          "lng" : 3.449261
+      }
+      
+    } ,
+
+    {
       "title"    : "Zeeland again! Day trip from Nieuwvliet to Vlissingen",
       "url"      : "/en/travel/2020/07/Zeeland-Nieuwvliet/",
       "date"     : "July 19, 2020",
