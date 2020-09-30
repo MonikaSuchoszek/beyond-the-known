@@ -15,6 +15,20 @@
     } ,
 
     {
+      "title"    : "Kolejny dzień w Zeeland, spacer plażą do Cadzand-Bad, przy granicy z Belgią",
+      "url"      : "/pl/podroze/2020/08/Zeeland-Cadzand/",
+      "date"     : "August 09, 2020",
+      "locale"   : "pl_PL",
+      "content" :  "Bezchmurne niebo przywitało nas również kolejnego dnia, było dość chłodno, ale perspektywna słonecznego dnia sprawiła, że całkiem szybko byliśmy gotowi na całodzienną, pieszą wycieczkę do miasta położonego dokładnie na granicy z Belgią, Cadzand-Bad. Postanowiliśmy całą drogę przejść po plaży, zaczynając przy rezerwacie przyrody zwanym Zwarte Polder. Jest on miejscem uwielbianym..."
+      
+       , "coords" : {
+          "lat" : 51.390729,
+          "lng" : 3.449261
+      }
+      
+    } ,
+
+    {
       "title"    : "Zeeland again! Walk by the beach to Cadzand-Bad",
       "url"      : "/en/travel/2020/08/Zeeland-Cadzand/",
       "date"     : "August 09, 2020",
