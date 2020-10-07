@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Wycieczka do stolicy francuskojęzycznej części Belgii oraz ruin klasztoru Villers Abbey",
+      "url"      : "/pl/podroze/2020/09/Belgium-Namur/",
+      "date"     : "September 06, 2020",
+      "locale"   : "pl_PL",
+      "content" :  "Średniowieczne ruiny fortecy z cegły lub kamienia i leniwie płynąca rzeka w tle lub też pozostałości XI wiecznego klasztoru…te inspirujące do zdjęć miejsca przewijały się w mojej głowie, gdy planowałam wyjazd na kolejny słoneczny weekend. Fotografia to jedna z moich największych pasji (poza chodzeniem po górach, bieganiem oraz podróżami) więc..."
+      
+       , "coords" : {
+          "lat" : 50.459952,
+          "lng" : 4.862697
+      }
+      
+    } ,
+
+    {
       "title"    : "French-speaking part of Belgium, Namur and Villers Abbey",
       "url"      : "/en/travel/2020/09/Belgium-Namur/",
       "date"     : "September 06, 2020",

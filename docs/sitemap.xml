@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://www.beyond-the-known.eu/pl/podroze/2020/09/Belgium-Namur/</loc>
+<lastmod>2020-09-06T10:43:59+02:00</lastmod>
+</url>
+<url>
 <loc>https://www.beyond-the-known.eu/en/travel/2020/09/Belgium-Namur/</loc>
 <lastmod>2020-09-06T10:43:59+02:00</lastmod>
 </url>
@@ -648,5 +652,14 @@
 </url>
 <url>
 <loc>https://www.beyond-the-known.eu/tag/pl_PL/Cadzand-Bad/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/Belgia/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/Walonia/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/Namur/</loc>
 </url>
 </urlset>

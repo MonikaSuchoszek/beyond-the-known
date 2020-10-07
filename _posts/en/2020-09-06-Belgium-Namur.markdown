@@ -133,7 +133,7 @@ __Practical info:__
   all of them leading to the restaurant and visitor center (with toilets inside). There are two parking areas on the top of the hill but with very
   limited number of spots so you need to be lucky to find a free one. Everyone was obligated to wear a mask in the whole area of the
   fortress but also in the city center. The signs explaining the rules applying in the city were visible very often on the streets, we
-  notice them immediately after we started to walk towards city center. 
+  notice them immediately after we started to walk towards city center. More info on the [official website of the Citadelle](https://citadelle.namur.be/en)
   
   <img src="/assets/Belgium/Namur/DSC07380.1.JPG" />
   
