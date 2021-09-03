@@ -1,6 +1,34 @@
 [
 
     {
+      "title"    : "Zima odnaleziona! Równica oraz Kotarz, okolica miejscowości Brenna",
+      "url"      : "/pl/podroze/2021/01/Swieta-Brenna2/",
+      "date"     : "January 25, 2021",
+      "locale"   : "pl_PL",
+      "content" :  "Tego dnia pogoda była naprawdę wymarzona! Lekki mróz, zalegający nadal śnieg oraz bezchmurne niebo. Postanowiliśmy tym razem wejść na Kotarz niebieskim szlakiem, który mija zalew Hołcyna a następnie udać się w przeciwnym kierunku niż poprzednio czyli wrócić do Brennej mijając Chatę Wuja Toma. Pomimo tego, że wchodziliśmy tą samą drogą,..."
+      
+       , "coords" : {
+          "lat" : 49.718564,
+          "lng" : 18.938699
+      }
+      
+    } ,
+
+    {
+      "title"    : "W poszukiwaniu oznak zimy na szczytach Błatnia oraz Kotarz, okolica miejscowości Brenna",
+      "url"      : "/pl/podroze/2021/01/Swieta-Brenna/",
+      "date"     : "January 10, 2021",
+      "locale"   : "pl_PL",
+      "content" :  "W tym roku zdecydowaliśmy się spędzić Święta u moich rodziców w Polsce. Jako, że od marca oboje pracujemy zdalnie, przed wyjazdem odbyliśmy kwarantanne i na lotnisko pojechaliśmy własnym samochodem, aby jak najbardziej zminimalizować ryzyko zachorowania na Covid, a co gorsza zarażenia mojej rodziny. Więc jedynie podczas przebywania na lotnisku oraz..."
+      
+       , "coords" : {
+          "lat" : 49.718564,
+          "lng" : 18.938699
+      }
+      
+    } ,
+
+    {
       "title"    : "Wycieczka do stolicy francuskojęzycznej części Belgii oraz ruin klasztoru Villers Abbey",
       "url"      : "/pl/podroze/2020/09/Belgium-Namur/",
       "date"     : "September 06, 2020",
@@ -276,6 +304,20 @@
        , "coords" : {
           "lat" : 20.972146,
           "lng" : 101.409897
+      }
+      
+    } ,
+
+    {
+      "title"    : "Nong Khiaw: bajeczne punkty widokowe na szczytach wokół rzeki Nam Ou",
+      "url"      : "/pl/podroze/2019/02/Nong_Khiaw/",
+      "date"     : "February 05, 2019",
+      "locale"   : "pl_PL",
+      "content" :  "Łódki odpływają z Muang Ngoy każdego ranka, zabierając turystów z powrotem do Nong Khiaw. Tam również zatrzymaliśmy się na kilka dni, odkrywając uroki niezwykle stromych, okolicznych wzgórz. Jak do tej pory pogoda była zawsze stabilan w Laosie, ale już pierwszego dnia z Nong Khiaw złapała nas na spacerze straszna ulewa..."
+      
+       , "coords" : {
+          "lat" : 20.57487,
+          "lng" : 102.605278
       }
       
     } ,

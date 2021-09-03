@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://www.beyond-the-known.eu/pl/podroze/2021/01/Swieta-Brenna2/</loc>
+<lastmod>2021-01-25T09:43:59+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/pl/podroze/2021/01/Swieta-Brenna/</loc>
+<lastmod>2021-01-10T09:43:59+01:00</lastmod>
+</url>
+<url>
 <loc>https://www.beyond-the-known.eu/pl/podroze/2020/09/Belgium-Namur/</loc>
 <lastmod>2020-09-06T10:43:59+02:00</lastmod>
 </url>
@@ -79,6 +87,10 @@
 <url>
 <loc>https://www.beyond-the-known.eu/en/travel/2019/02/Luang_Namtha/</loc>
 <lastmod>2019-02-11T09:43:59+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/pl/podroze/2019/02/Nong_Khiaw/</loc>
+<lastmod>2019-02-05T09:43:59+01:00</lastmod>
 </url>
 <url>
 <loc>https://www.beyond-the-known.eu/en/travel/2019/02/Nong_Khiaw/</loc>
@@ -661,5 +673,26 @@
 </url>
 <url>
 <loc>https://www.beyond-the-known.eu/tag/pl_PL/Namur/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/Polska/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/Brenna/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/g%C3%B3ry/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/Kotarz/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/B%C5%82atnia/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/zima/</loc>
+</url>
+<url>
+<loc>https://www.beyond-the-known.eu/tag/pl_PL/%C5%9Bnieg/</loc>
 </url>
 </urlset>
