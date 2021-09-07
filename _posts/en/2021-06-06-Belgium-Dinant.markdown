@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  "Camping, visiting cave and trekking around beautiful lake"
+title:  "Camping in the Ardennes, visiting caves and trekking around beautiful lakes"
 date:   2021-06-06 08:43:59
 author: Monika Suchoszek
 categories: travel
