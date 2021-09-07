@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Camping, visiting cave and trekking around beautiful lake",
+      "url"      : "/en/travel/2021/06/Belgium-Dinant/",
+      "date"     : "June 06, 2021",
+      "locale"   : "en_US",
+      "content" :  "Dinant, birthplace of saxophone inventor Adolphe Sax was our first destination on the way to the Ardennes. After a nice 20min walk along the riverside from the car parking, we had reached the center of the city with the famous Citadel above our heads on the truly imposing rock. It..."
+      
+       , "coords" : {
+          "lat" : 50.076332,
+          "lng" : 5.555484
+      }
+      
+    } ,
+
+    {
       "title"    : "Zima odnaleziona! Równica oraz Kotarz, okolica miejscowości Brenna",
       "url"      : "/pl/podroze/2021/01/Swieta-Brenna2/",
       "date"     : "January 25, 2021",
