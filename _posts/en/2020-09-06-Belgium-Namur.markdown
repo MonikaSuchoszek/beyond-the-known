@@ -7,7 +7,7 @@ author: Monika Suchoszek
 categories: travel
 tags:	Belgium Wallonia Namur river
 cover:  "/assets/Belgium/Namur/DSC07372.JPG"
-thumbnail:  "/assets/thumbnails/Namur.JPG"
+thumbnail:  "/assets/thumbnails/Namur.jpg"
 post_id: Belgium_Namur
 coords:
   lat: 50.459952
@@ -15,7 +15,7 @@ coords:
   
 gallery_items:
   - image: "/assets/Belgium/Namur/DSC07372.JPG"
-    gallery_image: "/assets/gallery/Namur.JPG"
+    gallery_image: "/assets/gallery/Namur.jpg"
     description: "Fortress dating back to the 10th century, Namur, Belgium"
 ---
 

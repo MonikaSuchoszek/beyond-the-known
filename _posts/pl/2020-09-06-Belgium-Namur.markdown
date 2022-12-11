@@ -7,7 +7,7 @@ author: Monika Suchoszek
 categories: podroze
 tags:	Belgia Walonia Namur rzeka
 cover:  "/assets/Belgium/Namur/DSC07372.JPG"
-thumbnail:  "/assets/thumbnails/Namur.JPG"
+thumbnail:  "/assets/thumbnails/Namur.jpg"
 post_id: Belgium_Namur
 coords:
   lat: 50.459952
@@ -15,7 +15,7 @@ coords:
   
 gallery_items:
   - image: "/assets/Belgium/Namur/DSC07372.JPG"
-    gallery_image: "/assets/gallery/Namur.JPG"
+    gallery_image: "/assets/gallery/Namur.jpg"
     description: "Forteca pochodząca z 10th wieku, Namur, Belgia"
 ---
 
