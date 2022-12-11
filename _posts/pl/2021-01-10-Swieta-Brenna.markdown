@@ -85,8 +85,8 @@ __Informacje praktyczne:__
  
   * Mapki poniżej pokazują dokłandie naszą trasę, nie zawsze był to oficjalny szlak bo nie chcieliśmy kilkukrotnie iść tą samą trasą i 
   szukaliśmy alternatywnych opcji.
-  <img src="/assets/Poland/Brenna/Kotarz-Stary Groń.png" />
-  <img src="/assets/Poland/Brenna/Błatnia.png" />
+  <img src="/assets/Poland/Brenna/Kotarz-Stary Gron.png" />
+  <img src="/assets/Poland/Brenna/Blatnia.png" />
   
   
   
