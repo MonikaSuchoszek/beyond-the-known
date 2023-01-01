@@ -17,7 +17,7 @@ We started traveling together in 2014, an have visited many cities in Belgium
 (Brussels, Antwerp, Bruges, Ghent) and [Poland]({{ '/tag/en_US/poland' | prepend: site.base }}) (Warsaw, Wrocław, Poznań, Krakow, Międzyzdroje, 
 Zakopane). Every year we also aim to go for a longer [hiking]({{ '/tag/en_US/hiking' | prepend: site.base }}) trip! So far we visited Morocco, 
 Iceland, [Georgia]({{ '/tag/en_US/georgia' | prepend: site.base }}) and most recently the Himalayas. We also discovered the beauty of the Karkonosze 
-and Tatras mountain-ranges in Poland along with the Alps in Bergamo, [Italy]({{ '/tag/en_US/italy' | prepend: site.base }}). We challeng ourselves 
+and Tatras mountain-ranges in Poland along with the Alps in Bergamo, [Italy]({{ '/tag/en_US/italy' | prepend: site.base }}). We challenge ourselves 
 to do different running competitions like half-marathons and obstacle runs (including the Iron 
 Viking, which claims to be the worlds toughest marathon). On the top of than we did many weekend 
 trips in Europe (Cambridge, Barcelona, Leipzig, Hamburg).
