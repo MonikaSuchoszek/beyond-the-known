@@ -120,7 +120,7 @@ attractions for each age group. Our one-year-old baby loved it and it not so eas
 little strange. After paying, you should get a code via mail that can be redeemed for the tickets at the reception... We never got that mail though.
 As for the tickets with PayPal fortunately the order ID was also included in the PayPal order confirmation. You need to buy tickets at 
 least one hour before the visit. More on the official [website](https://www.mariposariodebenalmadena.com/en/)
-  * Benalmadena cable car - tickets bought on spot, 16.90 euro per adult, seniors 12.90 euro (same price as online)
+  * Benalmadena cable car - tickets bought on spot, 16.90 euro per adult, seniors 12.90 euro
   * You can check how to travel by bus by reading practical info section of my related [blog post]({% post_url en/2022-10-20-Benalmadena-Spain %})
 It took us 40 min from Benalmadena to Mijas (Butterfly park was half-way to Mijas) by line 121, 126
   
