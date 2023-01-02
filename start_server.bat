@@ -1,1 +1,1 @@
-bundle exec jekyll serve --watch
+bundle exec jekyll serve --config _config.dev.yml

@@ -4,7 +4,7 @@ title:  "Miasteczka w okolicy jeziora Como"
 date:   2019-10-17 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	włochy Como Sondrio Morbegno  
+tags:	wlochy Como Sondrio Morbegno  
 cover:  "/assets/Italy/Como/small_DSC06573.jpg"
 thumbnail:  "/assets/thumbnails/small_DSC06573.jpg"
 post_id: italy_como

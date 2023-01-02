@@ -54,7 +54,7 @@ of them!). Along the wall surrounding the main temple, there was also a long lin
 
 We noticed that almost all temples were decorated with snake like creatures which are called naga and are believed 
 to protect the city and live in Mekong river. All temples were very clean and decorated with colorful bands and 
-flags for upcoming [New Year celebrations]({% post_url  2018-11-10-Lao-New_Year %}).
+flags for upcoming [New Year celebrations]({% post_url en/2018-11-10-Lao-New_Year %}).
 
 <img src="/assets/Laos/Vientian/DSC03261.jpg" />
 <p class="caption">Naga guarding the entrance to the temple</p>

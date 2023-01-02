@@ -60,7 +60,7 @@ stonowane z mniejszą ilością złota oraz jaskrawych kolorów.
 
 Po odwiedzeniu około 10 innych światyń zauważyliśmy, że wszystkie buddyjskie świątynie przyozdobione są motywem węża smoka, zwanym naga, który 
 chroni miasto oraz żyje w rzece Mekong. Mnichowie wciąż zajęci byli czyszczeniem oraz przystrajaniem świątyń, aby były one gotowe na 
-przybycie wielu wiernych podczas [obchodów Nowego Roku]({% post_url  2018-11-10-Lao-New_Year %}), już za dwa dni.
+przybycie wielu wiernych podczas [obchodów Nowego Roku]({% post_url pl/2018-11-10-Lao-New_Year %}), już za dwa dni.
 
 <img src="/assets/Laos/Vientian/DSC03261.jpg" />
 <p class="caption">Naga strzeżące wejścia do świątyni</p>

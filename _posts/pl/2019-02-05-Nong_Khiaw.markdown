@@ -55,7 +55,7 @@ technically easy but physically challenging climb because of its steepness and h
 Bombs! You can still find many unexploded bombs in Laos, left behind after the Vietnam War, therefore warning signs are very important
 since many tourists are not aware of the danger. It is recommended not to walk off the path. The region of Nong Khiaw in the north
 of Laos was one of the most bombed regions in the country and remains very dangerous. You can read more about this terrible
-weaponry that still scars the land in the post about [COPE center]({% post_url  2018-10-28-Vientian %}) which we visited in 
+weaponry that still scars the land in the post about [COPE center]({% post_url  pl/2018-10-28-Vientian %}) which we visited in 
 Vientiane.
 
 <img src="/assets/Laos/NongKhiaw/IMG_20180423_105414542_HDR.jpg" alt="First viewpoint, Pha Daeng Peak. " />

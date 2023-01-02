@@ -5,8 +5,10 @@ _site
 
 # Site config
 _config.yml
+_config.dev.yml
 
 start_server.bat
+run_build.bat
 
 # Sass garbage
 .sass-cache
@@ -20,3 +22,5 @@ vendor/
 
 .sass-cache
 .sass-cache/*
+
+_site

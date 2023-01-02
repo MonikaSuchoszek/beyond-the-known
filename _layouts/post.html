@@ -47,57 +47,57 @@ layout: default
 
 <section class="share">
   <span>Share: </span>
-  {% for social in site.social %}
+  {% for social in site.social -%}
     {% capture full_url %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endcapture %}
-    {% if social.name == "Twitter" and social.share == true %}
+    {%- if social.name == "Twitter" and social.share == true -%}
       <a href="//twitter.com/share?text={{ page.title | cgi_escape }}&url={{ full_url | cgi_escape}}&via={{social.username}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
-    {% endif %}
-    {% if social.name == "Facebook" and social.share == true %}
+    {%- endif -%}
+    {%- if social.name == "Facebook" and social.share == true -%}
       <a href="//www.facebook.com/sharer.php?t={{ page.title | cgi_escape }}&u={{ full_url | cgi_escape}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
-    {% endif %}
-    {% if social.name == "Google+" and social.share == true %}
+    {%- endif -%}
+    {%- if social.name == "Google+" and social.share == true -%}
       <a href="//plus.google.com/share?title={{ page.title | cgi_escape }}&url={{ full_url | cgi_escape}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
-    {% endif %}
-    {% if social.name == "LinkedIn" and social.share == true %}
+    {%- endif -%}
+    {%- if social.name == "LinkedIn" and social.share == true -%}
       <a href="//www.linkedin.com/shareArticle?mini=true&url={{ full_url | cgi_escape}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
-    {% endif %}
-    {% if social.name == "Pinterest" and social.share == true %}
+    {%- endif -%}
+    {%- if social.name == "Pinterest" and social.share == true -%}
       <a href="//www.pinterest.com/pin/create/button/?description={{ page.title | cgi_escape }}&url={{ full_url | cgi_escape}}&media={{ site.url }}{% if page.cover %}{{ page.cover | prepend: site.baseurl  }}{% elsif site.cover %}{{ site.cover | prepend: site.baseurl }}{% else %}{{ site.logo | prepend: site.baseurl }}{% endif %}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
-    {% endif %}
-    {% if social.name == "Reddit" and social.share == true %}
+    {%- endif -%}
+    {%- if social.name == "Reddit" and social.share == true -%}
       <a href="//www.reddit.com/submit" onclick="window.location = '//www.reddit.com/submit?url=' + encodeURIComponent('{{ full_url }}') + '&title={{page.title}}'; return false">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
-    {% endif %}
-    {% if social.name == "Hacker News" and social.share == true %}
+    {%- endif -%}
+    {%- if social.name == "Hacker News" and social.share == true -%}
       <a href="//news.ycombinator.com/submitlink" onclick="window.location = '//news.ycombinator.com/submitlink?u=' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }} fa-lg"></i>
       </a>
-    {% endif %}
-  {% endfor %}
+    {%- endif -%}
+  {%- endfor %}
 </section>
 
 {% if site.inter_post_navigation == true %}
 	<section class="post-navigation">
 	<span class="prev-post">
-		{% for post in site.posts %}
-			{% if post.locale == page.locale %}
-				{% if prev %}
+		{% for post in site.posts -%}
+			{%- if post.locale == page.locale -%}
+				{%- if prev -%}
 						<a href="{{post.url | prepend: site.baseurl}}">
 							<span class="fa-stack fa-lg">
 								<i class="fa fa-square fa-stack-2x"></i>
@@ -105,19 +105,19 @@ layout: default
 							</span>
 							<span class="page-number"><strong>{{ items_text.previous }}:</strong> {{post.title | truncatewords: 5}}</span>
 						</a>
-				{% endif %}
+				{%- endif -%}
 				{% assign prev = false %}
-				{% if post.id == page.id %}
+				{%- if post.id == page.id -%}
 					{% assign prev = true %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
+				{%- endif -%}
+			{%- endif -%}
+		{%- endfor %}
 		</span>
 
 		<span class="next-post">
-		{% for post in site.posts reversed %}
-			{% if post.locale == page.locale %}
-				{% if next %}
+		{% for post in site.posts reversed -%}
+			{%- if post.locale == page.locale -%}
+				{%- if next -%}
 			      <a href="{{ post.url | prepend: site.baseurl}}">
 							<span class="page-number"><strong>{{ items_text.next }}:</strong> {{post.title | truncatewords: 5}}</span>
 							<span class="fa-stack fa-lg">
@@ -126,13 +126,13 @@ layout: default
 							</span>
 						</a>
 					{% break %}
-				{% endif %}
+				{%- endif -%}
 				{% assign next = false %}
-				{% if post.id == page.id %}
+				{%- if post.id == page.id -%}
 					{% assign next = true %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
+				{%- endif -%}
+			{%- endif -%}
+		{%- endfor %}
 		</span>
 	</section>
 {% endif %}

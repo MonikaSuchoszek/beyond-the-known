@@ -4,7 +4,7 @@ title:  "Phnom Penh, zwiedzając stolicę Kambodży"
 date:   2018-09-07 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	kultura historia kambodża khmer palac świątynie 
+tags:	kultura historia kambodza khmer palac swiatynie 
 cover:  "/assets/Cambodia/PhnomPenh/DSC02290.jpg"
 thumbnail:  "/assets/thumbnails/phnom_penh.jpg"
 post_id: cambodia_phnom_penh

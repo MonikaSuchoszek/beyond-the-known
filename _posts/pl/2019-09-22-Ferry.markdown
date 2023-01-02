@@ -4,7 +4,7 @@ title:  "Pływając promem po jeziorze Como"
 date:   2019-09-22 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	miasto włochy prom jezioro
+tags:	miasto wlochy prom jezioro
 cover:  "/assets/Italy/Ferry/DSC06758.JPG"
 thumbnail:  "/assets/thumbnails/ferry_varenna.jpg"
 post_id: italy_ferry_varenna

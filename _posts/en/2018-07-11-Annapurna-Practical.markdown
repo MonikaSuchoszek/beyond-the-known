@@ -120,7 +120,7 @@ not over. In Manang there is a doctor where you can go every day during a certai
 suggestions. We brought Diamox as well, though we didn't need it (we did take half a tablet to check if we'd 
 experience any side-effects). We also didn't have any problems to sleep, even at 4800m but we know from other 
 people that they have many problems and had to stay few days extra in one village so it's good to have few extra 
-days when you plan this hike. We spent our backup days in [Pokhara]({% post_url 2018-07-20-PokharaKathmandu %}), 
+days when you plan this hike. We spent our backup days in [Pokhara]({% post_url en/2018-07-20-PokharaKathmandu %}), 
 chilling out :D
 
 <img src="/assets/Nepal/Annapurna/DSC01725.jpg">

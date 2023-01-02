@@ -108,7 +108,7 @@ my favourite kind was with a sweet, yellow custard filling :)
 
 __Practical info:__
 
-  * how we got here was described in the previous post, [Luang Namtha]({% post_url 2019-02-11-Luang_Namtha %})
+  * how we got here was described in the previous post, [Luang Namtha]({% post_url en/2019-02-11-Luang_Namtha %})
   * entrance ticket to the White Temple - 50 THB per person, visiting time around 1h
   * entrance ticket to the Baandam Museum (Black House) - 80 THB per person, visiting time around 1.5h
   * bus ticket to the White Temple/Baandam Museum - 20 THB per person 

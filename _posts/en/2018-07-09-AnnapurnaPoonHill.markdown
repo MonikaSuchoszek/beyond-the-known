@@ -19,10 +19,10 @@ gallery_items:
 ---
 
 We arrived in Kathmandu on the first of March and found ourselves jet-lagged and in the middle of the Holi festival, 
-Nepal's most colorful holiday! It happened by accident so we were totally shocked at the beginning and not ready 
+Nepal's most colorful holiday! It happened by accident, so we were totally shocked at the beginning and not ready 
 for what was coming :) Before we even reached our hotel, a thick layer of colorful powder covered our faces and 
 shoulders :p This day we also walked to the Nepal Tourism Board to get our permits 
-([more info]({% post_url 2018-07-11-Annapurna-Practical %})), passing many parties, full of colorful, dancing people. In the 
+([more info]({% post_url en/2018-07-11-Annapurna-Practical %})), passing many parties, full of colorful, dancing people. In the 
 whole city you can feel the atmosphere of festival, shops are closed, people are blessing each other with colorful 
 powder, shouting: Happy Holi! Nowadays kids throw small balloons filled with water on passers what I experienced 
 on my own skin few times :p Luckily, we got our permits on the spot and immediately bought bus tickets to Pokhara 
@@ -247,7 +247,7 @@ bushy forest and green fields.
 <p class="caption">No more stairs, please!</p>
 
 We were very glad to end up in Sakura Hotel. The owner also had a small bakery, very clean rooms and, to our surprise,
-we were there the only guests! Next few days we spent in [Pokhara]({% post_url 2018-07-11-Annapurna-Practical %}) before leaving to Kathmandu from where we had our 
+we were there the only guests! Next few days we spent in [Pokhara]({% post_url en/2018-07-11-Annapurna-Practical %}) before leaving to Kathmandu from where we had our 
 plane to Bangkok.
 
 <img src="/assets/Nepal/Annapurna/DSC01886.jpg">
@@ -256,7 +256,7 @@ plane to Bangkok.
 Below you can see our hike day by day with distances and time necessary to complete each part. During these 15 days 
 of hiking we managed to complete around 197km :D This was the longest trekking we have ever done in our lives. It 
 was amazing experience and if you only have a chance, go there and experience local culture and beauty of nature. 
-More practical information you will find in the [next post]({% post_url 2018-07-11-Annapurna-Practical %}).
+More practical information you will find in the [next post]({% post_url en/2018-07-11-Annapurna-Practical %}).
 
   * **Day 1**: Pokhara - Besishahar by bus + Besishahar (810m) - Bhulbhule (830m) - 9.4km, 3h
   * **Day 2**: Bhulbhule (830m) - Jagat (1330m) - 19km, almost 7h

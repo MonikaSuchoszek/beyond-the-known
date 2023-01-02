@@ -4,7 +4,7 @@ title:  "Wybrzeże Kambodży, Kampot oraz Kep"
 date:   2018-08-12 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	kultura kambodża plaza wybrzeże 
+tags:	kultura kambodza plaza wybrzeze 
 cover:  "/assets/Cambodia/KampotKep/DSC02130.jpg"
 thumbnail:  "/assets/thumbnails/kampot_kep.jpg"
 post_id: cambodia_kampot_kep

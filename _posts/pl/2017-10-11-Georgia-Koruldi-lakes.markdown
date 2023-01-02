@@ -20,7 +20,7 @@ gallery_items:
 
 Najdłuższą wycieczkę zaplanowaliśmy na ostatni dzień naszego pobytu w Mestii, gdyż wtedy dopiero pogoda miała być bardzo stabilna a to z pewnością przyda nam się w drodze
 do jezior Korduli. Można tam dotrzeć zaczynając w rożnych punktach wioski. Jedną z opcji jest rozpoczęcie wędrówki szlakiem znajdującym się przy kościele, opisanym w poście
-[okolice Mestii]({% post_url 2017-10-02-Georgia-Mestia %}) i podążając nim aż do rozwidlenia z drewnianą tabliczką wskazującą na jeziora lub drogę powrotną do Mestii (dokładnie tam schodzilismy
+[okolice Mestii]({% post_url pl/2017-10-02-Georgia-Mestia %}) i podążając nim aż do rozwidlenia z drewnianą tabliczką wskazującą na jeziora lub drogę powrotną do Mestii (dokładnie tam schodzilismy
  dwa dni wcześniej). Dlatego też, postanowiliśmy wypróbować jeszcze inną opcję zaczynającą się obok posterunku policji oraz placu Queen Tamar w centrum Mestii. Tylko 
 przez niedługi, początkowy odcinek ścieżka prowadzi przez wioskę, następnie zaczyna podążać korytem rzeki po czym gwałtownie skręca w prawo i po krótkim, ale bardzo stromym odcinku
 wkracza w las. Ścieżka jest wygodna i szeroka, jednak cały czas prowadzi pod górę, przez następne 1.5h aż do punktu widokowego nie daje nam ani chwili wytchnienia. Piękne słońce 

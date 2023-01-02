@@ -21,7 +21,7 @@ gallery_items:
 The longest and the most demanding trekking was planned for the last day of our stay in Mestia as the weather 
 predictions were giving us very high chances of stable conditions needed for this long hike. There are few variants 
 of the first part of a trekking, you can take a path starting next to the church described in 
-[this post]({% post_url 2017-10-02-Georgia-Mestia %}) and follow it until the sign pointing to Koruldi lakes 
+[this post]({% post_url en/2017-10-02-Georgia-Mestia %}) and follow it until the sign pointing to Koruldi lakes 
 (next to the place where we met horses) or you can start close to Khergiani tower where we finished mentioned above 
 hike. This time we decided to use another variant starting close to police station and Queen Tamar square in Mestia. 
 After a short part through a village, this path leads upstream, then turns sharply to the slopes on the right, 

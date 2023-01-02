@@ -4,7 +4,7 @@ title:  "Nasza druga piesza wycieczka, Monte Coltignone"
 date:   2019-09-27 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking włochy bieganie Como jezioro
+tags:	trekking wlochy bieganie Como jezioro
 cover:  "/assets/Italy/MonteColtignone/DSC06621.JPG"
 thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
 post_id: italy_monte_coltignone
@@ -19,7 +19,7 @@ gallery_items:
 ---
 
 
-Po cudownym dniu spędzonym na trekkingu w masywie [Monte Resegone]({% post_url 2019-09-14-Monte Resegone %}) oraz zwiedzaniu pięknych miasteczek nad
+Po cudownym dniu spędzonym na trekkingu w masywie [Monte Resegone]({% post_url pl/2019-09-14-Trekking na szczyt Monte Resegone %}) oraz zwiedzaniu pięknych miasteczek nad
 brzegiem jeziora Como, przyszedł czas na kolejne wyzwanie. Zasugerowanym przez naszą godpodynie szczytem była Monte Coltignone, leżąca w okolicy dzielnicy
 Laorka. Miało być wymagająco i zdecydowanie było, na odcinku zaledwie 3 km teren wznosi się ok 1000m, tak że było stromo! 
 

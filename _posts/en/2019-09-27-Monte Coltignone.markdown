@@ -18,7 +18,7 @@ gallery_items:
     description: "On the way to the peak, route nr 59 to Monte Coltignone, Italy"
 ---
 
-After hiking to [Monte Resegone]({% post_url 2019-09-14-Monte Resegone %}), a day trip around the Como lake by 
+After hiking to [Monte Resegone]({% post_url en/2019-09-14-Monte Resegone %}), a day trip around the Como lake by 
 ferry, it was finally time for another hike, this time to Monte Coltignone. It was supposed to be 
 tough and it certainly was. Three kilometers and 1000m altitude gain, this can't be good :) 
 First we took a bus to Laorca (more details in the section practical info) where we started the hike. 

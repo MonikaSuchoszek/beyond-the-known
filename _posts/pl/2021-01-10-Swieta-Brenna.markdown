@@ -5,7 +5,7 @@ title:  "W poszukiwaniu oznak zimy na szczytach Błatnia oraz Kotarz, okolica mi
 date:   2021-01-10 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Polska Brenna trekking góry Kotarz Błatnia
+tags:	Polska Brenna trekking góry Kotarz Blatnia
 cover:  "/assets/Poland/Brenna/PC201308.edit.jpg"
 thumbnail:  "/assets/thumbnails/Blatnia.JPG"
 post_id: Brenna_Blatnia

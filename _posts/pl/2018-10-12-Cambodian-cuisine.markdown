@@ -4,7 +4,7 @@ title:  "Yummy! Obłędna kuchnia kambodżańska trzymana w sekrecie! :)"
 date:   2018-10-12 08:43:59
 author: Monika Suchoszek
 categories: podroze jedzenie
-tags:	kambodża khmer
+tags:	kambodza khmer
 cover:  "/assets/Cambodia/Food/DSC02375.jpg"
 thumbnail:  "/assets/thumbnails/cambodian_cuisine.jpg"
 post_id: cambodia_food
@@ -35,7 +35,7 @@ często było bagietką z różnymi dodatkami. Są one bardzo popularne w Kambod
 tej kultury są tam do tej pory widoczne. Do bagietki najcześciej zamawialiśmy omlet lub dżem oraz kawę słodzoną mlekiem kondensowanym
 lub owocowe shake (najlepsze dla mnie z mango, papają lub ananasem). Na obiad był to zazwyczaj ryż z mięsem i dużą ilością warzyw
 grilowanych lub w sosie curry. Ważnym składnikiem kuchni są przyprawy, najsłyniejszy jest pieprz z 
-[regionu Kampot]({% post_url  2018-08-12-Kampot-Kep %}), który jest najważniejszym składnikiem sosu pieprzowego. Bardzo
+[regionu Kampot]({% post_url  pl/2018-08-12-Kampot-Kep %}), który jest najważniejszym składnikiem sosu pieprzowego. Bardzo
 często pojawiały się owoce morza w ofercie, jednak ja nie jestem ich fanką, ale rybę kilka razy jadłam i bawsze była bardzo smaczna!
 Kurkuma, korzeń galangalu (kaempferia), imbir, trawa cytrynowa czy liście limonek kaffir (papeda) to ważne przyprawy dla wielu dań
 kuchni khmerskiej. Na deser często zamawiałam naleśnika z mango lub bananem, polanego słodzonym mlekiem kondensowanym, pychotka!
