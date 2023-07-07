@@ -3,15 +3,9 @@
 # Compiled site
 _site
 
-# Site config
-_config.yml
-_config.dev.yml
-
-start_server.bat
-run_build.bat
-
 # Sass garbage
 .sass-cache
+.sass-cache/*
 
 # Bundler
 .bundle/
@@ -20,7 +14,5 @@ vendor/
 .idea
 .idea/*
 
-.sass-cache
-.sass-cache/*
 
-_site
+

@@ -1,0 +1,163 @@
+# External gems
+# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
+plugins:
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+  - mini_magick
+
+exclude:
+  - "/vendor/"
+  - "/.idea/"
+  - "/docs/"
+  - "*.bat"
+  - "Gemfile*"
+  - "circle.yml"
+  - "LICENSE.md"
+  - "README.md"
+  - "pagefind.exe"
+  - "pagefind.yaml"
+
+destination: "./_site"
+
+defaults:
+-
+    scope:
+      path: "_posts/en"
+      type: "posts"
+    values:
+      locale: "en_US"
+      permalink: /en/:categories/:year/:month/:title/
+
+-
+    scope:
+      path: "_posts/pl"
+      type: "posts"
+    values:
+      locale: "pl_PL"
+      permalink: /pl/:categories/:year/:month/:title/
+
+languages:
+-
+    name: English
+    icon: /assets/flag-icon-en_US.png
+    locale: "en_US"
+    index: "/index.html"
+
+-
+    name: Polski
+    icon: /assets/flag-icon-pl_PL.png
+    locale: "pl_PL"
+    index: "/pl/index.html"
+
+# Site settings
+title: Going beyond the known
+subtitle: "following our dreams"
+email: monika.suchoszek@gmail.com
+name: Monika Suchoszek
+description: A travel blog by Monika Suchoszek.
+# Base URL of site (i.e. /blog). It should always start with a slash,
+# and never end with a slash. Set it to a blank value if hosting at the
+# root of your server.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000" # the base hostname & protocol for your site
+cover: "/assets/index_header.jpg"
+logo: "/assets/logo.png"
+
+thumbnail:
+    resize_dimensions: '430x288^'
+    crop_dimensions: '430x288+0+0'
+
+gallery_items:
+    resize_dimensions: '430x288^'
+    crop_dimensions: '430x288+0+0'
+
+# Build settings
+markdown: kramdown
+
+pagination:
+  enabled: true
+  per_page: 7
+  permalink: "/page/:num/"
+  sort_reverse: true
+
+inter_post_navigation: true
+highlightjs_theme: "monokai-sublime"
+
+# Disqus comments
+# disqus_shortname: bencentra
+
+# Google maps API key
+google_maps_api_key: "AIzaSyDBP15TP4Fd7fZykz38sGIHJl0phWLUSdA"
+
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: travel
+    desc: "Read all about places we visited"
+    locale: "en_US"
+
+  - cat: sports
+    desc: "Hiking, Running and other things we tried"
+    locale: "en_US"
+
+  - cat: food
+    desc: "Interesting cuisine that caught our attention"
+    locale: "en_US"
+
+  - cat:  podroze
+    desc: "Wszystko o miejscach, które odwiedziliśmy"
+    locale: "pl_PL"
+
+  - cat: sport
+    desc: "Bieganie, wyprawy w góry oraz inne aktywności"
+    locale: "pl_PL"
+
+  - cat: "kuchnie swiata"
+    desc: "interesujące kuchnie świata, których smaku nigdy nie zapomnimy "
+    locale: "pl_PL"
+
+# Social icons and sharing options
+#
+# Social settings are used in two places:
+# * In the footer, as links to your personal profiles
+# * After each blog post for sharing widgets
+#
+# Example:
+#
+# social:
+#   - name: Twitter                         # Name of the service
+#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+#     username: "@TheBenCentra"             # (User) Name to display in the footer link
+#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     desc: Follow me on Twitter            # Description to display as link title, etc
+#     share: true                           # Include in the "Share" section of posts
+social:
+  - name: Facebook
+    icon: facebook
+    username: monika.suchoszek
+    url: https://www.facebook.com/monika.suchoszek
+    desc: Friend me on Facebook
+    share: true
+
+  - name: GitHub
+    icon: github
+    username: MonikaSuchoszek
+    url: https://github.com/MonikaSuchoszek
+    desc: Fork me on GitHub
+    share: false
+
+
+# Social sharing protocols
+# These are for automatically generating sharing metadata for FB and Twitter
+# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
+protocols:
+    fb_image: "/assets/logo.png"
+    fb_image_width: 612
+    fb_image_height: 605
+    fb_image_type: "image/png"
+
+    twitter_image: "/assets/logo.png"
+
+    os_repo: "https://github.com/MonikaSuchoszek/monikasuchoszek.github.io"
+    os_rcs_type: "git"
+    os_src: "git@github.com:MonikaSuchoszek/monikasuchoszek.github.io.git"

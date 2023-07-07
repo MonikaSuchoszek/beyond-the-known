@@ -9,6 +9,7 @@ plugins:
 exclude:
   - "/vendor/"
   - "/.idea/"
+  - "/docs/"
   - "*.bat"
   - "Gemfile*"
   - "circle.yml"

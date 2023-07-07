@@ -97,6 +97,8 @@ night since we left before it got dark.
 <img src="/assets/Spain/Malaga/20221116_143907.jpg" />
 <img src="/assets/Spain/Malaga/20221116_150056.jpg" />
 
+Don't miss out on the opportunity to visit this vibrant and welcoming destination on your next European holiday!
+
 __Practical info:__
 
   * The airport has perfect connection with Malaga and nearby cities on the coast by train. Buying tickets was very easy,
