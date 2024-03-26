@@ -1,6 +1,24 @@
 [
 
     {
+      "title"    : "Weekend w Marsyli, najstarszym mieście Francji.",
+      "url"      : "/pl/podroze/2023/12/Marsylia-Francja/",
+      "date"     : "December 14, 2023",
+      "locale"   : "pl_PL",
+      "content" :  "Mały park z pozostałościami archeologicznymi obok Muzeum Historii Marsylii to miejsce, gdzie rozpoczęła się historia tego miasta. To właśnie tutaj, w tym konkretnym miejscu, pierwsi greccy osadnicy z Focji tchnęli życie w to miasto około 600 roku p.n.e., zakładając podwaliny pod to, co miało stać się tętniącym życiem portem Marsylii...."
+      
+    } ,
+
+    {
+      "title"    : "Weekend in Marseille: Exploring the Oldest City of France",
+      "url"      : "/en/travel/2023/12/Marseille-France/",
+      "date"     : "December 14, 2023",
+      "locale"   : "en_US",
+      "content" :  "The small park with archaeological remains next to the Marseille History Museum is the place where the story of Marseille began. It was here, in this very spot, that the first Greek settlers from Phocaea breathed life into the city around 600 BC, laying down the roots of what would..."
+      
+    } ,
+
+    {
       "title"    : "Peaceful Dutch countryside close to Belgium border",
       "url"      : "/en/travel/2023/05/Breda-Netherlands/",
       "date"     : "May 05, 2023",
