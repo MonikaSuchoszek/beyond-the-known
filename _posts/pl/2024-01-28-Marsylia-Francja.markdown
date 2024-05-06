@@ -9,7 +9,7 @@ tags:	Francja Marsylia Calanques
 cover:  "/assets/France/Marseille/PB1030912.jpg"
 thumbnail:  "/assets/thumbnails/Marseille.jpg"
 post_id: Marseille
-cords:
+coords:
   lat: 43.297046
   lng: 5.374680
   
