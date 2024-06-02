@@ -9,7 +9,7 @@ tags:	Portugal Lisbon
 cover:  "/assets/Portugal/Lisbon/20220218_130028.jpg"
 thumbnail:  "/assets/thumbnails/Lisbon.JPG"
 post_id: Lisbon
-cords:
+coords:
   lat: 38.729432
   lng: -9.133721
   

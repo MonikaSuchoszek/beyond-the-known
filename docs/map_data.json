@@ -7,6 +7,11 @@
       "locale"   : "en_US",
       "content" :  "In the Netherlands, April is the best month to view Holland’s beautiful tulips. We packed a trip to Keukenhof, cycling through tulip fields, and King’s Day celebrations into a single long weekend. Read on to discover what we learned about these iconic flowers! Tulips originated north of the Himalayas, in..."
       
+       , "coords" : {
+          "lat" : 52.260121,
+          "lng" : 4.555686
+      }
+      
     } ,
 
     {
@@ -58,6 +63,11 @@
       "locale"   : "en_US",
       "content" :  "May holds a special place in my heart, not only because it marks my birthday but also because it offers plenty of long weekends, making it the perfect time for local trips. This year, we set our sights on the tranquil countryside surrounding Breda, a charming city in the Netherlands...."
       
+       , "coords" : {
+          "lat" : 51.508735,
+          "lng" : 4.671881
+      }
+      
     } ,
 
     {
@@ -103,6 +113,11 @@
       "date"     : "March 20, 2022",
       "locale"   : "en_US",
       "content" :  "As my maternity leave was coming to an end, my partner and I were in dire need of a getaway from grey and rainy weather in Belgium. We set our sights on finding a destination that would offer warmth without being scorching hot, a short flight duration, excellent airport connections,..."
+      
+       , "coords" : {
+          "lat" : 38.729432,
+          "lng" : -9.133721
+      }
       
     } ,
 

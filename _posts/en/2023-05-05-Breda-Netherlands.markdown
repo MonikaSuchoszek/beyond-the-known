@@ -9,7 +9,7 @@ tags:	Netherlands Breda
 cover:  "/assets/Netherlands/Breda/20230501_132917.jpg"
 thumbnail:  "/assets/thumbnails/Breda.JPG"
 post_id: Breda
-cords:
+coords:
   lat: 51.508735
   lng: 4.671881
   

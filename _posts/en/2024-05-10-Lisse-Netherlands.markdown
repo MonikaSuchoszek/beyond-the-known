@@ -9,15 +9,14 @@ tags:	Netherlands Keukenhof cycling tulips
 cover:  "/assets/Netherlands/TulipTrip/20240427_175355.jpg"
 thumbnail:  "/assets/thumbnails/Tulips.JPG"
 post_id: Lisse
-cords:
+coords:
   lat: 52.260121
   lng: 4.555686
   
 gallery_items:
   - image: "/assets/Netherlands/TulipTrip/20240427_170101.jpg"
     gallery_image: "/assets/gallery/Tulips.JPG"
-    description: "One of the resting places along the tulip fields offered great variety of tulip in one spot, different 
-  - colors and shapes looked stunning, especially from close-up."
+    description: "One of the resting places along the tulip fields offered great variety of tulip in one spot, different colors and shapes looked stunning, especially from close-up."
 ---
 
 In the Netherlands, April is the best month to view Holland's beautiful tulips. We packed a trip to Keukenhof, cycling 
