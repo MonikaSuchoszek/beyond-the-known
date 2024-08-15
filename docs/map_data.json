@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Odkrywanie tajemnic holenderskich tulipanów",
+      "url"      : "/pl/podroze/2024/05/Lisse-Tulipany/",
+      "date"     : "May 10, 2024",
+      "locale"   : "pl_PL",
+      "content" :  "W Holandii kwiecień jest najlepszym miesiącem na podziwianie pięknych tulipanów. Zaplanowaliśmy wycieczkę do Keukenhof, przejażdżkę rowerową przez pola tulipanów oraz obchody Dnia Króla, a wszystko to podczas długiego weekendu. W dalszej części tekstu, dowiesz się kilku ciekawych szczegółów o tych słynnych kwiatach! Tulipany pochodzą z północnych regionów Himalajów, z Azji..."
+      
+       , "coords" : {
+          "lat" : 52.260121,
+          "lng" : 4.555686
+      }
+      
+    } ,
+
+    {
       "title"    : "Discovering the secrets of tulips in the Netherlands",
       "url"      : "/en/travel/2024/05/Lisse-Netherlands/",
       "date"     : "May 10, 2024",
