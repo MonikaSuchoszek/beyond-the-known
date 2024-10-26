@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Coastal city Platja de Gandia, great destination for holidays with kids",
+      "url"      : "/en/travel/2024/10/Gandia_Cullera/",
+      "date"     : "October 05, 2024",
+      "locale"   : "en_US",
+      "content" :  "If you’re looking to combine relaxation on the beach with some city exploration, a stay in Platja de Gandia paired with a trip to Valencia is a perfect choice. It’s just a quick 1-hour and 15-minute train ride from Valencia’s city center to reach the charming seaside town of Platja..."
+      
+       , "coords" : {
+          "lat" : 39.010755,
+          "lng" : -0.167208
+      }
+      
+    } ,
+
+    {
       "title"    : "Odkrywanie tajemnic holenderskich tulipanów",
       "url"      : "/pl/podroze/2024/05/Lisse-Tulipany/",
       "date"     : "May 10, 2024",
