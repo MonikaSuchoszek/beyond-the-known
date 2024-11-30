@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "A Family’s Guide to Valencia: Ocean Adventures, Culture, and Scenic Escapes",
+      "url"      : "/en/travel/2024/11/Valencia/",
+      "date"     : "November 08, 2024",
+      "locale"   : "en_US",
+      "content" :  "We paired our stay in Platja de Gandia with a one-day trip to Oceanogràfic, an oceanarium located within the stunning Gardens of Turia in the heart of Valencia. More details on how we traveled there can be found in the practical section at the end of this post. If you’re..."
+      
+       , "coords" : {
+          "lat" : 39.479255,
+          "lng" : -0.382295
+      }
+      
+    } ,
+
+    {
       "title"    : "Coastal city Platja de Gandia, great destination for holidays with kids",
       "url"      : "/en/travel/2024/10/Gandia_Cullera/",
       "date"     : "October 05, 2024",
