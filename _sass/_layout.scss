@@ -196,6 +196,7 @@ pre code.hljs {
 *	Body
 */
 .page-content {
+    min-height: calc(100vh - 300px);
 	.wrapper {
 		@include outer-container;
 		padding: 1em;
@@ -483,6 +484,10 @@ pre code.hljs {
 			margin: auto;
 			padding-bottom: 0.5em;
  		}
+        .post-content {
+			padding: 1em 0;
+			text-align: justify;
+		}
 	}
 }
 
