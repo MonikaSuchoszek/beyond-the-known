@@ -355,6 +355,38 @@ $(document).ready(function() {
 
 </script>
 
+<script type="text/javascript">
+$(document).ready(function() {
+    $('article.post-content img').each(function() {
+        var img = $(this);
+        var src = img.attr('src');
+        var alt = img.attr('alt') || "";
+        var imgClass = img.attr('class');
+
+        // Skip images already wrapped in an <a> tag
+        if (img.parent('a').length > 0) {
+            return;
+        }
+
+        // Create the wrapping <a> tag
+        var aTag = $('<a></a>')
+            .attr('href', src)
+            .attr('data-lightbox', "post-image")
+            .attr('data-title', alt);
+
+        // Add class from img to a tag if it exists
+        if (imgClass) {
+            aTag.addClass(imgClass);
+        }
+
+        // Wrap the <img> with the <a>
+        img.wrap(aTag);
+    });
+});
+
+
+</script>
+
 
 
 
