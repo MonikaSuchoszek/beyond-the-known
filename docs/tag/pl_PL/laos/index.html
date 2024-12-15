@@ -68,9 +68,14 @@
   
 
   <!-- Site styles -->
-  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
   <link rel="canonical" href="https://www.beyond-the-known.eu/tag/pl_PL/laos/">
   <link rel="alternate" type="application/rss+xml" title="Going beyond the known" href="https://www.beyond-the-known.eu/feed.xml" />
+  <link rel="stylesheet" href="/css/main.css">
+
+  <!-- PageFind -->
+  <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
+
 </head>
 
 
@@ -99,6 +104,7 @@
 			
 				<li class="nav-link"><a href="/index.html"  hreflang="en"><img src="/assets/flag-icon-en_US.png" /> English</a></li><li class="nav-link"><a href="/pl/index.html"><img src="/assets/flag-icon-pl_PL.png" /> <strong>Polski</strong></a></li>
 			
+		  		<li class="nav-link"><a href="#" class="nav-link-search"><i class="fa fa-search" style="width:16px;height:16px"></i></a></li>
 			</ul>
     </nav>
   </div>
@@ -339,6 +345,25 @@
 
     </div>
 
+    <div class="modal micromodal-slide" id="modal-2" aria-hidden="true">
+	<div class="modal__overlay" tabindex="-1" data-micromodal-close>
+		<div class="modal__container" role="dialog" aria-modal="true" aria-labelledby="modal-2-title">
+			<header class="modal__header">
+				<h2 class="modal__title" id="modal-2-title">
+					Search
+				</h2>
+			</header>
+			<main class="modal__content" id="modal-2-content">
+				<div id="search"></div>
+			</main>
+			<footer class="modal__footer">
+					<button class="modal__btn modal__btn-primary" data-micromodal-close="" aria-label="Close this dialog window">Close</button>
+			</footer>
+		</div>
+	</div>
+</div>
+
+
     
 
 <footer class="site-footer">
@@ -393,6 +418,7 @@
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
+<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
 <script>
@@ -451,6 +477,30 @@ $(document).ready(function() {
 });
 
 
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	MicroModal.init();
+
+	$('.nav-link-search').click(function(ev) {
+	  ev.preventDefault();
+
+	  MicroModal.show('modal-2', {
+	  		onClose: function() { $('.nav-link-contact').blur(); },
+	  		disableFocus: true
+	  });
+
+	  document.querySelector('.pagefind-ui__search-input').focus();
+	});
+
+});
+</script>
+
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search" });
+    });
 </script>
 
 
