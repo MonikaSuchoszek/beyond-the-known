@@ -3,7 +3,7 @@ layout: post
 title:  "Buddha Park w stolicy Laosu, Vientiane"
 date:   2018-10-31 08:43:59
 author: Monika Suchoszek
-categories: travel
+categories: podroze
 tags:	kultura laos miasto
 cover:  "/assets/Laos/BuddhaPark/DSC03214.jpg"
 thumbnail:  "/assets/thumbnails/buddha_park.jpg"

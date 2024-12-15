@@ -3,7 +3,7 @@ layout: default
 cover:  "/assets/categories_header.jpg"
 ---
 {% assign items_text = site.data.translations[page.locale] %}
-<div class="post">
+<div class="post" data-pagefind-ignore>
 
 <div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if page.cover %}has-cover{% endif %}">

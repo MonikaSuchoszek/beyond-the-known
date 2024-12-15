@@ -3,7 +3,7 @@ layout: post
 title:  "Angkor Wat: rozwój oraz upadek imperium Khmerów"
 date:   2018-10-11 08:43:59
 author: Monika Suchoszek
-categories: travel
+categories: podroze
 tags:	kultura historia kambodza khmerowie
 cover:  "/assets/Cambodia/AngkorWat/DSC02466.jpg"
 thumbnail:  "/assets/thumbnails/angkor_wat.jpg"
