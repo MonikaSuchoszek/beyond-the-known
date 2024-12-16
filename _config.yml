@@ -146,6 +146,16 @@ social:
     desc: Fork me on GitHub
     share: false
 
+  - name: LinkedIn
+    icon: linkedin
+    desc: Share on LinkedIn
+    share: true
+
+  - name: Twitter
+    icon: twitter
+    desc: Share on Twitter
+    share: true
+
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
