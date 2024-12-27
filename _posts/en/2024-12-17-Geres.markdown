@@ -1,0 +1,140 @@
+---
+layout: post
+
+title:  "Exploring the Natural and Cultural Wonders of Gerês-Xurés: A December Adventure"
+date:   2024-12-14 08:43:59
+author: Monika Suchoszek
+categories: travel
+tags:	Portugal hiking 
+cover:  "/assets/Portugal/Porto/20241208_111108_01.jpg"
+thumbnail:  "/assets/thumbnails/Geres.JPG"
+post_id: Geres
+coords:
+  lat: 41.708669
+  lng: -8.130288
+gallery_items:
+  - image: "/assets/Portugal/Porto/20241208_134856_01.jpg"
+    gallery_image: "/assets/gallery/Geres.JPG"
+    description: "Traditional stone and wooden raised granary, a hórreo, on a hillside near Gerês."
+---
+
+The Gerês-Xurés Transboundary Biosphere Reserve (**Reserva de la Biosfera Transfronteriza Gerês-Xurés**) stretches across 
+Galicia (Spain) and the North Region (Portugal). With its highest peaks, Nevosa (1,646m) and Fontefría, located in the 
+heart of the Serra Gerês-Xurés mountains, it was recognized as a UNESCO Biosphere Reserve in 2009. A rare but iconic 
+predator in this area is the Iberian Wolf. More commonly, you can encounter Garrano Horses, semi-wild horses native to 
+northern Portugal. They roam freely in the reserve and symbolize the area's cultural and natural heritage. Pyrenean Oak 
+dominates the reserve’s forests, providing essential habitats for wildlife. We also noticed many eucalyptus trees, but 
+this depends on the part of the vast reserve you’re exploring. I particularly admired the rock formations visible in the 
+higher parts of the mountain range.
+
+<img src="/assets/Portugal/Porto/20241208_111108_01.jpg" />
+
+Our hike began at **Miradouro da Ermida** in the village of Ermida, where we left our car. We embarked on a short loop of 6.5 km 
+(Miradouro da Ermida – Miradouro Fraga do Justo – Cascata da Rajada – Miradouro Silhas – Miradouro da Vela – Miradouro da Ermida), 
+navigating with Organic Maps and partially following the trail marked as the “PR14 Alternativo” loop.
+
+<img src="/assets/Portugal/Porto/20241208_113004_01.jpg" />
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241208_114348_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241208_113627_01.jpg" class="column-50" />
+</div>
+
+First, we followed signs toward **Miradouro Fraga do Justo**. From this viewpoint, you can see the entire surrounding valley of 
+the Arado River, with its fast-flowing waters running between rocks before turning into Rajada waterfall visible below. 
+**Cascata da Rajada** was our main goal—a picturesque waterfall at the end of an enjoyable hike with plenty of shade. The 
+trail becomes a bit rocky at the end but isn’t particularly technical. According to Google reviews, there’s less water 
+in August, but in early December, the stream was abundant. Some visitors climb the rocks at the end to reach the base of 
+the waterfall. Be cautious, as the rocks can get very slippery. You can also find a larger, deeper lagoon for swimming in 
+summer. The surroundings of Cascata da Rajada are a pleasant spot to take a break.
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241208_122953_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241208_130642_01.jpg" class="column-50" />
+</div>
+<img src="/assets/Portugal/Porto/20241208_130539_01.jpg" />
+
+Close to the waterfall, you can find additional viewpoints on natural rocks, such as **Miradouro Silhas**. The views from both 
+sections of the viewpoint are stunning. It’s worth exploring to find paths leading to both parts, though they are not always 
+obvious and require walking between trees and bushes. We then continued our way back to Ermida village, stopping at another 
+viewpoint, **Miradouro da Vela**. This viewpoint is very accessible, with a clear path leading to it.
+
+Nearby, we noticed part of the forest had been recently burned. Large parts of central and northern Portugal are covered 
+by eucalyptus, a highly flammable tree. Eucalyptus thrives and regenerates after wildfires, making it controversial in Portugal. 
+Introduced in the 1850s, eucalyptus is now the most common tree in the country. While it’s valuable to the pulp industry 
+for its fast growth and high yield, it depletes soil and water and spreads wildly on unmanaged lands. Its flammable leaves 
+and bark exacerbate the wildfire risk. The photos below, clearly show how quickly eucalyptus can recover after late summer
+fires. 
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241208_132806_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241208_132959_01.jpg" class="column-50" />
+</div>
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241208_133009_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241208_133028_01.jpg" class="column-50" />
+</div>
+
+
+After visiting this viewpoint, we continued our relaxing walk to explore the village and its rural surroundings. One 
+striking feature of the area is the presence of hórreos, traditional granaries found near almost every house. These structures, 
+built from wood or stone and elevated on pillars ending with flat stones, prevent rodents from accessing stored grain. 
+They are typically square or rectangular with slits in the walls for ventilation.
+
+<img src="/assets/Portugal/Porto/20241208_135700_01.jpg" />
+
+Later, we visited the nearby **Cascata do Arado**. We parked near the roundabout where the paved road ends (coordinates: 
+41.715924, -8.132380) and walked 15 minutes along the dirt road (approximately 850m), which is manageable for children. 
+You can also drive closer, as the dirt road is in good condition with ample parking. Cascata do Arado is a beautiful, 
+small waterfall that’s easy to access. In summer, visitors often swim in its pools. To reach the base of the waterfall, 
+you need to navigate an unmarked trail and wade through the river, as the official path leads only to the top viewpoint. 
+Be cautious—there are warning signs about accidents.
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241208_141901_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241208_142332_01.jpg" class="column-50" />
+</div>
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241208_143209_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241208_142402_01.jpg" class="column-50" />
+</div>
+
+Lastly, I hiked to a viewpoint (**Viewpoint Rocas**) near the parking area. The climb is steep and unmarked, taking about 
+five minutes. While there isn’t a clear path, the ascent involves scrambling over rocks, with the last section featuring 
+artificial stairs. Though the climb is tricky and involves some trial and error, it was more interesting than the panoramic 
+views at the top which is nice but not the best we have seen.
+
+<img src="/assets/Portugal/Porto/20241208_145115_01.jpg" />
+
+The Gerês-Xurés Reserve is a remarkable destination for nature enthusiasts, offering opportunities for hiking, wildlife 
+observation, and cultural exploration. Spending just one day in this park convinced me it’s a place worth returning to 
+for a longer adventure. Especially when days become longer and more daylight would allow for longer hikes.
+
+
+__Practical info:__
+
+* [The Geres-Xures Transboundary Biosphere Reserve](https://turismo.cm-terrasdebouro.pt/aventura/) website contains 
+description of hikes from this region, PR1-PR15 and longer ones GR34 (34km loop), GR50 (187.5km linear). There is pdf file
+with all detail for each hike that can be downloaded but it's not really useful to find your route, it's nice general 
+overview though. We used Organic Maps app to navigate and all trails were marked in this app so we didn't have any issues.
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/Screenshot_20241219_101439_Suunto.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/Screenshot_20241219_101449_Suunto_01.jpg" class="column-50" />
+</div>
+
+* [Details of PR14](https://turismo.cm-terrasdebouro.pt/listings/pr14-trilho-do-sobreiral-da-ermida/#en-pr14) can be found 
+on the official website. Trail is marked with yellow and red horizontal stripes. Where a route changes direction, the 
+red stripe will be L-shaped showing which way to turn (below example means that we should turn left). More detailsed explanation
+is included in pdf available under above link.
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241208_134714_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241208_125642_1.jpg" class="column-50" />
+</div>
+
+* There were signs on each viewpoint (below Miradouro Silhas) **"Se vir Incendo, ligue 117"** what can be translated to 
+**"In case of fire, call 117"**. 
+ <img src="/assets/Portugal/Porto/20241208_130529_02.jpg" />
+
+
+  

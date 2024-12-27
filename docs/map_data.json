@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Exploring the Natural and Cultural Wonders of Gerês-Xurés: A December Adventure",
+      "url"      : "/en/travel/2024/12/Geres/",
+      "date"     : "December 14, 2024",
+      "locale"   : "en_US",
+      "content" :  "The Gerês-Xurés Transboundary Biosphere Reserve (Reserva de la Biosfera Transfronteriza Gerês-Xurés) stretches across Galicia (Spain) and the North Region (Portugal). With its highest peaks, Nevosa (1,646m) and Fontefría, located in the heart of the Serra Gerês-Xurés mountains, it was recognized as a UNESCO Biosphere Reserve in 2009. A rare but..."
+      
+       , "coords" : {
+          "lat" : 41.708669,
+          "lng" : -8.130288
+      }
+      
+    } ,
+
+    {
       "title"    : "A Family’s Guide to Valencia: Ocean Adventures, Culture, and Scenic Escapes",
       "url"      : "/en/travel/2024/11/Valencia/",
       "date"     : "November 08, 2024",
