@@ -1,7 +1,7 @@
 [
 
     {
-      "title"    : "Exploring the Natural and Cultural Wonders of Gerês-Xurés: A December Adventure",
+      "title"    : "Exploring the Natural and Cultural Wonders of Gerês-Xurés: A December Adventure in North of Braga",
       "url"      : "/en/travel/2024/12/Geres/",
       "date"     : "December 14, 2024",
       "locale"   : "en_US",
@@ -10,6 +10,20 @@
        , "coords" : {
           "lat" : 41.708669,
           "lng" : -8.130288
+      }
+      
+    } ,
+
+    {
+      "title"    : "Heritage and Holidays: A Magical Visit to Braga and Guimarães",
+      "url"      : "/en/travel/2024/12/Braga/",
+      "date"     : "December 14, 2024",
+      "locale"   : "en_US",
+      "content" :  "While visiting friends in Pedralva, exploring Portugal’s third-largest city was a must. Our journey began with a bus ride, and we arrived near the beautiful Park Avenida Central, where a charming Christmas market awaited us. The park was adorned with festive decorations, immersing us in the holiday spirit. We decided..."
+      
+       , "coords" : {
+          "lat" : 41.550732,
+          "lng" : -8.426283
       }
       
     } ,
