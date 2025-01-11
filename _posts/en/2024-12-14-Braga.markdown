@@ -5,7 +5,7 @@ title:  "Heritage and Holidays: A Magical Visit to Braga and Guimarães"
 date:   2024-12-14 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Portugal Braga
+tags:	Portugal Braga city
 cover:  "/assets/Portugal/Porto/20241206_173438_01.jpg"
 thumbnail:  "/assets/thumbnails/Braga.JPG"
 post_id: Braga
@@ -192,6 +192,8 @@ an Uber ride for €14 (20 minutes).
   * Tíbias de Braga: A pastry shop offering local delights like tibias. These light, slightly crunchy pastries are filled 
 with soft pastry cream and sprinkled with sugar. I tried the lemon-flavored one, which was tasty but a bit too sweet for my liking.
 Address: Av. São Miguel O Anjo 5, 4700-210 Braga, Portugal.
+  * Casa das Natas: A pastry shop offering amazing Pastel de nata, just next to the main city bus station.
+Address: 4, Pç. da Galiza 8, Portugal
   * [Taberna Belga](https://www.tabernabelga.pt/) Known for its francesinhas. This place doesn’t accept reservations, so 
 there’s often a queue even before opening time. A waitress waits outside to take down names and the number of people. 
 Once the restaurant opens, names are called systematically to avoid chaos. We arrived just before opening time and 

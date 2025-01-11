@@ -29,6 +29,20 @@
     } ,
 
     {
+      "title"    : "A Rainy Day Adventure in Porto",
+      "url"      : "/en/travel/2024/12/Porto/",
+      "date"     : "December 11, 2024",
+      "locale"   : "en_US",
+      "content" :  "My journey started with a morning flight to Porto. With an evening train to Braga planned, I had the perfect opportunity to spend the day exploring Porto’s historic heart. After a quick 30-minute metro ride, I arrived at Bolhão station. As I stepped out, a light drizzle greeted me, turning..."
+      
+       , "coords" : {
+          "lat" : 41.146549,
+          "lng" : -8.606312
+      }
+      
+    } ,
+
+    {
       "title"    : "A Family’s Guide to Valencia: Ocean Adventures, Culture, and Scenic Escapes",
       "url"      : "/en/travel/2024/11/Valencia/",
       "date"     : "November 08, 2024",

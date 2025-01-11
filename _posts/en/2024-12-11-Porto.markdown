@@ -1,0 +1,199 @@
+---
+layout: post
+
+title:  "A Rainy Day Adventure in Porto" 
+date:   2024-12-11 08:43:59
+author: Monika Suchoszek
+categories: travel
+tags:	Portugal city Porto 
+cover:  "/assets/Portugal/Porto/20241205_150642_01.jpg"
+thumbnail:  "/assets/thumbnails/Porto.JPG"
+post_id: Porto
+coords:
+  lat: 41.146549
+  lng: -8.606312
+gallery_items:
+  - image: "/assets/Portugal/Porto/20241205_162405_01.jpg"
+    gallery_image: "/assets/gallery/Porto.JPG"
+    description: "Vintage tramcars, symbol of the city’s history and charm. Operated by STCP (Sociedade 
+de Transportes Colectivos do Porto), these historic trams are one to explore its streets. There are only still 3 lines 
+that are operating through Porto’s most picturesque areas. The trams are beautifully restored and retain their original 
+wooden elements and classic design."
+---
+
+My journey started with a morning flight to Porto. With an evening train to Braga planned, I had the perfect opportunity 
+to spend the day exploring Porto’s historic heart. After a quick 30-minute metro ride, I arrived at Bolhão station. As I 
+stepped out, a light drizzle greeted me, turning my first mission into a hunt for an umbrella. Luckily, ALE-HOP, my 
+daughter’s favorite shop, came to the rescue with a cheerful selection of umbrellas. 
+My next stop was the nearby Mercado do Bolhão, as my stomach started to rumble, and this place has a roof, which was 
+especially useful in such unpleasant weather. This market was first established as an open-air market, but in 1914, the 
+current neoclassical building was opened. The place was re-opened in 2022 after a major renovation, and you can clearly 
+see the changes—it’s modern, well-organized, and clean. It has a glass-covered roof, allowing natural light to reach the 
+vendors who sell fresh flowers, vegetables, fruits, meat, cheeses, olives, and seafood. Stalls with traditional handicrafts 
+add to the market’s charm.
+
+<img src="/assets/Portugal/Porto/20241205_133924_01.jpg" />
+<img src="/assets/Portugal/Porto/20241205_134147_01.jpg" />
+
+You can also find authentic Portuguese dishes at the market, from francesinha (a Porto sandwich) to fresh pastries like 
+Pastéis de Nata. These iconic Portuguese pastries originated from the Mosteiro dos Jerónimos in Belém, Lisbon, in the early 
+19th century, where Catholic monks developed the first recipe. I’ve had the pleasure of visiting the monastery and Fábrica 
+de Pastéis de Belém, the birthplace of these pastries, [during our first trip to Lisbon]({% post_url en/2022-03-20-Lisbon-Portugal %}). These are definitely my favorite pastries in Portugal, 
+and I would never get bored of eating them.
+It’s very interesting to learn why monks created this pastry, which is rich in egg yolks. Monks and nuns used large 
+quantities of egg whites to starch clothes, such as habits. The leftover egg yolks were creatively repurposed into desserts. 
+Brilliant, right?
+The pastry shell should be really crispy—you should clearly hear it when biting into a piece—and the rich, creamy custard 
+center creates the perfect contrast in textures and flavors. They’re best when eaten warm and fresh. I tried one at the 
+famous bakery Manteigaria, next to the market, and it did not disappoint. 
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241205_140403_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241205_140313_01.jpg" class="column-50" />
+</div>
+
+Nearby, the Chapel of Souls is definitely worth a quick stop. Its unique exterior, entirely covered in blue and white 
+azulejo tiles, is visible from a distance. These stunning ceramic tiles depict scenes from the lives of saints and were 
+added to the chapel in 1929. Located on Porto's main shopping street, Rua de Santa Catarina, the blue azulejos cover an 
+impressive area of about 360 square meters. This chapel is a perfect example of beautiful and unique architecture that 
+deserves a visit when exploring the vibrant Bolhão area.
+
+<img src="/assets/Portugal/Porto/20241205_140835_01.jpg" />
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241205_141036_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241205_141054_01.jpg" class="column-50" />
+</div>
+
+I continued my walk toward Gaia and the iconic Luís I Bridge. This remarkable structure features two levels, each serving 
+distinct purposes: the upper deck for trams and pedestrians, and the lower deck for vehicles and pedestrians. Designed by 
+Théophile Seyrig, a student of Gustave Eiffel, and completed in 1886, the bridge reflects the rapid industrialization and 
+urban development of Porto during that era.
+Walking along the upper deck offers breathtaking panoramic views of the Douro River, Porto’s historic Ribeira district, 
+and the wine cellars of Vila Nova de Gaia. Its unique two-level design is both functional and visually stunning, making 
+it one of Portugal's most photographed landmarks. I particularly enjoyed the misty weather, which added a magical touch 
+to the views of the river and surrounding green hills.
+
+<img src="/assets/Portugal/Porto/20241205_150555_01.jpg" />
+<img src="/assets/Portugal/Porto/20241205_150709_01.jpg" />
+<img src="/assets/Portugal/Porto/20241205_150642_01.jpg" />
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241205_151913_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241205_153140_01.jpg" class="column-50" />
+</div>
+
+The Mosteiro da Serra do Pilar, a 16th-century monastery and UNESCO World Heritage Site, provides one of the best panoramic 
+viewpoints over Porto and the Douro River. After visiting the viewpoint near the monastery, I continued my journey into 
+the Gaia district, passing through Jardim do Morro. Gaia is well-known for its Port wine lodges, where visitors can learn 
+about the production of this iconic wine and indulge in tastings. A cable car connects the riverside with the upper part 
+of Gaia, offering scenic views of the city and the river below. I chose to walk down the narrow streets beneath the cable 
+car and along the riverside promenade. This vibrant area is lined with restaurants, cafés, and shops, all offering stunning 
+views of Porto and the Luís I Bridge.
+
+<img src="/assets/Portugal/Porto/20241205_153459_01.jpg" />
+<img src="/assets/Portugal/Porto/20241205_153727_01.jpg" />
+
+Like many urban areas in Portugal, Gaia faced economic challenges during the 20th century, resulting in periods of neglect. 
+As industries declined and people moved to modern housing developments, many buildings were abandoned. Restoring these 
+historical properties can be costly, and owners often lack the resources to renovate, especially when complex ownership 
+or legal disputes are involved. This issue is similar to what is happening in Funchal, Madeira.
+
+Fortunately, the rise in tourism has brought renewed interest in revitalizing Gaia. Projects like the WOW (World of Wine) 
+district have transformed abandoned spaces into vibrant cultural and leisure destinations. As seen in the photo below, 
+some rooftops remain collapsed, but efforts are ongoing to restore the area and breathe new life into its historical charm.
+
+<img src="/assets/Portugal/Porto/20241205_152535_01.jpg" />
+
+Porto São Bento train station, another place where stunning azulejo tilework can be admired, over 20,000 azulejo tiles! 
+It is not just a transport hub but also a cultural and architectural gem that attracts countless visitors. It has very 
+convenient location, just in the heart of Porto. Scenes from Portugal's history,traditional rural life, including festivals, 
+markets, and customs can be spotted on the walls. Name of this station originated from former Benedictine monastery. 
+Despite its historical charm, São Bento is a fully operational railway station, serving regional and intercity trains, 
+including train to Braga. 
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241205_145023_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241205_145300_01.jpg" class="column-50" />
+</div>
+
+Jardins do Palácio de Crista, well-maintained park with fountains, sculptures was a perfect destination for a leisurely stroll.
+However, I would not recommend this place if you have only 6h to visit the city and weather is not great :) At the heart 
+of the gardens stands the Pavilhão Rosa Mota, also known as the Super Bock Arena. This multipurpose venue hosts concerts, 
+sports events, and exhibitions. I have noticed some  peacocks there but they were all hiding under the roof of the pavilion.
+The gardens were originally designed around the Crystal Palace, that was destroyed in 1951 but park kept the same name.
+
+<img src="/assets/Portugal/Porto/20241205_164132_01.jpg" />
+
+On the way to the park, I noticed vintage tramcars, symbol of the city’s history and charm. Operated by STCP (Sociedade 
+de Transportes Colectivos do Porto), these historic trams are one way to explore its streets. There are only still 3 lines 
+that are operating through Porto’s most picturesque areas. The trams are beautifully restored and retain their original 
+wooden elements and classic design. If you’re interested in the history of Porto’s tram network, visit the Museu do Carro 
+Eléctrico (Tram Museum) and its collection of vintage tramcars.
+
+<img src="/assets/Portugal/Porto/20241205_162405_01.jpg" />
+
+It was already getting dark when I passed the Christmas market in Jardim da Cordoaria. Though small, it was a pleasant place 
+to explore. The streets nearby were filled with the smoky aroma of roasted chestnuts, sold by many vendors using traditional 
+carts with small coal ovens. The smoke from the carts created a cozy, festive atmosphere as people walked by. Roasted chestnuts 
+are typically sold on the streets during the autumn and winter months, from October to January, making them a seasonal favorite. 
+I first tried this healthy snack a few weeks ago on Madeira and really liked them! They’re quite filling and are served in 
+small paper cones, perfect for enjoying on the go. The towering structure near the Christmas market turned out to be the 
+Clérigos Church, an iconic landmark in Porto. Unfortunately, I couldn’t enter without a ticket as the Spiritus Light Show 
+was ongoing at the time. All the Christmas decorations started to light up on the streets, and despite the rainy weather, 
+the atmosphere in the city was cheerful. Igreja do Carmo church was another one in the area of the Christmas market that 
+caught my attention, visible on the top photo below.
+
+<img src="/assets/Portugal/Porto/20241205_171304_01.jpg" />
+<img src="/assets/Portugal/Porto/20241205_180607_01.jpg" />
+<img src="/assets/Portugal/Porto/20241205_180859_01.jpg" />
+
+On the way to the train station to catch my train to Braga, I realized I hadn’t visited Porto Cathedral! With an hour left 
+before my train's departure, I quickly rushed to the Batalha neighborhood, where the cathedral is located.
+
+Approaching from Avenida Dom Afonso Henriques, the cathedral’s fortress-like appearance immediately caught my attention. 
+There were also Christmas stalls along this part of the street, adding to the festive atmosphere of the city. I explored 
+the almost deserted area around the cathedral and walked a bit downhill, wandering through narrow streets. 
+By then, it was already dark, so unfortunately, there were no views of the Douro River or the Luís I Bridge from the 
+cathedral square. The cathedral is a significant stop on the Camino de Santiago pilgrimage route, and it’s common to 
+see pilgrims beginning their journey here. While my visit was brief, it was still fascinating to experience this historic 
+and iconic landmark.
+
+<div class="row">
+  <img src="/assets/Portugal/Porto/20241205_182435_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Porto/20241205_182421_01.jpg" class="column-50" />
+</div>
+<img src="/assets/Portugal/Porto/20241205_182837_01.jpg" />
+
+As my day in Porto came to an end, I couldn’t help but smile at how much I managed to see and experience in just a few 
+hours. From the lively Mercado do Bolhão to the stunning azulejo tiles at São Bento station, the city had a way of surprising 
+me at every turn. The Christmas lights glowing in the drizzle and the smoky aroma of roasted chestnuts made the streets 
+feel so cozy, even in the rain.  
+As I hopped on the train to Braga, I knew one thing for sure—I’d be back to explore even more someday
+
+__Practical info:__
+
+* Metro ticket was 2.85 euro (2.25euro zone Z4 + Andante card 0.60euro). Andante card can be re-chargeable. On the ticket machine, 
+there was a sticker with all metro station names and next to the, there was a zone that applies when you go there from 
+the airport. I went to Bolhão metro station so it was Z4. You can also check [more details](https://en.metrodoporto.pt/pages/391)
+however when I check connection Aeroporto – Bolhao, price for single ticket was 2euro so website is not showing correct 
+ticket fare (zone was correct though).
+
+* Restaurant in Porto PAPO CHEIO - A Tasca de Cedofeita, the restaurant has a small surface inside and tables outside and
+serves delicious local dishes. Superb value and very friendly service.
+Address: R. de Cedofeita 95, 4050-166 Porto, Portugal
+
+<img src="/assets/Portugal/Porto/20241205_173014_01.jpg" />
+
+* Manteigaria – [Fábrica de Pastéis de Nata](https://manteigaria.com/) sells fresh and hot Pastel de Nata with tasty and very soft
+cream. Pastries are prepare and baked on spot (€1.30 a piece).
+
+* Train from Porto to Braga was 3.95 euro (3.45euro ticket + 0.50euro SIGA card). This card is reusable and has contactless 
+technology to carry up to 31 single tickets that can be used in either direction. Using the ticket machine was a bit 
+challenging, as even when switched to English, the translation was inaccurate. It took a few attempts and a bit of trial 
+and error to figure out how to purchase the correct ticket.
+
+
+
+
+  
