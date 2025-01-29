@@ -20,6 +20,8 @@ exclude:
 
 destination: "./docs"
 
+future: true
+
 defaults:
 -
     scope:

@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Funchal - great starting point for visiting the island of eternal springtime",
+      "url"      : "/en/travel/2025/01/Funchal/",
+      "date"     : "January 19, 2025",
+      "locale"   : "en_US",
+      "content" :  "When it came time to choose a destination for our honeymoon, we wanted something special. This trip was a rare opportunity—our toddler stayed at home, so for once, we could travel as we did before starting a family. We dreamed of a place that offered breathtaking hiking trails, delicious food,..."
+      
+       , "coords" : {
+          "lat" : 32.649987,
+          "lng" : -16.905145
+      }
+      
+    } ,
+
+    {
       "title"    : "Exploring the Natural and Cultural Wonders of Gerês-Xurés: A December Adventure in North of Braga",
       "url"      : "/en/travel/2024/12/Geres/",
       "date"     : "December 17, 2024",

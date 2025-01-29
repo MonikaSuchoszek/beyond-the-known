@@ -20,6 +20,8 @@ exclude:
 
 destination: "./_site"
 
+future: true
+
 defaults:
 -
     scope:
