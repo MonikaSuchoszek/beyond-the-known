@@ -1,0 +1,227 @@
+---
+layout: post
+
+title:  "Madeira Adventure: Day 1 – Driving Challenges and first UNESCO site"
+date:   2025-02-06 08:43:59
+author: Monika Suchoszek
+categories: travel
+tags:	Portugal city Madeira 
+cover:  "/assets/Portugal/Madeira/Day1/DSC08754.JPG"
+thumbnail:  "/assets/thumbnails/Day1.JPG"
+post_id: Day 1
+coords:
+  lat: 32.814375, 
+  lng: -17.144545
+gallery_items:
+  - image: "/assets/Portugal/Madeira/Day1/DSC08621.JPG"
+    gallery_image: "/assets/gallery/Day1.JPG"
+    description: "Traditional terraced farming system used in Madeira that is called \"poios\". People made these terraces on the steep hillsides to create flat land for agriculture. Supported by stone walls that help prevent soil 
+erosion and maximize the use of limited land. The famous levadas
+are used to distribute water across these terraces. These are just narrow water channels that act as irrigation system.
+Grapes, bananas, sweet potatoes, passion fruit, papaya and many more fruits and vegetables are cultivated using this system."
+---
+
+After our first night in [Funchal]({% post_url en/2025-01-25-Funchal %}), we were ready to explore Madeira by car! However, 
+when I saw where our rented car was parked (on one of the steepest streets near our apartment), I had 
+a brief moment of panic. Would I even be able to drive out of there? Luckily, I managed to, but only because it was a one-way 
+street, and there was enough space in front of the car to simply turn the steering wheel and get out of the parking spot 
+immediately.
+
+I had read many stories about driving in Madeira: how steep the streets can be, the unpredictable sharp turns, encountering 
+big buses on the way to viewpoints, and the incredibly difficult parking situation in Funchal. However, I wasn’t expecting 
+the sharp sunlight to be the most problematic weather condition. Especially when exiting a tunnel, the low winter-sun can 
+be particularly blinding. Having sunglasses ready at all times is a must.
+
+We didn’t experience heavy rain, only some mist on the way from Fanal Forest and light drizzle a few times. The first 
+day was the most stressful, but starting from day three, I actually enjoyed driving there! The most important tip I would 
+give to everyone is to start your day with the most popular destinations to avoid crowds and parking issues. There were a 
+few viewpoints that were less popular, and we had them almost to ourselves.
+
+## Places we visited
+
+
+**Cabo Girão Skywalk** The name “Skywalk” might be a bit misleading, as it’s more of a viewing platform than a true skywalk 
+experience. However, it’s the highest sea cliff in Europe! While standing on the glass-floored platform, you will be 580 
+meters above the ocean. Unfortunately, the glass floor is very scratched, so you can’t see through it well—perhaps that’s 
+why I wasn’t scared to walk on it. On another day, we hiked on Levada Nova, which gave me a few really stressful moments while passing very exposed steep slopes 
+without any protection, that was more of skywalk experience :) From the viewpoint, you can see the coastline, Fajãs de Cabo Girão (the small cultivated land at the cliff’s base—see 
+photo below), Câmara de Lobos, and even Funchal in the distance.
+
+<img src="/assets/Portugal/Madeira/Day1/DSC08610.JPG" />
+
+**Capela de Nossa Senhora de Fátima**  The chapel itself is very small but well-maintained. It wasn’t crowded when we 
+visited—a perfect spot for a quiet break. The view over São Vicente Valley, the Atlantic Ocean, hills, and villages was 
+breathtaking. It was a cloudy day, but for a moment, the clouds opened up, allowing rays of light to highlight parts of the 
+hills, creating a spectacular scene!
+
+<img src="/assets/Portugal/Madeira/Day1/DSC08616.JPG" />
+<img src="/assets/Portugal/Madeira/Day1/DSC08619.JPG" />
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day1/DSC08631.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day1/DSC08632.JPG" class="column-50" />
+</div>
+
+We noticed the traditional terraced farming system used in Madeira, called “poios.” People built these terraces on the 
+steep hillsides to create flat land for agriculture. Supported by stone walls, they help prevent soil erosion and maximize 
+the use of limited land. I have seen the same system in the northern part of Portugal. The famous levadas distribute water 
+across these terraces—narrow water channels that act as an irrigation system. Grapes, bananas, sweet potatoes, passion 
+fruit, papaya, and many more fruits and vegetables are cultivated using this system.
+
+<img src="/assets/Portugal/Madeira/Day1/DSC08621.JPG" />
+
+**Miradouro Véu da Noiva** The name "Véu da Noiva" means "Bride’s Veil" because the waterfall 
+resembles a delicate bridal veil flowing down the rocks. The original coastal road leading to the waterfall was damaged 
+by landslides, so the viewpoint is the best place to admire it from a distance. The road beyond the viewpoint is blocked by concrete block,
+not allowing anyone to pass. 
+
+<img src="/assets/Portugal/Madeira/Day1/DSC08641.JPG" />
+
+As in many places, we could admire dramatic waves crashing against the shore and the deep 
+blue ocean. After rainfall, when the water flow is stronger, the waterfall looks even more impressive!
+
+<img src="/assets/Portugal/Madeira/Day1/DSC08636.JPG" />
+
+**Água d'Alto Waterfall (Roadside Waterfall)** We passed this waterfall on the way to Seixal and planned to stop on the 
+way back, but we ended up taking another road to Funchal and never passed it again. When we first saw it, a lot of water 
+was running down, but we heard that its flow depends on recent weather conditions. Sometimes, it's significantly reduced
+or even stops, while at other times, more water rushes down. This can even lead to temporary road 
+closures.
+
+**Praia do Seixal (Black Sand Beach)** Google Maps indicated that the road to the main parking lot was closed, so we 
+parked on Estrada Santo Antão, where we quickly found signs pointing to steep stairs leading to the beach. On the way 
+down, we stopped by Mercearia Amanhecer and bought some pastries to enjoy on the beach. One thing I wasn’t expecting was 
+the sheer number of cockroaches. I haven’t seen many in my life—just two in Asia—but 
+this path leading to the beach was full of dead ones, especially visible while walking back up the stairs. I know these 
+are some of the most common insects on Madeira, but I’m not great with fast-moving, crunchy bugs.
+
+My first impression of the beach was disappointment—it looked dirty, small, and nothing like the photos online. I still 
+managed to take some nice pictures, but everything depends on perspective and filters that make this place look much cooler 
+on the internet. That said, there were very few places on Madeira that looked worse in reality than in photos.
+
+<img src="/assets/Portugal/Madeira/Day1/DSC08649.JPG" />
+
+Quite a few people were dressed up nicely, taking Instagram photos. While taking our own, we were surprised by a wave that 
+didn’t look high but somehow managed to wash over the entire beach, soaking our shoes next to the rocks. We barely managed 
+to grab them before they were swept into the ocean! Luckily, our backpacks were on the rocks and stayed dry. However, we 
+ended up walking in wet shoes later that afternoon in Fanal Forest, where the temperature was 12°C. I was really surprised 
+we didn’t get sick. We had already been on the beach for 20 minutes, so stay alert—big waves can appear 
+at any moment! The waves can be strong sometimes, making it a popular spot for surfers, and we noticed a few trying to 
+surf during our visit. It’s a perfect stop after visiting Miradouro Véu da Noiva since it’s a short drive away.
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day1/DSC08659.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day1/20241028_122812_01.jpg" class="column-50" />
+</div>
+
+The combination of black volcanic sand and lush green surroundings was truly spectacular though. It’s rare to see a 
+beach with fine sand, as most beaches on this island are rocky, so I would still recommend to stop here.
+
+<img src="/assets/Portugal/Madeira/Day1/DSC08688.JPG" />
+<img src="/assets/Portugal/Madeira/Day1/DSC08677.JPG" />
+<img src="/assets/Portugal/Madeira/Day1/20241028_122535_01.jpg" />
+
+**Las Caraibas Restaurant** We ate here while trying to let our shoes dry a bit before heading to Fanal Forest. The 
+location is stunning, with an ocean view and great waves. The atmosphere is peaceful, with a cozy terrace. It was the 
+first time in my life that I had a meal while admiring such amazing waves. The staff was very friendly, the food was 
+great (we tried the burger, chicken, and passion fruit cheesecake—a must!), and the prices were reasonable.
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day1/20241028_135455_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day1/20241028_142518_01.jpg" class="column-50" />
+</div>
+
+**Fanal Forest (Vereda do Fanal Hike PR13)** 
+We decided to visit Fanal Forest in the afternoon despite hearing that the famous mist is usually present in the morning. 
+While having lunch in Seixal, we noticed that clouds were still covering the mountain peaks, which is apparently also a 
+good sign for mist. When we arrived, there was no mist, and I felt disappointed. 
+
+<img src="/assets/Portugal/Madeira/Day1/DSC08695.JPG" />
+
+However, after about 15 minutes of walking, 
+the mist started to roll in. It felt as though the clouds were approaching us, and the wind picked up.
+When we reached a nearby hill, the clouds suddenly opened, revealing a stunning view of the ocean! I was totally 
+surprised—we had been driving for so long that I never expected to see the ocean from there. The twisted, moss-covered 
+trees create surreal photos, and you can see many people taking pictures in special outfits or even wedding dresses. There 
+were also plenty of cows grazing in the misty fields. Some trees are over 500 years old! These are evergreen trees, so 
+Fanal looks lush year-round.
+
+<img src="/assets/Portugal/Madeira/Day1/DSC08731.JPG" />
+<img src="/assets/Portugal/Madeira/Day1/DSC08752.JPG" />
+<img src="/assets/Portugal/Madeira/Day1/20241028_161725_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day1/DSC08770.JPG" />
+<img src="/assets/Portugal/Madeira/Day1/DSC08762.JPG" />
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day1/DSC08708.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day1/20241028_153842_01.jpg" class="column-50" />
+</div>
+
+Our first day in Madeira was an intense mix of excitement and challenges, from navigating the island’s steep roads and 
+unexpected driving conditions to discovering breathtaking viewpoints and natural wonders. Despite a few stressful 
+moments—like nearly losing our shoes to a rogue wave at Seixal Beach—we were already captivated by Madeira’s wild beauty. 
+And this was just the beginning! With four more days ahead, we had even more incredible adventures waiting for us. In the 
+next post, we’ll take you on two dramatically different hikes: the rugged, barren landscapes of The Dragon’s Tail and the 
+lush, coastal beauty of Vereda do Larano.
+
+__Practical info:__
+
+We tried to take the main highways on Madeira, which connect different parts of the island and also cross from South to 
+North, to avoid getting stuck on very narrow and more difficult roads. Even though we covered more kilometers, it was 
+overall faster than taking the smaller roads. The large number of tunnels makes a huge difference!
+
+We witnessed one accident that happened right in front of us on the highway. The on- and off-ramps are incredibly short, 
+so when merging onto the highway, you can’t drive to the end of the lane like we’re used to. Instead, you often have to 
+stop halfway because the second part of the lane is also the off-ramp for cars exiting the highway—this is where accidents 
+tend to happen.
+
+Animals on the road and falling rocks can also be hazards. On very sharp turns, there are often mirrors installed, so be 
+sure to use them to make driving easier and safer. If you park in a spot marked with a blue line, you need to pay for it. 
+A yellow line means parking is forbidden, and a white line means parking is free.
+
+* Cabo Girão Skywalk
+Located close to the ER101 main road leading to Funchal. The entrance fee is €2, payable online or at the ticket machine 
+(cash or card). The dedicated parking lot is very small, with part of it reserved for buses, so you’ll likely need to 
+park along the road leading to Santuário de Nossa Senhora de Fátima. It was already very crowded when we arrived shortly 
+after 10 AM. Luckily, this was the only viewpoint during our stay that felt overly crowded! This was the busiest spot we 
+visited. The viewpoint is wheelchair accessible.
+
+* Capela de Nossa Senhora de Fátima
+There’s parking near the stairs, and it’s close to the main road. It’s a great stop between Seixal and Funchal, and 
+since it’s not as touristy as other viewpoints, you’ll get a peaceful experience.
+
+* Miradouro Véu da Noiva
+Located right next to the ER101 main road, just after the tunnel when driving from São Vicente in the direction of Seixal. 
+There are two parking lots, a souvenir shop, toilets, and snack stands. It wasn’t crowded before noon, but buses do stop 
+here, so the number of tourists can vary. We noticed this pattern at most viewpoints, whether they were empty or crowded 
+was often just a matter of luck.
+
+* Las Caraibas Restaurant
+There was a queue when we arrived around 2 PM, and we had to wait about 20 minutes. Parking is available along the road 
+or in front of the restaurant. A main dish with a drink was just below €20 per person.
+Address: Rua do Porto do Laje 15 , Fajã da Parreira 9270-122 Seixal PMZ, 9270-120 Seixal, Portugal
+
+* Fanal Forest. We reached Fanal Forest from Seixal, passing by Ribeira da Janela. There was a huge parking area next to Fanal Forest, 
+so we had no trouble finding a spot. Initially, the plan was to return the 
+same way to avoid zigzag roads, but since I felt more comfortable driving, we took the ER209 road to Funchal instead. 
+On the plateau, we encountered more mist but luckily very few cars. Once the road started descending, there were more and more sharp 
+turns, the sun came out, and the ocean views were stunning! We really enjoyed this drive, except for the last few 
+kilometers along the ER222 before joining the main highway to Funchal (very busy, residential area). 
+Even in summer, it can be chilly due to the altitude (~1,150m). It was 12°C when we were there, so a fleece and waterproof 
+jacket were very handy. Good shoes are a must, as some trails can be muddy. We visited after two rainy days, and it was 
+extremely wet—we regretted not having proper waterproof shoes. Since our shoes were already soaked from our small accident 
+at Seixal Beach, walking here didn’t make much difference. However, in many places, the water was so deep that small lakes 
+had formed along the paths, making it impossible to walk through. The grass around the trails felt like a sponge.
+There are no shops or restaurants nearby, so bring your own snacks. There was a toilet building, but it was honestly one 
+of the worst public restrooms I’ve ever seen—definitely not a pleasant place to enter.
+Our walk was 3.5 km long.
+
+<img src="/assets/Portugal/Madeira/Day1/Screenshot 2025-01-26 203915.png" />
+
+Other options in this area of Fanal Forest that we haven't done:
+
+[Vereda do Fanal PR13](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-13-vereda-do-fanal/) – A scenic hike from Assobiadores (10.8 km, moderate) but this one is ending in Fanal but it's not 
+circuit around Fanal Forest. 
+
+[Levada dos Cedros PR14](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-14-levada-dos-cedros/) this one is 7.2km
+trail that starts on the road ER209 Fanal Forest and ends on the same road but in the area of Curral Falso. 4.4km by car
+between start and end point of this trail.

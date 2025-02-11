@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Madeira Adventure: Day 1 – Driving Challenges and first UNESCO site",
+      "url"      : "/en/travel/2025/02/Day-1/",
+      "date"     : "February 06, 2025",
+      "locale"   : "en_US",
+      "content" :  "After our first night in Funchal, we were ready to explore Madeira by car! However, when I saw where our rented car was parked (on one of the steepest streets near our apartment), I had a brief moment of panic. Would I even be able to drive out of there?..."
+      
+       , "coords" : {
+          "lat" : 32.814375,,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Funchal - great starting point for visiting the island of eternal springtime",
       "url"      : "/en/travel/2025/01/Funchal/",
       "date"     : "January 19, 2025",
