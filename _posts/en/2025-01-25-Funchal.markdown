@@ -15,7 +15,7 @@ coords:
 gallery_items:
   - image: "/assets/Portugal/Madeira/Funchal/DSC08596.JPG"
     gallery_image: "/assets/gallery/Funchal.JPG"
-    description: "Tr Gerês."
+    description: "View from Caminho do Lombo street on the way back from Monte Palace Madeira botanical garden."
 ---
 
 When it came time to choose a destination for our honeymoon, we wanted something special. This trip was a rare opportunity—our 

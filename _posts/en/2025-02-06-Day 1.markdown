@@ -15,7 +15,7 @@ coords:
 gallery_items:
   - image: "/assets/Portugal/Madeira/Day1/DSC08621.JPG"
     gallery_image: "/assets/gallery/Day1.JPG"
-    description: "Traditional terraced farming system used in Madeira that is called \"poios\". People made these terraces on the steep hillsides to create flat land for agriculture. Supported by stone walls that help prevent soil 
+    description: "Traditional terraced farming system used in Madeira that is called poios in Portugese. People made these terraces on the steep hillsides to create flat land for agriculture. Supported by stone walls that help prevent soil 
 erosion and maximize the use of limited land. The famous levadas
 are used to distribute water across these terraces. These are just narrow water channels that act as irrigation system.
 Grapes, bananas, sweet potatoes, passion fruit, papaya and many more fruits and vegetables are cultivated using this system."
