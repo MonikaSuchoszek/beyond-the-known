@@ -1,0 +1,209 @@
+---
+layout: post
+
+title:  "Madeira Adventure: Day 2 – coastal hike and walking on the surface of another planet"
+date:   2025-02-18 08:43:59
+author: Monika Suchoszek
+categories: travel
+tags:	Portugal hike Madeira 
+cover:  "/assets/Portugal/Madeira/Day2/DSC08882.JPG"
+thumbnail:  "/assets/thumbnails/Day2.JPG"
+post_id: Day2
+coords:
+  lat: 32.814375, 
+  lng: -17.144545
+gallery_items:
+  - image: "/assets/Portugal/Madeira/Day2/DSC08855.JPG"
+    gallery_image: "/assets/gallery/Day2.JPG"
+    description: "XXX"
+---
+
+[The first day]({% post_url en/2025-02-06-Day 1 %}) was already intense, but for the second, we planned even more: two 
+dramatically different hikes—the rugged, barren landscapes of The Dragon’s Tail and the lush, coastal beauty of Vereda 
+do Larano. The first one offered a feeling of being on another planet, especially with the rising sun that made the 
+colors of the landscape truly spectacular.
+
+We were advised to leave Funchal before 8:00 AM to avoid traffic. Solid advice, as parents drop off their kids at schools 
+in the center of Funchal, which in combination with people getting to their workplace gets really busy. We arrived 
+at an empty São Lourenço parking lot around 8:10 AM, but by the time we finished the hike at 11:00 AM, 
+cars were parked up to 1.5 km away from the start of the hike, reaching another big parking lot close to the Resort Spa & Marina hotel. 
+We always made it a point to do the most famous hikes first thing in the morning to avoid crowds and parking issues. That day, not 
+only was parking much easier, but the number of people we encountered on the way back was drastically higher. It was 
+surreal to start the hike with almost no one around and then finish with a line of people going the opposite direction. When we started 
+our hike, there were already a few people coming back, they had surely gone there to see the sunrise. We once hiked up [Poon Hill]({% post_url en/2018-07-09-AnnapurnaPoonHill %})
+in the dark and on an empty stomach to see the sunrise, but learned this isn't for us.
+
+<img src="/assets/Portugal/Madeira/Day2/DSC08772.JPG" />
+
+The Ponta de São Lourenço peninsula is called the Dragon's Tail because of its shape, especially when seen from above. 
+The morning sun was amazing—the colors were warm, and the place was unbelievably quiet. That day, there was 
+almost no wind, and the ocean looked very calm. We particularly liked the red-colored, iron-rich volcanic rock called 
+basalt and the stark landscape devoid of vegetation, which made this place look surreal. The contrast between the red, 
+black, and yellowish rocks and the blue ocean in this area makes the landscape even more unique. During the hike, we also 
+observed boats coming to the nearby bays and fishing nets used by local fishermen. This area is known for its rich marine 
+biodiversity.
+
+<img src="/assets/Portugal/Madeira/Day2/DSC08778.JPG" />
+<img src="/assets/Portugal/Madeira/Day2/DSC08784.JPG" />
+<img src="/assets/Portugal/Madeira/Day2/DSC08792.JPG" />
+<img src="/assets/Portugal/Madeira/Day2/DSC08790.JPG" />
+
+Good shoes are definitely a must, as the path is rocky, especially toward the end, where it becomes more demanding. After 
+passing the café, the last stretch climbs steeply uphill, with wires to hold onto. However, many of these wires were rusty 
+and therefore dangerous, and large sections of the path was broken and in poor condition. Additionally, the wire used 
+to assist with the climb was broken or missing in many places, with some sections having fallen or frayed, leaving sharp 
+bits sticking out that could easily cut your hands. The challenging trail conditions make the café you'll encounter 
+even more appealing, as it stands like a little green oasis surrounded by palm trees. Great stop for everyone that 
+needs a coffee break or grab something sweet. 
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day2/DSC08824.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day2/DSC08838_01.jpg" class="column-50" />
+</div>
+
+At the very end of the trail there is a viewpoint where the protective fence was damaged. We noticed several people 
+stepping beyond it to the very edge to snap better pictures, which struck us as quite irresponsible given the steep drop. 
+One downside of hiking so early during this time of year was that the peninsula's tip—known as the "Dragon's Tail"—was 
+barely visible from this viewpoint due to the sharp sunlight shining directly into our eyes.
+
+<img src="/assets/Portugal/Madeira/Day2/DSC08828.JPG" />
+<img src="/assets/Portugal/Madeira/Day2/DSC08829.JPG" />
+<img src="/assets/Portugal/Madeira/Day2/DSC08841.JPG" />
+
+We arrived in Madeira the same week that the government started applying fees (October 28, 2024) to the most stunning 
+trails, including this one. We bought our tickets online, but when we arrived shortly after 8 AM, there was an older 
+man with paper tickets getting ready for the day. After our hike, a small queue had formed with people trying to buy 
+tickets with cash, and two additional younger park rangers were checking them. I hope this money will be used to renovate 
+the trails and make them safer, as this one was in bad shape, with broken wooden boards in several places. According to 
+the government’s statement, all profits from the new tourist fee will go toward trail maintenance, cleaning, and preservation 
+efforts. With Madeira experiencing a rise in tourism, this change was really necessary. The number of people we passed on 
+the way back to the car was remarkable—the highest during our whole stay.
+
+<img src="/assets/Portugal/Madeira/Day2/DSC08845_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day2/20241029_104400_01.jpg" />
+
+Miradouro da Ponta do Rosto was our next stop since it is located just a couple hundred meters from the road leaving 
+the PR8 hike. It gave us a great overview of the part of the hike we just did, from another angle. We could see 
+dramatic cliffs with colorful volcanic rock formations. Ponta de São Lourenço is one of Madeira’s must-visit 
+hikes, offering a completely different experience from the island’s lush levada trails. I really enjoyed this walk with 
+truly mind-blowing scenery! This easternmost point of Madeira Island is just unreal and a must-see for everyone visiting. 
+I was very happy that we didn’t arrive too late and could quickly move on to our next goal for the day: a longer coastal 
+hike to Porto da Cruz.
+
+<img src="/assets/Portugal/Madeira/Day2/DSC08855.JPG" />
+
+After a short car ride and passing Caniçal, we parked on the ER109 road near the old tunnel, where we started with Levada 
+do Caniçal. We were following Organic Maps because we hadn’t seen any trail signs next to the road. First, the path 
+passed many houses, and we admired pomegranate trees and hydrangeas that still had nice colors if growing in the shade. 
+From the very beginning, we followed a small levada. Once we reached the local road, we had to look for a sharp turn to 
+the left, which was luckily marked on a stone pointing to Vereda da Boca do Risco. The first few kilometers led close to 
+fields where local people grow their crops and vegetables. Next, the path entered the forest, where we saw goats running 
+around.
+
+<img src="/assets/Portugal/Madeira/Day2/20241029_121957.jpg" />
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day2/20241029_122550_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day2/DSC08862.JPG" class="column-50" />
+</div>
+<img src="/assets/Portugal/Madeira/Day2/20241029_122633_01.jpg" />
+
+The forest became denser, the path steeper and rockier. We passed only a few people and a trail runner before reaching 
+the top. When the ocean view opened, and we reached Vereda do Larano, the landscape changed dramatically. We were now 
+walking along a steep slope, but luckily, small trees growing there created a feeling of protection. This part of the hike 
+was definitely more crowded but not to the point that it would negatively affect our experience.
+
+<img src="/assets/Portugal/Madeira/Day2/20241029_130057_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day2/DSC08884.JPG" />
+<img src="/assets/Portugal/Madeira/Day2/DSC08882.JPG" />
+
+In the most exposed parts, there was a wire fence. It got quite windy, but we could admire stunning cliffs for most of the 
+hike, so it was definitely worth exploring this area. Also, the rocks next to the trail were covered with numerous succulents. 
+We mostly know these from garden centers, so seeing them thrive on the rugged, nearly vertical rocks beside us was 
+unexpected—a beautiful reminder of nature’s resilience. At one point, we 
+even noticed majestic Ponta de São Lourenço peninsula far in a distance.
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day2/DSC08913.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day2/DSC08894.JPG" class="column-50" />
+</div>
+
+After passing the rusty-looking cable car near Porto da Cruz, we followed the road for a moment where many cars were parked 
+as most people start their hike here and return to the same place (out and back variant of the hike). Next, we turned onto a path leading through 
+fields and a nearby hill to admire the view of the city (marked as the only dashed line near the coast in Organic maps app). 
+It’s also possible to just walk along the road, but it is longer 
+and less safe. Finally, we reached the black sand and pebble beach and followed the coastline until the city center. Below, 
+you can see in the photo Penha de Águia towering over the city. This volcanic rock formation clearly dominates the landscape, 
+standing at almost 600m in height! It was a very diverse hike, starting with dirt paths, forested sections, and finally reaching 
+a dramatic cliffside walk. It was relatively easy but had some narrow and exposed areas—not for those really afraid of 
+heights!
+
+<img src="/assets/Portugal/Madeira/Day2/DSC08928.JPG" />
+<img src="/assets/Portugal/Madeira/Day2/20241029_151649.jpg" />
+
+Now it was time for a proper meal after this exhausting day. Since there was only one available Bolt driver, taking a 
+normal taxi back to our car was now the cheaper option. We were happy with this decision despite the extra cost because it 
+allowed us to complete a longer hike without repeating any part of it.
+
+Since we still had some time, we decided to finish the day at Miradouro do Pico do Facho, just a little over 1 km from 
+our car, where we could admire the view of Cristiano Ronaldo International Airport. I was shocked in the morning when I 
+realized that, at one point, we were driving underneath the airport runway! Madeira Airport has a unique elevated runway 
+extension, supported by large concrete pillars, allowing vehicles to pass 
+underneath. This extension was built to accommodate larger planes and improve safety, as the original runway was quite 
+short and challenging for landings. The road that passes beneath is part of the VR1 highway, making it a really cool 
+experience for drivers. Miradouro do Pico do Facho was a peaceful spot to sit and relax, surrounded by large cactuses. 
+There were also restrooms and a small snack bar, though it was closing when we arrived after 5 PM.
+
+<img src="/assets/Portugal/Madeira/Day2/DSC08943.JPG" />
+<img src="/assets/Portugal/Madeira/Day2/DSC08947.JPG" />
+
+Next, we'll explore Madeira's West Coast and natural pools in Porto Moniz so stayed tuned!
+
+__Practical info:__
+
+* [Official website](https://ifcn.madeira.gov.pt/pt/atividades-de-natureza/percursos-pedestres-recomendados/percursos-pedestres-recomendados.html) 
+to check if hiking trails are open after the wildfires that occurred during the summer. 
+
+* Tickets for paid hiking trails can be bought online [on this website.](https://simplifica.madeira.gov.pt/services/78-82-259)
+From January 1, 2025, non-residents will need to pay to hike on over 30 routes managed by the Institute of Forests and 
+Nature Conservation (ICNF) in Madeira. These are basically all hikes marked as PR.
+* Ponta de São Lourenço ‘The Dragon’s Tail’ – 7.5 km, 2h30min. This hike already had an entrance fee of 1 euro before the 
+most recent changes. Looking at our hike and the official map now, I wonder if the last part after the bar is even an 
+official trail—maybe that’s why it was not properly maintained. However, there was no sign or information indicating that 
+we shouldn’t continue, at least none that we noticed. We just followed a well-visible path to the end, deliberately skipping 
+the restaurant since we didn’t have time for an extra break.
+[PR8](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-8-vereda-da-ponta-de-sao-lourenco/) and
+[a detailed summary of the hike](https://visitmadeira.com/media/bnpngpg0/pr8-vereda-da-ponta-de-sao-lourenc-o.jpg) can be
+found on official websites.
+
+<img src="/assets/Portugal/Madeira/Day2/Screenshot 2025-01-26 204122.jpg" />
+<img src="/assets/Portugal/Madeira/Day2/20241029_081142_01.jpg" />
+
+It is also possible to get here by 113 bus from Funchal, see schedule below (photo from the bus stop at São Lourenço parking).
+Overall, the path is well maintained in the main section but not at the beginning, where many wooden boards are missing 
+or broken, and not after passing the café (still questionable whether this is part of the official hike).
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day2/DSC08771.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day2/DSC08851.JPG" class="column-50" />
+</div>
+
+* Miradouro da Ponta do Rosto - small parking area, but people come and go quickly, so finding a spot for a short 10-minute 
+stop is usually not a problem.
+
+* Levada do Caniçal - Vereda da Boca do Risco - Vereda do Larano - Porto da Cruz – 13.44km, 3h30min
+Taxi back to the car 18euro, 11km ride (only one available car on [Bolt app](https://bolt.eu/en/support/articles/115003024753/) 
+but more expensive, 24euro). We left the car at: P6MP+44 Machico, Portugal
+
+<img src="/assets/Portugal/Madeira/Day2/Screenshot 2025-01-26 204224_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day2/DSC08873.JPG" />
+
+* During our travels, we always use Organic Maps: Offline Hike, Bike, Trails, and Navigation app, which was very accurate 
+on Madeira—we didn't get lost even once. We didn’t even need to use the app during the first hike of the day, but the 
+coastal hike was more complicated since we were hiking on parts of different trails. We noticed only one proper wooden 
+post when we reached the crossing between Vereda da Boca do Risco and Vereda do Larano (the first viewpoint with an ocean 
+view).
+
+* Restaurant A Pipa - restaurant & bar with big portions, clean, and tasty food. About 20 euro per person including drinks.
+Address: Casas proximas, 9225-050 Porto da Cruz, Portugal
+
+<img src="/assets/Portugal/Madeira/Day2/20241029_160617_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day2/20241029_160626_01.jpg" />

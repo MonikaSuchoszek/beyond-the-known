@@ -5,10 +5,10 @@ title:  "Madeira Adventure: Day 1 – Driving Challenges and first UNESCO site"
 date:   2025-02-06 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Portugal city Madeira 
+tags:	Portugal hike Madeira 
 cover:  "/assets/Portugal/Madeira/Day1/DSC08754.JPG"
 thumbnail:  "/assets/thumbnails/Day1.JPG"
-post_id: Day 1
+post_id: Day1
 coords:
   lat: 32.814375, 
   lng: -17.144545
