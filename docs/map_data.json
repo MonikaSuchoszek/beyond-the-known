@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Madeira Adventure: Day 3 - Exploring the Beauty of the Wild West Coast",
+      "url"      : "/en/travel/2025/03/Day3/",
+      "date"     : "March 20, 2025",
+      "locale"   : "en_US",
+      "content" :  "Every evening, we made plans for the next day based on the weather and how tired we felt that day. The idea was to avoid having the most intense hiking days one after another. The weather looked more stable the next day, so we decided to hike up Pico Grande..."
+      
+       , "coords" : {
+          "lat" : 32.814375,,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Madeira Adventure: Day 2 – coastal hike and walking on the surface of another planet",
       "url"      : "/en/travel/2025/02/Day2/",
       "date"     : "February 18, 2025",

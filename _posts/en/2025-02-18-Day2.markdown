@@ -15,7 +15,7 @@ coords:
 gallery_items:
   - image: "/assets/Portugal/Madeira/Day2/DSC08855.JPG"
     gallery_image: "/assets/gallery/Day2.JPG"
-    description: "XXX"
+    description: "Miradouro da Ponta do Rosto"
 ---
 
 [The first day]({% post_url en/2025-02-06-Day 1 %}) was already intense, but for the second, we planned even more: two 
