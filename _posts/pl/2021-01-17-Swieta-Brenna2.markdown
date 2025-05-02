@@ -82,7 +82,7 @@ patrzeć jak negatywnie na nasze lasy wpływają prowadzone obecnie wycinki.
 __Informacje praktyczne:__
 
   * Nocowaliśmy u moich rodziców, którzy wynajmują pokoje gościnne, dlatego chciałabym je polecić, gdy sytuacja epidemiologiczna 
-  poprawi się na tyle, że możliwe będą weekendowe wyjazdy w góry z noclegiem [Kimanko pod sosnami](https://kimanko-pod-sosnami.eu/galeria/)
+  poprawi się na tyle, że możliwe będą weekendowe wyjazdy w góry z noclegiem [Kimanko pod sosnami](https://https://kimanko-pod-sosnami.github.io/)
  
   
   * Mapki poniżej pokazują dokłandie naszą trasę, nie zawsze był to oficjalny szlak bo nie chcieliśmy kilkukrotnie iść tą samą trasą i 

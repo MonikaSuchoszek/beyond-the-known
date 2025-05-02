@@ -79,7 +79,7 @@ to odrobina słońca, ale i to wkrótce się zmieniło o czym będzie kolejny po
 __Informacje praktyczne:__
 
   * Nocowaliśmy u moich rodziców, którzy wynajmują pokoje gościnne, dlatego chciałabym je polecić, gdy sytuacja epidemiologiczna 
-  poprawi się na tyle, że możliwe będą weekendowe wyjazdy w góry z noclegiem [Kimanko pod sosnami](https://kimanko-pod-sosnami.eu/galeria/)
+  poprawi się na tyle, że możliwe będą weekendowe wyjazdy w góry z noclegiem [Kimanko pod sosnami](https://kimanko-pod-sosnami.github.io/)
   
   * Kawa, gorąca czekolada, grzane piwo na wynos w schronisku Błatnia to koszt 8-9zł
  
