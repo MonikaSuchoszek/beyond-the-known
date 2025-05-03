@@ -29,6 +29,20 @@
     } ,
 
     {
+      "title"    : "Przygoda na Maderze: Dzień 1 – Wyzwania na drodze, obiekt UNESCO",
+      "url"      : "/pl/podroze/2025/02/Dzien-1/",
+      "date"     : "February 06, 2025",
+      "locale"   : "pl_PL",
+      "content" :  "Po naszej pierwszej nocy w Funchal, byliśmy gotowi, aby zacząć zwiedzać Maderę samochodem! Jednak, gdy zobaczyłam, gdzie zaparkowany był nasz wynajęty samochód (na jednej z najbardziej stromych ulic w pobliżu naszego apartamentu), przez chwilę ogarnęła mnie panika. Czy w ogóle uda mi się stamtąd wyjechać? Na szczęście udało się, głównie..."
+      
+       , "coords" : {
+          "lat" : 32.814375,,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Madeira Adventure: Day 1 – Driving Challenges and first UNESCO site",
       "url"      : "/en/travel/2025/02/Day-1/",
       "date"     : "February 06, 2025",
