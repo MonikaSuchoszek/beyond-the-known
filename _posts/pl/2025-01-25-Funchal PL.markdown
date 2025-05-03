@@ -5,7 +5,7 @@ title:  "Funchal – świetny punkt wypadowy do zwiedzania wyspy wiecznej wiosny
 date:   2025-01-19 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Portugal miasto Madeira 
+tags:	Portugalia miasto Madera
 cover:  "/assets/Portugal/Madeira/Funchal/DSC08565.JPG"
 thumbnail:  "/assets/thumbnails/Funchal.JPG"
 post_id: Funchal
@@ -282,7 +282,7 @@ ludzie gotowi zajać nasze zwolnione miejsce. Dania tutaj nam bardzo smakowany! 
 obsługi. Niecałe 30 euro za osobę z napojem, ceny wyższe niż w innych miejscach, ale zdecydowanie warto.
 <img src="/assets/Portugal/Madeira/Funchal/20241102_184011_01.jpg" />
 <img src="/assets/Portugal/Madeira/Funchal/20241102_184007_01.jpg" />
-  * [Rei da Poncha](https://www.facebook.com/Reidaponcha): Naszym ulubionym drinkiem był Nikita – mieszanka soku ananasowego, piwa i lodów waniliowych. Pycha!
+  * [Rei da Poncha](https://www.facebook.com/Reidaponcha): Naszym ulubionym drinkiem był Nikita, mieszanka soku ananasowego, piwa i lodów waniliowych. Pycha!
 To bardzo popularne miejsce, nigdy nie udało nam się tam usiąść, ale można kupić drinki na wynos (ok 3euro).
 <img src="/assets/Portugal/Madeira/Funchal/20241102_192527_01.jpg" />
 <img src="/assets/Portugal/Madeira/Funchal/20241102_192727_01.jpg" />
