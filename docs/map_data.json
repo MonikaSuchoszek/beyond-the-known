@@ -15,6 +15,20 @@
     } ,
 
     {
+      "title"    : "Przygoda na Maderze: Dzień 2 – od spaceru nad oceanem po marsjański krajobraz, dwie twarze wyspy.",
+      "url"      : "/pl/podroze/2025/02/Day2/",
+      "date"     : "February 18, 2025",
+      "locale"   : "pl_PL",
+      "content" :  "Pierwszy dzień był już intensywny, ale na drugi zaplanowaliśmy jeszcze więcej: dwie zupełnie różne wędrówki, najpierw odkrywanie surowych krajobrazów półwyspu św. Wawrzyńca, a następnie nadmorski szlak Vereda do Larano. Dostaliśmy radę od wypożyczalni samochodów, by wyjeżdżać z Funchal dobrze przed 8:00 rano, jeśli chcemy uniknąć porannych korków. Była to trafna..."
+      
+       , "coords" : {
+          "lat" : 32.814375,,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Madeira Adventure: Day 2 – coastal hike and walking on the surface of another planet",
       "url"      : "/en/travel/2025/02/Day2/",
       "date"     : "February 18, 2025",
@@ -29,7 +43,7 @@
     } ,
 
     {
-      "title"    : "Przygoda na Maderze: Dzień 1 – Wyzwania na drodze, obiekt UNESCO",
+      "title"    : "Przygoda na Maderze: Dzień 1 – Wyzwania na drodze oraz zwiedzanie obiektu UNESCO",
       "url"      : "/pl/podroze/2025/02/Dzien-1/",
       "date"     : "February 06, 2025",
       "locale"   : "pl_PL",
