@@ -1,0 +1,231 @@
+---
+layout: post
+
+title:  "Przygoda na Maderze: Dzień 3 – Odkrywanie piękna dzikiego zachodniego wybrzeża."
+byline: "Zielone klify, zapierające dech w piersiach punkty widokowe, plantacje bananów i naturalne baseny."
+date:   2025-03-20 08:43:59
+author: Monika Suchoszek
+categories: podroze
+tags:	Portugalia trekking Madera
+cover:  "/assets/Portugal/Madeira/Day3/20241030_144924_01.jpg"
+thumbnail:  "/assets/thumbnails/Day3.JPG"
+post_id: Day3
+coords:
+  lat: 32.814375, 
+  lng: -17.144545
+gallery_items:
+  - image: "/assets/Portugal/Madeira/Day3/20241030_144924_01.jpg"
+    gallery_image: "/assets/gallery/Day3.JPG"
+    description: "Miradouro da Boa Morte – To miejsce ma w sobie coś magicznego: piękna zieleń, zapierający dech 
+    w piersiach widok na wybrzeże, cisza, spokój i brak tłumów."
+---
+
+Każdego wieczoru planowaliśmy szczegółowo kolejny dzień, uwzględniając pogodę oraz nasze zmęczenie (chcieliśmy uniknąć 
+najtrudniejszych wędrówek dwa dni z rzędu). Prognoza na następny dzień była najbardziej stabilna, więc postanowiliśmy wykorzystać 
+to na wędrówkę na Pico Grande, która miała być najbardziej wymagającą podczas tych wakacji. Dzisiejszy dzień miał być 
+za to mniej męczący, 9-kilometrowy szlak jedną z lewad oraz dłuższa przejażdżka wzdłuż zachodniego wybrzeża wyspy, z 
+wieloma przystankami na punktach widokowych. Ostatnim celem na dzisiejszy dzień miało być Porto Moniz, gdzie znajdują się słynne naturalne baseny. 
+Wszystko zajęło nam więcej czasu, niż planowaliśmy, więc wracaliśmy do Funchal już po zachodzie słońca (czego do tej pory 
+bardzo unikałam). Jednak droga przez wewnętrzną część wyspy (VE4) jest dość łatwa, ruch wieczorem był niewielki, a jazda 
+przyjemna.
+
+Wracając do poranka, rozpoczęliśmy naszą wędrówkę w Ponta do Sol, a za cel obraliśmy najpierw **Levada do Moinho**. Ta 
+lewada była bardzo łatwa i dobrze utrzymana. Dość mokra w niektórych miejscach, mijająca małe wodospady oraz rzekę, gdzie 
+po chwili odpoczynku, zaczęliśmy wspinaczkę po schodach, aby dotrzeć do kolejnej lewady **Levada Nova**, która do tej 
+pory przez cały czas znajdowała się powyżej nas i ta właśnie zamierzaliśmy wracać. W tej okolicy zauważyliśmy po raz pierwszy ślady po zeszłorocznych pożarach 
+i nowe paprocie przebijające się przez popiół spalonego lasu, przywracając życie temu miejscu.
+
+<img src="/assets/Portugal/Madeira/Day3/DSC08973.JPG" />
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day3/DSC08958.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day3/DSC08997.JPG" class="column-50" />
+</div>
+<img src="/assets/Portugal/Madeira/Day3/DSC09002.JPG" />
+
+Na początku szlak był bardzo łatwy i prowadził do spektakularnych wodospadów, niekoniecznie wysokich czy ogromnych, ale 
+można było przejść za nimi, co stanowiło atrakcję samą w sobie. Kurtka przeciwdeszczowa jest wysoce zalecana, ponieważ na 
+obu lewadach znajdują się bardziej mokre odcinki z wodą kapiącą z górnych części wzgórz i roślin znajdujących się nad 
+ścieżką. Później na trasie był również dość długi tunel, ale światło z telefonu wystarczyło, aby przez niego przejść.
+
+Po wyjściu z tunelu otworzył się przed naszymi oczami widok na ogromny wąwóz, którego przejście potem okazało się najbardziej 
+stresującym momentem wszystkich wędrówek na Maderze. Nie pamiętam, kiedy ostatnio byłam tak sparaliżowana strachem, chyba 
+podczas wspinaczki skalnej we Francji kilka lat temu. Nie mam silnego lęku wysokości, ale nie przepadam za lataniem, a 
+pierwszy lot paralotnią okazał się dla mnie zbyt stresujący, aby go kiedyś powtórzyć. Lubię jednak wędrować po wysokich 
+górach i pokonywać techniczne, skaliste odcinki, w przeciwieństwie do mojego męża. Jednak tym razem naprawdę trudno było mi
+zmusić się do zrobienia kolejnego kroku w pewnym miejscu, zaraz po minięciu tunelu, gdzie barierki ochronne były poważnie 
+uszkodzone lub ich w ogóle nie było.
+
+Co najmniej połowa trasy nie ma poręczy, a sama ścieżka to jedynie 30-centymetrowa betonowa lewada, kończąca się pionowym 
+urwiskiem. Nie ma absolutnie niczego, co mogłoby nas ochronić przed upadkiem, żadnych drzew czy krzewów. Przejście tego 
+odcinka było dla mnie bardzo stresujące i nie zrobiłabym tego ponownie. Nie jestem przekonana, że ta wędrówka była tego 
+warta. Możliwość przejścia za wodospadem jest ciekawa, ale poza tym uznaliśmy ten szlak za dość przeciętny. Nie polecam 
+go w deszczowy dzień ani dla dzieci, osób z lękiem wysokości czy osób starszych. Poniższe zdjęcie zostało zrobione po 
+trudnym odcinku – tutaj widać bardzo dobrą poręcz, której niestety brakowało na najbardziej eksponowanej części lewady.
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day3/DSC09014.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day3/IMG_20241030_110623047_01.jpg" class="column-50" />
+</div>
+
+Teraz przyszedł czas na relaks, a naszym pierwszym przystankiem było **Madalena do Mar**, małe miasteczko znane ze słynnych plantacji 
+bananów. Jest tam bardzo krótki szlak, RB3 Vereda da Vargem, zwany również Trasą Bananową, który pozwala zwiedzającym zagłębić 
+się w świat uprawy bananów. Było naprawdę świetnie! To zdecydowanie doskonałe miejsce do odwiedzenia z dziećmi, a wcześniejsze 
+zapoznanie się z cyklem wzrostu bananowców może pomóc w zrozumieniu tego, co tam możemy zauważyć podczas spaceru po plantacji 
+bananów.
+
+Można tam zobaczyć banany już owinięte niebieskimi foliowymi torbami, gotowe do zbioru. Banany są ścinane jeszcze zielone 
+i dojrzewają poza drzewem. Z drugiej strony, można tam również zobaczyć malutkie banany dopiero zaczynające rosnąć oraz 
+wiele kwiatów bananowca z delikatnymi, białymi pręcikami, które ostatecznie staną się bananami. Szczególnie spektakularne 
+i piękne były kwiaty bananowców! Uważajcie, jeśli boicie się jaszczurek, z każdym naszym krokiem słyszeliśmy odgłosy wielu
+uciekających okazów. Były trudne do zauważenia, ponieważ poruszały się bardzo szybko pod opadniętymi liśćmi bananowców, ale kiedy chodziliśmy powoli i w ciszy, 
+udało nam się wypatrzyć kilka wygrzewających się w słońcu okazów.
+
+<img src="/assets/Portugal/Madeira/Day3/DSC09041.JPG" />
+<img src="/assets/Portugal/Madeira/Day3/DSC09039.JPG" />
+
+Zazwyczaj potrzeba od 9 do 12 miesięcy, aby roślina bananowa wytworzyła kwiat. Po jego pojawieniu się dojrzewanie bananów 
+trwa od 3 do 6 miesięcy. Kwiaty żeńskie, znajdujące się na szczycie łodygi bananowca, przekształcają się w banany, tworząc 
+„kiść”. Każda kiść składa się z kilku „rąk” (grup bananów), a każda ręka zawiera od 10 do 20 pojedynczych bananów (często 
+nazywanych „palcami”). Pełna kiść na drzewie bananowym na Maderze składa się zazwyczaj z 5 do 10 rąk, co oznacza, że jeden 
+kwiat może wydać od 50 do 150 bananów. Po wytworzeniu jednej kiści roślina obumiera, a z jej podstawy wyrasta nowa.
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day3/DSC09031.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day3/DSC09042.JPG" class="column-50" />
+</div>
+
+W przeciwieństwie do większych bananów Cavendish, dostępnych w supermarketach, banany z Madery (banana da Madeira) są 
+mniejsze, słodsze i mają bardziej intensywny smak. Dla nas miały inną konsystencję, bardziej przypominającą budyń i 
+mniej skrobiową. Są uprawiane głównie przez małych rolników i zbierane ręcznie. Większość bananów maderskich jest spożywana 
+lokalnie lub eksportowana na kontynent do Portugalii, my mieliśmy już okazję spróbować ich w Lizbonie.
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day3/20241030_122824_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day3/20241030_121541_01.jpg" class="column-50" />
+</div>
+
+<img src="/assets/Portugal/Madeira/Day3/DSC09043.JPG" />
+
+Teraz przyszedł czas na odwiedzenie kilku punktów widokowych. Naszym pierwszym przystankiem było **Miradouro do Massapez**, 
+jedyne miejsce, gdzie byliśmy zupełnie sami, otoczeni kwitnącymi roślinami aloesu. Widok był spektakularny, a samo miejsce 
+bardzo ciche, z zadaszoną strefą do siedzenia i dużym kamiennym grillem, jeśli ktoś chciałby przynieść własny węgiel i 
+jedzenie. Musieliśmy zboczyć trochę z trasy, by tu dotrzeć, ale parking był przestronny i bardzo podobał nam się ten postój! 
+Wiele osób opisuje to miejsce jako doskonałe do podziwiania zachodu słońca, więc może wieczorami jest tam bardziej tłoczno.
+
+<img src="/assets/Portugal/Madeira/Day3/DSC09048.JPG" />
+<img src="/assets/Portugal/Madeira/Day3/DSC09051_01.jpg" />
+
+Kolejnym punktem był **Miradouro do Fio**, przy którym znajdowała się przytulnie wyglądająca restauracja. Może zdawać się, 
+że linia brzegowa wygląda bardzo podobnie jak ta, którą podziwialiśmy z poprzedniego punktu widokowego, ale tym razem góry 
+wpadały bezpośrednio do oceanu. Nie było tu żadnych miast ani dróg widocznych u podnóża klifów, tylko czysta natura. Z tego miejsca 
+można dostrzec latarnię morską po prawej stronie, czyli najbardziej wysunięty na zachód punkt Madery, Ponta do Pargo, do 
+którego następnie ruszyliśmy.
+
+<img src="/assets/Portugal/Madeira/Day3/DSC09062.JPG" />
+
+Zachodnia Madera wydaje się być mniej oblegana przez turystów, ponieważ było to kolejne miejsce z bardzo małą liczbą 
+odwiedzających. Dotarliśmy do **Miradouro Farol da Ponta do Pargo**, gdzie latarnia morska stoi na wysokości 300 metrów. 
+Przeszliśmy się wokół niej, podziwiając dramatyczny widok z klifu. Można zejść trochę niżej po zboczu, ale trzeba uważać, nie ma 
+tu żadnych zabezpieczeń, więc nie warto podchodzić zbyt blisko krawędzi. Nie weszliśmy do muzeum, ponieważ było już zamknięte. 
+Nie ma tu również ławek, a po deszczu teren na pewno staje się bardzo błotnisty.
+
+<img src="/assets/Portugal/Madeira/Day3/DSC09074.JPG" />
+<img src="/assets/Portugal/Madeira/Day3/DSC09068.JPG" />
+
+Jeśli chodzi o punkty widokowe, **Miradouro da Boa Morte** był zdecydowanie jednym z najlepszych. Połączenie błękitnego 
+oceanu, soczystej zieleni i spacerujących krów sprawiało, że wyglądał niezwykle malowniczo. Widok z parkingu i ścieżki 
+prowadzącej do punktu widokowego był dość nietypowy. Ze specjalnej platformy można było spojrzeć w dół i podziwiać fale 
+rozbijające się o skały. Gdy tam byliśmy, kilku turystów jadło swoje kanapki, co przyciągnęło ogromną liczbę jaszczurek, 
+które otoczyły ich ze wszystkich stron. Jedna nawet próbowała wspiąć się na moją nogę, gdy podeszłam za blisko! To miejsce 
+miało w sobie coś magicznego, piękna roślinność, zapierające dech w piersiach widoki na wybrzeże, ciszę i brak tłumów. 
+Dla mnie widok na ścieżkę prowadzącą z parkingu na punkt widokowy był tym, co zapadło mi w pamięci najbardziej z tego miejsca. 
+
+<img src="/assets/Portugal/Madeira/Day3/20241030_144924_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day3/DSC09075.JPG" />
+<img src="/assets/Portugal/Madeira/Day3/DSC09085.JPG" />
+
+Widać stąd wybrzeże prowadzące do **Fajã da Quebrada Nova**, gdzie można dotrzeć kolejką linową z Achadas da Cruz. Początkowo planowaliśmy z niej 
+skorzystać (Miradouro do Teleférico das Achadas da Cruz) i zwiedzić okolicę, ale po stresującym przejściu przez eksponowane 
+odcinki Levada Nova straciliśmy na to ochotę i tym razem postanowiliśmy odpuścić. Ten płaski kawałek żyznego lądu, zbudowany 
+przez spływająca ławę u podnóża klifu, wykorzystywany jest do uprawy. Kolejka jest często zamykana przy silnych wiatrach.
+<img src="/assets/Portugal/Madeira/Day3/DSC09084.JPG" />
+
+W drodze do naszego ostatniego przystanku tego dnia zatrzymaliśmy się na lunch w małym barze w pobliżu Achadas da Cruz, a 
+także po drodze kupiliśmy kilka wypieków w jednej z wiosek wzdłuż głównej drogi (więcej szczegółów w sekcji praktycznej 
+tego wpisu). Aby nacieszyć się ładnym widokiem na Porto Moniz przed wjazdem do miasta, warto zatrzymać się na chwilę na **Miradouro 
+da Santinha**, punkt ten znajduje się tuż przy drodze i zdecydowanie warto zrobić tu szybki postój. Po przyjeździe do Porto 
+Moniz zauważyliśmy, że wiele parkingów było w trakcie budowy. Z tego powodu zaparkowaliśmy trochę dalej, około 100 metrów 
+od głównych parkingów. Parking ten znaleźliśmy w aplikacji Organic Maps, z której zawsze korzystamy, i bez problemu tam 
+trafiliśmy.
+
+<img src="/assets/Portugal/Madeira/Day3/DSC09088.JPG" />
+
+Najpierw przeszliśmy obok **Porto Moniz Natural Swimming Pools**, gdzie obowiązuje opłata za wstęp. Było tu mniej ludzi, niż 
+się spodziewaliśmy, ale zapewne wynikało to z późnych godzin popołudniowych oraz faktu, że słońce już skryło się za górami. 
+Baseny wyglądały niesamowicie, zwłaszcza w połączeniu z falami rozbijającymi się o pobliskie skały, ale postanowiliśmy 
+pójść dalej, do innego, bardziej naturalnego miejsca, gdzie nie trzeba płacić za wstęp. Naturalne baseny, uformowane w 
+lawie tuż na krawędzi oceanu, prezentowały się bardzo interesująco. Jednak posiadanie butów do pływania byłoby dobrym 
+pomysłem, ponieważ skały były dość ostre. Nie było tu tłumów i tylko kilka osób nadal pływało. To, co najbardziej przykuło 
+naszą uwagę, to miejsca, w których woda była całkowicie spokojna, tworząc przejrzyste, nieruchome baseny tuż obok dzikich 
+fal oceanu, które uderzały o skały, tworząc barierę chroniącą pływaczy od siły oceanu.
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day3/DSC09099.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day3/DSC09102.JPG" class="column-50" />
+</div>
+<img src="/assets/Portugal/Madeira/Day3/DSC09103.JPG" />
+
+Ostatecznie postanowiliśmy wrócić i wejść do pierwotnie mijanych basenów. Jeśli nie po to, aby popływać, to przynajmniej 
+po to, aby podejść bliżej rozbijających się fal i zobaczyć miasto z innej perspektywy. Jednak woda okazała się dla mnie 
+zdecydowanie za zimna, udało mi się zanurzyć tylko do pasa, więc tym razem bez pływania! Gdyby pogoda była bardziej 
+słoneczna, z pewnością moglibyśmy w pełni cieszyć się tym miejscem, ale niestety dotarliśmy tam zbyt późno (około 17:00) 
+i słońce już skryło się za górami.
+
+<img src="/assets/Portugal/Madeira/Day3/DSC09093.JPG" />
+<img src="/assets/Portugal/Madeira/Day3/DSC09174_01_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day3/DSC09180.JPG" />
+
+Po godzinie jazdy wróciliśmy do Funchal, gotowi aby jak najwięcej odpocząć przed jutrzejszym zwiedzaniem doliny Zakonnic 
+(Curral das Freiras).
+
+__Informacje praktyczne:__
+
+* [Oficjalna strona internetowa](https://ifcn.madeira.gov.pt/pt/atividades-de-natureza/percursos-pedestres-recomendados/percursos-pedestres-recomendados.html) do sprawdzania, czy szlaki turystyczne są otwarte po pożarach, które miały miejsce 
+na wyspie latem 2024.
+
+* Bilety na płatne szlaki można kupić online [na tej stronie.](https://simplifica.madeira.gov.pt/services/78-82-259)
+Od 1 stycznia 2025 r. osoby niebędące rezydentami wyspy będą musiały zapłacić za wędrówki po ponad 30 trasach zarządzanych 
+przez Instytut Lasów i Ochrony Przyrody (ICNF) na Maderze. Będą to w zasadzie wszystkie szlaki oznaczone jako PR.
+
+* Początek szlaku – kościół Igreja da Lombada w Ponta do Sol, gdzie zaparkowaliśmy samochód. Przeszliśmy zarówno Levada do 
+Moinho, jak i Levada Nova, tworząc pętlę o długości 9 km. Nie znalazłam dokładnego opisu takiej trasy na oficjalnej stronie
+turystyki Madery, byl tam jedynie opisany [bieg Ponta do Sol - Levada Nova](https://visitmadeira.com/pt/o-que-fazer/exploradores-da-natureza/atividades/trail-running/lombada-da-ponta-do-sol/) co oczywiście wydaje mi sie szalonym pomysłem
+żeby jeszcze biegać po tej wąskiej lewadzie i mijać się z innymi turystami.
+<img src="/assets/Portugal/Madeira/Day3/Screenshot 2025-01-26 204438_01.jpg" />
+
+* Podczas naszych podróży zawsze korzystamy z aplikacji [Organic Maps: Offline Hike, Bike, Trails, and Navigation](https://organicmaps.app/), 
+która okazała się bardzo dokładna na Maderze, nie zgubiliśmy się ani razu. Tym razem nawet spotkaliśmy grupę Polaków, 
+którzy nie wiedzieli, czy są na właściwej lewadzie, bo oni robili tę samą pętlę, tylko w przeciwnym kierunku. Oznaczenie 
+lewad widzieliśmy dosłownie tylko przy parkingu, potem ścieżki nie były już oznaczone.
+
+* RB3 Vereda da Vargem, zwana „bananową trasą”, to bardzo krótki szlak, idealny na spacer z małymi dziećmi.
+<img src="/assets/Portugal/Madeira/Day3/DSC09044.JPG" />
+<img src="/assets/Portugal/Madeira/Day3/Screenshot 2025-01-26 204523_01.jpg" />
+
+* Restaurant - 101 Bar. Bardzo przyjazny właściciel. Smakowała nam kanapka z wołowiną, ale drugie danie (jakiegoś rodzaju 
+gulasz mięsny) było rozczarowujące, musiałam zostawić połowę mięsa, ponieważ było twarde i sprawiało wrażenie bardzo niskiej jakości.
+Bardzo tanio, choć ceny nie były nigdzie podane. Za dwa dania główne i napoje zapłaciliśmy mniej niż 16 euro.
+Adres: ER101, Sitio da Igreja, ER101 39, 9270-013 Achadas da Cruz
+<img src="/assets/Portugal/Madeira/Day3/20241030_154900_01.jpg" />
+* Piekarnia – Padaria Rodripan, Bardzo mała piekarnia znajdująca się w czyimś domu. Bardzo smaczne i tanie wypieki, kilka 
+rodzajów ciastek oraz chleba, w tym miękki, lekko słodki chleb, który kupiliśmy na wędrówkę następnego dnia. Zdecydowanie 
+polecamy, choć trzeba się spodziewać bardzo podstawowej strefy do siedzenia, z prostymi plastikowymi krzesłami. 
+Adres: Rua da Terra Coimeira, Santa, 9270-093, Porto Moniz
+<img src="/assets/Portugal/Madeira/Day3/20241030_163145_01.jpg" />
+* Parking w Porto Moniz - darmowy parking na trawie, choć trochę ukryty. Około 5 minut spacerem od naturalnych basenów. 
+Nie mamy pewności, jak długo pozostanie bezpłatny, ponieważ wszystkie inne parkingi były już płatne. Widzieliśmy też dużą 
+tablicę informacyjną przy placu budowy nowego parkingu, bliżej basenów.   
+Adres: R. da Escola Velha 32, 9270-095 Porto Moniz
+<img src="/assets/Portugal/Madeira/Day3/20241030_170310_01.jpg" />
+* [Naturalne baseny w Porto Moniz](https://www.portomoniz.pt/pt/) – Opłata za wstęp: 3 euro   
+Bardzo ładne baseny, ale woda była lodowata! Słońce zachodzi tu wcześniej z powodu gór, więc przyjechaliśmy za późno, by w pełni cieszyć się słońcem, i nie zostaliśmy długo.
