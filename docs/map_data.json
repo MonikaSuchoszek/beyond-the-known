@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Madeira Adventure: Day 4 - Pico Grande",
+      "url"      : "/en/travel/2025/05/Day4/",
+      "date"     : "May 07, 2025",
+      "locale"   : "en_US",
+      "content" :  "I was so excited about the day ahead! Pure hiking to one of the less touristy peaks on the island, and a vertical kilometer to do, that was the plan for today. The weather looked amazing, so we couldn’t have wished for more. With snacks packed for the day, we..."
+      
+       , "coords" : {
+          "lat" : 32.814375,,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Przygoda na Maderze: Dzień 3 – Odkrywanie piękna dzikiego zachodniego wybrzeża.",
       "url"      : "/pl/podroze/2025/03/Dzien3/",
       "date"     : "March 20, 2025",

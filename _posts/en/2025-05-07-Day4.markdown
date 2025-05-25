@@ -1,0 +1,180 @@
+---
+layout: post
+
+title:  "Madeira Adventure: Day 4 - Pico Grande"
+date:   2025-05-07 08:43:59
+author: Monika Suchoszek
+categories: travel
+tags:	Portugal hike Madeira 
+cover:  "/assets/Portugal/Madeira/Day4/DSC09250.JPG"
+thumbnail:  "/assets/thumbnails/Day4.JPG"
+post_id: Day4
+coords:
+  lat: 32.814375, 
+  lng: -17.144545
+gallery_items:
+  - image: "/assets/Portugal/Madeira/Day4/DSC09224.JPG"
+    gallery_image: "/assets/gallery/Day4.JPG"
+    description: "Relvinha viewing area where burned trees created unusual landscape."
+---
+
+I was so excited about the day ahead! Pure hiking to one of the less touristy peaks on the island, and a vertical kilometer
+to do, that was the plan for today. The weather looked amazing, so we couldn't have wished for more. With snacks packed 
+for the day, we hit the road, ready for the adventure.
+
+The first stop of the day was **Miradouro da Eira do Serrado**, which we reached shortly after 8 a.m. The first bus 
+with tourists arrived at 8:30, just as we were leaving. There was only one other person at the viewpoint, it was a truly 
+special experience to see the whole Nuns' Valley (Curral das Freiras) nestled among steep mountains. It was absolutely 
+stunning in the morning light.
+Pico Grande wasn’t visible due to clouds suspended above the peaks. We already noticed that most of the slopes were quite 
+black, which only confirmed that the summer wildfires of August 2024 had left a significant impact on the local ecology.
+There is also a café, restaurant, and souvenir shop in hotel. It’s an easily accessible viewpoint, just 
+a short walk from the free parking lot, located at an altitude of 1,095 m above sea level. There's also a path starting at 
+the viewpoint that leads to **Curral das Freiras**.
+
+I know some people take a bus to this viewpoint from Funchal, do the hike, and return to Funchal from Curral das Freiras, 
+which is possible, but you'd need to start the trip early in the morning. It seemed there were fewer bus connections in 
+the afternoon. However, we did see people waiting at the bus stop when we had lunch in the early afternoon (bus 81), so 
+there are buses, but you might need to wait a bit longer to get back to Funchal.
+
+In the first photo below, the distant part of Curral das Freiras where we started the hike to Pico Grande is visible as the last group of houses 
+at the top of the picture. In the middle, the main part of the village where we stopped after the hike for lunch and by accident 
+found ourselves in the middle of the yearly Chestnut Festival! In the valley, you can taste local delicacies, including 
+liqueurs in many flavors and various products based on edible chestnuts.
+
+<img src="/assets/Portugal/Madeira/Day4/20241031_082551.jpg" />
+<img src="/assets/Portugal/Madeira/Day4/20241031_082606.jpg" />
+
+After a short drive to the furthest district of Curral das Freiras, we found the parking spot I had previously marked on 
+Google Maps and were ready to start our hike. The first part led us through the village to Caminho de Fajã Escura à Revinha, 
+the starting point of our route, where we noticed a wooden board pointing the way to **Pico Grande**. The trail began in a 
+beautiful forest with tall trees, fallen leaves, and already visible signs of fire damage, burned trees (some large pieces 
+on the path) and blackened soil. It was just three months after the wildfires, and nature was already beginning to recover, 
+with young ferns emerging first.
+
+<img src="/assets/Portugal/Madeira/Day4/20241031_093351_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day4/20241031_093727_01.jpg" />
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day4/20241031_095913_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day4/20241031_094133_01.jpg" class="column-50" />
+</div>
+
+The path quickly became quite steep and, with fewer trees, more exposed. It was easy to follow and not technically difficult, 
+but physically demanding. The terrain didn’t flatten until we reached the Relvinha viewing spot, where the Caminho Real 
+da Encumeada Hike (PR12) passes by, though it’s not part of the hike to Pico Grande (visible in the middle photo below). 
+Unfortunately, PR12 is still only partially open after the fires, only the first 3.5 km from the Boca da Corrida starting 
+point, according to the official website. That would be up to Relvinha, based on organic maps. This was our first glimpse 
+of the devastating impact of the fires. Black slopes, huge trees reduced to ashes. It was heartbreaking to see, and the 
+smell of the burned landscape was still strong. The path from here became more technical, with some protection on the steep 
+slopes, which were exposed and covered in loose rocks. Some parts were wet, despite the recent dry weather, so it might 
+get really slippery on a rainy day. Up until this point, the trail had been very dry.
+
+<img src="/assets/Portugal/Madeira/Day4/20241031_103342.jpg" />
+<img src="/assets/Portugal/Madeira/Day4/DSC09233.JPG" />
+<img src="/assets/Portugal/Madeira/Day4/DSC09232.JPG" />
+<img src="/assets/Portugal/Madeira/Day4/DSC09277.JPG" />
+
+After traversing the steep slope, we reached a plateau where the path became less obvious. There were traces of multiple 
+routes, but all led in the same direction. We checked our position on the phone, but from here we could already see the 
+peak`s distinctive shape. The wind picked up and clouds started to pass quickly around us. We truly felt like we 
+were on another planet. For brief moments, we were completely surrounded by mist and couldn’t see much, just the dark 
+and red soil under our feet. Below is the view from the plateau near the peak, from where we could see the village near 
+our starting point. The hike was incredibly steep, but absolutely worth it! The last part, to get to the peak itself is a bit unusual, you have to 
+climb to get to the very top. It looks flat in the photo below, but it really isn’t. There was a rope to hold onto, and the exposure on 
+the other side of the rock was impressive. In the end, it's a bit sketchy, if you're uncomfortable going up to the 
+very top (like us), don't (we didn't either). But I still highly recommend this hike! In total, there were just under 15 people on the trail. 
+Overall, on rainy days, the hike may be difficult and dangerous in places. Proper trekking shoes are definitely necessary.
+
+<img src="/assets/Portugal/Madeira/Day4/DSC09257.JPG" />
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day4/20241031_111840.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day4/DSC09244.JPG" class="column-50" />
+</div>
+<img src="/assets/Portugal/Madeira/Day4/DSC09250.JPG" />
+<img src="/assets/Portugal/Madeira/Day4/DSC09246.JPG" />
+
+After the hike, we stopped in Curral das Freiras for lunch at a restaurant featuring edible chestnuts. We tried chestnut 
+soup, meat with chestnut filling and sauce, incredibly good local sweet potatoes, traditional sweet potato bread (served 
+with garlic butter), and grilled vegetables. The bread perfectly accompanied my soup. Simple, crispy on the outside, and 
+fluffy and warm on the inside. From the restaurant's terrace, we could clearly see Pico Grande, the clouds had completely 
+disappeared, and the sky had opened up.
+This small village was still not overcrowded (it was early afternoon), but we had to park on the street, outside the central parking area, because there 
+was a stage set up next to the church and food stands lining the main road. People were preparing for the annual Chestnut 
+Festival (Festa da Castanha). It was a complete surprise for us, but such a great one! The festival takes place each year 
+in Curral das Freiras, typically around November 1st.
+
+<img src="/assets/Portugal/Madeira/Day4/20241031_152626_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day4/20241031_154435.jpg" />
+
+People were selling liqueurs, cakes, and other delicacies made from chestnuts. We also visited a local bakery to try some 
+pastries, and then we noticed an evening event, the “Miss Castanha” (Chestnut Queen) contest, held as part of the festivities.
+We saw many food stands with whole pigs hanging in the back, barbecues, and stalls selling liqueurs, all just being set 
+up, probably for the evening party. I also tried 
+delicious chestnuts, roasted over an open fire. Roasted chestnuts are slightly sweet, with a texture somewhere between a 
+soft cashew and very starchy, dense beans. I regret that we didn’t stay until the evening, but I was too scared of driving back 
+to Funchal in the dark, as the road is not easy. It was a very pleasant village to stop in, full of souvenir shops, colorful 
+decorations, and great food. 
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day4/20241031_150901.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day4/20241031_165648_01.jpg" class="column-50" />
+</div>
+
+
+<img src="/assets/Portugal/Madeira/Day4/DSC09310_01.jpg" />
+<img src="/assets/Portugal/Madeira/Day4/DSC09314.JPG" />
+<img src="/assets/Portugal/Madeira/Day4/DSC09315.JPG" />
+
+So far, it was the best day for me on Madeira, and almost the last one, as we had only one more day planned for Pico do 
+Areeiro, the colorful village of Santana, and Calhau da Lapa beach.
+
+__Practical info:__
+
+* Miradouro da Eira do Serrado - no entrance fee, very zigzag-y road last few kilometers. 
+
+* [Official website](https://ifcn.madeira.gov.pt/pt/atividades-de-natureza/percursos-pedestres-recomendados/percursos-pedestres-recomendados.html) 
+to check if hiking trails are open after the wildfires that occurred during the summer last year. 
+
+* The starting point for the hike was at the end of Estrada do Colmeal, marked on Google Maps as **Caminho de Fajã Escura à Revinha**, 
+where there is space for about two cars to park. Since we weren’t sure whether there would be any parking spots available, 
+we left our car in a small parking area in the village (coordinates below) and walked from there. This parking lot is located 
+below the main road, so it’s not visible from a distance ,it can accommodate around eight cars. While walking through the village, 
+we noticed bus stops with the Bus 81 schedule posted. I even found it online [line 81](http://www.horariosdofunchal.pt/carreiras/81.pdf) 
+but I couldn’t really understand when the bus goes to Fajã Escura-Final (CF19J), the bus stop we passed on the way.   
+Address of the parking: 32°44'08.5"N 16°58'09.6"W    
+Another stop to part (up to 5 cars, visible on street view): 32°43'55.6"N 16°58'14.9"W    
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day4/20241031_142846_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day4/Screenshot_01.jpg" class="column-50" />
+</div>
+
+* During our travels, we always use [Organic Maps: Offline Hike, Bike, Trails, and Navigation app](https://organicmaps.app/), which was very accurate 
+on Madeira, we didn't get lost even once. Our hike was 10km, 1000m up (we started at attitude of a bit more than 600m and 
+finished at altitude of 1654 meters). It took almost 2 hours to reach the peak and 1.5h to get back (2h15min moving time of the
+whole activity), though total time was 5 hours as we took a few long breaks during the hike. The trail we did is described
+on official website as [vertical kilometer](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/trail-running/quilometro-vertical-de-camara-de-lobos/) 
+because the difference in attitude between starting point and finish is slightly more than 1000m. I used Salewa Wildfire shoes 
+and these were just perfect for this hike!
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day4/Screenshot_02.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day4/Screenshot_03.jpg" class="column-50" />
+</div>
+<img src="/assets/Portugal/Madeira/Day4/Screenshot 2025-01-26 204619.jpg" />
+
+* Chestnut Festival again this year: **31/10/2025 - 01/11/2025**, stage with music and competition was set up next to Igreja Matriz 
+do Curral das Freiras. The whole street Estr. Cónego Camacho was full of market stalls. Therefore, parking spots on this 
+street were not available. 
+
+* Restaurant  - Sabores do Curral   
+Address: Caminho da Igreja N1, 9030-311 Curral das Freiras
+
+* Bakery - Curral Das Freiras bakery & patisserie                                                      
+Address: Estr. Cónego Camacho 33A, 9030-319 Curral das Freiras
+
+* Parking: we parked along the street, maybe 5-minute walk from the church.   
+GPS Coordinates: 32°43'06.5"N 16°57'52.0"W
+
+
