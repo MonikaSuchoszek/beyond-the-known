@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Przygoda na Maderze: Dzień 4 - Pico Grande",
+      "url"      : "/pl/podroze/2025/05/Dzien4/",
+      "date"     : "May 07, 2025",
+      "locale"   : "pl_PL",
+      "content" :  "Już od samego rana roznosiła mnie energia, bo wiedziałam, że cały dzień spędzimy w górach, pokonując strome podejścia na Pico Grande, drugi co do wysokości szczyt na Maderze. Jest to jeden z mniej uczęszczanych wierzchołków wyspy, a trasa prowadząca na jego szczyt, którą wybraliśmy, to tzw. bieg wertykalny (vertical kilometer),..."
+      
+       , "coords" : {
+          "lat" : 32.814375,,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Madeira Adventure: Day 4 - Pico Grande",
       "url"      : "/en/travel/2025/05/Day4/",
       "date"     : "May 07, 2025",
