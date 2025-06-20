@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Madeira Adventure: Day 5 - Pico Ruivo, colorful Santana and deserted beach",
+      "url"      : "/en/travel/2025/06/Day5/",
+      "date"     : "June 02, 2025",
+      "locale"   : "en_US",
+      "content" :  "We were hesitating about how to spend our last day with the car, and ultimately decided to go for a walk to Pico Ruivo in the morning. During our stay in November 2024, the official website stated that only the section up to the shelter was open. However, this was..."
+      
+       , "coords" : {
+          "lat" : 32.814375,,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Przygoda na Maderze: Dzień 4 - Pico Grande",
       "url"      : "/pl/podroze/2025/05/Dzien4/",
       "date"     : "May 07, 2025",
