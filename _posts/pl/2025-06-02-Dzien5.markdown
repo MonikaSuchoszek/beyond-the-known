@@ -1,0 +1,204 @@
+---
+layout: post
+
+title:  "Przygoda na Maderze: Dzień 5 -  Pico Ruivo, Santana oraz opuszczona plaża"
+date:   2025-06-02 08:43:59
+author: Monika Suchoszek
+categories: podroze
+tags:	Portugalia trekking Madera
+cover:  "/assets/Portugal/Madeira/Day5/DSC09395.JPG"
+thumbnail:  "/assets/thumbnails/Day5.JPG"
+post_id: Day5
+coords:
+  lat: 32.814375, 
+  lng: -17.144545
+gallery_items:
+  - image: "/assets/Portugal/Madeira/Day5/DSC09364.JPG"
+    gallery_image: "/assets/gallery/Day5.JPG"
+    description: "Zięba maderska jest bardzo pospolita na Maderze, szczególnie w lasach wawrzynowych i na terenach górzystych, 
+    takich jak szlak na Pico Ruivo, gdzie właśnie je spotkaliśmy. Ptaki te są ciekawskie i fotogeniczne, często zbliżają 
+    się blisko turystów, zwłaszcza w miejscach, gdzie są przyzwyczajone do obecności ludzi."
+---
+
+Nasz pobyt na Maderze zbliżał się ku końcowi, przed nami ostatni dzień z wynajętym samochodem! Intensywne dni szybko mijały, 
+a i plan na ostatni dzień był bardzo napięty. Zdecydowaliśmy się zacząć dzień od pieszej wędrówki na **Pico Ruivo**, najwyższy 
+szczyt Madery. Podczas naszego pobytu w listopadzie 2024 roku oficjalna strona turystyki informowała, że otwarty jest jedynie 
+odcinek do schroniska. Było to jednak dla mnie nie do końca jasne, ponieważ na Google Maps pojawiało się wiele nowych recenzji 
+ze zdjęciami z samego szczytu. Założyliśmy więc, że dotarcie na wierzchołek będzie możliwe.
+
+Szlak był przepiękny i relaksujący, ale niestety sam szczyt (ostatnie 400 metrów) był zamknięty z powodu uszkodzeń po pożarach. 
+Ogień osłabił strukturę gleby, przez co teren stał się bardziej niebezpieczny. Zainstalowano prowizoryczną bramę, zamkniętą na 
+kłódkę, więc dostęp na szczyt był technicznie zabroniony (groziła za to kara do 2500 euro), ale wielu to nie powstrzymało przed 
+obejściem ogrodzenie, wspinając się po zboczach z lewej strony. Pożary zniszczyły roślinność, 
+która normalnie zapobiega osuwaniu się kamieni, więc przy deszczu i silnym wietrze warunki mogą być ryzykowne. Miałam spory 
+dylemat, czy złamać zakaz i wejść na górę, gdyż pogoda była idealna, ale ostatecznie postanowiliśmy uszanować przepisy. To 
+idealny pretekst, żeby kiedyś wrócić na tę piękną wyspę. Ponadto nasza poprzednia wędrówka na Pico Grande dała nam mnóstwo 
+satysfakcji, widoki były równie spektakularne, a ludzi znacznie mniej. Dlatego nie czuliśmy się tak bardzo zdeterminowani, 
+żeby koniecznie wejść na szczyt.
+
+<img src="/assets/Portugal/Madeira/Day5/DSC09322.JPG" />
+<img src="/assets/Portugal/Madeira/Day5/DSC09341.JPG" />
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day5/DSC09344.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day5/DSC09388.JPG" class="column-50" />
+</div>
+
+Cudowne widoki na tej trasie zaczynają się zaraz po opuszczeniu parkingu, z jednej strony wysokie szczyty, z drugiej w 
+oddali morze. Często czytaliśmy w recenzjach, że w tym rejonie panują bardzo pochmurne warunki, ale nam trafił się niemal 
+całkowicie bezchmurny dzień. Nadmorskie miejscowości pojawiały się i znikały między chmurami równie szybko.
+
+<img src="/assets/Portugal/Madeira/Day5/DSC09383.JPG" />
+
+Podczas przerwy w okolicach schroniska zauważyliśmy kilka zięb maderskich, które są bardzo powszechne na tej wyspie, zwłaszcza 
+w lasach wawrzynowych i na terenach górzystych, takich jak szlak na Pico Ruivo. Ptaki te są ciekawskie i fotogeniczne, często 
+zbliżają się blisko turystów, zwłaszcza w miejscach, gdzie są przyzwyczajone do obecności ludzi, a ten rejon zdecydowanie 
+do takich należy. Schronisko widoczne na zdjęciu poniżej, usytuowane przy większej skale.
+
+<img src="/assets/Portugal/Madeira/Day5/DSC09364.JPG" />
+<img src="/assets/Portugal/Madeira/Day5/DSC09352.JPG" />
+
+Naszą wędrówkę zakończyliśmy tuż po godzinie 10:00, kiedy parking był już prawie pełny. Sam szlak jest bardzo łatwy i 
+odpowiedni dla większości osób z podstawową kondycją fizyczną, nawet dzieci mogą cieszyć się spacerem i podziwiać piękne 
+widoki gór aż po Płw. Wawrzyńca w oddali (zdjęcie poniżej). To była najłatwiejsza trasa, jaką przeszliśmy na Maderze, 
+głównie dzięki w pełni wybrukowanej ścieżce prowadzącej do schroniska i braku ekspozycji (przynajmniej do momentu, do którego 
+dotarliśmy). Wyruszyliśmy tuż po 8:30 rano, więc jeszcze wtedy powietrze było bardzo przyjemne, pomimo pełnego słońca. 
+Dokładnie, gdy wchodziliśmy na szlak, podjechali pracownicy parku, żeby sprawdzać bilety wstępu. Dokładnie o tej samej 
+godzinie spotkaliśmy ich wchodzących na Płw. Wawrzyńca, więc to pewnie typowa dla nich pora, by zacząć pracę.
+
+<img src="/assets/Portugal/Madeira/Day5/DSC09355.JPG" />
+
+W drodze powrotnej z Achada do Teixeira zatrzymaliśmy się w **Parque Temático da Madeira** w Santana. Okazało się, że to urocze, 
+przyjazne rodzinom miejsce z tradycyjnymi maderskimi domkami. Można wejść do środka tych małych budynków i zobaczyć ekspozycje 
+dotyczące historii, tradycji i przyrody Madery. Jest tam nawet tradycyjna kuchnia z piecem opalanym drewnem, w którym 
+wypiekany jest słynny portugalski chleb z Madery, bolo do caco. Dodatkowo na terenie parku znajdują się piękne ogrody i 
+wiele atrakcji dla dzieci, w tym duży plac zabaw, mini-zagroda ze zwierzętami oraz można popływać łódką po małym jeziorku. 
+To spokojna alternatywa dla zatłoczonego centrum miasta i świetne miejsce na relaksującą wizytę, zwłaszcza z dziećmi.
+
+<img src="/assets/Portugal/Madeira/Day5/DSC09390.JPG" />
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day5/DSC09418.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day5/DSC09408.JPG" class="column-50" />
+</div>
+<img src="/assets/Portugal/Madeira/Day5/20241101_112627_01.jpg" />
+
+Podstawowy bilet wstępu był niedrogi, a dodatkowe atrakcje płatne osobno, dlatego uznaliśmy park za doskonały przystanek 
+przed dalszym zwiedzaniem wyspy. Samochód zostawiliśmy na darmowym parkingu przy obiekcie, skąd w kilkanaście minut spacerem 
+dotarliśmy do centrum **Santany**. 
+W centrum miasta czekały na nas kolejne urocze, trójkątne domki ze strzechą, znane jako „Palheiros”. Większość z nich pełni
+dziś funkcję sklepików z pamiątkami, ale ich bajkowy wygląd wciąż przyciąga uwagę. Tradycyjne domy z Santany słyną z 
+intensywnych kolorów, białe ściany z czerwonymi drzwiami, niebieskimi framugami i stromym, krytym strzechą dachem. Początkowo 
+były budowane przez rolników jako proste domy wiejskie, a charakterystyczny dach sięgający niemal do ziemi miał za zadanie 
+odprowadzać wodę podczas ulewnych deszczy. Niektóre z oryginalnych domów pochodzą z XVI wieku, choć większość tych, które można dziś 
+zobaczyć, to rekonstrukcje. Okolica jest bardzo zadbana, otoczona pięknymi ogrodami, a widoki na góry dookoła są naprawdę 
+imponujące.
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day5/DSC09436.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day5/DSC09445.JPG" class="column-50" />
+</div>
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day5/DSC09454_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day5/DSC09452.JPG" class="column-50" />
+</div>
+
+Próbowaliśmy również znaleźć miejsce, w którym serwują prego no bolo do caco, ale wiele dobrze ocenianych lokali było zamkniętych, 
+a w jednym z otwartych zabrakło tych słynnych chlebków - bolo do caco, więc niestety nie udało nam się tego dania spróbować tego dania. Zatrzymaliśmy 
+się więc w małym barze, gdzie na ekranie telewizora akurat relacjonowano gwałtowną powódź w Walencji, mieście, które odwiedziliśmy 
+zaledwie kilka miesięcy wcześniej. Widok znajomych ulic zalanych błotem, wodą i zasypanych wrakami samochodów był poruszający.
+W drodze do pobliskiej piekarni zauważyliśmy jeden domek, który wyglądał jak typowy kolorowy Palheiro, ale cały był brązowy,
+zastanawialiśmy się, czy to może bardziej oryginalna lub po prostu jeszcze niepomalowana wersja. Niedaleko piekarni Delícias da Bia znajduje 
+się też inny domek, który podobno można zwiedzać, to prywatny dom Casa típica de Santana, którego właściciel zaprasza turystów i opowiada o dziedzictwie 
+rodzinnym. Nie ma tam biletu wstępu, ale mile widziane są datki (niestety nie weszliśmy do środka).
+
+<img src="/assets/Portugal/Madeira/Day5/20241101_130622.jpg" />
+
+Podsumowując, Santana to świetny przystanek podczas zwiedzania tej części wyspy. Warto jednak pamiętać, że okolice centrum informacji 
+turystycznej mogą być bardzo zatłoczone, dlatego polecamy przejść się nieco dalej, w stronę kościoła, a potem do piekarni,
+aby zobaczyć bardziej autentyczną i spokojną stronę miasteczka, z dala od kilku domków skupionych wokół głównego placu, 
+i przy okazji skosztować czegoś pysznego!
+
+Po opuszczeniu Santany postanowiliśmy zatrzymać się przy **Miradouro do Guindaste**. Znajdują się tam dwie szklane platformy 
+wychodzące nad klif, z których można obserwować rozbijające się fale. Bardziej podobało nam się to miejsce niż słynne Cabo 
+Girão, gdzie również znajduje się szklany taras widokowy, położony wyżej nad wodą, ale szkło było tam tak porysowane, że 
+widok nie zrobił na nas wrażenia, a tłumy były przytłaczające. Przy Miradouro do Guindaste nie było wielu osób, w okolicy 
+nie ma zbyt wiele do zobaczenia, więc turyści zazwyczaj zatrzymują się tylko na chwilę i ruszają dalej. My przyjechaliśmy 
+wczesnym popołudniem i bez problemu znaleźliśmy miejsce parkingowe. Warto poświęcić kilka dodatkowych minut na spacer ścieżkami 
+wzdłuż krawędzi klifu, widoki na wybrzeże są zachwycające.
+
+<img src="/assets/Portugal/Madeira/Day5/DSC09469.JPG" />
+<img src="/assets/Portugal/Madeira/Day5/DSC09464.JPG" />
+
+Dzień zakończyliśmy krótkim odpoczynkiem na plaży **Calhau da Lapa**. Zostawiliśmy samochód na pobliskiej ulicy i ruszyliśmy 
+ścieżką, która po chwili zaczęła wyglądać na już nieużywaną, co szybko się potwierdziło gdyż, stawała się coraz bardziej zarośnięta 
+przez ogromne kaktusy sięgające nam do uda i w końcu prowadziła przez głęboki wąwóz z przepływającym strumieniem. Na szczęście 
+dno rzeki było wystarczająco suche, by dało się je przejść po kamieniach, i po małej przygodzie udało nam się wrócić na 
+oficjalny szlak, z którego skorzystaliśmy w drodze powrotnej. Ten był znacznie łatwiejszy i kończył się w okolicy małego 
+mostku na głównej drodze asfaltowej. Po drodze mijaliśmy wysoki, ale wąski wodospad, być może strużka wody była mniejsza 
+niż zwykle z powodu braku deszczu w ostatnich dniach. Wodospad otoczony był ogromną ilością kaktusów a przed nim unosiła się 
+tęcza, co wyglądało bardzo ciekawie. Widoki były niesamowite, a daleko w dole można było dostrzec plażę. Okoliczne wzgórza były 
+całe porośnięte kaktusami.
+
+<img src="/assets/Portugal/Madeira/Day5/DSC09504.JPG" />
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day5/20241101_150708_01.jpg" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day5/DSC09485.JPG" class="column-50" />
+</div>
+
+Dostęp do plaży nie jest łatwy, prowadzą do niej bardzo strome schody, a różnica poziomów to około 160 metrów, ale nagroda 
+w postaci spokoju i widoków jest tego warta. Po dotarciu na miejsce plaża wydała się opuszczona. Wszystkie kawiarenki i 
+domy wykute w skałach były zabite deskami, a na miejscu było zaledwie kilka opalających się osób. Betonowy pomost z drabinką 
+ułatwiał wejście do morza, ale cala plaza jest kamienista, wiec warto zabrać ze sobą buty do pływania. Ma to również i pozytywne strony
+bo woda przez to jest krystalicznie czysta, a miedzy skałami biega mnóstwo kolorowych krabów. Bardzo szybko chowały się, reagując 
+na każdy najmniejszy ruch, więc ich sfotografowanie okazało się nie lada wyzwaniem. Na zdjęciu poniżej widać w tle jak 
+strome jest wzgórze z którego zeszliśmy na plażę.
+
+<img src="/assets/Portugal/Madeira/Day5/DSC09480.JPG" />
+
+<div class="row">
+  <img src="/assets/Portugal/Madeira/Day5/DSC09478.JPG" class="column-50" />
+  <img src="/assets/Portugal/Madeira/Day5/20241101_151805_01.jpg" class="column-50" />
+</div>
+
+To odosobnione i spokojne miejsce, bez tłumów, z przejrzystą wodą i mnóstwem krabów, było idealnym zakończeniem
+dnia. Po wymagającym podejściu z powrotem na górę ruszyliśmy w stronę Funchal, oddaliśmy samochód i ruszyliśmy w kierunku
+starego miasta na zasłużoną kolację.
+
+__Informacje praktyczne:__
+
+* [Oficjalna strona ](https://ifcn.madeira.gov.pt/pt/atividades-de-natureza/percursos-pedestres-recomendados/percursos-pedestres-recomendados.html) 
+warto sprawdzić, czy szlaki turystyczne są otwarte po pożarach, które miały miejsce latem 2024 roku.
+
+*  Bilety na szlaki płatne można kupić online na [tej stronie.](https://simplifica.madeira.gov.pt/services/78-82-259)
+Od 1 stycznia 2025 roku osoby niebędące rezydentami muszą płacić za wstęp na ponad 30 tras zarządzanych przez Instytut Lasów 
+i Ochrony Przyrody (ICNF) na Maderze. Praktycznie wszystkie szlaki oznaczone jako PR podlegają opłacie
+
+* W czasie naszej wizyty otwarty był jedynie odcinek z Achada do Teixeira do schroniska Casa de Abrigo do Pico Ruivo (2,4 km), 
+podczas gdy cała trasa ma 2,8 km. Więcej informacji znajduje się [na oficjalnej stronie.](https://ifcn.madeira.gov.pt/images/FotosArtigos/ActivNatureza/PercPedRecom/Paineis_Net/pr1.2.jpg)
+Końcowy fragment, oferujący najpiękniejsze widoki, był zamknięty. Szlak blokowało wysokie ogrodzenie, jednak większość osób 
+nielegalnie je obchodziła zboczem, mimo ryzyka mandatu w wysokości 2500€. W okolicy nie było jednak żadnych strażników. 
+Strażnicy obecni byli jedynie przy parkingu, gdzie sprawdzali bilety wstępu w cenie 3€.
+
+* Parque Temático da Madeira – Podstawowy bilet wstępu kosztuje 3€. Dodatkowe atrakcje dla dzieci to koszt 3–4€ każda, 
+lub można kupić bilet łączony za 12€. Przy samym parku znajduje się duży, bezpłatny parking (zostawiliśmy tam samochód i 
+przeszliśmy pieszo do centrum miasteczka, zaledwie 520m do ratusza). Uwaga: korzystanie z toalet jest dodatkowo płatne 
+(0,50 €). Zwiedzanie parku zajmuje około półtorej godziny.
+
+* Miradouro do Guindaste - mały punkt widokowy z bezpłatnym parkingiem oraz dostępem do publicznej toalety.
+
+<img src="/assets/Portugal/Madeira/Day5/DSC09471.JPG" />
+
+* Calhau da Lapa - Zaparkowaliśmy przy drodze, w pobliżu mostu, gdzie zaczyna się szlak Caminho do Passo. Obecnie ścieżka 
+prowadząca na plażę jest zamknięta z powodu spadających odłamków skalnych (według najnowszych recenzji na Google Maps z 
+wiosny 2025 roku). W okolicy plaży nie ma żadnych udogodnień, wszystkie kawiarnie i domy w jaskiniach są zabite deskami. 
+Szlak jest bardzo stromy, z przewyższeniem około 160 m, więc powrót pod górę może być naprawdę wyczerpujący w upalne dni.
+Współrzędne GPS miejsca parkingowego: [32.663977, -17.033297](https://www.google.com/maps/place/32%C2%B039'50.3%22N+17%C2%B001'59.9%22W/@32.6639815,-17.0358773,17z/data=!3m1!4b1!4m4!3m3!8m2!3d32.663977!4d-17.033297?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D))
+
+* Piekarnia - Delícias da Bia                                                     
+Adres: Avenida D. Manuel Marques da Trindade n°28, Santana, Portugal
+
+
+
+

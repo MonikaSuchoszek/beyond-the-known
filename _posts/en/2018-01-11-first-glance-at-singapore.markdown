@@ -18,7 +18,7 @@ gallery_items:
     description: "Cloud Forest, one of the conservatories in Gardens by the Bay, Singapore."
 ---
 
-Nanyang campus, situated in the wast part of Singapore is the place we are going to stay for the next three 
+Nanyang campus, situated in the west part of Singapore is the place we are going to stay for the next three 
 weeks. More to the west, there is nothing else than rainforest which is at the same time a military area, closed 
 for visitors and border of the country. The NTU campus is quite isolated from the city so we are in the middle 
 of big, green area :p Very similar to Golm in Potsdam, where we were working the last 4 years, you need to take a 

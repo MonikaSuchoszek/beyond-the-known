@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Przygoda na Maderze: Dzień 5 -  Pico Ruivo, Santana oraz opuszczona plaża",
+      "url"      : "/pl/podroze/2025/06/Dzien5/",
+      "date"     : "June 02, 2025",
+      "locale"   : "pl_PL",
+      "content" :  "Nasz pobyt na Maderze zbliżał się ku końcowi, przed nami ostatni dzień z wynajętym samochodem! Intensywne dni szybko mijały, a i plan na ostatni dzień był bardzo napięty. Zdecydowaliśmy się zacząć dzień od pieszej wędrówki na Pico Ruivo, najwyższy szczyt Madery. Podczas naszego pobytu w listopadzie 2024 roku oficjalna strona..."
+      
+       , "coords" : {
+          "lat" : 32.814375,,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Madeira Adventure: Day 5 - Pico Ruivo, colorful Santana and deserted beach",
       "url"      : "/en/travel/2025/06/Day5/",
       "date"     : "June 02, 2025",
@@ -1305,7 +1319,7 @@
       "url"      : "/en/travel/2018/01/first-glance-at-singapore/",
       "date"     : "January 11, 2018",
       "locale"   : "en_US",
-      "content" :  "Nanyang campus, situated in the wast part of Singapore is the place we are going to stay for the next three weeks. More to the west, there is nothing else than rainforest which is at the same time a military area, closed for visitors and border of the country. The..."
+      "content" :  "Nanyang campus, situated in the west part of Singapore is the place we are going to stay for the next three weeks. More to the west, there is nothing else than rainforest which is at the same time a military area, closed for visitors and border of the country. The..."
       
        , "coords" : {
           "lat" : 1.2867892,
