@@ -206,8 +206,6 @@ pre code.hljs {
 	*	Sidebar Layout for Home Page
 	*/
 	.content-with-sidebar {
-		display: block; // Default to block layout for mobile
-
 		@include media($desktop) {
 			display: flex;
 			gap: 2em;
@@ -224,7 +222,6 @@ pre code.hljs {
 		}
 
 		.sidebar {
-			display: none; // Hidden on mobile and tablet
 
 			@include media($desktop) {
 				display: block;
@@ -233,6 +230,26 @@ pre code.hljs {
 				top: 2em;
 				max-height: calc(100vh - 4rem);
 				overflow-y: auto;
+			}
+		}
+	}
+
+	// Mobile archives widget - shows below content on small screens
+	// This is NOT inside .sidebar so it won't be hidden
+	.mobile-archives {
+		display: block; // Show on mobile/tablet
+		margin-top: 2em;
+
+		@include media($desktop) {
+			display: none !important; // Force hide on desktop
+		}
+
+		// Override any inherited display properties
+		&.sidebar-widget {
+			display: block;
+
+			@include media($desktop) {
+				display: none !important;
 			}
 		}
 	}

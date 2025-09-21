@@ -14,6 +14,7 @@ en_US:
     minutes: "minutes"
     read_more: "Read more..."
     archives: "Archives"
+    no_posts_available: "No posts available."
 
 pl_PL:
     subtitle: "podążając za marzeniami"
@@ -31,3 +32,4 @@ pl_PL:
     minutes: "min."
     read_more: "Czytaj więcej..."
     archives: "Archiwa"
+    no_posts_available: "Brak dostępnych postów."

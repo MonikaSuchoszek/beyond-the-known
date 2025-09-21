@@ -409,29 +409,36 @@ pre code.hljs {
       clear: both;
       content: "";
       display: table; }
-  .page-content .content-with-sidebar {
-    display: block; }
+  @media screen and (min-width: 960px) {
+    .page-content .content-with-sidebar {
+      display: flex;
+      gap: 2em;
+      align-items: flex-start; } }
+  .page-content .content-with-sidebar .main-content {
+    width: 100%; }
     @media screen and (min-width: 960px) {
-      .page-content .content-with-sidebar {
-        display: flex;
-        gap: 2em;
-        align-items: flex-start; } }
-    .page-content .content-with-sidebar .main-content {
-      width: 100%; }
-      @media screen and (min-width: 960px) {
-        .page-content .content-with-sidebar .main-content {
-          flex: 1;
-          min-width: 0; } }
+      .page-content .content-with-sidebar .main-content {
+        flex: 1;
+        min-width: 0; } }
+  @media screen and (min-width: 960px) {
     .page-content .content-with-sidebar .sidebar {
-      display: none; }
+      display: block;
+      flex: 0 0 280px;
+      position: sticky;
+      top: 2em;
+      max-height: calc(100vh - 4rem);
+      overflow-y: auto; } }
+  .page-content .mobile-archives {
+    display: block;
+    margin-top: 2em; }
+    @media screen and (min-width: 960px) {
+      .page-content .mobile-archives {
+        display: none !important; } }
+    .page-content .mobile-archives.sidebar-widget {
+      display: block; }
       @media screen and (min-width: 960px) {
-        .page-content .content-with-sidebar .sidebar {
-          display: block;
-          flex: 0 0 280px;
-          position: sticky;
-          top: 2em;
-          max-height: calc(100vh - 4rem);
-          overflow-y: auto; } }
+        .page-content .mobile-archives.sidebar-widget {
+          display: none !important; } }
   .page-content .sidebar-widget {
     background: #f7f7f7;
     border: 1px solid #ddd;
