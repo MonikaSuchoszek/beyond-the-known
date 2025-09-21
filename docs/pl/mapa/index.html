@@ -133,7 +133,9 @@
 <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
 <script>
 	var map;
+	console.log("Setting up functions for map");
 	function initMap() {
+	    console.log("Running initMap()");
 		map = new google.maps.Map(document.getElementById('map'), {
 			center: {lat: 50.8798, lng: 4.7005},
 			zoom: 3,
@@ -327,19 +329,18 @@
 
 		}
 
-		$.getJSON( "/map_data.json", function( data ) {
-			var page_locale = "pl_PL";
+    // Wait until map is ready before adding markers
+    google.maps.event.addListenerOnce(map, 'idle', function () {
+      $.getJSON("/map_data.json", function (data) {
+        var page_locale = "pl_PL";
 
-			console.log("adding elements, current locale " + page_locale);
-			console.log(data);
-
-			data.forEach(function(el){
-			  if (el.locale == page_locale && typeof el.coords !== 'undefined') {
-			    console.log(el);
-				  addMarker(el);
-				}
-			})
-		});
+        data.forEach(function (el) {
+          if (el.locale == page_locale && typeof el.coords !== 'undefined') {
+            addMarker(el);
+          }
+        });
+      });
+    });
 
 	}
 </script>
