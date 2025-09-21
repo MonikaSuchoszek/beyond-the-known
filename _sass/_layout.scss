@@ -201,6 +201,106 @@ pre code.hljs {
 		@include outer-container;
 		padding: 1em;
 	}
+
+	/*
+	*	Sidebar Layout for Home Page
+	*/
+	.content-with-sidebar {
+		display: block; // Default to block layout for mobile
+
+		@include media($desktop) {
+			display: flex;
+			gap: 2em;
+			align-items: flex-start;
+		}
+
+		.main-content {
+			width: 100%;
+
+			@include media($desktop) {
+				flex: 1;
+				min-width: 0; // Prevent flex item from overflowing
+			}
+		}
+
+		.sidebar {
+			display: none; // Hidden on mobile and tablet
+
+			@include media($desktop) {
+				display: block;
+				flex: 0 0 280px; // Fixed width sidebar
+				position: sticky;
+				top: 2em;
+				max-height: calc(100vh - 4rem);
+				overflow-y: auto;
+			}
+		}
+	}
+
+	/*
+	*	Sidebar Widget Styles
+	*/
+	.sidebar-widget {
+		background: lighten($light-gray, 10%);
+		border: 1px solid $light-gray;
+		border-radius: 8px;
+		padding: 1.5em;
+		margin-bottom: 1.5em;
+
+		.sidebar-title {
+			margin: 0 0 1em 0;
+			font-size: modular-scale(1);
+			font-weight: 600;
+			color: $dark-gray;
+			border-bottom: 2px solid $highlight-color;
+			padding-bottom: 0.5em;
+		}
+
+		.archive-years {
+			@extend %default-ul;
+			margin: 0;
+			padding: 0;
+
+			.archive-year {
+				margin-bottom: 0.5em;
+			}
+
+			.archive-link {
+				display: block;
+				padding: 0.5em 0.75em;
+				text-decoration: none;
+				color: $medium-gray;
+				border-radius: 4px;
+				transition: all 0.2s ease;
+				font-weight: 500;
+
+				&:hover {
+					background-color: $highlight-color;
+					color: $white;
+					text-decoration: none;
+					transform: translateX(3px);
+
+					.post-count {
+						color: rgba($white, 0.8);
+					}
+				}
+
+				.post-count {
+					font-weight: normal;
+					color: lighten($medium-gray, 10%);
+					font-size: 0.9em;
+				}
+			}
+		}
+
+		.no-archives {
+			color: $medium-gray;
+			font-style: italic;
+			margin: 0;
+			text-align: center;
+		}
+	}
+
 	/*
 	*	index.html
 	*/
@@ -310,7 +410,7 @@ pre code.hljs {
         margin-right: auto;
         width: 100%;
         max-height: 550px;
-        object-fit: contain; 
+        object-fit: contain;
 	  	@include media ($tablet) {
     		width: 75%;
     	}
@@ -337,7 +437,7 @@ pre code.hljs {
 			     padding: 5px;
 			     margin: 0px;
 				 max-height: 550px;
-                 object-fit: contain; 	
+                 object-fit: contain;
 			   }
 			   img:first-child {
 			     padding-left: 0px;
@@ -464,7 +564,7 @@ pre code.hljs {
 	.page {
 		.post-header {
 			padding: 0.5em 1em 1em 1em;
-			text-align: center;
+		 text-align: center;
 		}
 		.posts-list {
 			@extend %default-ul;

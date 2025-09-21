@@ -13,6 +13,7 @@ en_US:
     minute: "minute"
     minutes: "minutes"
     read_more: "Read more..."
+    archives: "Archives"
 
 pl_PL:
     subtitle: "podążając za marzeniami"
@@ -29,3 +30,4 @@ pl_PL:
     minute: "minuta"
     minutes: "min."
     read_more: "Czytaj więcej..."
+    archives: "Archiwa"

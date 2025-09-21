@@ -1,4 +1,4 @@
 # pagefind.yaml
 site: docs/
-glob: "{en/**/*.html,pl/sport/**/*.html,pl/podroze/**/*.html}"
+glob: "{en/travel/**/*.html,en/sports/**/*.html,en/food/**/*.html,pl/sport/**/*.html,pl/podroze/**/*.html,pl/jedzenie/**/*.html}"
 output-subdir: ./docs/pagefind

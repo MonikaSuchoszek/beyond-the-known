@@ -1,0 +1,36 @@
+---
+layout: default
+cover:  "/assets/tags_header.jpg"
+---
+{% assign items_text = site.data.translations[page.locale] %}
+<img data-pagefind-meta="image[src]" src="{{ page.thumbnail | prepend: site.baseurl }}" style="display:none" />
+<div class="post">
+
+<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if page.cover %}has-cover{% endif %}">
+    <header class="post-header">
+      <h1 class="title">{{ page.year }} {{ items_text.archives }}</h1>
+    </header>
+  </div>
+</div>
+
+<div class="wrapper">
+
+
+  <div class="year-archive">
+    <h1>{{ page.year }} {{ items_text.archives }}</h1>
+
+    <div class="posts-list">
+      {% for post in page.posts %}
+        <article class="post-summary">
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+          {% if post.excerpt %}
+            <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+
+</div>

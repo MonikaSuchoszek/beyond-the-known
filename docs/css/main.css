@@ -102,7 +102,8 @@ select {
   max-width: 100%;
   width: auto; }
 
-ul.default, .page-content ul.post-list, .page-content .page ul.posts-list, .site-footer .site-navigation ul, .site-footer .site-contact ul,
+ul.default, .page-content .sidebar-widget ul.archive-years, .page-content ul.post-list, .page-content .page ul.posts-list, .site-footer .site-navigation ul, .site-footer .site-contact ul,
+.page-content .sidebar-widget ol.archive-years,
 .page-content ol.post-list,
 .page-content .page ol.posts-list,
 ol.default {
@@ -385,6 +386,12 @@ pre code.hljs {
 .page-content {
   min-height: calc(100vh - 300px);
   /*
+  *	Sidebar Layout for Home Page
+  */
+  /*
+  *	Sidebar Widget Styles
+  */
+  /*
   *	index.html
   */
   /*
@@ -402,6 +409,71 @@ pre code.hljs {
       clear: both;
       content: "";
       display: table; }
+  .page-content .content-with-sidebar {
+    display: block; }
+    @media screen and (min-width: 960px) {
+      .page-content .content-with-sidebar {
+        display: flex;
+        gap: 2em;
+        align-items: flex-start; } }
+    .page-content .content-with-sidebar .main-content {
+      width: 100%; }
+      @media screen and (min-width: 960px) {
+        .page-content .content-with-sidebar .main-content {
+          flex: 1;
+          min-width: 0; } }
+    .page-content .content-with-sidebar .sidebar {
+      display: none; }
+      @media screen and (min-width: 960px) {
+        .page-content .content-with-sidebar .sidebar {
+          display: block;
+          flex: 0 0 280px;
+          position: sticky;
+          top: 2em;
+          max-height: calc(100vh - 4rem);
+          overflow-y: auto; } }
+  .page-content .sidebar-widget {
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5em;
+    margin-bottom: 1.5em; }
+    .page-content .sidebar-widget .sidebar-title {
+      margin: 0 0 1em 0;
+      font-size: 1.2em;
+      font-weight: 600;
+      color: #333;
+      border-bottom: 2px solid #01476a;
+      padding-bottom: 0.5em; }
+    .page-content .sidebar-widget .archive-years {
+      margin: 0;
+      padding: 0; }
+      .page-content .sidebar-widget .archive-years .archive-year {
+        margin-bottom: 0.5em; }
+      .page-content .sidebar-widget .archive-years .archive-link {
+        display: block;
+        padding: 0.5em 0.75em;
+        text-decoration: none;
+        color: #999;
+        border-radius: 4px;
+        transition: all 0.2s ease;
+        font-weight: 500; }
+        .page-content .sidebar-widget .archive-years .archive-link:hover {
+          background-color: #01476a;
+          color: #fff;
+          text-decoration: none;
+          transform: translateX(3px); }
+          .page-content .sidebar-widget .archive-years .archive-link:hover .post-count {
+            color: rgba(255, 255, 255, 0.8); }
+        .page-content .sidebar-widget .archive-years .archive-link .post-count {
+          font-weight: normal;
+          color: #b3b3b3;
+          font-size: 0.9em; }
+    .page-content .sidebar-widget .no-archives {
+      color: #999;
+      font-style: italic;
+      margin: 0;
+      text-align: center; }
   .page-content blockquote {
     border-left: 0.2em solid #6f479c;
     background-color: #d7c9e6;

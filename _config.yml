@@ -74,6 +74,14 @@ gallery_items:
     resize_dimensions: '430x288^'
     crop_dimensions: '430x288+0+0'
 
+#jekyll-archives:
+#  enabled:
+#    - year
+#  layout: 'archive'
+#  permalinks:
+#    year: '/year/:year/'
+#  cover: "/assets/index_header.jpg"
+
 # Build settings
 markdown: kramdown
 
@@ -93,6 +101,7 @@ highlightjs_theme: "monokai-sublime"
 google_maps_api_key: "AIzaSyDBP15TP4Fd7fZykz38sGIHJl0phWLUSdA"
 
 # Category descriptions (for archive pages)
+# Make sure that these are correctly handled in pagefind.yaml!
 descriptions:
   - cat: travel
     desc: "Read all about places we visited"
@@ -114,7 +123,7 @@ descriptions:
     desc: "Bieganie, wyprawy w góry oraz inne aktywności"
     locale: "pl_PL"
 
-  - cat: "kuchnie swiata"
+  - cat: jedzenie
     desc: "interesujące kuchnie świata, których smaku nigdy nie zapomnimy "
     locale: "pl_PL"
 
