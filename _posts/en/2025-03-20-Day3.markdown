@@ -11,7 +11,7 @@ cover:  "/assets/Portugal/Madeira/Day3/20241030_144924_01.jpg"
 thumbnail:  "/assets/thumbnails/Day3.JPG"
 post_id: Day3
 coords:
-  lat: 32.814375, 
+  lat: 32.814375
   lng: -17.144545
 gallery_items:
   - image: "/assets/Portugal/Madeira/Day3/20241030_144924_01.jpg"

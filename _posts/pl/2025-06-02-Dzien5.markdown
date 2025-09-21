@@ -10,7 +10,7 @@ cover:  "/assets/Portugal/Madeira/Day5/DSC09395.JPG"
 thumbnail:  "/assets/thumbnails/Day5.JPG"
 post_id: Day5
 coords:
-  lat: 32.814375, 
+  lat: 32.814375
   lng: -17.144545
 gallery_items:
   - image: "/assets/Portugal/Madeira/Day5/DSC09364.JPG"
