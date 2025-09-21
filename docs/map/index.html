@@ -330,6 +330,9 @@
 		$.getJSON( "/map_data.json", function( data ) {
 			var page_locale = "en_US";
 
+			console.log("adding elements, current locale " + page_locale);
+			console.log(data);
+
 			data.forEach(function(el){
 			  if (el.locale == page_locale && typeof el.coords !== 'undefined') {
 			    console.log(el);

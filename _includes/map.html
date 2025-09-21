@@ -201,6 +201,9 @@
 		$.getJSON( "{{ "/map_data.json" | prepend: site.base }}", function( data ) {
 			var page_locale = "{{ page.locale }}";
 
+			console.log("adding elements, current locale " + page_locale);
+			console.log(data);
+
 			data.forEach(function(el){
 			  if (el.locale == page_locale && typeof el.coords !== 'undefined') {
 			    console.log(el);
