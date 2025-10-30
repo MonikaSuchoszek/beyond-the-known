@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Family Road Trip in Denmark – 10 Days of Cool Adventures",
+      "url"      : "/en/travel/2025/09/Denmark/",
+      "date"     : "September 25, 2025",
+      "locale"   : "en_US",
+      "content" :  "We always travel during the summer months when school is closed, but after last year’s heat in Spain, we were determined to find a cooler destination. Denmark turned out to be the perfect choice, mild weather, beautiful scenery, and a relaxed pace of life. We spent 10 full days in..."
+      
+       , "coords" : {
+          "lat" : 55.396399,
+          "lng" : 10.387578
+      }
+      
+    } ,
+
+    {
       "title"    : "Przygoda na Maderze: Dzień 5 -  Pico Ruivo, Santana oraz opuszczona plaża",
       "url"      : "/pl/podroze/2025/06/Dzien5/",
       "date"     : "June 02, 2025",
