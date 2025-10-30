@@ -1,0 +1,212 @@
+---
+layout: post
+
+title:  "Family Road Trip in Denmark – 10 Days of Cool Adventures"
+date:   2025-09-25 08:43:59
+author: Monika Suchoszek
+categories: travel
+tags:	Denmark  
+cover:  "/assets/Denmark/Summary/P8183670.JPG"
+thumbnail:  "/assets/thumbnails/Denmark.JPG"
+post_id: denmark_overview
+coords:
+  lat: 55.396399
+  lng: 10.387578
+gallery_items:
+  - image: "/assets/Denmark/Summary/P8183670.JPG"
+    gallery_image: "/assets/gallery/Denmark.JPG"
+    description: "Flowering heaths on Fanø Island"
+---
+
+We always travel during the summer months when school is closed, but after last year’s heat in Spain, we were determined 
+to find a cooler destination. Denmark turned out to be the perfect choice, mild weather, beautiful scenery, and a relaxed 
+pace of life. We spent 10 full days in Denmark in the second half of August, a wonderful way to recharge before the start 
+of the new school year. The weather was exactly as we hoped: 18–24°C, a bit windy at times, and only a few brief moments 
+of rain. Perfect conditions for a family road trip!
+
+**Our Route and General Impressions**
+
+When planning the trip, I ambitiously marked spots across the entire country, but quickly realized it would be impossible 
+to see everything. In the end, we created a 1,500 km loop, visiting four out of Denmark’s five regions:
+Sjælland (Zealand), Syddanmark (Southern Denmark), Midtjylland (Central Jutland), Hovedstaden (Capital Region).
+The only one we skipped was Nordjylland (North Jutland). A clever way to shorten driving distances was by taking the ferry between
+Jylland and Sjælland. It saved us time, added variety to the trip, and let us return to Copenhagen from the west side of 
+the country without repeating the same route. See details of our route on the Google Map below:
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1uhRyL-m2vsOMMu-yupzHgsqT_QSu0IM&ehbc=2E312F" width="100%" height="480" style="display: block; margin: 0 auto;"></iframe>
+
+Travelling with a four-year-old required flexibility and frequent changes of plan, but Denmark turned out to be one of the 
+most family-friendly countries we’ve ever visited. There were countless public toilets and amazing playgrounds, often located 
+in scenic places and surrounded by nature, a true blessing for anyone travelling with small children!
+Architecturally, I expected to see tiny, colorful wooden houses like in Iceland, but most homes resembled those in Germany,
+simple, neat, and modern. We did find some charming historical spots though, such as Sønderho and Ribe, where old wooden 
+houses create postcard-perfect scenery.
+
+**Getting Around – Transportation Tips**
+
+We rented a car from **Sixt**, picking it up and dropping it off at Copenhagen Airport. The process went smoothly overall, 
+though we had two small issues:
+The prepaid Storebælt Bridge pass didn’t work, and we had to pay again at the gate with a credit card. Sixt later refunded the fee but I had
+to send them multiple emails. They also never explained why this situation happened. They should not offer bridge tickets
+if this service doesn't work properly.
+During drop-off, all designated Sixt spots were full, and we had to wait for an employee to move a car before we could park which 
+made us nervous about being at the airport on time. Note that we were dropping off the car just before office opened and 
+probably this issue doesn't happen if you drop off the car after 6am when the office is open and employees are there.
+Despite these moments, the rental experience was positive. Our Opel Corsa was clean, easy to drive, and perfect for Danish roads.
+To reach the rental office, take the free shuttle bus from the airport (in front of the Clarion Hotel, every 20 minutes), 
+the ride takes about 10 minutes.
+
+Driving in Denmark was a pleasure with calm drivers, beautiful roads, and good infrastructure.
+Headlights must be on at all times, even during the day. The only difference I noticed was the rule on how to merge when 
+entering the highway. I was surprised not to see the dotted line marking the end of the merge point which was often much shorter than in Belgium. 
+Apparently both drivers on the ramp and those on the main road should adjust their speed to allow smooth merging, and that was actually 
+happening. Cars were changing lanes immediately or slowing down, so we could always enter the highway without needing to 
+stop.
+Typical speed limits are:
+50 km/h in towns, 80 km/h outside towns, 110–130 km/h on highways
+
+**Tolls and Ferries**:
+ - [Storebælt Bridge](https://storebaelt.dk/en/prices-and-discounts/private/): 230 DKK (31€)
+ - [Fanø Island ferry](https://www.fanoelinjen.dk/): 299 DKK (40€)
+ - [Aarhus–Sjælland ferry](https://www.molslinjen.com/): 560 DKK (75€, book early, prices rise quickly!). Area marked with green
+outline on the photo below is indicating where you can take a seat without having a reservation, everything in the front of 
+the ferry is either business blueclass, restaurants or shops.
+
+<div class="row">
+  <img src="/assets/Denmark/Summary/20250822_095610_01.jpg" class="column-50" />
+  <img src="/assets/Denmark/Summary/20250822_103750_01.jpg" class="column-50" />
+</div>
+
+**Parking**: mostly free outside cities, but expect fees near major attractions. On the below photo (left) you can see sign that
+allows to park for free for 2 hours, but you can not park for longer in that zone, even if you would like to pay for additional time.
+Tip: check recent Google Maps reviews for parking, prices can vary a lot. **Fuel prices** ranged between 13.39–13.89 DKK/litre (1.8€/l), 
+with Ribe being the cheapest area.
+ - Møns Klint: 45 DKK/day (6€)
+ - Stevns Klint: 50 DKK/day (6,7€) Very limited free parking in the nearby village. We were there at the end of the day when 
+it was empty so we parked on one of the side streets.
+ - Aarhus: 24 DKK/hour (3,2€); other towns ~7 DKK/hour (0.9€)
+
+<div class="row">
+  <img src="/assets/Denmark/Summary/20250816_123230_01.jpg" class="column-50" />
+  <img src="/assets/Denmark/Summary/20250815_174452.jpg" class="column-50" />
+</div>
+
+
+**Visiting Copenhagen by Train**
+
+Locals advised us not to drive into Copenhagen due to parking costs (16–44 DKK/hour, 2-6€/hour), check [here](https://international.kk.dk/live/transport-and-parking/parking-in-copenhagen/public-parking-in-copenhagen)
+for more details. Instead, we parked for free at Køge 
+station and took the train. Tickets can be expensive (regular ticket around 60-70 DKK one way, 9€), but [DSB Orange Tickets](https://www.dsb.dk/en/tickets-and-services/orange/) are a 
+great discounted option (20–28 DKK per person, 3-4€), but available only at selected time slots. The train 
+ride takes around 40min, but you can get off the train at multiple station in the heart of the city without spending time 
+on looking for parking spot. We bought our tickets a week ahead of time.
+
+<div class="row">
+  <img src="/assets/Denmark/Summary/20250824_175434_01.jpg" class="column-50" />
+  <img src="/assets/Denmark/Summary/20250824_175754_01.jpg" class="column-50" />
+</div>
+
+**Accommodation**
+
+We stayed in Airbnb apartments across the country, almost always entire flats, usually outside cities where prices were 
+lower, and it was easier to park with the car. Copenhagen was expensive, so we chose to stay twice in the Køge area, a 
+perfect base for day trips to the capital. Most apartments had self check-in via lockbox, and in several places, the hosts 
+greeted us personally and shared useful local tips.
+ - Average cost: €110 per night
+ - Booking minimum 4–6 months ahead is ideal for good deals 
+ - Average rating: 4.9+
+
+**Food & Eating Out**
+
+Dining out in Denmark is expensive, expect to pay €30–40 per person for a meal with a drink in cheap restaurants. Even simple 
+street food like fish and chips costs 100–140 DKK (13-19€). That’s why we mostly cooked in our apartments, which all had excellent 
+kitchens, including oven. Supermarkets like Lidl and Rema 1000 were our favourites for value and choice. We had to buy groceries 
+in small amounts since we changed locations frequently and didn’t want food sitting in the car.
+
+Exemplary prices:
+ - Ice cream: from 50 DKK per scoop (6,7€)
+ - Bakery sweets: 40–50 DKK (5,4€-6,7€)
+Local restaurant highlight: fresh fish or hearty Danish burger with chips and homemade gravy, delicious!
+
+
+**Budget Overview (for 10 days, 2 adults and four-year-old child)**
+
+| Category | Total Cost (€) |
+|-----------|---------------:|
+| Flights |            423 |
+| Transportation (car, fuel, ferries, tolls, parking, train) |          1,123 |
+| Accommodation |          1,120 |
+| Restaurants |            186 |
+| Groceries |            204 |
+| Activities |             80 |
+| **Total** |      **3,136** |
+
+<img src="/assets/Denmark/Summary/Budget breakdown.jpg" />
+
+**Our Experience of Travelling with a Child**
+
+We feel like this is, so far, the most kid-friendly country we have visited. The playgrounds were incredible, we had so 
+much fun as a family. Very often, the playgrounds are located in forests, surrounded by beautiful nature, and they also 
+feature many wooden sculptures of animals. All the playgrounds were well maintained and mostly made of wood, so they blended 
+naturally into the surroundings rather than disrupting them. The Skovlegeplads playground on Fanø Island even had tiny 
+wooden cars that you could use to help your kids cover the last couple of hundred meters leading deeper into the forest 
+to the playground.
+<div class="row">
+  <img src="/assets/Denmark/Summary/20250821_123212_01.jpg" class="column-50" />
+  <img src="/assets/Denmark/Summary/20250819_114556_01.jpg" class="column-50" />
+</div>
+<div class="row">
+  <img src="/assets/Denmark/Summary/20250818_142029_01.jpg" class="column-50" />
+  <img src="/assets/Denmark/Summary/20250818_142857_01.jpg" class="column-50" />
+</div>
+We also visited several family-oriented attractions, including 
+a **Viking museum** with period-accurate blacksmithing demonstrations (worth to check which museum has some special event during your stay since there 
+are so many viking museums to choose), and the beautiful **Frederiksborg Castle**, where kids can join a 
+treasure-hunt-style activity. It was a perfect balance between culture and playtime. There were also sea-related museums, 
+science museums, and a Sand Sculpture Festival, but that was just too much for our stay since we already had a very full schedule.
+
+Other family highlights:
+- Free public toilets almost everywhere (at the entrances to beaches, next to parking, toilet automates in the cities)
+- Nice playgrounds even at gas stations
+- Five out of six apartments had toys waiting for our daughter, such a thoughtful touch that saved our evenings and mornings.
+Since our daughter was sleeping in the car while driving during the day, which helped us tremendously, we had to pay a price 
+for this, she was going to sleep late in the evenings. It really does not happen often that there are some toys in the apartments 
+when we travel in other countries.
+
+If your kids like fairy-tale adventures, try finding **Thomas Dambo’s wooden trolls** (there are about 60–70 across Denmark, 
+see [Troll Map](https://trollmap.com/#/ene) for more details. Our daughter got scared by the first one (Troll nr81, left
+photo below), but it’s a fun activity for older kids! The second troll below is the one in famous Christianshavn neighbourhood,
+called Green George.
+
+<div class="row">
+  <img src="/assets/Denmark/Summary/20250816-WA0048_01.jpg" class="column-50" />
+  <img src="/assets/Denmark/Summary/20250824_135852_01.jpg" class="column-50" />
+</div>
+
+
+**Practical notes and some surprises**
+
+ - It was not easy to figure out what exactly the products in the supermarkets were, we had to translate the labels with 
+our phones since the language was too different from the ones we know.
+ - Our Revolut virtual card worked almost everywhere except in Spar and Netto (we used a credit card there).
+ - “Pant” deposit applies to bottles and cans, and refunds must be used in the same shop (you can’t use it in another shop 
+from the same chain).
+ - During the whole stay, I saw a Danish coin only once, when my husband found one in the park. It was a very strange feeling 
+to travel for 10 days without using cash even once.
+
+**Final Thoughts and Recommendations**
+
+We’d definitely visit Denmark again but next time, perhaps add cycling (especially on islands like Fanø, which is perfect 
+for biking at only 14 km long). This country is perfect for families, older travellers, and anyone seeking peace rather 
+than nightlife. It’s less crowded than Spain or Italy even in summer, still full of charm. We would recommend to bring 
+binoculars for spotting seals and other wild animals. Our unforgettable moments were:
+
+- Flowering heaths on **Fanø Island**  
+- Seeing wild deer in **Dyrehaven Park**  
+- Cute wooden houses in **Sønderho** and **Ribe**  
+- Scenic drives along the coast with fishing town **Gilleleje**
+- The stunning **chalk cliffs of Møns Klint**  
+
+Each of these will get its own detailed post soon so stay tuned!
+
+
