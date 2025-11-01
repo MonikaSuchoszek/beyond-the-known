@@ -11,8 +11,6 @@ del /q "docs\pagefind\*"
 
 echo Running Jekyll build...
 call bundle exec jekyll build --config _config.yml
-echo Jekyll exited with code %errorlevel%
-pause
 if errorlevel 1 (
     echo Jekyll build failed!
     exit /b 1
