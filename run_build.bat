@@ -23,7 +23,7 @@ if errorlevel 1 (
     exit /b 1
 )
 
-echo Website built, putting it up on GitHub
+echo Website built. Uploading to GitHub...
 
 git add -A
 
