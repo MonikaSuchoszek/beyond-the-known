@@ -1,0 +1,195 @@
+---
+layout: post
+
+title:  "Travelling Italy’s Coast by Train: Pisa, Cinque Terre and Massa"
+date:   2025-12-05 08:43:59
+author: Monika Suchoszek
+categories: travel
+tags:	Italy 
+cover:  "/assets/Italy/Pisa/20251025_165505.jpg"
+thumbnail:  "/assets/thumbnails/Italy.JPG"
+post_id: italy_overview
+coords:
+  lat: 43.715680
+  lng: 10.397955
+gallery_items:
+  - image: "/assets/Italy/Pisa/20251016_103442_01.jpg"
+    gallery_image: "/assets/gallery/CinqueTerre.jpg"
+    description: "Stunning San Pietro Church situated at the entrance to the bay in Porto Venere"
+---
+
+This trip was one of my favourite ways of travelling: flying into a country and then continuing the journey by train straight 
+from the airport. It is an incredibly convenient way to travel with kids, especially when train connections are good and 
+distances are reasonable. Travelling along the coast by train allows you to stop in multiple cities without the need to 
+rent a car, which significantly reduces transportation costs. It’s also ideal if you’re travelling with children who don’t 
+enjoy long car rides or if you simply want to relax and not spend your holiday focused on driving. We’ve used this approach 
+before in [Málaga]({% post_url en/2022-10-20-Benalmadena-Spain %}) and [Valencia]({% post_url en/2024-11-08-Valencia %}), and once again it worked perfectly. The only real downside is that you need to choose your 
+destination carefully: train connections must be reliable, distances manageable, and attractions accessible without a car.
+
+**Getting Around – Transportation Tips**
+
+We flew from Brussels to Pisa Airport, which turned out to be surprisingly small and easy to navigate. After landing, we 
+took a train called PisaMover to Pisa Centrale. This option was advertised as the fastest but it was also the most expensive. 
+PisaMover is a high-speed shuttle running frequently between the airport and Pisa Centrale from 6:00 AM to midnight. Duration 
+of the ride is only 5 minutes. Price: €6.50 adults / €4.50 children (each way).
+Children under a certain age were said to travel free, but information was inconsistent. We paid €26 in total for the ride 
+from the airport. At the ticket office, we were told our 4-year-old didn’t need a ticket, which contradicts the official 
+website stating that all children require one. Considering the distance is under 2 km and easily walkable, PisaMover felt 
+very expensive.
+On our return day, we decided to check whether it was possible to walk to the airport instead. The distance was less than 
+1.6 km from the city centre, and since we didn’t have much luggage, we gave it a try. It turned out to be a great decision: 
+the walk was safe, easy, and took less than 30 minutes. Along the way, we even passed several cafés where we picked up 
+pastries before reaching the airport. 
+
+From the main train station in Pisa, we continued our journey to La Spezia where we stayed first 2 nights. We used regional
+trains from [Trenitalia](https://www.trenitalia.com/en.html). Afterwards, we moved to Marina di Massa for the rest of our stay. From there, we did a day 
+trip to Pisa by train.
+
+Train Tickets (Total Costs)
+Pisa → La Spezia – €37.80 (€8.40 per adult / €4.20 per child)  
+La Spezia → Massa Centro – €22.50 (€5.00 per adult / €2.50 per child)  
+Massa Centro → Pisa – €27.90 (€6.40 per adult / €3.20 per child)  
+
+Local Buses in Massa   
+Total spent: €25.70   
+•	Ticket price: €1.70 per ride   
+•	Valid for 70 minutes after activation   
+•	App-based ticketing available   
+
+We installed the local bus app, created an account, and bought tickets directly using a credit card. You must remember to 
+activate the ticket before boarding, which can be slightly confusing as the app is not fully translated into English. The 
+first time, I asked another passenger for confirmation. After that, it was very easy to use. You can activate multiple 
+tickets at once, which is very convenient when travelling as a group. Children under 1 metre in height travel for free. 
+Our daughter (104 cm) did not have a ticket, and during a ticket inspection we were told it was fine. In practice, this 
+rule seems difficult to enforce.
+
+**Visiting Cinque Terre by combining ferry and train**
+
+Instead of buying a full-day ferry ticket, we chose a one-way ferry ticket with intermediate stops and returned by train. 
+This allowed us to spend more time in Monterosso and avoid a very long ferry ride back (up to 2 hours). The ferry was calm 
+and quiet at first, but already in Riomaggiore it became extremely crowded. At one point, the ferry was so full that we 
+had to split into two groups because there were no seats left. On board, only cold drinks and snacks were available, but 
+the toilets were very useful when travelling with a child. The weather was beautiful and sunny, though quite windy, but 
+still very pleasant for October. We were shocked by the crowds at Riomaggiore train station. The ferry felt busy, but 
+the number of people on the platform was intense. We returned by train after 5 PM from Monterosso. The train was already crowded from Vernazza, so boarding in Monterosso 
+was actually an advantage: we could easily find seats and enter with a pram. One downside of Italian trains is the toilets. 
+There are usually only one or two per train, and often one is out of order. When the train is packed, reaching a working 
+toilet with a child is very challenging.
+
+<img src="/assets/Italy/Pisa/20251016_113419_01.jpg" />
+
+**Our Ferry and Train Schedule** that allowed us to have enough time to explore each of the stops   
+Ferry: La Spezia 09:15 → Porto Venere 10:00 (1h break)   
+Ferry: Porto Venere 11:00 → Riomaggiore 11:35 (1h break)   
+Ferry: Riomaggiore 12:35 → Vernazza 13:10 (2h break)   
+Ferry: Vernazza 15:10 → Monterosso 15:30   
+Train: Monterosso → La Spezia (25 min). We could have also stopped in Manarola and taken the next train from there to 
+La Spezia, but we were simply too tired.
+
+One-day roundtrip ticket Cinque Terre (€42 per adult / €15 per child)   
+One-way ticket with intermediate stops (€30 per adult / €15 per child)   
+
+We visited Cinque Terre at the very end of the ferry season. Ferries run from late March until November 1, with reduced frequency 
+until early December. More information about the prices and current schedule [here](https://www.cinqueterre.eu.com/en/boat-excursions).
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251016_110615_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251016_140355_01.jpg" class="column-50" />
+</div>
+
+**Cinque Terre Express** trains connect Levanto, Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore, and La Spezia. They 
+run frequently from early morning until late evening. Tickets can be bought at stations, from ticket machines, or online 
+via the Trenitalia app. If you buy your regional train ticket at the station (paper ticket), you must validate it at the 
+green stamp machines located on the stairs on the way to the platforms. Make sure to do so as  fines are high!
+
+We bought all our tickets at the machines, which were not intuitive the first time, but by the end of the trip I could 
+complete all the steps almost with my eyes closed. Cinque Terre Express has three ticket price categories that depend on 
+the date you travel, and you can see the price chart and detailed schedule on the [website](https://www.cinqueterre.eu.com/en/cinque-terre-timetable). For us it was low season 
+so category A (green) - adults €5, children €2,50. If you’re planning to hop on and off the train between the villages 
+during your trip, the Cinque Terre Card is a great choice. It gives you unlimited rides on the Cinque Terre Express trains 
+running between La Spezia, Cinque Terre, and Levanto. On top of that, the card also covers access to the paid hiking trails 
+between Monterosso and Corniglia. We did not use this option because we also wanted to see the coastline from the ferry.
+
+**Accommodation**
+
+We stayed in two apartments:   
+La Spezia - Booked via Airbnb (rating 4.99).
+Self check-in, very comfortable, and well-equipped. Located close to the train station but on the opposite side of the 
+city centre. The walk to the harbour was about 2 km, but it led through the main shopping street, making it pleasant. A 
+large supermarket nearby and a quiet street, highly recommended.    
+Marina di Massa - Booked via Booking.com, right next to the beach.
+Furniture was more basic, but we had a great outdoor area and a rooftop swimming pool. The kitchen was very minimally 
+equipped, fine for breakfast and snacks, but not for cooking. The place was run by a lovely family who were always ready 
+to help. There were quite a lot of toys in the garden but mostly for kids up to age of 3 (our daughter used often swing).
+Average cost: €110 per night
+
+
+ - [La Spezia](https://www.airbnb.com/rooms/1424523201571350734?source_impression_id=p3_1769291588_P3kCjfZRNbS32n36) view from the window in the photo below on the left   
+ - [Marina Di Massa](https://www.residencestella.com/) view from the rooftop pool in the photo below on the right   
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/IMG-20251017-WA0035_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251017_154813_01.jpg" class="column-50" />
+</div>
+
+**Food & Eating Out**
+
+Since we love Italian food, we didn’t visit any other type of restaurant. We usually ordered primi (pasta, risotto, 
+gnocchi), which we prefer the most. Secondo (meat, fish, seafood) was less appealing to us, and ordering both would 
+usually be too much food, especially since we always left room for ice cream. A coperto fee (€1.50–€2.50 per person) was 
+always added. We chose budget restaurants with very good reviews
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251020_123628_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251016_132819_01.jpg" class="column-50" />
+</div>
+
+Exemplary prices:   
+[Pizza Verace in La Spezia](https://share.google/lsaR5la5YGNmDT9Mg): €8–14   
+[Bottega Visconti 1973 in Vernazza](https://share.google/pwJqo6vdELpDe7KDq): focaccia €8–12, savoury rice pie €5   
+[Locanda del Tron in Massa](https://share.google/f2cCj81djdPUgIwYp): €13 fixed menu (primo, secondo, coffee, water).  Family business with great reviews.   
+[La Ghiotteria in Pisa](https://share.google/pGPcZyHeO4DN8JEir): primi €9–13 (very large portions)   
+
+Best ice cream places:   
+[Gelateria Troppo Buono in Marina di Massa](https://maps.app.goo.gl/wAqh538eqZ22D1CW6)   
+[Gelateria Vernazza in La Spezia](https://maps.app.goo.gl/iDzBfPcV4oJmUYjY6)   
+
+**Budget Overview (for 6 days, 4 adults and four-year-old child)**
+
+| Category                           | Total Cost (€) |
+|------------------------------------|---------------:|
+| Flights                            |            540 |
+| Transportation (train, bus, ferry) |            338 |
+| Accommodation                      |           1000 |
+| Restaurants                        |            417 |
+| Groceries                          |            170 |
+| Activities                         |             72 |
+| **Total**                          |       **2500** |
+
+<img src="/assets/Italy/Pisa/Budget breakdown2.jpg" />
+
+**Our Experience of Travelling with a Child**
+
+Traveling by public transport (train, bus, ferry) was easy with our daughter as she likes to move around and doesn’t enjoy 
+sitting in a car seat. We had pram with us that we used a lot in Pisa, Massa and 
+La Spezia. We used a pram a lot in Pisa, Massa, and La Spezia. In Cinque Terre it was less practical, but necessary due to the 
+long walk to the harbour (around 2.2km). Prams are allowed on ferries, but in some villages we had to fold and carry it. 
+Riomaggiore was so steep that we left the pram at a kayak rental place. We travelled with an old pram and weren’t too 
+worried about theft. 
+We did not find many playgrounds; one was on the beach next to our apartment in Marina di Massa, which was really nice. 
+However, this was not a big problem because visiting churches, botanical gardens, and parks was good entertainment for 
+our toddler. As for public toilets, we did not actively look for them, as it was enough to use those in restaurants when 
+we had a meal, in the botanical garden in Pisa, on the ferry, or on the train. The train was actually the most problematic 
+because there were usually only two toilets in the whole train, and one was often out of order. We sometimes had to walk 
+a very long distance through the train to reach one that was working, and when the train was crowded, this was very 
+challenging.
+
+[Payground in Monterosso](https://maps.app.goo.gl/ozuxGCapAk1bWRV17) - nice place to stop while visiting Cinque Terre
+
+**Final Thoughts and Recommendations**
+
+This was a very relaxing trip with perfect October weather, excellent food, and a great mix of popular and less touristy 
+destinations. Cinque Terre was stunning, Pisa surprisingly enjoyable, and Massa a calm coastal base. Travelling by train 
+along the Italian coast worked perfectly for us, and we would absolutely do it again.
+
+
+

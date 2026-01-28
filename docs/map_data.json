@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Travelling Italy’s Coast by Train: Pisa, Cinque Terre and Massa",
+      "url"      : "/en/travel/2025/12/Italy/",
+      "date"     : "December 05, 2025",
+      "locale"   : "en_US",
+      "content" :  "This trip was one of my favourite ways of travelling: flying into a country and then continuing the journey by train straight from the airport. It is an incredibly convenient way to travel with kids, especially when train connections are good and distances are reasonable. Travelling along the coast by..."
+      
+       , "coords" : {
+          "lat" : 43.71568,
+          "lng" : 10.397955
+      }
+      
+    } ,
+
+    {
       "title"    : "Family Road Trip in Denmark – 10 Days of Cool Adventures",
       "url"      : "/en/travel/2025/09/Denmark/",
       "date"     : "September 25, 2025",
