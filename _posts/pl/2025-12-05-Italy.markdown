@@ -1,0 +1,214 @@
+---
+layout: post
+
+title:  "Podróż pociągiem wzdłuż włoskiego wybrzeża: Piza, Cinque Terre i Massa"
+date:   2025-12-05 08:43:59
+author: Monika Suchoszek
+categories: podróże
+tags:	Włochy 
+cover:  "/assets/Italy/Pisa/20251025_165505.jpg"
+thumbnail:  "/assets/thumbnails/Italy.JPG"
+post_id: italy_overview
+coords:
+  lat: 43.715680
+  lng: 10.397955
+gallery_items:
+  - image: "/assets/Italy/Pisa/20251016_103442_01.jpg"
+    gallery_image: "/assets/gallery/CinqueTerre.jpg"
+    description: "Zachwycający kościół San Pietro, położony u wejścia do zatoki w Porto Venere."
+---
+
+
+Bardzo lubimy podróże pociągiem, zwłaszcza te wzdłuż wybrzeża, i właśnie w taki sposób podróżowaliśmy już kilka razy, m.in. 
+podczas zwiedzania wschodniego wybrzeża Hiszpanii w okolicach [Walencji]({% post_url en/2024-11-08-Valencia %}) oraz południa, 
+gdzie odkrywaliśmy uroki regionu [Malagi]({% post_url en/2022-10-20-Benalmadena-Spain %}). Po raz kolejny ten 
+rodzaj podróżowania sprawdził się doskonale. Po przylocie do danego kraju najwygodniej jest kontynuować podróż pociągiem 
+prosto z lotniska, jeśli tylko istnieje taka możliwość. To niezwykle komfortowa forma podróżowania z dziećmi, zwłaszcza 
+gdy połączenia kolejowe są dobre, a odległości rozsądne. Podróżowanie wzdłuż wybrzeża pociągiem pozwala zatrzymywać się 
+w wielu miastach bez konieczności wynajmowania samochodu, co znacząco obniża koszty transportu. To także idealne rozwiązanie, 
+jeśli podróżujesz z dziećmi, które nie lubią długich przejazdów samochodem, albo jeśli po prostu chcesz odpocząć i nie 
+spędzać wakacji za kierownicą. Jedyną realną wadą jest konieczność bardzo starannego wyboru kierunku podróży: połączenia 
+kolejowe muszą być niezawodne, odległości do pokonania rozsądne, a atrakcje dostępne bez samochodu.
+
+**Transport – porady i wskazówki**
+
+Po krótkim locie na trasie Bruksela–Piza znaleźliśmy się na zaskakująco małym lotnisku w Pizie, które podczas podróży 
+powrotnej okazało się bardzo zatłoczone i chaotyczne. Kolejka do kontroli bezpieczeństwa była wyjątkowo długa, czekaliśmy 
+około 40 minut. Wracając jednak do początku podróży: po lądowaniu wsiedliśmy do pociągu PisaMover, który zawiózł nas na 
+dworzec Pisa Centrale. Ta opcja była reklamowana jako najszybsza, jednak cena biletów okazała się dość wysoka. PisaMover 
+to szybka kolejka kursująca często między lotniskiem a Pisa Centrale w godzinach od 6:00 rano do północy. Czas przejazdu 
+to zaledwie 5 minut.
+Cena: 6,50 € dorośli / 4,50 € dzieci (w jedną stronę).
+
+Zapłaciliśmy łącznie 26 € za przejazd z lotniska. W kasie poinformowano nas, że nasze 4-letnie dziecko nie potrzebuje biletu, 
+co jest sprzeczne z informacjami na oficjalnej stronie internetowej, według których wszystkie dzieci muszą posiadać bilet. 
+Biorąc pod uwagę, że odległość wynosi mniej niż 2 km i można ją bez problemu pokonać pieszo, PisaMover wydał się nam bardzo drogi.
+W dniu powrotu postanowiliśmy sprawdzić, czy da się dojść na lotnisko pieszo. Odległość od centrum miasta wynosiła niecałe
+1,6 km, a ponieważ nie mieliśmy dużo bagażu, zdecydowaliśmy się spróbować. Okazało się to świetną decyzją, spacer był 
+bezpieczny, prosty i zajął mniej niż 30 minut. Po drodze minęliśmy nawet kilka kawiarni, w których kupiliśmy croissanty z nadzieniem pistacjowym 
+przed dotarciem na lotnisko.
+
+Z dworca głównego w Pizie kontynuowaliśmy podróż do La Spezia, gdzie spędziliśmy pierwsze dwie noce. Korzystaliśmy z pociągów 
+regionalnych [Trenitalia](https://www.trenitalia.com/en.html). Warto bacznie zwracać uwagę na rodzaj pociągu, ponieważ raz wsiedliśmy do pociągu ekspresowego, 
+który był opóźniony i nadjechał dokładnie o godzinie odjazdu naszego pociągu, który został przesunięty o kilka minut. Taki błąd 
+może dużo kosztować, bo zostanie potraktowany jako przejazd bez ważnego biletu, pomimo tego, że oba pociągi jadą w tym samym kierunku.
+Następnie przenieśliśmy się do Marina di Massa na resztę pobytu. Stamtąd wybraliśmy się 
+również na jednodniową wycieczkę do Pizy pociągiem.
+
+Bilety kolejowe (łączne koszty)   
+Piza → La Spezia – 37,80 € (8,40 € za dorosłego / 4,20 € za dziecko)  
+La Spezia → Massa Centro – 22,50 € (5,00 € za dorosłego / 2,50 € za dziecko)  
+Massa Centro → Piza – 27,90 € (6,40 € za dorosłego / 3,20 € za dziecko)  
+
+Autobusy lokalne w Massa   
+Łączny wydatek: 25,70 €   
+•	Cena biletu: 1,70 € za przejazd   
+•	Ważny przez 70 minut od aktywacji   
+•	Dostępna sprzedaż biletów przez aplikację    
+
+Zainstalowaliśmy lokalną aplikację autobusową, założyliśmy konto i kupiliśmy bilety płacąc kartą kredytową. Należy 
+pamiętać o aktywacji biletu przed wejściem do autobusu, co może być nieco mylące, ponieważ aplikacja nie jest w pełni 
+przetłumaczona na język angielski. Za pierwszym razem poprosiłam o potwierdzenie innego pasażera, później było już bardzo 
+łatwo. Można aktywować kilka biletów jednocześnie, co jest bardzo wygodne podczas podróżowania w grupie. Dzieci poniżej 1 
+metra wzrostu podróżują za darmo. Nasza córka (104 cm) nie miała biletu i podczas kontroli poinformowano nas, że wszystko 
+jest w porządku. W praktyce ta zasada wydaje się jednak dość trudna do jednoznacznego egzekwowania jeśli dziecko nieznacznie 
+przekracza ten wzrost.
+
+**Zwiedzanie Cinque Terre promem oraz pociągiem**
+
+Zamiast kupować całodniowy bilet na prom, wybraliśmy bilet w jedną stronę z przystankami pośrednimi, a wróciliśmy pociągiem. 
+Pozwoliło nam to spędzić więcej czasu w Monterosso i uniknąć bardzo długiego rejsu powrotnego (prawie 2 godziny). Rejs początkowo
+byl bardzo relaksujący, jednak już w Riomaggiore ilość ludzi na promie gwałtownie wzrosła. W pewnym momencie prom 
+był tak pełny, że musieliśmy rozdzielić się na dwie grupy, ponieważ zabrakło miejsc siedzących, a miejsca stojące 
+były bardzo niekomfortowe. Na pokładzie dostępne były zimne napoje i przekąski (za opłatą) oraz toalety, które okazały się bardzo przydatne podczas podróżowania 
+z dzieckiem. Pogoda była piękna i słoneczna, choć dość wietrzna, ale jak na październik, nadal bardzo przyjemna. Byliśmy 
+zszokowani tłumami na stacji kolejowej w Riomaggiore. Już prom wydawał się zatłoczony, ale liczba ludzi na peronie była wręcz 
+przytłaczająca. Na szczęście wracaliśmy pociągiem po 17:00 z Monterosso. Skład stal sie zatłoczony już od kolejne stacji (Vernazza), więc rozpoczęcie drogi powrotnej w Monterosso 
+okazało się ogromna zaletą, mogliśmy bez problemu znaleźć miejsca siedzące. Jedną z wad włoskich pociągów są 
+toalety. Zwykle jest tylko jedna lub dwie w całym pociągu, a często jedna z nich jest i tak nieczynna. Gdy pociąg jest przepełniony, 
+dotarcie do działającej toalety z dzieckiem bywa bardzo trudne.
+
+<img src="/assets/Italy/Pisa/20251016_113419_01.jpg" />
+
+**Poniżej rozkład promów i pociągów**, który pozwolił nam mieć wystarczająco dużo czasu na zwiedzenie każdego z odwiedzanych miasteczek:   
+Prom: La Spezia 09:15 → Porto Venere 10:00 (1 godzina przerwy)   
+Prom: Porto Venere 11:00 → Riomaggiore 11:35 (1 godzina przerwy)   
+Prom: Riomaggiore 12:35 → Vernazza 13:10 (2 godziny przerwy)   
+Prom: Vernazza 15:10 → Monterosso 15:30   
+Pociąg: Monterosso → La Spezia (25 min). Mogliśmy też zatrzymać się w Manaroli i stamtąd wziąć kolejny pociąg do La Spezia, 
+ale byliśmy po prostu zbyt zmęczeni.
+
+Bilet jednodniowy w obie strony Cinque Terre (42 € za dorosłego / 15 € za dziecko)   
+Bilet w jedną stronę z przystankami pośrednimi (30 € za dorosłego / 15 € za dziecko), opcja wybrana przez nas. 
+
+Odwiedziliśmy Cinque Terre pod sam koniec sezonu promowego. Promy kursują regularnie od końca marca do 1 listopada, z ograniczoną 
+liczbą połączen aż do początku grudnia. Więcej informacji o cenach i aktualnym rozkładzie dostępne [tutaj](https://www.cinqueterre.eu.com/en/boat-excursions).
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251016_110615_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251016_140355_01.jpg" class="column-50" />
+</div>
+
+Pociągi **Cinque Terre Express** łączą Levanto, Monterosso, Vernazzę, Corniglię, Manarolę, Riomaggiore oraz La Spezię. Kursują 
+często, od wczesnego rana do późnego wieczora. Bilety można kupić na stacjach, w automatach biletowych lub online przez 
+aplikację Trenitalia. Jeśli kupujesz papierowy bilet na pociąg regionalny na stacji, musisz go koniecznie skasować w 
+zielonych kasownikach znajdujących się przy wejściach na perony. Warto o tym pamiętać, ponieważ kary są wysokie.
+
+Wszystkie bilety kupowaliśmy w automatach. Za pierwszym razem nie były one zbyt intuicyjne, ale pod koniec wyjazdu potrafiłam 
+przejść cały proces niemal z zamkniętymi oczami (ponownie problemem było niepełne tłumaczenie na język angielski). Cinque Terre Express ma trzy kategorie cenowe biletów, zależne od daty 
+podróży. Tabelę cen i szczegółowy rozkład znajdziesz na [stronie](https://www.cinqueterre.eu.com/en/cinque-terre-timetable). Podczas naszego pobytu obowiązywał sezon niski, 
+czyli kategoria A (zielona): dorośli 5 €, dzieci 2,50 €. Jeśli planujesz wielokrotne wsiadanie i wysiadanie z pociągu między 
+miasteczkami, Cinque Terre Card to bardzo dobra opcja. Zapewnia nielimitowane przejazdy pociągami Cinque Terre Express na 
+trasie La Spezia – Cinque Terre – Levanto, a dodatkowo obejmuje dostęp do płatnych szlaków turystycznych między Monterosso 
+a Corniglią. My nie skorzystaliśmy z tej opcji, ponieważ chcieliśmy również zobaczyć wybrzeże od strony morza, z perspektywy promu.
+
+**Zakwaterowanie**
+
+Zatrzymaliśmy się w dwóch apartamentach:   
+La Spezia - Zarezerwowane przez Airbnb (ocena 4.99).
+Samodzielne zameldowanie, bardzo wygodne i dobrze wyposażone mieszkanie. Położone blisko dworca kolejowego, choć po przeciwnej 
+stronie centrum miasta. Spacer do portu to około 2 km, ale prowadził główną ulicą handlową, więc był przyjemny. W pobliżu 
+znajdował się duży supermarket (Coop), a sama ulica była spokojna, gorąco polecamy!    
+Marina di Massa - Zarezerwowane przez Booking.com, tuż przy plaży.
+Wyposażenie było dość podstawowe, ale mieliśmy świetną przestrzeń na zewnątrz oraz basen na dachu. Kuchnia była bardzo 
+skromnie wyposażona, wystarczająca na śniadania i przekąski, ale nie do gotowania. Obiektem zarządzała urocza rodzina, 
+zawsze chętna do pomocy. W ogrodzie było sporo zabawek, głównie dla dzieci do 3 lat (nasza córka często korzystała z huśtawki),
+gdyz w takim tez wieku była córka właścicieli. Myślę, że z czasem przybędzie zabawek dla starszych dzieci.   
+Średni koszt noclegów: 200 € za noc
+
+ - [La Spezia](https://www.airbnb.com/rooms/1424523201571350734?source_impression_id=p3_1769291588_P3kCjfZRNbS32n36) widok z okna na zdjęciu poniżej po lewej   
+ - [Marina Di Massa](https://www.residencestella.com/) widok z basenu na dachu na zdjęciu poniżej po prawej
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/IMG-20251017-WA0035_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251017_154813_01.jpg" class="column-50" />
+</div>
+
+**Jedzenie i restauracje**   
+Ponieważ uwielbiamy kuchnię włoską, nie odwiedzaliśmy restauracji innego typu. Zazwyczaj zamawialiśmy primi (makaron, 
+risotto, gnocchi), które smakują nam najbardziej. Secondo (mięso, ryby, owoce morza) było dla nas mniej atrakcyjne, a 
+zamawianie obu dań to zwykle za dużo jedzenia, szczególnie że zawsze zostawialiśmy miejsce na włoskie lody, których nie sposób sobie odmówić. Opłata coperto (1,50–2,50€ 
+od osoby) była zawsze doliczana. Wybieraliśmy raczej budżetowe restauracje, ale bardzo dobrymi opiniami.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251020_123628_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251016_132819_01.jpg" class="column-50" />
+</div>
+
+Przykładowe ceny:   
+[Pizza Verace w La Spezia](https://share.google/lsaR5la5YGNmDT9Mg): 8–14 €   
+[Bottega Visconti 1973 w Vernazza](https://share.google/pwJqo6vdELpDe7KDq): focaccia 8–12 €, wytrawne ciasto ryżowe 5 €   
+[Locanda del Tron w Massa](https://share.google/f2cCj81djdPUgIwYp): 13 € menu stałe (primo, secondo, kawa, woda), rodzinny lokal ze świetnymi opiniami, zaraz obok dworca  
+[La Ghiotteria w Pizie](https://share.google/pGPcZyHeO4DN8JEir): primi 9–13 € (bardzo duże porcje)   
+
+Najlepsze lodziarnie:   
+[Gelateria Troppo Buono w Marina di Massa](https://maps.app.goo.gl/wAqh538eqZ22D1CW6)   
+[Gelateria Vernazza w La Spezia](https://maps.app.goo.gl/iDzBfPcV4oJmUYjY6)   
+
+**Podsumowanie budżetu (6 dni, 4 dorosłych i czteroletnie dziecko)**
+
+| Kategoria                          | Łączny koszt (€) |
+|------------------------------------|---------------:|
+| Loty                               |            540 |
+| Transport (pociąg, autobus, prom)  |            338 |
+| Zakwaterowanie                     |           1000 |
+| Restauracje                        |            417 |
+| Zakupy spożywcze                   |            170 |
+| Atrakcje                           |             72 |
+| **Razem**                          |       **2500** |
+
+<img src="/assets/Italy/Pisa/Budget PL.jpg" />
+
+**Nasze doświadczenia z podróżowania z dzieckiem**
+
+Podróżowanie komunikacją publiczną nie sprawiło nam żadnych trudności, ponieważ nasza córka lubi być w ruchu i nie przepada 
+za siedzeniem w foteliku samochodowym. Zmiana środka transportu była dla niej zawsze dodatkową atrakcją. Mieliśmy ze sobą 
+wózek, z którego dużo korzystaliśmy w Pizie, Massa i La Spezia. Co ciekawe, prawie w ogóle nie musieliśmy sięgać po telefon, 
+wystarczało komentowanie tego, co działo się za oknem, aby ją zająć. Przejazdy nie były długie, zazwyczaj trwały około 
+25–40 minut (przejazd autobusem w Massa 20min). Jedynie pierwszy odcinek z Pizy do La Spezia zajął nieco ponad godzinę.
+Świetnie sprawdziła się też nowa zabawa: własnoręcznie przygotowane literki, z których układaliśmy wyrazy w pociągu czy 
+samolocie. Nasza córka zaczęła poznawać litery, a taka gra zajmuje bardzo mało miejsca w plecaku. Podczas zwiedzania Cinque 
+Terre wózek był mniej praktyczny, ale okazał się niezbędny ze względu na długi spacer do portu (około 2,2 km). Wózki są 
+dozwolone na promach, jednak w niektórych wioskach musieliśmy go składać i nieść po schodach. Riomaggiore jest na tyle strome, że 
+zostawiliśmy wózek w wypożyczalni kajaków. Podróżowaliśmy ze starym wózkiem i nie martwiliśmy się zbytnio o ewentualną 
+kradzież.
+
+Nie znaleźliśmy wielu placów zabaw podczas wyjazdu, jeden znajdował się na plaży obok naszego apartamentu w Marina di Massa i był naprawdę 
+świetny. Nie stanowiło to jednak dużego problemu, ponieważ zwiedzanie kościołów, ogrodów botanicznych i parków było dla 
+naszego malucha dobrą formą rozrywki. Jeśli chodzi o toalety publiczne, nie szukaliśmy ich aktywnie, zwykle wystarczały 
+te dostępne w restauracjach podczas posiłków, w ogrodzie botanicznym w Pizie, na promach lub w pociągach. Najbardziej 
+problematyczne okazały się właśnie pociągi: zazwyczaj były tam tylko dwie toalety na cały skład, z czego jedna często 
+była nieczynna. Niekiedy musieliśmy przejść bardzo długi dystans przez pociąg, aby dotrzeć do działającej toalety, co 
+przy dużym tłoku było wyjątkowo trudne. Żel dezynfekujący, jak zawsze, okazał się bardzo przydatny podczas wizyt w 
+toaletach, warto mieć go zawsze pod ręką.
+
+[Plac zabaw w Monterosso](https://maps.app.goo.gl/ozuxGCapAk1bWRV17) - fajne miejsce na przystanek podczas zwiedzania Cinque Terre
+
+**Przemyślenia końcowe i rekomendacje**
+
+Był to bardzo relaksujący wyjazd, z idealną październikową pogodą, wyśmienitym jedzeniem oraz doskonałym połączeniem 
+popularnych i mniej turystycznych miejsc. Cinque Terre zachwyciło nas swoim krajobrazem, Piza okazała się zaskakująco 
+przyjemna, a Massa spokojną i komfortową bazą nadmorską. Podróżowanie pociągiem wzdłuż włoskiego wybrzeża sprawdziło się 
+u nas idealnie i z pewnością jeszcze do tego sposobu zwiedzania wrócimy.
+
+
+

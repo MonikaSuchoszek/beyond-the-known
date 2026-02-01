@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Podróż pociągiem wzdłuż włoskiego wybrzeża: Piza, Cinque Terre i Massa",
+      "url"      : "/pl/podr%C3%B3%C5%BCe/2025/12/Italy/",
+      "date"     : "December 05, 2025",
+      "locale"   : "pl_PL",
+      "content" :  "Bardzo lubimy podróże pociągiem, zwłaszcza te wzdłuż wybrzeża, i właśnie w taki sposób podróżowaliśmy już kilka razy, m.in. podczas zwiedzania wschodniego wybrzeża Hiszpanii w okolicach Walencji oraz południa, gdzie odkrywaliśmy uroki regionu Malagi. Po raz kolejny ten rodzaj podróżowania sprawdził się doskonale. Po przylocie do danego kraju najwygodniej jest kontynuować..."
+      
+       , "coords" : {
+          "lat" : 43.71568,
+          "lng" : 10.397955
+      }
+      
+    } ,
+
+    {
       "title"    : "Travelling Italy’s Coast by Train: Pisa, Cinque Terre and Massa",
       "url"      : "/en/travel/2025/12/Italy/",
       "date"     : "December 05, 2025",
