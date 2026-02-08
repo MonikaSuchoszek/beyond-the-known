@@ -29,6 +29,20 @@
     } ,
 
     {
+      "title"    : "Rodzinna objazdówka autem po Danii – 10 dni pełnych przygód",
+      "url"      : "/pl/podroze/2025/09/Dania/",
+      "date"     : "September 25, 2025",
+      "locale"   : "pl_PL",
+      "content" :  "Odkąd nasza córka zaczęła chodzić do przedszkola, nasze dłuższe wakacje zawsze przypadają na miesiące letnie, ponieważ w Belgii już w przedszkolu dzieci mają dwa miesiące przerwy wakacyjnej. Zdecydowanie nie jest to okres, w którym sami zdecydowalibyśmy się jechać na wakacje; upały, tłok oraz wyższe ceny nie zachęcają, ale musimy ten..."
+      
+       , "coords" : {
+          "lat" : 55.396399,
+          "lng" : 10.387578
+      }
+      
+    } ,
+
+    {
       "title"    : "Family Road Trip in Denmark – 10 Days of Cool Adventures",
       "url"      : "/en/travel/2025/09/Denmark/",
       "date"     : "September 25, 2025",
