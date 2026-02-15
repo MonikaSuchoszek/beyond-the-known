@@ -16,9 +16,15 @@ coords:
 gallery_items:
   - image: "/assets/Spain/Gandia/P8243713.JPG"
     gallery_image: "/assets/gallery/Gandia.JPG"
-    description: "Fried egg jellyfish"
+    description: "The fried egg jellyfish gets its name from its unusual appearance, a yellow, dome-shaped center surrounded 
+    by a pale, translucent body, resembling an egg. It is commonly found in the Mediterranean Sea, especially during the warm 
+    summer months. Despite its size, this jellyfish is harmless to humans; its sting is very mild and often not felt at all. 
+    Fried egg jellyfish are slow swimmers and are often seen gently drifting near the surface, making them a fascinating 
+    sight for photographers, swimmers and snorkelers."
 
 ---
+Platja de Gandia is a family-friendly beach town on Spain’s east coast, perfect for a relaxed holiday with kids. In this post, 
+we share beaches, day trips to Cullera and Valencia, and practical transport tips.
 
 If you're looking to combine relaxation on the beach with some city exploration, a stay in Platja de Gandia paired with a trip to 
 Valencia is a perfect choice. It’s just a quick 1-hour and 15-minute train ride from Valencia’s city center to reach the 
@@ -37,7 +43,7 @@ One of the highlights of Platja de Gandia is its lively promenade, which comes a
 and cafes, making it the perfect place for an evening stroll. Street vendors add to the vibrant atmosphere, selling handmade 
 jewellery, sunglasses, football shirts, and plenty of souvenir trinkets. You’ll even find people offering henna tattoos or 
 creating colorful braids for children. The promenade is wide, allowing sufficient space for pedestrians, cyclists, and scooters, 
-though shade can be a bit hard to come by.One thing to note: the local council has banned 
+though shade can be a bit hard to come by. One thing to note: the local council has banned 
 dogs on the beach, so if you're traveling with pets, you'll need to make alternative plans.
 
 Platja de Gandia is relatively unknown to international tourists. With most visitors being Spanish, English 
@@ -55,7 +61,7 @@ table or make a reservation. Though knowledge of a few basic words in Spanish go
 One of the highlights of our time at Gandia’s beach was the dedicated kite-flying area. Every afternoon around 5 PM, the 
 local kite-club would gather to set up an array of colorful kites right on the beach, almost directly in front of our favorite 
 ice cream spot, Cognigni. This group, known as "Cometas Gandia," brings a playful, lively energy to the beach with their 
-kites, many featuring fun characters like Tom and Jerry—an absolute hit with the kids! You can even follow them on Instagram 
+kites, many featuring fun characters like Tom and Jerry, an absolute hit with the kids! You can even follow them on Instagram 
 for updates on their kite displays.
 
 <div class="row">
@@ -91,7 +97,7 @@ glimpse into life during the castle’s active years.
 
 After visiting the castle, we walked back down to the city and had a delicious lunch in 
 [Aroma de Grecia](https://maps.app.goo.gl/HaTVLGfD6GLiKt8J7). There was also a lovely [bakery La Delicia](https://maps.app.goo.gl/ZhDGhQPShJEZgABs9)
-that served the most amazing savory spinach dumplings—definitely worth a try! We didn't have time to follow the shore and
+that served the most amazing savory spinach dumplings, definitely worth a try! We didn't have time to follow the shore and
 check the resto of the city and just had a break on the [playground](https://maps.app.goo.gl/9amFPqWC5wau2kJp9) near the beach.
 
 In short, the city is a hidden gem, perfect for a family-friendly escape. An ideal spot to unwind, enjoy the sun, and 
@@ -131,7 +137,7 @@ Note that most restaurants are closing in the early afternoon and reopening arou
 
   * [Cognigni](https://maps.app.goo.gl/2zBJ8acASm4TmJSK8): Amazing Argentinean icecream
   * [INDIAN RASOI](https://maps.app.goo.gl/MqcaPoHHPfbn2Lqd7): Indian Food - Try the Goan Chicken !
-  * [Restaurante Boga](https://maps.app.goo.gl/ixtKCKtX8iJ115bXA): Local project to provide jobs to people with intellectual disabilities and promote social integration - Menu changes daily
+  * [Restaurante Boga](https://maps.app.goo.gl/ixtKCKtX8iJ115bXA): Local project to provide jobs to people with intellectual disabilities and promote social integration, menu changes daily
   * [Restaurante Casa José](https://maps.app.goo.gl/sesQQSkJVCbdM6NeA): A wide variety of sea-food and local dishes
 
 <div class="row">
@@ -144,12 +150,12 @@ tickets priced at just €3 for adults, and kids seem to
 get in for free (at least we weren’t asked to pay for our toddlers). While none of the towers or the different sections 
 of walls surrounding the castle were open during our visit, the overall experience was still worth it because of the views.
 You can either drive right up to the castle and park there or walk from the Mercat de Cullera (which also has public 
-toilets). There seems to be some confusion in reviews about an elevator to the castle—just to clarify, the lift only 
+toilets). There seems to be some confusion in reviews about an elevator to the castle. Just to clarify, the lift only 
 takes you from the parking area to the castle entrance, which is just a few meters up, and there’s another one after 
 the ticket office to the main entrance.
 Since we arrived by train and had our prams with us, we decided to start our ascent by foot from the market. If you're 
 walking with strollers, we recommend taking Carrer del Calvari to avoid any stairs. Our stroll through the picturesque 
-Barri del Pou area wasn’t too difficult, with only a few steps here and there. It was absolutely worth it though—the 
+Barri del Pou area wasn’t too difficult, with only a few steps here and there. It was absolutely worth it though,the 
 charming white stairways, stone walls, and lush plants growing along the narrow, clean streets made the walk feel magical.
 
 <img src="/assets/Spain/Gandia/20240825_105123.jpg" />
