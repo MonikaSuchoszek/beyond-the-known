@@ -267,6 +267,20 @@
     } ,
 
     {
+      "title"    : "Rodzinny przewodnik po Walencji: podwodny świat i klimatyczne stare miasto",
+      "url"      : "/pl/podr%C3%B3%C5%BCe/2024/11/Walencia/",
+      "date"     : "November 08, 2024",
+      "locale"   : "pl_PL",
+      "content" :  "Nasz pobyt w Platja de Gandia połączyliśmy z jednodniową wycieczką do Walencji. Tym razem odkrywamy tajemnice największego w Europie oceanarium i łączymy to ze spacerem po futurystycznych Ogrodach Turii. Po raz drugi zaglądamy do Walencji dzień przed lotem powrotnym, by poznać jej historyczne centrum. W tym poście opiszemy praktyczne wskazówki..."
+      
+       , "coords" : {
+          "lat" : 39.479255,
+          "lng" : -0.382295
+      }
+      
+    } ,
+
+    {
       "title"    : "A Family’s Guide to Valencia: Ocean Adventures, Culture, and Scenic Escapes",
       "url"      : "/en/travel/2024/11/Valencia/",
       "date"     : "November 08, 2024",
