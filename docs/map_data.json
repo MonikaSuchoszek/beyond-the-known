@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Cinque Terre in One Day: Complete Ferry & Train Itinerary from La Spezia",
+      "url"      : "/en/travel/2026/01/CinqueTerre/",
+      "date"     : "January 15, 2026",
+      "locale"   : "en_US",
+      "content" :  "If you’re wondering whether it’s possible to visit Cinque Terre in just one day, the answer is yes, but it requires a smart plan. During our trip to Italy, we dedicated one full day to exploring the colorful coastal villages of this UNESCO-listed region, combining ferry rides and train connections..."
+      
+       , "coords" : {
+          "lat" : 43.71568,
+          "lng" : 10.397955
+      }
+      
+    } ,
+
+    {
       "title"    : "Podróż pociągiem wzdłuż włoskiego wybrzeża: Piza, Cinque Terre i Massa",
       "url"      : "/pl/podr%C3%B3%C5%BCe/2025/12/Italy/",
       "date"     : "December 05, 2025",
