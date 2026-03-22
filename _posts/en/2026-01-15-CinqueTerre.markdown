@@ -29,7 +29,7 @@ Starting from La Spezia, we visited Porto Venere, Riomaggiore, Vernazza, and Mon
 cliffside views, charming harbors, medieval churches, scenic viewpoints, and even sandy beaches. Traveling with a child 
 and a stroller added an extra layer of logistics, so in this guide, I’m sharing not only our detailed itinerary but also 
 practical tips, ferry schedules, accessibility advice, and honest impressions about crowds in October. All practical details 
-are described in separate post that can be [found here](({% post_url en/2025-12-05-Italy %})).
+are described in separate post that can be [found here]({% post_url en/2025-12-05-Italy %}).
 
 If you're planning a Cinque Terre day trip, wondering whether to choose ferry or train, or trying to decide which villages 
 to prioritize, this guide will help you plan an efficient, realistic, and unforgettable day along one of Italy’s most 

@@ -1,0 +1,203 @@
+---
+layout: post
+
+title:  "A Stay in Massa and a Day Trip to Pisa"
+date:   2026-02-02 08:43:59
+author: Monika Suchoszek
+categories: travel
+tags:	Italy Massa
+cover:  "/assets/Italy/Pisa/20251019_143343_01.jpg"
+thumbnail:  "/assets/thumbnails/Pisa.JPG"
+post_id: italy_overview
+coords:
+  lat: 43.715680
+  lng: 10.397955
+gallery_items:
+  - image: "/assets/Italy/Pisa/20251019_170954_01.jpg"
+    gallery_image: "/assets/gallery/Pisa.jpg"
+    description: ""
+---
+Planning a trip to Italian coast and wondering whether Massa and Pisa are worth visiting, especially with a child? In this 
+travel guide, I’m sharing our real experience of staying in Marina di Massa and taking an easy day trip to Pisa with a 
+toddler. This part of Italy is often overlooked compared to Cinque Terre or Florence, but it offers a perfect mix of beach, 
+mountains, culture, and family-friendly travel.
+
+After spending two nights in La Spezia, we moved further south along the coast to **Massa**, where we stayed the final three 
+nights of our trip. Massa is located right at the foot of the Apuan Alps, famous worldwide for their white marble.
+To get there, we took a short train ride to Massa Centro and then caught a local bus (L60) to **Marina di Massa** which is the seaside 
+heart of the area, where you’ll find most of the hotels and resorts (5km from train station). Our ride turned into a mini-tour 
+as it detoured through the historic city center before heading to the coast.
+
+We stayed in an apartment that felt like a hidden gem, 
+mainly because of its rooftop swimming pool and outdoor playground. Despite it being October, the pool was heated and 
+the air was a pleasant 18°C in the shade. Swimming while looking at the white peaks of the mountains on one side and the Tyrrhenian 
+Sea on the other was a highlight of our stay. If you look up at the peaks, you might mistake the white patches for snow. In 
+reality, you are looking at the world-famous marble quarries that have been active for over 2,000 years. Our apartment was 
+just 100 meters from the beach, right next to a lively playground 
+that was full of local children when we visited it in the evening, perfect spot for our daughter to burn off some energy after 
+the journey. One thing that immediately struck us was how the region’s marble heritage is visible even in the smallest 
+details, the street curbs here are made of solid white marble!
+
+<img src="/assets/Italy/Pisa/20251018_115853_01.jpg" />
+
+We dedicated one full day to exploring Marina di Massa. One of the attractions of the day was small cycling tour along the 
+coast since our apartment offered bikes that we could use. We managed a 12km loop, to nature preserve Oasi WWF Dune di Forte 
+dei Marmi” and back. This place turned out to be just a bigger beach that was essentially a larger beach, more separated from 
+the houses that we passed on the way here.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251017_181522_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251018_113235_01.jpg" class="column-50" />
+</div>
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251018_112014_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251018-WA0044_01.jpg" class="column-50" />
+</div>
+
+However, I have to be honest about the beach views. Unlike the wide-open promenades of [Gandia]({% post_url en/2024-10-05-Gandia_Cullera %}), 
+Spain (where we spent our 
+holidays last year), much of the coastline here is occupied by private hotels and house owners. Most of the time, rows of 
+buildings blocked our view of the sea, with only small patches of public beach scattered in between. While it didn't bother 
+us for a short autumn break, it’s something to keep in mind if you’re planning a traditional beach summer holiday with kids; 
+car traffic runs very close to the main walking areas.
+
+I had also hoped to visit the **Pietro Pellegrini Botanical Garden** in the mountains, but unfortunately, it closes for the 
+season in October. If you visit in the summer, there is a dedicated bus that takes you high into the Alps to see the unique 
+flora of the marble peaks.
+
+For my husband’s birthday, we planned a day trip to **Pisa**. The plan was easy: a quick bus to the Massa train station, followed by
+and a 30-minute train ride that would lead us right in the heart of the city where we could immediately start sightseeing. 
+Below is the list of places we visited that day in order of our walk (more practical information about tickets and prices 
+[here]({% post_url en/2025-12-05-Italy %}). 
+
+**Chiesa di Santa Maria della Spina** is a tiny, ornate Gothic church that sits right on the bank of the Arno River. It immediately 
+attracted our attention as it looks very delicate because of light marble and high number of ornaments on the facade. It
+is very unusual due to its proximity to the water. The exterior is more compelling than the interior which was used for 
+exhibition during our visit. There was an interesting wooden ceiling inside but most of the sculptures were moved to other 
+churches. **Ponte Solferino** located next to it had adorable views of the colorful buildings lining Arno river.
+
+<img src="/assets/Italy/Pisa/20251019_120726_01.jpg" />
+
+Since the garden in the mountains nearby Massa was closed, we decided to spend some time in **Orto e Museo Botanico**. It 
+is one of the oldest academic botanical gardens in the world and offers a very peaceful escape from the crowds. The small 
+museum was interesting and educational, and our kid was curious and engaged throughout the visit, but we were less excited 
+about the exhibition. We were there in October so it’s not the time when this place is the most colorful, but we still enjoyed 
+it, especially bamboo forest and greenhouse with cactuses. We always like to visit botanic gardens while visiting bigger 
+cities as good stop to immerse ourselves in quiet hidden spot with nature.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_122528_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_123526_01.jpg" class="column-50" />
+</div>
+
+<img src="/assets/Italy/Pisa/20251019_125709_01.jpg" />
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_130841_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_132822_01.jpg" class="column-50" />
+</div>
+
+Once we reached the stunning **Piazza dei Miracoli**, breathtakingly grand square, we could immediately spot famous Tower of Pisa
+and surrounding building that were equally impressive. 
+
+**Battistero di San Giovanni**: It is the largest baptistery in Italy and in the Middle Ages all children of Pisa were baptized 
+here. The building has a circular shape with a large dome on top. Apparently it has exceptional acoustics inside and staff 
+often demonstrate how sound echoes and resonates under the dome but we did not have a chance to hear that. If you’re traveling 
+without a pram, you can climb the steep stairs to the first floor of the Baptistery for a unique perspective of the interior 
+(we actually left the pram inside close to the entrance for the time of our visit).
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_140010_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_141226_01.jpg" class="column-50" />
+</div>
+
+**Camposanto**: It’s a monumental cemetery with beautiful frescoes and a peaceful green courtyard in the center. It felt much 
+more like an open-air art gallery than a graveyard and it was my surprise favourite. It was burial place for the elite.
+It was designed as a prestigious burial site for: important citizens of Pisa, noble families, clergy and intellectuals.
+Being buried here was a sign of status and honor. You can see there big monuments celebrated families and their achievements.
+The frescoes were not just decoration, they had a strong educational and moral purpose, reminding viewers of mortality and
+the fragility of life.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_141954_01_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_142327_01.jpg" class="column-50" />
+</div>
+
+<img src="/assets/Italy/Pisa/20251019_142507_01.jpg" />
+
+**Cattedrale di Pisa** Many original sculptures were created by artists but over time, they were removed to protect them 
+from weather and damage. Today, the originals are kept in the museum, while the façade displays copies. Interior has striped 
+marble, columns and a huge mosaic in the apse. There were many visitors inside  during our  visit but atmosphere was still
+calm and monumental. The timed tickets are used to control the number of visitors inside, so it never gets dangerously crowded.
+
+<img src="/assets/Italy/Pisa/20251019_143343_01.jpg" />
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_143654_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_144045_01.jpg" class="column-50" />
+</div>
+
+**Museo dell'Opera del Duomo**: This museum is an essential stop when visiting Piazza dei Miracoli, as it 
+preserves original artworks and architectural elements from the Pisa Cathedral, Pisa Baptistery, and the Leaning Tower of 
+Pisa. Many sculptures, doors, and marble decorations displayed here were moved indoors to protect them from weather damage, 
+replacing them with copies outside. This allows visitors to admire their fine details up close while also understanding 
+how they originally fit into the architecture and religious function of the square. the central green courtyard symbolized 
+peace and eternity.
+
+The museum offers a rich collection of sculptures, liturgical objects, and ancient books, along with exhibits that explain 
+the history and design of the entire complex, including a large model of the Leaning Tower. A highlight is the café terrace, 
+which provides one of the best crowd-free views of the tower. The visit is included in the Pisa complex ticket, and exploring 
+everything usually takes about 1 to 1.5 hours depending on how deeply you engage with the displays. Overall, the museum 
+acts as a key to better understanding the monuments outside while offering a quieter and more detailed experience and we 
+really enjoyed the visit!
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_170954_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_171410_01.jpg" class="column-50" />
+</div>
+
+**Sinopie Museum**: After World War II, a fire in the Camposanto Monumentale badly damaged its frescoes. To save them, experts 
+removed the painted layers from the walls and in the process discovered the “sinopie”, the original sketches underneath. 
+The sinopie (underdrawings) are kept in the museum that is entirely dedicated to these hidden drawings. The restored frescoes 
+are gradually returned to the Camposanto. “Sinopia” means the first sketch of a fresco, drawn in red pigment on plaster 
+before painting. Unlike finished frescoes, these drawings feel more dynamic and expressive, you can often see corrections, 
+different hands, and the artist’s thinking process. They give you a rare chance to understand how medieval masterpieces 
+were actually created, not just how they look when finished. They were never meant to be seen, they are like the artist’s 
+original blueprint. I don’t think we would have visited this museum if it had not been included. The exhibition was not 
+very well explained, so it can be hard to understand without background knowledge and it was ok for us to stop for a short visit as 
+a complement to visiting Camposanto, helping you understand the frescoes better. It is located in the same building as ticket office.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_173546_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_174034_01.jpg" class="column-50" />
+</div>
+
+**The Leaning Tower of Pisa** Entry is not allowed for children who have not turned 8 years old. Therefore, we decided 
+to skip this attraction. So we just enjoyed the view from the outside and explored the nearby buildings.
+
+**Mura di Pisa**: You can actually walk along the ancient city walls, but since we had the pram, we had to skip this as it isn't 
+fully accessible for strollers. you can walk freely in both directions along the open sections and there are multiple access 
+points (stairs and lifts), so you can start and finish wherever you like and walk just a section or the entire route. 
+
+<img src="/assets/Italy/Pisa/20251019_141809_01.jpg" />
+
+After a long day of walking, we headed through Piazza dei Cavalieri (once the political heart of medieval Pisa) and later 
+toward **Borgo Stretto**, one of the most atmospheric streets in the city, lined with medieval arcades, small boutiques, and 
+cafés, perfect for a relaxed stroll while staying sheltered from the sun or rain. We tucked into a side street for a birthday 
+dinner at **La Ghiotteria**, a cozy spot known for its local Tuscan dishes and intimate atmosphere. After dinner, we continued 
+toward the Arno River and passed the Statue of Vittorio Emanuele II, a monument dedicated to the first king of unified Italy. 
+The riverside area, especially along the Lungarno, often comes alive in the evening and that’s where we unexpectedly came 
+across a charming flea market, with small stalls selling antiques, books, and handmade items, adding a lively and authentic 
+touch to the end of the day.
+
+Massa and Pisa offered a perfect balance to the rugged hiking of Cinque Terre. If you have an extra day in the Massa area, 
+I highly recommend visiting the village of **Carrara**. You can take a Marmo Tour into the heart of the "Fantiscritti" quarries 
+to see exactly where the marble for Michelangelo’s David came from. For us it would be just too many intensive days in a 
+row.
+
+
+More information about Massa and Carrara [on official website of the region](https://www.visitrivieraapuana.it/en/)   
+More information about hikes in the area, especially for people visiting this area with the car can be found on
+[this website](https://www.visittuscany.com/en/ideas/routes-apuan-alps/)
+
