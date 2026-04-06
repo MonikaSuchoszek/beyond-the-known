@@ -15,6 +15,20 @@
     } ,
 
     {
+      "title"    : "Cinque Terre w jeden dzien",
+      "url"      : "/pl/podr%C3%B3%C5%BCe/2026/01/CinqueTerrePL/",
+      "date"     : "January 15, 2026",
+      "locale"   : "pl_PL",
+      "content" :  "Podczas naszej podróży do Włoch i pobytu w La Spezii poświęciliśmy jeden pełny dzień na odkrywanie kolorowych, nadmorskich wiosek położonych na północnym wybrzeżu Morza Liguryjskiego, wpisanych na listę UNESCO - Cinque Terre. Postanowiliśmy w jedną stronę podróżować promem, zatrzymując się w kilku miasteczkach, a następnie wrócić pociągiem z ostatniej miejscowości,..."
+      
+       , "coords" : {
+          "lat" : 43.71568,
+          "lng" : 10.397955
+      }
+      
+    } ,
+
+    {
       "title"    : "Cinque Terre in One Day: Complete Ferry & Train Itinerary from La Spezia",
       "url"      : "/en/travel/2026/01/CinqueTerre/",
       "date"     : "January 15, 2026",

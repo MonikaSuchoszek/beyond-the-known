@@ -13,9 +13,11 @@ coords:
   lat: 43.715680
   lng: 10.397955
 gallery_items:
-  - image: "/assets/Italy/Pisa/20251016_103442_01.jpg"
-    gallery_image: "/assets/gallery/CinqueTerre.jpg"
-    description: "Stunning San Pietro Church situated at the entrance to the bay in Porto Venere"
+  - image: "/assets/Italy/Pisa/20251019-WA0030_01.jpg"
+    gallery_image: "/assets/gallery/Pisacathedra.jpg"
+    description: "Cattedrale di Pisa interior haS striped marble, columns and a huge mosaic in the apse.Many original sculptures 
+    were created by artists but over time, they were removed to protect them 
+from weather and damage. Today, the originals are kept in the museum, while the façade displays copies."
 ---
 
 This trip was one of my favourite ways of travelling: flying into a country and then continuing the journey by train straight 

@@ -15,7 +15,9 @@ coords:
 gallery_items:
   - image: "/assets/Italy/Pisa/20251019_170954_01.jpg"
     gallery_image: "/assets/gallery/Pisa.jpg"
-    description: ""
+    description: "The foundation of Pisa tower is only three meters deep and sits on unstable soil, which could 
+    not support the weight of the white marble structure. Construction was stopped for nearly 100 years due to war, allowing 
+    the soil to settle and preventing an immediate collapse. It is a UNESCO World Heritage Site since 1987"
 ---
 Planning a trip to Italian coast and wondering whether Massa and Pisa are worth visiting, especially with a child? In this 
 travel guide, I’m sharing our real experience of staying in Marina di Massa and taking an easy day trip to Pisa with a 
@@ -126,10 +128,11 @@ the fragility of life.
 
 <img src="/assets/Italy/Pisa/20251019_142507_01.jpg" />
 
-**Cattedrale di Pisa** Many original sculptures were created by artists but over time, they were removed to protect them 
-from weather and damage. Today, the originals are kept in the museum, while the façade displays copies. Interior has striped 
-marble, columns and a huge mosaic in the apse. There were many visitors inside  during our  visit but atmosphere was still
+**Cattedrale di Pisa** Interior has striped 
+marble, columns and a huge mosaic in the apse. There were many visitors inside  during our visit but atmosphere was still
 calm and monumental. The timed tickets are used to control the number of visitors inside, so it never gets dangerously crowded.
+Many original sculptures were created by artists but over time, they were removed to protect them 
+from weather and damage. Today, the originals are kept in the museum, while the façade displays copies.
 
 <img src="/assets/Italy/Pisa/20251019_143343_01.jpg" />
 
