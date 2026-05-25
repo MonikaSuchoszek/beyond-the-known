@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "The Perfect North Portugal Road Trip – Cities, Nature & Food",
+      "url"      : "/en/travel/2026/05/portugal/",
+      "date"     : "May 19, 2026",
+      "locale"   : "en_US",
+      "content" :  "Northern Portugal is one of the most underrated regions in Europe for a spring road trip. With historic cities, beautiful beaches, mountain landscapes, excellent food, and relatively short driving distances, it turned out to be the perfect destination for our family trip. As every year, children in Belgium have a..."
+      
+       , "coords" : {
+          "lat" : 41.550594,,
+          "lng" : -8.453611
+      }
+      
+    } ,
+
+    {
       "title"    : "A Stay in Massa and a Day Trip to Pisa",
       "url"      : "/en/travel/2026/02/Massa/",
       "date"     : "February 02, 2026",
