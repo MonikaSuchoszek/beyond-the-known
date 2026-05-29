@@ -8,8 +8,22 @@
       "content" :  "Northern Portugal is one of the most underrated regions in Europe for a spring road trip. With historic cities, beautiful beaches, mountain landscapes, excellent food, and relatively short driving distances, it turned out to be the perfect destination for our family trip. As every year, children in Belgium have a..."
       
        , "coords" : {
-          "lat" : 41.550594,,
+          "lat" : 41.550594,
           "lng" : -8.453611
+      }
+      
+    } ,
+
+    {
+      "title"    : "Włoskie wybrzeże poza utartym szlakiem: Massa oraz Piza",
+      "url"      : "/pl/podr%C3%B3%C5%BCe/2026/02/MassaPL/",
+      "date"     : "February 02, 2026",
+      "locale"   : "pl_PL",
+      "content" :  "Jeśli planujesz podróż na włoskie wybrzeże i zastanawiasz się, czy Massa oraz Piza są warte odwiedzenia, to w tym przewodniku podzielę się naszymi doświadczeniami z pobytu w tej części wybrzeża. Jest to region często pomijany na rzecz Cinque Terre czy Florencji, a tymczasem oferuje idealne połączenie plaż, gór, kultury i..."
+      
+       , "coords" : {
+          "lat" : 43.71568,
+          "lng" : 10.397955
       }
       
     } ,
@@ -43,16 +57,11 @@
     } ,
 
     {
-      "title"    : "Cinque Terre in One Day: Complete Ferry & Train Itinerary from La Spezia",
-      "url"      : "/en/travel/2026/01/CinqueTerre/",
+      "title"    : "Cinqueterre",
+      "url"      : "/en/2026/01/CinqueTerre/",
       "date"     : "January 15, 2026",
       "locale"   : "en_US",
-      "content" :  "If you’re wondering whether it’s possible to visit Cinque Terre in just one day, the answer is yes, but it requires a smart plan. During our trip to Italy, we dedicated one full day to exploring the colorful coastal villages of this UNESCO-listed region, combining ferry rides and train connections..."
-      
-       , "coords" : {
-          "lat" : 43.71568,
-          "lng" : 10.397955
-      }
+      "content" :  ".— layout: post title: “Cinque Terre in One Day: Complete Ferry &amp; Train Itinerary from La Spezia” date: 2026-01-15 08:43:59 author: Monika Suchoszek categories: travel tags: Italy cover: “/assets/Italy/Pisa/20251016_104949_01.jpg” thumbnail: “/assets/thumbnails/CinqueTerre.JPG” post_id: italy_cinque coords: lat: 43.715680 lng: 10.397955 gallery_items: image: “/assets/Italy/Pisa/20251016_103442_01.jpg” gallery_image: “/assets/gallery/CinqueTerre.jpg” description: “Church of St. Pietro, built in..."
       
     } ,
 

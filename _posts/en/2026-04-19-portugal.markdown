@@ -10,7 +10,7 @@ cover:  "/assets/Portugal/North/20260410_133934_01.jpg"
 thumbnail:  "/assets/thumbnails/North.JPG"
 post_id: north portugal_overview
 coords:
-  lat: 41.550594, 
+  lat: 41.550594 
   lng: -8.453611
 gallery_items:
   - image: "/assets/Portugal/North/20260411_170956.jpg"

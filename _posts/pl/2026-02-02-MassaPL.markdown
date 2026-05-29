@@ -1,0 +1,213 @@
+---
+layout: post
+
+title:  "Włoskie wybrzeże poza utartym szlakiem: Massa oraz Piza"
+date:   2026-02-02 08:43:59
+author: Monika Suchoszek
+categories: podróże
+tags:	Włochy Massa Piza
+cover:  "/assets/Italy/Pisa/20251019_143343_01.jpg"
+thumbnail:  "/assets/thumbnails/Pisa.JPG"
+post_id: italy_overview
+coords:
+  lat: 43.715680
+  lng: 10.397955
+gallery_items:
+  - image: "/assets/Italy/Pisa/20251019_170954_01.jpg"
+    gallery_image: "/assets/gallery/Pisa.jpg"
+    description: "Fundament Krzywej Wieży w Pizie ma zaledwie trzy metry głębokości i znajduje się na niestabilnym gruncie, 
+    który nie był w stanie utrzymać ciężaru konstrukcji z białego marmuru. Budowę wstrzymano na prawie 100 lat z powodu 
+    wojen, co pozwoliło gruntowi się ustabilizować i zapobiegło natychmiastowemu zawaleniu. Od 1987 roku obiekt znajduje 
+    się na liście światowego dziedzictwa UNESCO."
+---
+Jeśli planujesz podróż na włoskie wybrzeże i zastanawiasz się, czy Massa oraz Piza są warte odwiedzenia, to w tym przewodniku 
+podzielę się naszymi doświadczeniami z pobytu w tej części wybrzeża. Jest to region często pomijany na rzecz Cinque Terre 
+czy Florencji, a tymczasem oferuje idealne połączenie plaż, gór, kultury i rodzinnego wypoczynku.
+
+Po spędzeniu dwóch nocy w La Spezii ruszyliśmy dalej na południe wzdłuż wybrzeża do Massy, gdzie zatrzymaliśmy się na 
+ostatnie trzy noce naszej podróży. Massa położona jest u podnóża Alp Apuańskich, słynących na całym świecie z białego marmuru. 
+Po krótkiej podróży pociągiem do Massa Centro wsiedliśmy do lokalnego autobusu L60 jadącego w kierunku Marina di Massa, 
+nadmorskiej dzielnicy miasta, gdzie znajduje się większość hoteli i apartamentów (około 5 km od stacji kolejowej). Nasza 
+podróż autobusem zamieniła się w małą wycieczkę krajoznawczą, ponieważ po drodze przejeżdżaliśmy przez centrum miasta, 
+zanim dotarliśmy nad wybrzeże.
+
+Zatrzymaliśmy się w apartamencie, który okazał się prawdziwą perełką, głównie dzięki placowi zabaw na świeżym powietrzu 
+oraz znajdującemu się na dachu budynku basenowi. Pomimo tego, że był październik, woda w basenie była wciąż podgrzewana, 
+a temperatura powietrza wynosiła przyjemne 18°C w cieniu. Pływanie z widokiem na białe szczyty gór po jednej stronie i 
+Morze Tyrreńskie po drugiej było jednym z najpiękniejszych momentów naszego pobytu. Patrząc na góry, można pomyśleć, że 
+białe plamy to śnieg. W rzeczywistości są to słynne na całym świecie kamieniołomy marmuru działające od ponad 2000 lat.
+Wydobywa się tutaj marmur karraryjski, słynący na całym świecie z jednolitej, drobnoziarnistej struktury i czystej, białej barwy.
+Nasz apartament znajdował się zaledwie 100 metrów od plaży. Tuż przy wejściu był plac zabaw pełen lokalnych dzieci, idealne 
+miejsce, by podczas wieczornego spaceru nasza córka mogła rozładować energię po podróży. Od pierwszych chwil uwagę przyciągało 
+też marmurowe dziedzictwo regionu, widoczne nawet w najmniejszych detalach. Zaskoczyło nas, że tutaj nawet krawężniki wykonane 
+są z litego, białego marmuru.
+
+<img src="/assets/Italy/Pisa/20251018_115853_01.jpg" />
+
+Jeden pełny dzień poświęciliśmy na odpoczynek oraz odkrywanie Marina di Massa. Jedną z atrakcji tego dnia była mała 
+wycieczka rowerowa wzdłuż wybrzeża, ponieważ nasz apartament dysponował rowerami dla gości. Udało nam się zrobić pętlę o 
+długości 12 km do rezerwatu przyrody Oasi WWF Dune di Forte dei Marmi i z powrotem. Miejsce to okazało się po prostu większą 
+plażą, oddzieloną od zabudowań, które mijaliśmy po drodze.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251017_181522_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251018_113235_01.jpg" class="column-50" />
+</div>
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251018_112014_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251018-WA0044_01.jpg" class="column-50" />
+</div>
+
+Liczyliśmy na piękne widoki na plażę podczas wycieczki rowerowej, jednak rozczarowanie nadeszło bardzo szybko. W przeciwieństwie 
+do szerokich nadmorskich promenad w[Gandii]({% post_url pl/2024-10-05-Gandia_Cullera miasto %}) (gdzie spędzaliśmy wakacje 
+w zeszłym roku, znaczna część wybrzeża jest tutaj zajęta przez prywatne hotele oraz posesje i linia brzegowa nie jest widoczna 
+ze ścieżki rowerowej. Przez większość czasu rzędy budynków zasłaniały widok na morze, a jedynie niewielkie fragmenty publicznych 
+plaż pojawiały się pomiędzy nimi. Chociaż podczas krótkiego jesiennego wypadu nam to nie przeszkadzało, warto mieć to na 
+uwadze, jeśli planujemy klasyczne rodzinne wakacje na plaży — ruch samochodowy przebiega tutaj bardzo blisko głównego deptaka.
+
+Miałam również nadzieję odwiedzić **ogród botaniczny Pietro Pellegrini** w górach, jednak niestety jest on zamykany na 
+sezon zimowy już w październiku. Latem kursuje specjalny autobus do wiosek położonych wyżej w górach, który zatrzymuje s
+ię przy ogrodzie, skąd można podziwiać unikalną florę pobliskich szczytów. Resztę dnia spędziliśmy więc na basenie.
+
+olejnego dnia, na urodziny mojego męża, zaplanowaliśmy jednodniową wycieczkę do Pizy. Plan był prosty: szybki autobus na 
+stację kolejową w Massie, a następnie 30-minutowa podróż pociągiem prosto do centrum miasta, gdzie mogliśmy od razu rozpocząć 
+zwiedzanie, ponieważ pociąg zatrzymuje się praktycznie w samym centrum. Poniżej lista miejsc, które odwiedziliśmy tego dnia 
+w kolejności naszego spaceru (więcej praktycznych informacji o biletach i cenach [tutaj]({% post_url pl/2025-12-05-Italy %})). 
+
+**Chiesa di Santa Maria della Spina** to niewielki, bogato zdobiony gotycki kościół stojący tuż nad brzegiem rzeki Arno. 
+Od razu przyciągnął naszą uwagę swoją delikatną formą, jasnym marmurem i ogromną ilością ornamentów na fasadzie. Bardzo 
+niezwykłe jest jego położenie tak blisko wody. Zewnętrzna część robi większe wrażenie niż wnętrze, które podczas naszej 
+wizyty służyło jako przestrzeń wystawowa. W środku znajdował się interesujący drewniany sufit, jednak większość rzeźb została 
+przeniesiona do innych kościołów. Znajdujący się obok **Ponte Solferino** oferował urocze widoki na kolorowe kamienice ciągnące 
+się wzdłuż rzeki Arno oraz góry w oddali.
+
+<img src="/assets/Italy/Pisa/20251019_120726_01.jpg" />
+
+Ponieważ ogród botaniczny w górach niedaleko Massy był zamknięty, postanowiliśmy spędzić trochę czasu w **Orto e Museo Botanico**. 
+To jeden z najstarszych akademickich ogrodów botanicznych na świecie i bardzo spokojna odskocznia od tłumów. Małe muzeum 
+na terenie ogrodu było ciekawe i edukacyjne, a nasze dziecko przez cały czas pozostawało zaciekawione, choć na nas ekspozycja 
+nie zrobiła aż tak dużego wrażenia. Byliśmy tam w październiku, więc nie jest to okres, kiedy ogród prezentuje się najbardziej 
+kolorowo, ale mimo wszystko bardzo nam się podobał, szczególnie bambusowy zagajnik oraz szklarnia z kaktusami. Zawsze 
+lubimy odwiedzać ogrody botaniczne podczas wizyt w większych miastach, ponieważ są one spokojną oazą, gdzie można odetchnąć 
+w ciszy i zanurzyć się w naturze.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_122528_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_123526_01.jpg" class="column-50" />
+</div>
+
+<img src="/assets/Italy/Pisa/20251019_125709_01.jpg" />
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_130841_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_132822_01.jpg" class="column-50" />
+</div>
+
+Gdy dotarliśmy na zachwycający **Piazza dei Miracoli**, od razu mogliśmy dostrzec słynną Krzywą Wieżę w Pizie oraz otaczające 
+ją równie imponujące budynki i mury miasta. Po zakupie biletów ruszyliśmy na zwiedzanie poszczególnych budynków.
+
+**Battistero di San Giovanni** to największe baptysterium we Włoszech, gdzie w średniowieczu chrzczono wszystkie dzieci 
+z Pizy. Budowla ma okrągły kształt i ogromną kopułę. Podobno wnętrze ma wyjątkową akustykę, a pracownicy często demonstrują 
+ją poprzez śpiew odbijający się echem pod kopułą. Niestety nam nie udało się tego usłyszeć. Na pierwsze piętro baptysterium 
+prowadzą strome schody, skąd rozciąga się wyjątkowy widok na wnętrze, pobliską katedrę oraz cały plac. My po prostu zostawiliśmy 
+nasz wózek przy wejściu na czas zwiedzania.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_140010_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_141226_01.jpg" class="column-50" />
+</div>
+
+Znajdujące się tuż obok **Camposanto** to monumentalny cmentarz z pięknymi freskami i spokojnym zielonym dziedzińcem pośrodku. 
+Bardziej przypominał galerię sztuki pod gołym niebem niż cmentarz i był moim niespodziewanym ulubieńcem. Chowano tutaj elitę 
+miasta: ważnych obywateli Pizy, szlacheckie rody, duchownych i intelektualistów. Pochówek w tym miejscu był symbolem statusu 
+i honoru. Można tutaj zobaczyć monumentalne grobowce upamiętniające rodziny i ich osiągnięcia. Freski miały nie tylko funkcję 
+dekoracyjną, ale również edukacyjną i moralną — przypominały o śmiertelności i kruchości życia.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_141954_01_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_142327_01.jpg" class="column-50" />
+</div>
+
+<img src="/assets/Italy/Pisa/20251019_142507_01.jpg" />
+
+Wnętrze **Cattedrale di Pisa** zachwyca pasiastym marmurem składającym się z białych i szarych pasów, kolumnami oraz ogromną 
+mozaiką w absydzie. Podczas naszej wizyty było tam wielu turystów, ale atmosfera wciąż pozostawała spokojna i monumentalna. 
+Bilety z określoną godziną wejścia pomagają kontrolować liczbę odwiedzających, dzięki czemu nigdy nie robi się nieprzyjemnie 
+tłoczno. Wiele oryginalnych rzeźb wykonanych przez artystów zostało z czasem przeniesionych do pobliskiego muzeum, aby 
+chronić je przed zniszczeniem wynikającym z działania warunków atmosferycznych. Dlatego też na fasadzie znajdują się dziś 
+kopie tych rzeźb.
+
+<img src="/assets/Italy/Pisa/20251019_143343_01.jpg" />
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_143654_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_144045_01.jpg" class="column-50" />
+</div>
+
+**Museo dell'Opera del Duomo** to obowiązkowy punkt podczas zwiedzania Piazza dei Miracoli, ponieważ właśnie tutaj przechowywane 
+są oryginalne dzieła sztuki i elementy architektoniczne z katedry, baptysterium oraz Krzywej Wieży. Wiele rzeźb, drzwi i 
+marmurowych dekoracji zostało przeniesionych do wnętrza, aby chronić je przed warunkami atmosferycznymi, a na zewnątrz 
+zastąpiono je kopiami. Dzięki temu można z bliska podziwiać ich detale i lepiej zrozumieć ich pierwotne znaczenie architektoniczne 
+oraz religijne. Centralny zielony dziedziniec muzeum symbolizuje spokój oraz wieczność.
+
+Ponadto muzeum oferuje bogatą kolekcję rzeźb, przedmiotów liturgicznych oraz dawnych ksiąg. Znajdują się tu również wystawy 
+przedstawiające historię i projekt całego kompleksu, w tym duża makieta Krzywej Wieży. Jednym z największych atutów tego 
+miejsca jest taras kawiarni, z którego rozciąga się jeden z najlepszych widoków na wieżę i to bez otaczających ją tłumów 
+turystów. Zwiedzanie muzeum było wliczone w cenę naszego biletu. Spędziliśmy tam nieco ponad godzinę, choć nie mieliśmy 
+zbyt wiele czasu na dokładne czytanie opisów eksponatów, ponieważ córka bardzo skutecznie poganiała nas do wyjścia. Muzeum 
+okazało się świetnym uzupełnieniem wiedzy o zabytkach znajdujących się na zewnątrz, oferując jednocześnie spokojniejsze i 
+bardziej szczegółowe spojrzenie na historię całego kompleksu budynków, co bardzo nam się podobało.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_170954_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_171410_01.jpg" class="column-50" />
+</div>
+
+**Sinopie Museum**: po II wojnie światowej pożar w Camposanto Monumentale poważnie uszkodził freski. Aby je uratować, 
+eksperci zdjęli warstwy malarskie ze ścian i odkryli pod nimi „sinopie”, oryginalne szkice przygotowawcze. Sinopie 
+przechowywane są w muzeum poświęconym wyłącznie tym ukrytym rysunkom. Odrestaurowane freski stopniowo wracają do Camposanto. 
+„Sinopia” oznacza pierwszy szkic fresku, wykonany czerwonym pigmentem na tynku przed właściwym malowaniem. W przeciwieństwie 
+do ukończonych fresków rysunki te wydają się bardziej dynamiczne i ekspresyjne, często można dostrzec poprawki, różne 
+style pracy i sam proces myślenia artysty. Dają rzadką okazję, by zrozumieć, jak naprawdę powstawały średniowieczne arcydzieła, 
+a nie tylko jak wyglądają po ukończeniu. Nigdy nie miały być oglądane bo są to oryginalne szkice artysty. Prawdopodobnie 
+nie odwiedzilibyśmy tego muzeum, gdyby nie było wliczone w bilet. Wystawa nie jest wystarczająco dobrze opisana, więc bez 
+wcześniejszej wiedzy może być trudno zrozumieć, co dokładnie tam widzimy, ale jako krótkie uzupełnienie wizyty w Camposanto 
+sprawdziła się bardzo dobrze i pomogła lepiej zrozumieć proces powstawania fresków. Muzeum znajduje się w tym samym budynku 
+co kasa biletowa.
+
+<div class="row">
+  <img src="/assets/Italy/Pisa/20251019_173546_01.jpg" class="column-50" />
+  <img src="/assets/Italy/Pisa/20251019_174034_01.jpg" class="column-50" />
+</div>
+
+Wejście na **Krzywą Wieżę w Pizie** nie jest dozwolone dla dzieci poniżej 8. roku życia. Dlatego zdecydowaliśmy się pominąć 
+tę atrakcję. Ograniczyliśmy się do podziwiania jej z zewnątrz i zwiedzania okolicznych budynków. Fundament Krzywej Wieży 
+w Pizie ma zaledwie trzy metry głębokości i znajduje się na niestabilnym gruncie, który nie był w stanie utrzymać ciężaru 
+konstrukcji z białego marmuru. Budowę wstrzymano na prawie 100 lat z powodu wojen, co pozwoliło gruntowi się ustabilizować 
+i zapobiegło natychmiastowemu zawaleniu. Od 1987 roku obiekt znajduje się na liście światowego dziedzictwa UNESCO.
+
+Można również wybrać się na spacer po dawnych murach miejskich Mura di Pisa, jednak z wózkiem dziecięcym musieliśmy z 
+tego zrezygnować. Trasa nie jest w pełni dostępna dla osób z niepełnosprawnościami lub podróżujących z wózkami. Po otwartych 
+fragmentach można chodzić swobodnie w obu kierunkach, a wejść jest kilka po schodach oraz niekiedy windą, dzięki czemu 
+można przejść tylko wybrany odcinek albo całą trasę, która liczy ponad 7 km.
+
+<img src="/assets/Italy/Pisa/20251019_141809_01.jpg" />
+
+Po długim dniu spacerowania przeszliśmy przez **Piazza dei Cavalieri** (niegdyś polityczne serce średniowiecznej Pizy), 
+a następnie skierowaliśmy się do **Borgo Stretto**, jednej z najbardziej klimatycznych ulic miasta, pełnej średniowiecznych 
+arkad, małych butików i kawiarni, idealnej na spokojny spacer chroniący przed słońcem lub deszczem. Skręciliśmy w boczną 
+uliczkę na urodzinową kolację w **La Ghiotteria**, przytulnym miejscu znanym z lokalnych toskańskich potraw i kameralnej 
+atmosfery. Po kolacji ruszyliśmy w stronę Arno, mijając pomnik Vittorio Emanuele II, poświęcony pierwszemu królowi zjednoczonych 
+Włoch. Wieczorem okolice bulwarów ciągnących się wzdłuż rzeki Arno (Lungarno) często tętnią życiem i właśnie tam niespodziewanie 
+natrafiliśmy na uroczy pchli targ z małymi stoiskami sprzedającymi antyki, książki i rękodzieło, co nadało końcówce dnia 
+bardzo autentyczny klimat.
+
+Massa i Piza okazały się idealnym uzupełnieniem intensywnego trekkingu w Cinque Terre. Jeśli masz dodatkowy dzień w okolicy 
+Massy, bardzo polecam odwiedzić miejscowość Carrara. Można tam wybrać się na zwiedzanie kamieniołomów Fantiscritti z 
+przewodnikiem, aby zobaczyć, skąd pochodził marmur wykorzystany do stworzenia „Dawida” Michała Anioła. Dla nas byłoby to 
+jednak zbyt wiele intensywnych dni pod rząd.
+
+Więcej informacji o Massie i Carrarze można znaleźć [na oficjalnej stronie regionu.](https://www.visitrivieraapuana.it/en/)   
+Więcej informacji o szlakach w okolicy, szczególnie dla osób podróżujących samochodem, można znaleźć [na tej stronie.](https://www.visittuscany.com/en/ideas/routes-apuan-alps/)
+
