@@ -5,8 +5,8 @@
     <description>A travel blog by Monika Suchoszek.</description>
     <link>https://www.beyond-the-known.eu/</link>
     <atom:link href="https://www.beyond-the-known.eu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2026 22:16:13 +0200</pubDate>
-    <lastBuildDate>Fri, 29 May 2026 22:16:13 +0200</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 21:41:36 +0200</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 21:41:36 +0200</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -877,32 +877,8 @@ jachty (niektóre wyglądały bardzo ekskluzywnie) i promy odpływające w stron
       </item>
     
       <item>
-        <title>Cinqueterre</title>
-        <description>&lt;p&gt;.—
-layout: post&lt;/p&gt;
-
-&lt;p&gt;title:  “Cinque Terre in One Day: Complete Ferry &amp;amp; Train Itinerary from La Spezia”
-date:   2026-01-15 08:43:59
-author: Monika Suchoszek
-categories: travel
-tags:	Italy 
-cover:  “/assets/Italy/Pisa/20251016_104949_01.jpg”
-thumbnail:  “/assets/thumbnails/CinqueTerre.JPG”
-post_id: italy_cinque
-coords:
-  lat: 43.715680
-  lng: 10.397955
-gallery_items:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;image: “/assets/Italy/Pisa/20251016_103442_01.jpg”
-gallery_image: “/assets/gallery/CinqueTerre.jpg”
-description: “Church of St. Pietro, built in the 13th 
-century, the church stands dramatically on a rocky promontory overlooking the sea. It is really stunning place because of 
-its striking black-and-white striped facade and its spectacular cliffside position. “
-—&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you’re wondering whether it’s possible to visit Cinque Terre in just one day, the answer is yes, but it requires a 
+        <title>Cinque Terre in One Day: Complete Ferry &amp; Train Itinerary from La Spezia</title>
+        <description>&lt;p&gt;If you’re wondering whether it’s possible to visit Cinque Terre in just one day, the answer is yes, but it requires a 
 smart plan. During our trip to Italy, we dedicated one full day to exploring the colorful coastal villages of this 
 UNESCO-listed region, combining ferry rides and train connections to make the most of our time.&lt;/p&gt;
 
@@ -1148,10 +1124,14 @@ sailing boats, yachts, and ferries departing toward Cinque Terre.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/Italy/Pisa/20251017_113736_01.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 15 Jan 2026 00:00:00 +0100</pubDate>
-        <link>https://www.beyond-the-known.eu/en/2026/01/CinqueTerre/</link>
-        <guid isPermaLink="true">https://www.beyond-the-known.eu/en/2026/01/CinqueTerre/</guid>
+        <pubDate>Thu, 15 Jan 2026 09:43:59 +0100</pubDate>
+        <link>https://www.beyond-the-known.eu/en/travel/2026/01/CinqueTerre/</link>
+        <guid isPermaLink="true">https://www.beyond-the-known.eu/en/travel/2026/01/CinqueTerre/</guid>
         
+        <category>Italy</category>
+        
+        
+        <category>travel</category>
         
       </item>
     

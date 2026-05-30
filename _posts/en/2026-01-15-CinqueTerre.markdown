@@ -1,4 +1,4 @@
-.---
+---
 layout: post
 
 title:  "Cinque Terre in One Day: Complete Ferry & Train Itinerary from La Spezia"
