@@ -2,7 +2,7 @@
 layout: post
 
 title:  "The Perfect North Portugal Road Trip – Cities, Nature & Food"
-date:   2026-05-19 08:43:59
+date:   2026-04-19 08:43:59
 author: Monika Suchoszek
 categories: travel
 tags:	Portugal Porto Braga

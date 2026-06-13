@@ -1,9 +1,23 @@
 [
 
     {
+      "title"    : "Exploring the North Coast of Portugal: Viana do Castelo, Apúlia & Barcelos",
+      "url"      : "/en/travel/2026/05/PG-coast/",
+      "date"     : "May 22, 2026",
+      "locale"   : "en_US",
+      "content" :  "Northern Portugal’s coastline surprised us far more than we expected. During our road trip between Porto and Braga, we explored Viana do Castelo, Barcelos, Parque Natural do Litoral Norte, the famous windmills of Apúlia, and the ancient hilltop settlement of Castro de São Lourenço. In this post, I share our..."
+      
+       , "coords" : {
+          "lat" : 41.550594,
+          "lng" : -8.453611
+      }
+      
+    } ,
+
+    {
       "title"    : "The Perfect North Portugal Road Trip – Cities, Nature & Food",
-      "url"      : "/en/travel/2026/05/portugal/",
-      "date"     : "May 19, 2026",
+      "url"      : "/en/travel/2026/04/portugal/",
+      "date"     : "April 19, 2026",
       "locale"   : "en_US",
       "content" :  "Northern Portugal is one of the most underrated regions in Europe for a spring road trip. With historic cities, beautiful beaches, mountain landscapes, excellent food, and relatively short driving distances, it turned out to be the perfect destination for our family trip. As every year, children in Belgium have a..."
       
