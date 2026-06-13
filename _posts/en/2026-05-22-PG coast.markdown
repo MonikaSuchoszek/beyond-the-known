@@ -13,9 +13,12 @@ coords:
   lat: 41.550594 
   lng: -8.453611
 gallery_items:
-  - image: "/assets/Portugal/North/20260411_170956.jpg"
-    gallery_image: "/assets/gallery/Portugal.jpg"
-    description: "XXX"
+  - image: "/assets/Portugal/North/20260411_132821_01.jpg"
+    gallery_image: "/assets/gallery/Portugal coast.jpg"
+    description: "Mills of Apúlia, these iconic windmills stand directly on the sand dunes near the beach, creating a unique coastal landscape. 
+The traditional Portuguese windmills were originally built to grind cereals, especially corn, into flour for local communities. 
+Architecturally, they usually feature a cylindrical stone base with a rotating roof so that the sails could be turned 
+towards the wind. Their location along the coast allowed them to fully utilise the strong Atlantic winds."
 ---
 
 Northern Portugal’s coastline surprised us far more than we expected. During our road trip between Porto and Braga, we 
