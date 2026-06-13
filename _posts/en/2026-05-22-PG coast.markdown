@@ -8,13 +8,13 @@ categories: travel
 tags:	Portugal Barcelos Braga
 cover:  "/assets/Portugal/North/20260409_193000.jpg"
 thumbnail:  "/assets/thumbnails/Coast.JPG"
-post_id: north coast_overview
+post_id: north_coast_overview
 coords:
   lat: 41.550594 
   lng: -8.453611
 gallery_items:
   - image: "/assets/Portugal/North/20260411_132821_01.jpg"
-    gallery_image: "/assets/gallery/Portugal coast.jpg"
+    gallery_image: "/assets/gallery/Portugal_coast.jpg"
     description: "Mills of Apúlia, these iconic windmills stand directly on the sand dunes near the beach, creating a unique coastal landscape. 
 The traditional Portuguese windmills were originally built to grind cereals, especially corn, into flour for local communities. 
 Architecturally, they usually feature a cylindrical stone base with a rotating roof so that the sails could be turned 
