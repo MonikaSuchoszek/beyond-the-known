@@ -15,7 +15,9 @@ coords:
 gallery_items:
   - image: "/assets/Portugal/North/Ponte/20260414_153825.jpg"
     gallery_image: "/assets/gallery/Portugal_Ponte.jpg"
-    description: "XXX"
+    description: " Built around the 1st century AD as part of imperial Via XIX, connecting the ancient cities of Bracara 
+    Augusta (Braga) and Asturica Augusta. Expanded heavily in the 14th century (notably completed around 1359) with additional 
+    arches added over time due to shifts in the Lima River's course. Today it spans roughly 380 meters total."
 ---
 
 The next two days were spent exploring Braga and the more touristy Guimarães, known as the "birthplace of Portugal". I had 
@@ -61,7 +63,7 @@ visitor centre, where a large school bus was parked because a group of children 
 stayed inside the visitor centre, which our daughter also visited while looking for a toilet. She became very interested 
 in what the children were doing, and it took some convincing before she agreed to start the hike.
 The protected landscape offers five marked walking trails ranging from a short 1.6 km boardwalk around the lagoon to a 12.5 
-km route exploring much of the reserve. We chose the 2.9 km River Trail, which turned out to be the perfect option with 
+km route exploring much of the reserve. We chose the 2.9 km River Trail (PR3), which turned out to be the perfect option with 
 our daughter, combining forest, wetlands, wooden boardwalks, and geocaching without being too long
  It had been raining on our drive 
 from Braga, so the forest was still very wet. Although the rain had stopped, we could constantly feel drops of water falling 
@@ -179,7 +181,7 @@ __Practical info:__
 
 * National Park Lagoas de Bertiandos e São Pedro d'Arcos: free entrance   
 Hikes are described on the [official website](https://lagoas.cm-pontedelima.pt/informacoes/atividades/percursos-e-rotas/poi/percurso-do-rio-pr-3)
-that also includes pdf of each hike with detailed description version in Spanish and English
+that also includes pdf of each hike (we did PR3) with detailed description version in Spanish and English
 
 <img src="/assets/Portugal/North/Ponte/20260414_111808.jpg" />
 
