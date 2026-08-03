@@ -4,7 +4,7 @@ layout: post
 title:  "Cinque Terre w jeden dzień"
 date:   2026-01-15 08:43:59
 author: Monika Suchoszek
-categories: podróże
+categories: podroze
 tags:	Włochy  
 cover:  "/assets/Italy/Pisa/20251016_104949_01.jpg"
 thumbnail:  "/assets/thumbnails/CinqueTerre.JPG"

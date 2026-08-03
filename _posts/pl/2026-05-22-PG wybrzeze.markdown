@@ -4,7 +4,7 @@ layout: post
 title:  "Odkrywając północne wybrzeże Portugalii: Viana do Castelo, Apúlia i Barcelos"
 date:   2026-05-22 08:43:59
 author: Monika Suchoszek
-categories: podróże
+categories: podroze
 tags:	Portugalia Barcelos Braga
 cover:  "/assets/Portugal/North/20260409_193000.jpg"
 thumbnail:  "/assets/thumbnails/Coast.JPG"

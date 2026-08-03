@@ -4,7 +4,7 @@ layout: post
 title:  "Idealna objazdówka po północnej Portugalii – miasta, natura i doskonałe jedzenie"
 date:   2026-04-19 08:43:59
 author: Monika Suchoszek
-categories: podróże
+categories: podroze
 tags:	Portugalia Porto Braga
 cover:  "/assets/Portugal/North/20260410_133934_01.jpg"
 thumbnail:  "/assets/thumbnails/North.JPG"

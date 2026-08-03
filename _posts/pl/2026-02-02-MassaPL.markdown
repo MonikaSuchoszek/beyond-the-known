@@ -4,7 +4,7 @@ layout: post
 title:  "Włoskie wybrzeże poza utartym szlakiem: Massa oraz Piza"
 date:   2026-02-02 08:43:59
 author: Monika Suchoszek
-categories: podróże
+categories: podroze
 tags:	Włochy Massa Piza
 cover:  "/assets/Italy/Pisa/20251019_143343_01.jpg"
 thumbnail:  "/assets/thumbnails/Pisa.JPG"
