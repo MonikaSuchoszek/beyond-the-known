@@ -58,7 +58,7 @@ Poniżej znajduje się mapa naszej trasy.
 Samochód odebraliśmy na lotnisku i tam również go zwróciliśmy. Na ostatnie dwa dni pobytu w Porto auto nie było nam 
 już potrzebne, ponieważ miasto zwiedzaliśmy pieszo. Firma Sixt oferuje kilka punktów zwrotu samochodów w Porto, w tym jeden 
 poza ścisłym centrum miasta. Zwrot auta w innym miejscu niż punkt odbioru wiązał się jednak z dodatkową opłatą. Z tego 
-względu bardziej opłacało nam się oddać samochód na lotnisko, skąd wcześniej go również odebraliśmy.
+względu bardziej opłacało nam się oddać samochód na lotnisku, skąd wcześniej go również odebraliśmy.
 
 Następnie, z lotniska udaliśmy się metrem do naszego apartamentu w centrum Porto. Bilet na metro kosztuje 2,90 € (2,30 € za przejazd w strefie Z4 oraz 0,60 € za kartę Andante).
 Kartę Andante kupuje się tylko raz i można ją wielokrotnie doładowywać kolejnymi biletami. Przy automatach biletowych znajduje 
@@ -86,12 +86,12 @@ W niektórych miejscach zauważyliśmy, że mieszkańcy zostawiali samochody poz
 zdarzyło się zaparkować w podobny sposób, ale zawsze zgodnie z przepisami i nigdy w miejscach objętych zakazem parkowania.
 Nasz apartament znajdował się w samym centrum miasta, dlatego musieliśmy pogodzić się z ograniczoną liczbą miejsc parkingowych. 
 W najgorszym przypadku od najdalej położonego miejsca parkingowego do apartamentu mieliśmy około 250 metrów spaceru. Zawsze 
-zapisywaliśmy lokalizację zaparkowanego samochodu w telefonie, dzięki czemu następnego dnia nie traciliśmy czasu na szukanie 
+zapisywaliśmy lokalizację zaparkowanego samochodu w telefonie, dzięki temu następnego dnia nie traciliśmy czasu na szukanie 
 auta wśród wąskich uliczek.
 
 Podczas pobytu w Porto skorzystaliśmy również z aplikacji Bolt, aby dojechać z naszego apartamentu do Parque de Serralves.
 Za przejazd o długości około 6 km zapłaciliśmy około 6–7 € w jedną stronę. Przy podróży w trzy osoby była to bardzo 
-konkurencyjna cena w porównaniu z kosztami transportu publicznego (mój tata poleciał już wcześniej na lotnisko, dlatego 
+konkurencyjna cena w porównaniu z kosztami transportu publicznego (mój tata pojechał już wcześniej na lotnisko, dlatego 
 tego dnia podróżowaliśmy we trójkę). Dodatkowo był to zdecydowanie najszybszy i najwygodniejszy 
 sposób, aby tam dotrzeć.
 
@@ -187,7 +187,7 @@ zamawiać jej osobny posiłek. Czasami zamawialiśmy dodatkową przystawkę, ale
 większość czasu porcje były na tyle duże, że spokojnie mogliśmy się z nią podzielić. W restauracjach bez proszenia zawsze 
 dostawała dodatkowy talerz dla dziecka, co było bardzo miłym gestem.
 
-Wiele szlaków miało kilka wariantów, dzięki czemu zawsze mogliśmy dobrać odpowiednią dla nas długość. Jedną z atrakcji 
+Wiele szlaków miało kilka wariantów, dzięki temu zawsze mogliśmy dobrać odpowiednią dla nas długość. Jedną z atrakcji 
 było pływanie łódką po jeziorze w parku Bom Jesus, krótka, 15-minutowa przejażdżka, ale dała jej mnóstwo radości. Podobało 
 jej się również szukanie kolorowych kogutów w Barcelos, gdzie ten symbol Portugalii był ukryty w różnych miejscach miasta. 
 Krótki spacer po Serra da Labruja z wodospadami i dwoma wiszącymi mostami był jednym z miejsc, którymi była zachwycona. 
