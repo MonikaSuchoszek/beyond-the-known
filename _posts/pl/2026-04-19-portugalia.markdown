@@ -167,7 +167,7 @@ Braga: [Bella Braga Caffé & Restaurante](https://maps.app.goo.gl/tsmwZfs4sLDtM2
 
 | Kategoria                                 | Suma (€) |
 |-------------------------------------------|---------------:|
-| FLot samolotem                            |            750 |
+| Lot samolotem                             |            750 |
 | Transport (samochód, paliwo, metro, bolt) |            555 |
 | Noclegi                                   |            740 |
 | Restauracje                               |            355 |

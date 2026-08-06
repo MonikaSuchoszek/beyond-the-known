@@ -122,7 +122,13 @@ while. Good playgrounds were actually surprisingly difficult to find during our 
 </div>
 
 After leaving the park, we walked towards the town centre, crossing the famous bridge with Igreja de Santo António da Torre 
-Velha standing beside it. The historic centre is quite small but full of old buildings. Some are abandoned or not particularly 
+Velha standing beside it. The bridge is also closely connected with the Camino de Santiago, as Ponte de Lima is one of the 
+important stops on the Portuguese route to Santiago de Compostela. While walking through the town, we noticed several 
+pilgrims resting near the bridge, taking a moment to relax before continuing their journey. We also saw signs offering 
+simple and affordable accommodation for pilgrims, which made it clear that this centuries-old tradition is still very 
+much part of everyday life in Ponte de Lima.
+
+The historic centre is quite small but full of old buildings. Some are abandoned or not particularly 
 well restored, yet this only adds to the town's character. We passed the fountain in Camões Square overlooking the old 
 Roman bridge before wandering through narrow streets towards the small green square near the Estátua de António Feijó, 
 where we were surprised to see a large stork's nest.
@@ -177,20 +183,26 @@ Although the route is short, it is much more varied than we expected. In less th
 explored waterfalls, admired the old mills, and enjoyed the peaceful forest scenery. It felt like a perfect final stop 
 before returning to Braga.
 
+Ponte de Lima turned out to be one of the highlights of our northern Portugal trip. We initially came for a quick visit 
+to the town and two short walks, but the combination of spring flowers, peaceful landscapes, and family-friendly trails 
+made us wish we had planned more time here. It is exactly the kind of place where slowing down is part of the experience.
+
 __Practical info:__
 
 * National Park Lagoas de Bertiandos e São Pedro d'Arcos: free entrance   
 Hikes are described on the [official website](https://lagoas.cm-pontedelima.pt/informacoes/atividades/percursos-e-rotas/poi/percurso-do-rio-pr-3)
 that also includes pdf of each hike (we did PR3) with detailed description version in Spanish and English
-
+Duration of the visit: 2 hours
 <img src="/assets/Portugal/North/Ponte/20260414_111808.jpg" />
 
 * Ponte de Lima:
 [Parking](https://maps.app.goo.gl/R2tQfwCrHU248e6q9), there were plenty of free parkings along the river   
 Free public toilet on Camões Square   
-Interpretation Center Of Military History - €1 entry fee   
+Interpretation Center Of Military History - €1 entry fee 
+Ponte de Lima sightseeing: 1.5–2 hours   
 * Restaurant: [NACOS Restaurante](https://maps.app.goo.gl/99sAeSKDWcBVUKgW7)
-* Passadiços e moinhos da Ribeira de S.João: free entrance. 
+* Passadiços e moinhos da Ribeira de S.João: free entrance.    
+Duration of the visit:45–60 minutes
 There is a small free car park next to the start of the trail, but it only has space for a few vehicles. We also noticed 
 a few additional parking spaces near the Ecomuseum. The largest parking area we found was an [open gravel field beside 
 the church](https://maps.app.goo.gl/HveHTcM2D8PDLaaT9), just off the main road. It is probably intended mainly for church visitors, but it can also be a convenient 
