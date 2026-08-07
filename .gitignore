@@ -8,8 +8,10 @@ _site
 .sass-cache/*
 
 # Bundler
-.bundle/
-vendor/
+# Root-anchored: an unanchored `vendor/` also matches assets/vendor/ and
+# docs/assets/vendor/, which are third-party libs that must be committed.
+/.bundle/
+/vendor/
 
 .idea
 .idea/*
