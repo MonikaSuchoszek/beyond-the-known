@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Our top 3 half-day trips from Benalmadena "
+description: "Mijas village and two more half-day trips from Benalmadena, all slow enough to work at toddler pace, with transport details for each."
 date:   2022-11-02 08:43:59
 author: Monika Suchoszek
 categories: travel

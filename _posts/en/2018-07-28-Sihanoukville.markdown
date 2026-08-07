@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How we ended up in Sihanoukville..."
+description: "From the Himalayas to the Cambodian coast: how a planned loop through Cambodia, Laos and Thailand started in a building site by the sea."
 date:   2018-07-28 08:43:59
 author: Monika Suchoszek
 categories: travel

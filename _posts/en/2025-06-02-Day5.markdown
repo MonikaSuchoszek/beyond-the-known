@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Madeira Adventure: Day 5 - Pico Ruivo, colorful Santana and deserted beach"
+description: "Pico Ruivo with its summit stretch closed, the painted houses of Santana and a deserted beach: our last day with a car on Madeira."
 date:   2025-06-02 08:43:59
 author: Monika Suchoszek
 categories: travel
@@ -99,7 +100,7 @@ The area is well-maintained, surrounded by beautiful gardens, and the mountain v
 We also tried to find a place serving prego no bolo do caco, but many of the well-reviewed spots were closed, and the one 
 that was open had run out of the special bread rolls, so unfortunately, we couldn’t try it there.
 I remember standing in this small bar, watching the news on TV, footage of the floods that had just happened in Valencia, 
-a city we had visited a few months earlier (see more details here).
+a city we had visited a few months earlier ([see more details here]({% post_url en/2024-11-08-Valencia %})).
 On the way to a nearby bakery, we spotted one house which looked like the typical colorful Palheiros but was entirely brown, 
 and we wondered if that might be a more original or unpainted version. There’s also another house close to the bakery 
 Delícias da Bia that you can apparently visit, it’s a private home whose owner opens it for tourists and explains the family heritage. There’s 

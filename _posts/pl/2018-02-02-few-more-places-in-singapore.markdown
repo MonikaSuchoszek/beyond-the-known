@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kolejne miejsca warte odwiedzenia w Singapurze"
+description: "Wyspy St John i Kusu, spokojne plaże i kolejne zakątki Singapuru warte uwagi, kiedy najbardziej znane atrakcje masz już za sobą."
 date:   2018-02-02 08:43:59
 author: Monika Suchoszek
 categories: podroze

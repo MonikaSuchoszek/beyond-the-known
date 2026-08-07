@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Przygoda na Maderze: Dzień 4 - Pico Grande"
+description: "Kilometr w pionie na Pico Grande, jeden z mniej uczęszczanych szczytów Madery, ze startem przy Eira do Serrado przed autokarami."
 date:   2025-05-07 08:43:59
 author: Monika Suchoszek
 categories: podroze

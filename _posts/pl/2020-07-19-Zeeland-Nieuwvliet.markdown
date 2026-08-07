@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Zeeland, region w Holandii, który ponownie urzekł nas swoim spokojem. Wycieczka z Nieuwvliet do Vlissingen"
+description: "Cztery dni pod namiotem w Zelandii: piesza wycieczka z Nieuwvliet do Vlissingen i jak trudno było znaleźć wolne miejsce na kempingu."
 date:   2020-07-19 08:43:59
 author: Monika Suchoszek
 categories: podroze

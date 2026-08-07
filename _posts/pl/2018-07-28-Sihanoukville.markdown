@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Nasza przygoda w Kambodży właśnie się rozpoczęła, witaj Sihanoukville!"
+description: "Z Himalajów na wybrzeże Kambodży: jak zaczęła się nasza pętla przez Kambodżę, Laos i Tajlandię i czym zaskoczyło nas Sihanoukville."
 date:   2018-07-28 08:43:59
 author: Monika Suchoszek
 categories: podroze

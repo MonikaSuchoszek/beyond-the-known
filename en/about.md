@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: "Monika and Sebastian, a Polish-Belgian couple based in Leuven, on why they keep travelling and what they write about here."
 permalink: /about/
 cover:  "/assets/about_header.jpg"
 main_nav: true

@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Przygoda na Maderze: Dzień 3 – Odkrywanie piękna dzikiego zachodniego wybrzeża."
+description: "Spokojniejszy dzień na Maderze: 9 km szlaku, punkty widokowe wzdłuż dzikiego zachodniego wybrzeża i naturalne baseny w Porto Moniz."
 byline: "Zielone klify, zapierające dech w piersiach punkty widokowe, plantacje bananów i naturalne baseny."
 date:   2025-03-20 08:43:59
 author: Monika Suchoszek

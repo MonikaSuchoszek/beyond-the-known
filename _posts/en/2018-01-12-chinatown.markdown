@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Chinatown and Maxwell hawker center"
+description: "Fried dumplings, Tian Tian chicken rice and everything else we ate at Maxwell hawker centre before walking through Singapore's Chinatown."
 date:   2018-01-12 08:43:59
 author: Monika Suchoszek
 categories: travel food

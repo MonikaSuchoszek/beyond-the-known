@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Praktyczne informacje o trekkingu wokół Annapurny"
+description: "Co spakować i czego się spodziewać na trekkingu wokół Annapurny bez przewodnika i tragarza: pozwolenia, nawigacja, koszty i sprzęt."
 date:   2018-07-11 08:43:59
 author: Monika Suchoszek
 categories: podroze

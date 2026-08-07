@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Nasza druga piesza wycieczka, Monte Coltignone"
+description: "Trzy kilometry i tysiąc metrów podejścia z Laorca: dwa warianty wejścia na Monte Coltignone nad Lecco i który z nich wybrać."
 date:   2019-09-27 08:43:59
 author: Monika Suchoszek
 categories: podroze

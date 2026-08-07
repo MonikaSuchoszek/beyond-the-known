@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dzielnica Marina Bay, czas zacząć zwiedzanie Singapuru!"
+description: "Kampus Nanyang na skraju lasu tropikalnego, a zaraz potem Marina Bay i Gardens by the Bay: nasze pierwsze wrażenia z Singapuru."
 date:   2018-01-11 08:43:59
 author: Monika Suchoszek
 categories: podroze

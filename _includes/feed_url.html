@@ -1,0 +1,23 @@
+{%- comment -%}
+Resolves the RSS feed for a locale, so every template links the feed of the
+language the reader is actually on rather than the English one.
+
+Each locale's feed lives beside its index (`/`, `/pl/`, `/nl/` in
+site.languages), so the path is that index with `feed.xml` appended.
+
+Parameters:
+  locale - locale to resolve (optional; defaults to page.locale, then to the
+           first configured language)
+
+Leaves behind:
+  feed_index - the locale index path, e.g. "/pl/"
+  feed_path  - the feed path, e.g. "/pl/feed.xml" (baseurl not applied)
+  feed_lang  - RFC-style language code for <language>, e.g. "pl-PL"
+{%- endcomment -%}
+{%- assign feed_locale = include.locale | default: page.locale | default: site.languages[0].locale -%}
+{%- assign feed_index = site.languages[0].index -%}
+{%- for language in site.languages -%}
+  {%- if language.locale == feed_locale -%}{%- assign feed_index = language.index -%}{%- endif -%}
+{%- endfor -%}
+{%- assign feed_path = feed_index | append: 'feed.xml' -%}
+{%- assign feed_lang = feed_locale | replace: '_', '-' -%}

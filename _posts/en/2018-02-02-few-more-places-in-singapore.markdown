@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A few more places to visit in Singapore"
+description: "St John's and Kusu islands, quiet beaches and a few more corners of Singapore worth your time once the famous sights are behind you."
 date:   2018-02-02 08:43:59
 author: Monika Suchoszek
 categories: travel

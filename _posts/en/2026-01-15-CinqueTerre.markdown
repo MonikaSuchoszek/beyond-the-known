@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Cinque Terre in One Day: Complete Ferry & Train Itinerary from La Spezia"
+description: "A one-day Cinque Terre plan that actually works, from La Spezia by ferry and train: Porto Venere, Riomaggiore, Vernazza and Monterosso."
 date:   2026-01-15 08:43:59
 author: Monika Suchoszek
 categories: travel

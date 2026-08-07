@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hiking in Georgia – Chaaladi Glacier"
+description: "An easy walk from Mestia to the Chaaladi glacier: how to skip the dull first kilometres and what the ice looks like from up close."
 date:   2017-10-03 08:43:59
 author: Monika Suchoszek
 categories: travel

@@ -1,0 +1,21 @@
+{%- comment -%}
+Turns a page URL into the canonical form we advertise for it, by dropping a
+trailing "index.html".
+
+Call as {% include canonical_url.html url=some_page.url %}; the result lands in
+`canonical_path`. It is a site-relative path, so prepend site.baseurl/site.url
+for the absolute form.
+
+Note this only strips "index.html" at the *end* of the URL. The locale indexes
+are declared as `permalink: /pl/index.html`, which jekyll-paginate-v2 turns into
+a directory, so their real URL is "/pl/index.html/" — a blanket replace would
+advertise "/pl//", which does not exist.
+{%- endcomment -%}
+{%- assign canonical_path = include.url -%}
+{%- if canonical_path.size > 10 -%}
+	{%- assign tail = canonical_path | slice: -10, 10 -%}
+	{%- if tail == 'index.html' -%}
+		{%- assign keep = canonical_path.size | minus: 10 -%}
+		{%- assign canonical_path = canonical_path | slice: 0, keep -%}
+	{%- endif -%}
+{%- endif -%}

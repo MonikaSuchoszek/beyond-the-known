@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Odkrywając skalne labirynty w Małej Szwajcarii"
+description: "Fragment szlaku Mullerthal wokół Berdorf: skalne labirynty z piaskowca, skrócone plany i dlaczego Mała Szwajcaria pasuje na weekend."
 date:   2019-08-06 08:43:59
 author: Monika Suchoszek
 categories: podroze

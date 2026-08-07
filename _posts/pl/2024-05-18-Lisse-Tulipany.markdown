@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Odkrywanie tajemnic holenderskich tulipanów"
+description: "Keukenhof, przejażdżka rowerowa przez pola tulipanów i Dzień Króla w jeden kwietniowy weekend, a do tego historia tulipana w Holandii."
 date:   2024-05-10 08:43:59
 author: Monika Suchoszek
 categories: podroze

@@ -102,9 +102,10 @@ select {
   max-width: 100%;
   width: auto; }
 
-ul.default, .page-content .sidebar-widget ul.archive-years, .page-content ul.post-list, .page-content .page ul.posts-list, .site-footer .site-navigation ul, .site-footer .site-contact ul,
+ul.default, .page-content .sidebar-widget ul.archive-years, .page-content ul.post-list, .page-content .listing-archive ul.posts-list, .page-content .page ul.posts-list, .site-footer .site-navigation ul, .site-footer .site-contact ul,
 .page-content .sidebar-widget ol.archive-years,
 .page-content ol.post-list,
+.page-content .listing-archive ol.posts-list,
 .page-content .page ol.posts-list,
 ol.default {
   list-style-type: none;
@@ -242,7 +243,7 @@ code {
   border-radius: 3px;
   padding: 0 3px; }
 
-pre code.hljs {
+pre code {
   font-size: 0.8333333333em; }
 
 .page-divider {
@@ -304,6 +305,11 @@ pre code.hljs {
   margin: 0;
   /*
   *	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
+  */
+  /*
+  *	Language switcher
+  *	Mobile: expands inline inside the collapsed menu so nothing floats off-screen.
+  *	Tablet and up: a floating panel anchored to the toggle.
   */ }
   .navigation .navigation-menu-button {
     display: block;
@@ -379,6 +385,99 @@ pre code.hljs {
   @media screen and (min-width: 768px) {
     .navigation li.nav-link:last-child a {
       padding-right: 1em; } }
+  .navigation li.nav-link.lang-switcher {
+    position: relative; }
+    @media screen and (min-width: 768px) {
+      .navigation li.nav-link.lang-switcher {
+        display: inline-block;
+        vertical-align: baseline;
+        padding-right: 1.5em; } }
+    .navigation li.nav-link.lang-switcher .lang-toggle {
+      appearance: none;
+      -webkit-appearance: none;
+      background: transparent;
+      border: 0;
+      border-radius: 3px;
+      box-shadow: none;
+      color: #2980b9;
+      cursor: pointer;
+      display: inline-block;
+      font-family: inherit;
+      font-size: inherit;
+      font-weight: inherit;
+      line-height: inherit;
+      margin: 0;
+      padding: 0;
+      vertical-align: baseline;
+      width: auto; }
+      .navigation li.nav-link.lang-switcher .lang-toggle:hover, .navigation li.nav-link.lang-switcher .lang-toggle:focus {
+        background: transparent;
+        color: #01476a; }
+      .navigation li.nav-link.lang-switcher .lang-toggle:focus-visible {
+        outline: 2px solid #2980b9;
+        outline-offset: 2px; }
+      .navigation li.nav-link.lang-switcher .lang-toggle img {
+        margin-right: 0.4em;
+        vertical-align: middle; }
+    .navigation li.nav-link.lang-switcher .lang-toggle-static {
+      color: #333;
+      cursor: default;
+      display: inline-block;
+      padding: 0; }
+      .navigation li.nav-link.lang-switcher .lang-toggle-static img {
+        margin-right: 0.4em;
+        vertical-align: middle; }
+    .navigation li.nav-link.lang-switcher .lang-toggle-name {
+      font-weight: 700; }
+    .navigation li.nav-link.lang-switcher .lang-caret {
+      margin-left: 0.45em;
+      vertical-align: middle;
+      transition: transform 0.2s ease; }
+    .navigation li.nav-link.lang-switcher.is-open .lang-caret {
+      transform: rotate(180deg); }
+    .navigation li.nav-link.lang-switcher .lang-menu {
+      display: none;
+      list-style: none;
+      margin: 0;
+      padding: 0; }
+      .navigation li.nav-link.lang-switcher .lang-menu li {
+        list-style: none;
+        margin: 0;
+        padding: 0; }
+      .navigation li.nav-link.lang-switcher .lang-menu a {
+        display: block;
+        padding: 0.5em 0;
+        text-decoration: none;
+        white-space: nowrap; }
+        .navigation li.nav-link.lang-switcher .lang-menu a img {
+          margin-right: 0.4em;
+          vertical-align: baseline; }
+        .navigation li.nav-link.lang-switcher .lang-menu a.is-current {
+          font-weight: 700; }
+      .navigation li.nav-link.lang-switcher .lang-menu .lang-check {
+        margin-left: 0.4em; }
+      @media screen and (min-width: 768px) {
+        .navigation li.nav-link.lang-switcher .lang-menu {
+          background: #fff;
+          border: 1px solid #ddd;
+          border-radius: 3px;
+          box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+          min-width: 11em;
+          padding: 0.35em 0;
+          position: absolute;
+          right: 1.5em;
+          text-align: left;
+          top: 100%;
+          margin-top: 1.25em;
+          z-index: 20; }
+          .navigation li.nav-link.lang-switcher .lang-menu a {
+            padding: 0.45em 1em; }
+            .navigation li.nav-link.lang-switcher .lang-menu a:hover, .navigation li.nav-link.lang-switcher .lang-menu a:focus {
+              background: #ddd; }
+            .navigation li.nav-link.lang-switcher .lang-menu a.is-current {
+              background: transparent; } }
+    .navigation li.nav-link.lang-switcher.is-open .lang-menu {
+      display: block; }
 
 /*
 *	Body
@@ -393,6 +492,15 @@ pre code.hljs {
   */
   /*
   *	index.html
+  */
+  /*
+  *	Listing pages (category / tag / year archive): intro copy, then the newest
+  *	posts as cards (.post-list above) followed by the remainder as a link list.
+  *
+  *	Those cards live inside .post-content, whose generic `img` rule centres
+  *	images at 75% width for in-post photos. That rule is more specific than
+  *	.post-list .post-excerpt-image, so restate the card thumbnail here to keep
+  *	it left-aligned and text-wrapped the way it is on the home page.
   */
   /*
   *	Posts
@@ -507,6 +615,41 @@ pre code.hljs {
           width: auto; } }
     .page-content .post-list .post-excerpt-text {
       text-align: justify; }
+  .page-content .post-content .post-list .post-excerpt-image {
+    display: inline;
+    float: left;
+    margin: 0 1em 0.5em 0;
+    width: 100%;
+    height: auto;
+    max-height: none;
+    object-fit: cover;
+    object-position: center; }
+    @media screen and (min-width: 480px) {
+      .page-content .post-content .post-list .post-excerpt-image {
+        height: 150px;
+        width: auto; } }
+  .page-content .listing-intro {
+    font-size: 1.1em;
+    font-style: italic;
+    color: #999;
+    text-align: center;
+    margin: 0 auto 1em auto;
+    max-width: 40em; }
+  .page-content .listing-archive {
+    clear: both;
+    padding-top: 1em;
+    border-top: 1px solid #ddd;
+    text-align: left; }
+    .page-content .listing-archive .listing-archive-year {
+      margin-bottom: 0.25em;
+      color: #999; }
+    .page-content .listing-archive .posts-list {
+      margin-bottom: 1.5em; }
+      .page-content .listing-archive .posts-list li {
+        padding: 0.401877572em 0; }
+      .page-content .listing-archive .posts-list .post-date {
+        color: #999;
+        font-size: 0.9em; }
   .page-content .post-meta {
     max-width: 56.25em;
     margin-left: auto;
@@ -526,6 +669,8 @@ pre code.hljs {
       font-size: 0.9em; }
       .page-content .post-meta .post-date:last-child {
         margin-right: 0; }
+      .page-content .post-meta .post-date .post-updated {
+        font-style: italic; }
     .page-content .post-meta .post-categories {
       float: left;
       display: block;

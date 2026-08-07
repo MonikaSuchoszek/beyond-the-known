@@ -26,6 +26,24 @@ module Jekyll
       self.data['tag'] = tag
       self.data['locale'] = locale
       self.data['title'] = "Tag: #{tag}"
+      # Tag pages are thin by nature and most have one or two posts. Keep them
+      # for readers and internal link flow, but keep them out of the index and
+      # out of the sitemap (honoured by jekyll-sitemap).
+      self.data['noindex'] = true
+      self.data['sitemap'] = false
+      # Not indexed, but the description still shows up when someone shares the
+      # URL, and it costs nothing to make it say which tag this is.
+      self.data['description'] = tag_description(site, locale, tag)
+    end
+
+    private
+
+    def tag_description(site, locale, tag)
+      strings = (site.data['translations'] || {})[locale] || {}
+      template = strings['tag_description']
+      return nil unless template
+
+      template.gsub('%{tag}', tag)
     end
   end
 end

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Another destination from Lecco, Monte Coltignone"
+description: "Three kilometres and a thousand metres of climbing from Laorca: the two routes up Monte Coltignone above Lecco, and which one to choose."
 date:   2019-09-27 08:43:59
 author: Monika Suchoszek
 categories: travel

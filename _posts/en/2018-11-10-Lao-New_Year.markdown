@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Lao New Year's Celebrations"
+description: "Pi Mai Lao, the Lao new year: celebrations in the hottest month, free temple entry, and the golden stupa of Pha That Luang in Vientiane."
 date:   2018-11-10 08:43:59
 author: Monika Suchoszek
 categories: travel

@@ -2,6 +2,7 @@
 layout: post
 
 title:  "W poszukiwaniu oznak zimy na szczytach Błatnia oraz Kotarz, okolica miejscowości Brenna"
+description: "Święta u rodziców w Polsce i dwa wyjścia w Beskid Śląski: Błatnia i Kotarz w okolicach Brennej, w poszukiwaniu oznak zimy."
 date:   2021-01-10 08:43:59
 author: Monika Suchoszek
 categories: podroze

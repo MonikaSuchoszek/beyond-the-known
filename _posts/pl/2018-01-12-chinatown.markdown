@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Dzielnica Chinatown i Maxwell hawker center"
+description: "Smażone pierożki, kurczak Tian Tian i reszta tego, co zjedliśmy w Maxwell hawker center przed spacerem po singapurskim Chinatown."
 date:   2018-01-12 08:43:59
 author: Monika Suchoszek
 categories: podroze jedzenie

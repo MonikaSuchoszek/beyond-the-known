@@ -1,0 +1,64 @@
+{% comment %}
+Shared listing body for category, tag and year-archive pages.
+
+Large listings (travel: 67 posts, podroze: 58) would pull down megabytes of
+thumbnails if every post got a full card, so the newest `cards_limit` posts get
+a rich card and the remainder falls back to a compact link list.
+
+Parameters:
+  posts         - the post list to render, already in the desired order (required)
+  cards_limit   - how many posts get a full card (default 10)
+  more_label    - heading for the compact remainder list (required when it shows)
+  group_by_year - "true" to sub-head the remainder by year; omit on year archives,
+                  where every post shares the same year
+{% endcomment %}
+{% assign items_text = site.data.translations[page.locale] %}
+{% assign cards_limit = include.cards_limit | default: 10 %}
+{% assign listing_posts = include.posts %}
+{% assign featured = listing_posts | slice: 0, cards_limit %}
+
+<ul class="post-list">
+  {% for post in featured %}
+  <li>
+    <h2>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <section class="post-excerpt" itemprop="description">
+      {% if post.thumbnail %}
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <img class="post-excerpt-image" src="{{ post.thumbnail | prepend: site.baseurl }}" alt="{{ post.title | escape }}" loading="lazy" decoding="async" />
+      </a>
+      {% endif %}
+      <p class="post-excerpt-text">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+    </section>
+    <section class="post-meta">
+      <div class="post-date">{{ items_text.posted }} <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></div>
+    </section>
+  </li>
+  {% if forloop.last == false %}<hr>{% endif %}
+  {% endfor %}
+</ul>
+
+{% if listing_posts.size > cards_limit %}
+{% assign remaining = listing_posts | slice: cards_limit, listing_posts.size %}
+<section class="listing-archive">
+  <h2>{{ include.more_label }}</h2>
+  {% if include.group_by_year == "true" %}
+    {% assign by_year = remaining | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+    {% for year_group in by_year %}
+    <h3 class="listing-archive-year">{{ year_group.name }}</h3>
+    <ul class="posts-list">
+      {% for post in year_group.items %}
+      <li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><span class="post-date"> - <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></span></li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  {% else %}
+    <ul class="posts-list">
+      {% for post in remaining %}
+      <li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><span class="post-date"> - <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></span></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</section>
+{% endif %}

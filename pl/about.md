@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "O nas"
+description: "Monika i Sebastian, polsko-belgijska para z Leuven, o tym dlaczego ciągle podróżują i o czym piszą na tym blogu."
 permalink: /pl/about/
 cover:  "/assets/about_header.jpg"
 main_nav: true

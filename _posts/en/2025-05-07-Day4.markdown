@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Madeira Adventure: Day 4 - Pico Grande"
+description: "A vertical kilometre up Pico Grande, one of Madeira's quieter peaks, starting at Eira do Serrado before the first tour buses arrive."
 date:   2025-05-07 08:43:59
 author: Monika Suchoszek
 categories: travel

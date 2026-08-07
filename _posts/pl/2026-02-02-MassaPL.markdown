@@ -2,13 +2,14 @@
 layout: post
 
 title:  "Włoskie wybrzeże poza utartym szlakiem: Massa oraz Piza"
+description: "Marina di Massa jako spokojniejsza baza na toskańskim wybrzeżu i łatwa wycieczka do Pizy: jak to wygląda z małym dzieckiem i ile kosztuje."
 date:   2026-02-02 08:43:59
 author: Monika Suchoszek
 categories: podroze
 tags:	Włochy Massa Piza
 cover:  "/assets/Italy/Pisa/20251019_143343_01.jpg"
 thumbnail:  "/assets/thumbnails/Pisa.JPG"
-post_id: italy_overview
+post_id: italy_massa
 coords:
   lat: 43.715680
   lng: 10.397955

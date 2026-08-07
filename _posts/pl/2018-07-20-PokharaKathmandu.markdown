@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pokhara oraz stolica Nepalu,Kathmandu: co zobaczyć i czego spróbować"
+description: "Odpoczynek nad jeziorem Phewa w Pokharze i powrót do Katmandu: co zobaczyć, gdzie zjeść i jak wyglądają sklepy ze sprzętem górskim."
 date:   2018-07-20 08:43:59
 author: Monika Suchoszek
 categories: podroze jedzenie sport

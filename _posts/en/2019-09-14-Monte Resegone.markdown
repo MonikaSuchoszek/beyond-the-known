@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A day hike to Monte Resegone"
+description: "A demanding day hike from Lecco up Monte Resegone above Lake Como: the route we took, the climb involved and the refuge at the top."
 date:   2019-09-14 08:43:59
 author: Monika Suchoszek
 categories: travel

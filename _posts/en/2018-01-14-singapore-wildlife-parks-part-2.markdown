@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wildlife parks in Singapore (part 2)"
+description: "Singapore Zoo, where ditches replace fences and lemurs and gibbons move among the visitors: part two of our tour of the wildlife parks."
 date:   2018-01-14 08:43:59
 author: Monika Suchoszek
 categories: travel

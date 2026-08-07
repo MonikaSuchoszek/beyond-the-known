@@ -12,7 +12,6 @@ module Jekyll
       # Set basic page data
       self.data['year'] = year
       self.data['lang'] = lang
-      self.data['title'] = "#{year} Archives"
       self.data['post_id'] = "archives_#{year}"
 
       # Set locale - prioritize passed locale, then from posts, then fallback
@@ -27,6 +26,24 @@ module Jekyll
 
       # Store posts for the template
       self.data['posts'] = posts
+
+      # Both need the locale resolved above. Without them a Polish or Dutch
+      # archive was titled "2019 Archives" and fell back to the site-wide
+      # description, leaving ~30 URLs sharing one string.
+      self.data['title'] = localised(site, self.data['locale'], 'archive_title', year) ||
+                           "#{year} Archives"
+      self.data['description'] = localised(site, self.data['locale'], 'archive_description', year)
+    end
+
+    private
+
+    # Looks up `key` in the locale's translations and fills in %{year}.
+    def localised(site, locale, key, year)
+      strings = (site.data['translations'] || {})[locale] || {}
+      template = strings[key]
+      return nil unless template
+
+      template.gsub('%{year}', year)
     end
   end
 

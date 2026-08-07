@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Nong Khiaw: amazing viewpoints overlooking Nam Ou river"
+description: "The steep viewpoints above Nong Khiaw and the Nam Ou river, a violent afternoon storm, and the morning boat back from Muang Ngoy."
 date:   2019-02-05 08:43:59
 author: Monika Suchoszek
 categories: travel

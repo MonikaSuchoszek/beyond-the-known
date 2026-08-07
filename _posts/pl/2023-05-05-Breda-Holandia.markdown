@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Wiosenna przygoda w okolicy Bredy przy granicy z Belgią"
+description: "Długi majowy weekend w okolicach Bredy: gospodarstwa, spokojne trasy spacerowe i rowerowe tuż przy granicy z Belgią."
 date:   2023-05-05 08:43:59
 author: Monika Suchoszek
 categories: podroze

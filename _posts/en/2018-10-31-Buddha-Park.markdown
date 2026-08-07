@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Buddha Park in Vientian"
+description: "How to reach Buddha Park from central Vientiane by public bus for almost nothing, and what the strange concrete sculpture garden is like."
 date:   2018-10-31 08:43:59
 author: Monika Suchoszek
 categories: travel

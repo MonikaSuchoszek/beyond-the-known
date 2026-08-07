@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Crossing the border with Thailand from Luang Namtha in northern Laos"
+description: "Getting from Luang Namtha in northern Laos to Chiang Rai in Thailand in a single day: minivans, agencies, costs and the border crossing."
 date:   2019-02-11 08:43:59
 author: Monika Suchoszek
 categories: travel

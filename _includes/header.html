@@ -20,24 +20,50 @@
 				{% if link.title and link.main_nav == true and link.locale == page.locale -%}<li class="nav-link"><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>{%- endif %}
 			{%- endfor %}
 
-			{% if page.post_id %}
-					{% for language in site.languages -%}
-			      {% for post in site.posts -%}
-			      	{%- if page.post_id == post.post_id and post.locale == page.locale and language.locale == post.locale  -%}<li class="nav-link"><a href="{{ post.url | prepend: site.baseurl  }}"><img src="{{  language.icon | prepend: site.baseurl  }}" /> <strong>{{ language.name }}</strong></a></li>{% endif -%}
-				      {%- if page.post_id == post.post_id and post.locale != page.locale and language.locale == post.locale -%} {% assign language_parts = language.locale | split: "_" %}<li class="nav-link"><a href="{{ post.url | prepend: site.baseurl  }}" hreflang="{{ language_parts[0] }}"><img src="{{  language.icon | prepend: site.baseurl  }}" /> {{ language.name }}</a></li>{% endif -%}
-			      {%- endfor %}
-          {%- endfor %}
-					{% for language in site.languages -%}
-			      {% for post in site.pages -%}
-			      	{%- if page.post_id == post.post_id and post.locale == page.locale and language.locale == post.locale  -%}<li class="nav-link"><a href="{{ post.url | prepend: site.baseurl  }}"><img src="{{  language.icon | prepend: site.baseurl  }}" /> <strong>{{ language.name }}</strong></a></li>{% endif -%}
-				      {%- if page.post_id == post.post_id and post.locale != page.locale and language.locale == post.locale -%} {% assign language_parts = language.locale | split: "_" %}<li class="nav-link"><a href="{{ post.url | prepend: site.baseurl  }}" hreflang="{{ language_parts[0] }}"><img src="{{  language.icon | prepend: site.baseurl  }}" /> {{ language.name }}</a></li>{% endif -%}
-			      {%- endfor %}
-          {%- endfor %}
-			{% else %}
-				{% for language in site.languages -%}
-					{%- if language.locale == page.locale -%}<li class="nav-link"><a href="{{ language.index | prepend: site.baseurl  }}"><img src="{{  language.icon | prepend: site.baseurl  }}" /> <strong>{{ language.name }}</strong></a></li>{% else -%} {% assign language_parts = language.locale | split: "_" %}<li class="nav-link"><a href="{{ language.index | prepend: site.baseurl }}"  hreflang="{{ language_parts[0] }}"><img src="{{  language.icon | prepend: site.baseurl  }}" /> {{ language.name }}</a></li>{% endif -%}
-				{%- endfor %}
-			{% endif %}
+			{%- comment -%}
+			Language switcher. Takes the locale→URL list from alternates.html and renders the
+			current language as a toggle with the alternatives in a dropdown.
+			A page that exists in only one language gets a plain label, no dropdown.
+			{%- endcomment -%}
+			{%- assign current_language = nil -%}
+			{%- for language in site.languages -%}
+				{%- if language.locale == page.locale -%}{%- assign current_language = language -%}{%- endif -%}
+			{%- endfor -%}
+			{%- include alternates.html -%}
+
+			{%- if current_language -%}
+			<li class="nav-link lang-switcher{% if available_list.size < 2 %} is-single{% endif %}" id="js-lang-switcher">
+				{%- if available_list.size < 2 -%}
+				<span class="lang-toggle lang-toggle-static"><img src="{{ current_language.icon | prepend: site.baseurl }}" alt="" /> <span class="lang-toggle-name">{{ current_language.name }}</span></span>
+				{%- else -%}
+				<button type="button" class="lang-toggle" id="js-lang-toggle" aria-expanded="false" aria-controls="js-lang-menu">
+					<img src="{{ current_language.icon | prepend: site.baseurl }}" alt="" />
+					<span class="lang-toggle-name">{{ current_language.name }}</span>
+					<i class="fa fa-angle-down lang-caret" aria-hidden="true"></i>
+				</button>
+				<ul class="lang-menu" id="js-lang-menu">
+				{%- comment -%} Current language first, so the menu confirms where you are. {%- endcomment -%}
+				{%- for entry in available_list -%}
+					{%- assign parts = entry | split: '~' -%}
+					{%- if parts[0] == page.locale -%}
+					{%- for language in site.languages -%}{%- if language.locale == parts[0] -%}
+					<li><a href="{{ parts[1] | prepend: site.baseurl }}" class="is-current" aria-current="true"><img src="{{ language.icon | prepend: site.baseurl }}" alt="" /> <span>{{ language.name }}</span> <i class="fa fa-check lang-check" aria-hidden="true"></i></a></li>
+					{%- endif -%}{%- endfor -%}
+					{%- endif -%}
+				{%- endfor -%}
+				{%- for entry in available_list -%}
+					{%- assign parts = entry | split: '~' -%}
+					{%- if parts[0] != page.locale -%}
+					{%- for language in site.languages -%}{%- if language.locale == parts[0] -%}
+					{%- assign language_parts = language.locale | split: "_" -%}
+					<li><a href="{{ parts[1] | prepend: site.baseurl }}" hreflang="{{ language_parts[0] }}"><img src="{{ language.icon | prepend: site.baseurl }}" alt="" /> <span>{{ language.name }}</span></a></li>
+					{%- endif -%}{%- endfor -%}
+					{%- endif -%}
+				{%- endfor -%}
+				</ul>
+				{%- endif -%}
+			</li>
+			{%- endif %}
 		  		<li class="nav-link"><a href="#" class="nav-link-search"><i class="fa fa-search" style="width:16px;height:16px"></i></a></li>
 			</ul>
     </nav>

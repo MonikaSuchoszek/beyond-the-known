@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Trekking - dzień 1 - Heshkili"
+description: "Pierwsza wędrówka w Gruzji: 7 km z Mestii w stronę stacji kolejki Hatsvali i do domków Heshkili, w jesiennych barwach i niskich chmurach."
 date:   2017-10-01 08:43:59
 author: Monika Suchoszek
 categories: podroze

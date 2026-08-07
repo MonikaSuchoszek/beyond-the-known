@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Chiang Rai: first stop in northern Thailand"
+description: "Reaching the White Temple by local bus, and the rest of Chiang Rai on our first stop in northern Thailand, with practical details."
 date:   2019-03-01 08:43:59
 author: Monika Suchoszek
 categories: travel

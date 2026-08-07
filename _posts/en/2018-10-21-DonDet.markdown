@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Don Det, a gateway to Laos"
+description: "Crossing from Siem Reap into Laos by bus, van and boat: how the transfer actually works, and what waits on the Mekong island of Don Det."
 date:   2018-10-21 08:43:59
 author: Monika Suchoszek
 categories: travel

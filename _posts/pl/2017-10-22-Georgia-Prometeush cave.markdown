@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jaskinia Prometeusza oraz kaniony, czyli jak spedzić dzień w okolicach Kutaisi"
+description: "Całodniowa wycieczka z Kutaisi do Jaskini Prometeusza oraz kanionów Martwili i Okatse, z właścicielem pensjonatu w roli kierowcy."
 date:   2017-10-22 08:43:59
 author: Monika Suchoszek
 categories: podroze

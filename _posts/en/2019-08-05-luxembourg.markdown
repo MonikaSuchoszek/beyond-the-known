@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A trip to Little Switzerland"
+description: "Walking part of the Mullerthal trail around Berdorf: sandstone gorges, plans cut short, and why Luxembourg's Little Switzerland suits a weekend."
 date:   2019-08-06 08:43:59
 author: Monika Suchoszek
 categories: travel

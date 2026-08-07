@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kampot and Kep, on the coast of Cambodia"
+description: "Riverside Kampot and seaside Kep: visiting La Plantation pepper farm, the salt fields, and the French colonial past still visible here."
 date:   2018-08-12 08:43:59
 author: Monika Suchoszek
 categories: travel

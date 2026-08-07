@@ -2,9 +2,10 @@
 layout: post
 
 title:  "Rodzinny przewodnik po Walencji: podwodny świat i klimatyczne stare miasto"
+description: "Dzień w Oceanogràfic, największym oceanarium Europy, i reszta Walencji z dzieckiem: Ogrody Turii, stare miasto i praktyczne informacje."
 date:   2024-11-08 08:43:59
 author: Monika Suchoszek
-categories: podróże
+categories: podroze
 tags:	Hiszpania Walencia Oceanarium
 cover:  "/assets/Spain/Valencia/20240830_160508.jpg"
 thumbnail:  "/assets/thumbnails/Valencia.JPG"
@@ -217,7 +218,7 @@ dnia.
 
 * La Lonja de la Seda de Valencia - Wstęp 2, mały budynek, więc 30 minut wystarczy na zwiedzanie.
 
-* [Botanical Garden](https://visit-cullera.es/guia/castillo-de-cullera/) - 3 €, bezpłatnie dla małych dzieci. Warto zarezerwować sobie około 2 godzin na spokojny spacer.
+* [Ogród Botaniczny](https://www.jardibotanic.org/) - 3 €, bezpłatnie dla małych dzieci. Warto zarezerwować sobie około 2 godzin na spokojny spacer.
 Podczas naszej wizyty nie było tłoczno.
 
 * [Plac zabaw](https://maps.app.goo.gl/TK9xKZkfQzu5MYXt7) w centrum miasta, niedaleko ogrodu botanicznego i starej bramy 

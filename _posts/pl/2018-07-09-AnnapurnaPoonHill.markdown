@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Trekking wokół Annapurny oraz na Poon Hill"
+description: "Z lotniska w Katmandu prosto w środek święta Holi, a potem trekking wokół Annapurny połączony z Poon Hill: dwa tygodnie w Himalajach."
 date:   2018-07-09 08:43:59
 author: Monika Suchoszek
 categories: podroze

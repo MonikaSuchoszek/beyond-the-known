@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Angkor Wat: the rise and fall of the Khmer Empire"
+description: "Three days by bicycle around Angkor: the rise and fall of the Khmer Empire, which temples we picked and how to cope with the heat."
 date:   2018-10-11 08:43:59
 author: Monika Suchoszek
 categories: travel

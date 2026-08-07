@@ -2,9 +2,10 @@
 layout: post
 
 title:  "Nadmorskie miasto Platja de Gandia – świetny kierunek na wakacje z dziećmi"
+description: "Platja de Gandia jako baza na rodzinne wakacje nad morzem we wschodniej Hiszpanii, z wycieczkami do Cullery i Walencji oraz wskazówkami."
 date:   2024-10-05 08:43:59
 author: Monika Suchoszek
-categories: podróże
+categories: podroze
 tags:	Spain Valencia Gandia Cullera castle
 cover:  "/assets/Spain/Gandia/20240823_194625_01.jpg"
 thumbnail:  "/assets/thumbnails/Gandia.JPG"

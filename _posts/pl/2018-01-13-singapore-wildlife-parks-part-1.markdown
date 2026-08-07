@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Rezerwaty przyrody w Singapurze, cześć 1"
+description: "Jurong Bird Park i jego ogromne woliery z 5 tysiącami ptaków: pierwszy z czterech singapurskich parków i to, co zaskoczyło nas najbardziej."
 date:   2018-01-13 08:43:59
 author: Monika Suchoszek
 categories: podroze

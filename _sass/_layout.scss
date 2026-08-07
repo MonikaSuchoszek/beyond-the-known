@@ -34,7 +34,7 @@ code {
 	padding: 0 3px;
 }
 
-pre code.hljs {
+pre code {
 	font-size: modular-scale(-1);
 }
 
@@ -188,6 +188,153 @@ pre code.hljs {
 	  	@include media ($tablet) {
     		padding-right: 1em;
     	}
+    }
+  }
+
+  /*
+  *	Language switcher
+  *	Mobile: expands inline inside the collapsed menu so nothing floats off-screen.
+  *	Tablet and up: a floating panel anchored to the toggle.
+  */
+  li.nav-link.lang-switcher {
+    position: relative;
+    @include media ($tablet) {
+      // Baseline-aligned, exactly like the plain <a> nav items next to it, so the
+      // label sits on the same line as the rest of the menu. The bar keeps its
+      // 4em height because the flags below are centred rather than baseline-set,
+      // which is what was stretching nav's line box.
+      display: inline-block;
+      vertical-align: baseline;
+      padding-right: 1.5em;
+    }
+
+    .lang-toggle {
+      appearance: none;
+      -webkit-appearance: none;
+      background: transparent;
+      border: 0;
+      border-radius: $base-border-radius;
+      box-shadow: none;
+      color: $action-color;
+      cursor: pointer;
+      display: inline-block;
+      font-family: inherit;
+      font-size: inherit;
+      font-weight: inherit;
+      // Match the plain <a> nav items exactly so the bar keeps its original height.
+      line-height: inherit;
+      margin: 0;
+      padding: 0;
+      vertical-align: baseline;
+      width: auto;
+
+      &:hover,
+      &:focus {
+        background: transparent;
+        color: $highlight-color;
+      }
+      &:focus-visible {
+        outline: 2px solid $action-color;
+        outline-offset: 2px;
+      }
+
+      img {
+        margin-right: 0.4em;
+        // Centred on the row rather than sitting on the baseline, so the flag
+        // cannot add descender space to the line box.
+        vertical-align: middle;
+      }
+    }
+
+    // A page that exists in only one language: label, no dropdown.
+    .lang-toggle-static {
+      color: $base-font-color;
+      cursor: default;
+      display: inline-block;
+      padding: 0;
+
+      img {
+        margin-right: 0.4em;
+        vertical-align: middle;
+      }
+    }
+
+    .lang-toggle-name {
+      font-weight: 700;
+    }
+
+    .lang-caret {
+      margin-left: 0.45em;
+      vertical-align: middle;
+      transition: transform 0.2s ease;
+    }
+    &.is-open .lang-caret {
+      transform: rotate(180deg);
+    }
+
+    .lang-menu {
+      display: none;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+
+      li {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      a {
+        display: block;
+        padding: 0.5em 0;
+        text-decoration: none;
+        white-space: nowrap;
+
+        img {
+          margin-right: 0.4em;
+          vertical-align: baseline;
+        }
+
+        &.is-current {
+          font-weight: 700;
+        }
+      }
+
+      .lang-check {
+        margin-left: 0.4em;
+      }
+
+      @include media ($tablet) {
+        background: $base-background-color;
+        border: $base-border;
+        border-radius: $base-border-radius;
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+        min-width: 11em;
+        padding: 0.35em 0;
+        position: absolute;
+        right: 1.5em;
+        text-align: left;
+        // Clear nav's bottom padding so the panel hangs from the bar, not from
+        // the middle of it.
+        top: 100%;
+        margin-top: 1.25em;
+        z-index: 20;
+
+        a {
+          padding: 0.45em 1em;
+          &:hover,
+          &:focus {
+            background: $light-gray;
+          }
+          &.is-current {
+            background: transparent;
+          }
+        }
+      }
+    }
+
+    &.is-open .lang-menu {
+      display: block;
     }
   }
 }
@@ -354,6 +501,58 @@ pre code.hljs {
 		  text-align: justify;
 		}
 	}
+	/*
+	*	Listing pages (category / tag / year archive): intro copy, then the newest
+	*	posts as cards (.post-list above) followed by the remainder as a link list.
+	*
+	*	Those cards live inside .post-content, whose generic `img` rule centres
+	*	images at 75% width for in-post photos. That rule is more specific than
+	*	.post-list .post-excerpt-image, so restate the card thumbnail here to keep
+	*	it left-aligned and text-wrapped the way it is on the home page.
+	*/
+	.post-content .post-list .post-excerpt-image {
+		display: inline;
+		float: left;
+		margin: 0 1em 0.5em 0;
+		width: 100%;
+		height: auto;
+		max-height: none;
+		object-fit: cover;
+		object-position: center;
+		@include media ($mobile) {
+			height: 150px;
+			width: auto;
+		}
+	}
+	.listing-intro {
+		font-size: 1.1em;
+		font-style: italic;
+		color: $medium-gray;
+		text-align: center;
+		margin: 0 auto 1em auto;
+		max-width: 40em;
+	}
+	.listing-archive {
+		clear: both;
+		padding-top: 1em;
+		border-top: 1px solid $light-gray;
+		text-align: left;
+		.listing-archive-year {
+			margin-bottom: 0.25em;
+			color: $medium-gray;
+		}
+		.posts-list {
+			@extend %default-ul;
+			margin-bottom: 1.5em;
+			li {
+				padding: modular-scale(-5) 0;
+			}
+			.post-date {
+				color: $medium-gray;
+				font-size: 0.9em;
+			}
+		}
+	}
 	.post-meta {
 		@include outer-container;
 		// padding: 1em 0;
@@ -363,6 +562,10 @@ pre code.hljs {
 			@include span-columns(6);
 			text-align: left;
 			font-size: 0.9em;
+			// "(Updated dd-mm-yyyy)", only rendered on revised posts.
+			.post-updated {
+				font-style: italic;
+			}
 		}
 		.post-categories {
 			@include span-columns(6);

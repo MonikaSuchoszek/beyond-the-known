@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Trekking - dzień 2 - okolice Mestii"
+description: "Śnieg na początku jesieni, 10 km spaceru do kościoła nad Mestią i lotnisko w środku gór, które robi w tej wiosce największe wrażenie."
 date:   2017-10-02 08:43:59
 author: Monika Suchoszek
 categories: podroze

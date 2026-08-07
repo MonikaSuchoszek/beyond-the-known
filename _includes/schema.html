@@ -1,0 +1,183 @@
+{%- comment -%}
+schema.org JSON-LD, emitted from head.html on every page as a single @graph.
+
+Nodes that are always present:
+  * WebSite  (#website) - the site itself, per-locale `inLanguage`
+  * Person   (#person)  - site.name, used as both author and publisher
+
+Nodes added per page type, detected the same way the layouts do:
+  * posts (page.collection == 'posts')  -> BlogPosting + BreadcrumbList
+  * category pages (page.category set)  -> CollectionPage + BreadcrumbList
+  * tag pages (page.tag set)            -> CollectionPage + BreadcrumbList
+  * year archives (page.year set)       -> CollectionPage + BreadcrumbList
+  * locale indexes                      -> nothing beyond WebSite/Person
+
+Breadcrumbs start at the locale index (from site.languages), never at the site
+root, so a Polish post breadcrumbs to /pl/ and not to /.
+
+Every string goes through `jsonify`, which supplies its own quotes and escapes
+quotes/newlines coming out of front matter - do not wrap those outputs in "".
+
+URLs are absolute and canonical: page URLs are run through canonical_url.html
+first, the same include head.html uses for rel="canonical", so the @id values
+here match the canonical URLs exactly.
+{%- endcomment -%}
+{%- assign base = site.url | append: site.baseurl -%}
+{%- assign schema_locale = page.locale | default: site.languages[0].locale -%}
+{%- assign schema_lang = schema_locale | split: '_' | first -%}
+
+{%- comment -%} This page's own canonical, absolute. {%- endcomment -%}
+{%- include canonical_url.html url=page.url -%}
+{%- assign schema_url = canonical_path | prepend: base -%}
+
+{%- comment -%} The index of this page's locale, used as breadcrumb root. {%- endcomment -%}
+{%- assign home_path = site.languages[0].index -%}
+{%- assign home_name = site.title -%}
+{%- for language in site.languages -%}
+  {%- if language.locale == schema_locale -%}{%- assign home_path = language.index -%}{%- endif -%}
+{%- endfor -%}
+{%- include canonical_url.html url=home_path -%}
+{%- assign home_url = canonical_path | prepend: base -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": {{ base | append: '/#website' | jsonify }},
+      "url": {{ base | append: '/' | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "inLanguage": {{ schema_lang | jsonify }},
+      "publisher": { "@id": {{ base | append: '/#person' | jsonify }} }
+    },
+    {
+      "@type": "Person",
+      "@id": {{ base | append: '/#person' | jsonify }},
+      "name": {{ site.name | jsonify }},
+      "url": {{ base | append: '/' | jsonify }}
+      {%- if site.logo %},
+      "image": {{ site.logo | prepend: base | jsonify }}
+      {%- endif -%}
+      {%- assign profiles = '' -%}
+      {%- for social in site.social -%}
+        {%- if social.url -%}{%- capture profiles -%}{{ profiles }}{{ social.url }}|{%- endcapture -%}{%- endif -%}
+      {%- endfor -%}
+      {%- assign profile_list = profiles | split: '|' -%}
+      {%- if profile_list.size > 0 %},
+      "sameAs": [{% for profile in profile_list %}{{ profile | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+      {%- endif %}
+    }
+
+{%- if page.collection == 'posts' -%}
+{%- comment -%}
+  Post images: cover first, then any gallery items, so the cover is the one
+  search engines treat as primary.
+{%- endcomment -%}
+{%- assign images = '' -%}
+{%- if page.cover -%}{%- capture images -%}{{ images }}{{ page.cover }}|{%- endcapture -%}{%- endif -%}
+{%- for item in page.gallery_items -%}
+  {%- if item.image -%}{%- capture images -%}{{ images }}{{ item.image }}|{%- endcapture -%}{%- endif -%}
+{%- endfor -%}
+{%- assign image_list = images | split: '|' -%}
+{%- assign post_description = page.excerpt | strip_html | strip_newlines | truncate: 160 -%}
+,
+    {
+      "@type": "BlogPosting",
+      "@id": {{ schema_url | append: '#article' | jsonify }},
+      "mainEntityOfPage": { "@type": "WebPage", "@id": {{ schema_url | jsonify }} },
+      "url": {{ schema_url | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "description": {{ post_description | jsonify }},
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "dateModified": {{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},
+      "inLanguage": {{ schema_lang | jsonify }},
+      {%- comment -%}
+        Almost every post is by site.name, so it points at the shared Person
+        node; guest posts get an inline Person instead.
+      {%- endcomment -%}
+      {%- if page.author and page.author != site.name %}
+      "author": { "@type": "Person", "name": {{ page.author | jsonify }} },
+      {%- else %}
+      "author": { "@id": {{ base | append: '/#person' | jsonify }} },
+      {%- endif %}
+      "publisher": { "@id": {{ base | append: '/#person' | jsonify }} },
+      "isPartOf": { "@id": {{ base | append: '/#website' | jsonify }} }
+      {%- if image_list.size > 0 %},
+      "image": [{% for image in image_list %}{{ image | prepend: base | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+      {%- endif -%}
+      {%- if page.tags.size > 0 %},
+      "keywords": [{% for tag in page.tags %}{{ tag | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+      {%- endif -%}
+      {%- if page.categories.size > 0 %},
+      "articleSection": [{% for cat in page.categories %}{{ cat | category_label: schema_locale | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+      {%- endif -%}
+      {%- if page.coords.lat and page.coords.lng %},
+      "contentLocation": {
+        "@type": "Place",
+        "name": {{ page.title | jsonify }},
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": {{ page.coords.lat }},
+          "longitude": {{ page.coords.lng }}
+        }
+      }
+      {%- endif %}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ schema_url | append: '#breadcrumb' | jsonify }},
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": {{ home_name | jsonify }}, "item": {{ home_url | jsonify }} }
+        {%- if page.categories.size > 0 -%}
+        {%- assign crumb_cat = page.categories | first -%}
+        {%- capture crumb_cat_url -%}{{ base }}/category/{{ schema_locale }}/{{ crumb_cat }}/{%- endcapture -%}
+        ,
+        { "@type": "ListItem", "position": 2, "name": {{ crumb_cat | category_label: schema_locale | jsonify }}, "item": {{ crumb_cat_url | jsonify }} },
+        { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
+        {%- else -%}
+        ,
+        { "@type": "ListItem", "position": 2, "name": {{ page.title | jsonify }} }
+        {%- endif %}
+      ]
+    }
+
+{%- elsif page.category or page.tag or page.year -%}
+{%- comment -%}
+  Listing pages: category, tag and year archives all render the same shape - a
+  titled list of posts - so they share one CollectionPage node and a two-level
+  breadcrumb. `page.title` is set by the generator in each case.
+{%- endcomment -%}
+{%- assign items_text = site.data.translations[schema_locale] -%}
+{%- if page.category -%}
+  {%- assign listing_name = page.category | category_label: schema_locale -%}
+  {%- capture listing_title -%}{{ items_text.category_line }} {{ listing_name }}{%- endcapture -%}
+{%- elsif page.tag -%}
+  {%- assign listing_name = page.tag | capitalize -%}
+  {%- capture listing_title -%}{{ items_text.tag_line }} {{ listing_name }}{%- endcapture -%}
+{%- else -%}
+  {%- capture listing_name -%}{{ page.year }} {{ items_text.archives }}{%- endcapture -%}
+  {%- assign listing_title = listing_name -%}
+{%- endif -%}
+,
+    {
+      "@type": "CollectionPage",
+      "@id": {{ schema_url | jsonify }},
+      "url": {{ schema_url | jsonify }},
+      "name": {{ listing_title | strip | jsonify }},
+      "inLanguage": {{ schema_lang | jsonify }},
+      "isPartOf": { "@id": {{ base | append: '/#website' | jsonify }} },
+      "breadcrumb": { "@id": {{ schema_url | append: '#breadcrumb' | jsonify }} }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ schema_url | append: '#breadcrumb' | jsonify }},
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": {{ home_name | jsonify }}, "item": {{ home_url | jsonify }} },
+        { "@type": "ListItem", "position": 2, "name": {{ listing_name | strip | jsonify }} }
+      ]
+    }
+{%- endif %}
+  ]
+}
+</script>

@@ -17,6 +17,8 @@ exclude:
   - "README.md"
   - "pagefind.exe"
   - "pagefind.yaml"
+  - "improvement_plan.md"
+  - "plan.md"
 
 destination: "./_site"
 
@@ -39,18 +41,32 @@ defaults:
       locale: "pl_PL"
       permalink: /pl/:categories/:year/:month/:title/
 
+-
+    scope:
+      path: "_posts/nl"
+      type: "posts"
+    values:
+      locale: "nl_NL"
+      permalink: /nl/:categories/:year/:month/:title/
+
 languages:
 -
     name: English
     icon: /assets/flag-icon-en_US.png
     locale: "en_US"
-    index: "/index.html"
+    index: "/"
 
 -
     name: Polski
     icon: /assets/flag-icon-pl_PL.png
     locale: "pl_PL"
-    index: "/pl/index.html"
+    index: "/pl/"
+
+-
+    name: Nederlands
+    icon: /assets/flag-icon-nl_NL.png
+    locale: "nl_NL"
+    index: "/nl/"
 
 # Site settings
 title: Going beyond the known
@@ -73,6 +89,14 @@ thumbnail:
 gallery_items:
     resize_dimensions: '430x288^'
     crop_dimensions: '430x288+0+0'
+
+# See _config.yml for what this drives.
+social_image:
+    dir: "/assets/social"
+    width: 1200
+    height: 630
+    quality: 82
+
 markdown: kramdown
 
 pagination:
@@ -82,7 +106,6 @@ pagination:
   sort_reverse: true
 
 inter_post_navigation: true
-highlightjs_theme: "monokai-sublime"
 
 # Disqus comments
 # disqus_shortname: bencentra
@@ -106,6 +129,7 @@ descriptions:
     locale: "en_US"
 
   - cat:  podroze
+    display: "Podróże"
     desc: "Wszystko o miejscach, które odwiedziliśmy"
     locale: "pl_PL"
 
@@ -116,6 +140,18 @@ descriptions:
   - cat: jedzenie
     desc: "interesujące kuchnie świata, których smaku nigdy nie zapomnimy "
     locale: "pl_PL"
+
+  - cat: reizen
+    desc: "Lees alles over plaatsen die we bezochten"
+    locale: "nl_NL"
+
+  - cat: sport
+    desc: "Wandelen, lopen en andere dingen die we uitprobeerden"
+    locale: "nl_NL"
+
+  - cat: eten
+    desc: "Boeiende gerechten die onze aandacht trokken"
+    locale: "nl_NL"
 
 # Social icons and sharing options
 #
@@ -157,17 +193,12 @@ social:
     desc: Share on Twitter
     share: true
 
-# Social sharing protocols
-# These are for automatically generating sharing metadata for FB and Twitter
-# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
+# Social sharing protocols - see _config.yml for the annotated version.
 protocols:
     fb_image: "/assets/logo.png"
     fb_image_width: 612
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
-
-    os_repo: "https://github.com/MonikaSuchoszek/monikasuchoszek.github.io"
-    os_rcs_type: "git"
-    os_src: "git@github.com:MonikaSuchoszek/monikasuchoszek.github.io.git"
+    # twitter_site: "@handle"
+    # twitter_creator: "@handle"

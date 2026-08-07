@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Muang Ngoy: drewniany domek, hamak, motyle oraz rozkoszna cisza"
+description: "Drewniany domek nad rzeką Nam Ou, hamak, motyle i absolutna cisza: dlaczego Muang Ngoy stało się naszym ulubionym miejscem w Laosie."
 date:   2019-01-19 08:43:59
 author: Monika Suchoszek
 categories: podroze

@@ -1,6 +1,34 @@
 [
 
     {
+      "title"    : "Ponte de Lima – najstarsze miasto Portugalii i dwa piękne szlaki wśród natury",
+      "url"      : "/pl/podroze/2026/06/PonteduLimaPL/",
+      "date"     : "June 03, 2026",
+      "locale"   : "pl_PL",
+      "content" :  "Kolejne dwa dni spędziliśmy na zwiedzaniu Bragi oraz bardziej turystycznego Guimarães, znanego jako „kolebka Portugalii”. Oba miasta odwiedziłam już w grudniu 2024 roku i możecie o nich przeczytać w moim wcześniejszym wpisie Magiczna wizyta w Bradze i Guimarães. Tym razem jednak niezwykle miło było zobaczyć te same miejsca w zupełnie..."
+      
+       , "coords" : {
+          "lat" : 41.768971,
+          "lng" : -8.585567
+      }
+      
+    } ,
+
+    {
+      "title"    : "Ponte de Lima: het oudste stadje van Portugal en twee prachtige natuurwandelingen",
+      "url"      : "/nl/reizen/2026/06/PonteduLimaNL/",
+      "date"     : "June 03, 2026",
+      "locale"   : "nl_NL",
+      "content" :  "De volgende twee dagen brachten we door in Braga en in het toeristischere Guimarães, dat bekendstaat als de “bakermat van Portugal”. Ik had beide steden al in december 2024 bezocht en je kan erover lezen in mijn eerdere blogpost, Een magisch bezoek aan Braga en Guimarães. Toch was het echt..."
+      
+       , "coords" : {
+          "lat" : 41.768971,
+          "lng" : -8.585567
+      }
+      
+    } ,
+
+    {
       "title"    : "Ponte de Lima: Portugal's Oldest Town and Two Beautiful Nature Walks",
       "url"      : "/en/travel/2026/06/PonteduLima/",
       "date"     : "June 03, 2026",
@@ -20,6 +48,20 @@
       "date"     : "May 22, 2026",
       "locale"   : "pl_PL",
       "content" :  "Północne wybrzeże Portugalii zaskoczyło nas znacznie bardziej, niż się spodziewaliśmy. Podczas naszej podróży samochodowej między Porto a Bragą odwiedziliśmy Vianę do Castelo, Barcelos, Parque Natural do Litoral Norte, słynne wiatraki w Apúlii oraz starożytną osadę na wzgórzu Castro de São Lourenço. W tym wpisie dzielę się szczegółowym planem pierwszych dwóch..."
+      
+       , "coords" : {
+          "lat" : 41.550594,
+          "lng" : -8.453611
+      }
+      
+    } ,
+
+    {
+      "title"    : "De noordkust van Portugal verkennen: Viana do Castelo, Apúlia & Barcelos",
+      "url"      : "/nl/reizen/2026/05/PGkust/",
+      "date"     : "May 22, 2026",
+      "locale"   : "nl_NL",
+      "content" :  "De kustlijn van Noord-Portugal verraste ons veel meer dan we hadden verwacht. Tijdens onze roadtrip tussen Porto en Braga verkenden we Viana do Castelo, Barcelos, Parque Natural do Litoral Norte, de beroemde windmolens van Apúlia en de oude heuvelnederzetting Castro de São Lourenço. In deze post deel ik ons gedetailleerde..."
       
        , "coords" : {
           "lat" : 41.550594,
@@ -57,6 +99,20 @@
     } ,
 
     {
+      "title"    : "De perfecte roadtrip door Noord-Portugal – steden, natuur & eten",
+      "url"      : "/nl/reizen/2026/04/portugal/",
+      "date"     : "April 19, 2026",
+      "locale"   : "nl_NL",
+      "content" :  "Noord-Portugal is een van de meest onderschatte regio’s van Europa voor een roadtrip in de lente. Met historische steden, prachtige stranden, berglandschappen, uitstekend eten en relatief korte rijafstanden bleek het de perfecte bestemming voor onze gezinsreis. Zoals elk jaar hebben de kinderen in België twee weken paasvakantie. We zochten dus..."
+      
+       , "coords" : {
+          "lat" : 41.550594,
+          "lng" : -8.453611
+      }
+      
+    } ,
+
+    {
       "title"    : "The Perfect North Portugal Road Trip – Cities, Nature & Food",
       "url"      : "/en/travel/2026/04/portugal/",
       "date"     : "April 19, 2026",
@@ -76,6 +132,20 @@
       "date"     : "February 02, 2026",
       "locale"   : "pl_PL",
       "content" :  "Jeśli planujesz podróż na włoskie wybrzeże i zastanawiasz się, czy Massa oraz Piza są warte odwiedzenia, to w tym przewodniku podzielę się naszymi doświadczeniami z pobytu w tej części wybrzeża. Jest to region często pomijany na rzecz Cinque Terre czy Florencji, a tymczasem oferuje idealne połączenie plaż, gór, kultury i..."
+      
+       , "coords" : {
+          "lat" : 43.71568,
+          "lng" : 10.397955
+      }
+      
+    } ,
+
+    {
+      "title"    : "Een verblijf in Massa en een daguitstap naar Pisa",
+      "url"      : "/nl/reizen/2026/02/MassaNL/",
+      "date"     : "February 02, 2026",
+      "locale"   : "nl_NL",
+      "content" :  "Plan je een reis naar de Italiaanse kust en vraag je je af of Massa en Pisa een bezoek waard zijn, zeker met een kind? In deze reisgids deel ik onze echte ervaring met een verblijf in Marina di Massa en een makkelijke daguitstap naar Pisa met een kleuter. Dit..."
       
        , "coords" : {
           "lat" : 43.71568,
@@ -113,6 +183,20 @@
     } ,
 
     {
+      "title"    : "Cinque Terre in één dag: het complete veerboot- en treinprogramma vanuit La Spezia",
+      "url"      : "/nl/reizen/2026/01/CinqueTerreNL/",
+      "date"     : "January 15, 2026",
+      "locale"   : "nl_NL",
+      "content" :  "Vraag je je af of het mogelijk is om Cinque Terre op één dag te bezoeken, dan is het antwoord ja, maar het vraagt wel een slim plan. Tijdens onze reis door Italië trokken we één volledige dag uit om de kleurrijke kustdorpjes van deze UNESCO-streek te verkennen, waarbij we..."
+      
+       , "coords" : {
+          "lat" : 43.71568,
+          "lng" : 10.397955
+      }
+      
+    } ,
+
+    {
       "title"    : "Cinque Terre in One Day: Complete Ferry & Train Itinerary from La Spezia",
       "url"      : "/en/travel/2026/01/CinqueTerre/",
       "date"     : "January 15, 2026",
@@ -132,6 +216,20 @@
       "date"     : "December 05, 2025",
       "locale"   : "pl_PL",
       "content" :  "Bardzo lubimy podróże pociągiem, zwłaszcza te wzdłuż wybrzeża, i właśnie w taki sposób podróżowaliśmy już kilka razy, m.in. podczas zwiedzania wschodniego wybrzeża Hiszpanii w okolicach Walencji oraz południa, gdzie odkrywaliśmy uroki regionu Malagi. Po raz kolejny ten rodzaj podróżowania sprawdził się doskonale. Po przylocie do danego kraju najwygodniej jest kontynuować..."
+      
+       , "coords" : {
+          "lat" : 43.71568,
+          "lng" : 10.397955
+      }
+      
+    } ,
+
+    {
+      "title"    : "Met de trein langs de Italiaanse kust: Pisa, Cinque Terre en Massa",
+      "url"      : "/nl/reizen/2025/12/ItalyNL/",
+      "date"     : "December 05, 2025",
+      "locale"   : "nl_NL",
+      "content" :  "Deze reis was een van mijn favoriete manieren van reizen: met het vliegtuig een land invliegen en de reis dan meteen vanaf de luchthaven met de trein verderzetten. Het is een ongelooflijk handige manier om met kinderen te reizen, zeker wanneer de treinverbindingen goed zijn en de afstanden redelijk blijven...."
       
        , "coords" : {
           "lat" : 43.71568,
@@ -169,6 +267,20 @@
     } ,
 
     {
+      "title"    : "Roadtrip met het gezin door Denemarken – 10 dagen koele avonturen",
+      "url"      : "/nl/reizen/2025/09/DenmarkNL/",
+      "date"     : "September 25, 2025",
+      "locale"   : "nl_NL",
+      "content" :  "We reizen altijd tijdens de zomermaanden, wanneer de school gesloten is, maar na de hitte van vorig jaar in Spanje waren we vastbesloten een koelere bestemming te vinden. Denemarken bleek de perfecte keuze: mild weer, prachtige landschappen en een ontspannen levensritme. We brachten in de tweede helft van augustus 10..."
+      
+       , "coords" : {
+          "lat" : 55.396399,
+          "lng" : 10.387578
+      }
+      
+    } ,
+
+    {
       "title"    : "Family Road Trip in Denmark – 10 Days of Cool Adventures",
       "url"      : "/en/travel/2025/09/Denmark/",
       "date"     : "September 25, 2025",
@@ -188,6 +300,20 @@
       "date"     : "June 02, 2025",
       "locale"   : "pl_PL",
       "content" :  "Nasz pobyt na Maderze zbliżał się ku końcowi, przed nami ostatni dzień z wynajętym samochodem! Intensywne dni szybko mijały, a i plan na ostatni dzień był bardzo napięty. Zdecydowaliśmy się zacząć dzień od pieszej wędrówki na Pico Ruivo, najwyższy szczyt Madery. Podczas naszego pobytu w listopadzie 2024 roku oficjalna strona..."
+      
+       , "coords" : {
+          "lat" : 32.814375,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
+      "title"    : "Avontuur op Madeira: dag 5 - Pico Ruivo, het kleurrijke Santana en een verlaten strand",
+      "url"      : "/nl/reizen/2025/06/Day5NL/",
+      "date"     : "June 02, 2025",
+      "locale"   : "nl_NL",
+      "content" :  "We twijfelden over hoe we onze laatste dag met de auto zouden invullen, en uiteindelijk besloten we ‘s ochtends naar de Pico Ruivo te wandelen. Tijdens ons verblijf in november 2024 stond op de officiële website dat enkel het stuk tot de berghut open was. Dat verwarde me echter, want..."
       
        , "coords" : {
           "lat" : 32.814375,
@@ -225,6 +351,20 @@
     } ,
 
     {
+      "title"    : "Avontuur op Madeira: dag 4 - Pico Grande",
+      "url"      : "/nl/reizen/2025/05/Day4NL/",
+      "date"     : "May 07, 2025",
+      "locale"   : "nl_NL",
+      "content" :  "Ik keek zo uit naar deze dag! Puur wandelen naar een van de minder toeristische toppen van het eiland, en een verticale kilometer afleggen, dat was het plan voor vandaag. Het weer zag er fantastisch uit, dus we hadden ons niet meer kunnen wensen. Met versnaperingen ingepakt voor de dag..."
+      
+       , "coords" : {
+          "lat" : 32.814375,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Madeira Adventure: Day 4 - Pico Grande",
       "url"      : "/en/travel/2025/05/Day4/",
       "date"     : "May 07, 2025",
@@ -244,6 +384,20 @@
       "date"     : "March 20, 2025",
       "locale"   : "pl_PL",
       "content" :  "Każdego wieczoru planowaliśmy szczegółowo kolejny dzień, uwzględniając pogodę oraz nasze zmęczenie (chcieliśmy uniknąć najtrudniejszych wędrówek dwa dni z rzędu). Prognoza na następny dzień była najbardziej stabilna, więc postanowiliśmy wykorzystać to na wędrówkę na Pico Grande, która miała być najbardziej wymagającą podczas tych wakacji. Dzisiejszy dzień miał być za to mniej..."
+      
+       , "coords" : {
+          "lat" : 32.814375,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
+      "title"    : "Avontuur op Madeira: dag 3 - de pracht van de wilde westkust ontdekken",
+      "url"      : "/nl/reizen/2025/03/Day3NL/",
+      "date"     : "March 20, 2025",
+      "locale"   : "nl_NL",
+      "content" :  "Elke avond maakten we plannen voor de volgende dag, op basis van het weer en hoe moe we ons die dag voelden. Het idee was om de zwaarste wandeldagen niet meteen na elkaar te laten vallen. Het weer zag er de dag erna stabieler uit, dus we besloten de Pico..."
       
        , "coords" : {
           "lat" : 32.814375,
@@ -281,6 +435,20 @@
     } ,
 
     {
+      "title"    : "Avontuur op Madeira: dag 2 – een kustwandeling en wandelen op het oppervlak van een andere planeet",
+      "url"      : "/nl/reizen/2025/02/Day2NL/",
+      "date"     : "February 18, 2025",
+      "locale"   : "nl_NL",
+      "content" :  "De eerste dag was al intens, maar voor de tweede planden we nog meer: twee compleet verschillende wandelingen, de ruige, kale landschappen van de Drakenstaart en de weelderige kustpracht van de Vereda do Larano. De eerste gaf ons het gevoel dat we op een andere planeet liepen, zeker met de..."
+      
+       , "coords" : {
+          "lat" : 32.814375,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
       "title"    : "Madeira Adventure: Day 2 – coastal hike and walking on the surface of another planet",
       "url"      : "/en/travel/2025/02/Day2/",
       "date"     : "February 18, 2025",
@@ -300,6 +468,20 @@
       "date"     : "February 06, 2025",
       "locale"   : "pl_PL",
       "content" :  "Po naszej pierwszej nocy w Funchal, byliśmy gotowi, aby zacząć zwiedzać Maderę samochodem! Jednak, gdy zobaczyłam, gdzie zaparkowany był nasz wynajęty samochód (na jednej z najbardziej stromych ulic w pobliżu naszego apartamentu), przez chwilę ogarnęła mnie panika. Czy w ogóle uda mi się stamtąd wyjechać? Na szczęście udało się, głównie..."
+      
+       , "coords" : {
+          "lat" : 32.814375,
+          "lng" : -17.144545
+      }
+      
+    } ,
+
+    {
+      "title"    : "Avontuur op Madeira: dag 1 – uitdagend rijden en een eerste UNESCO-site",
+      "url"      : "/nl/reizen/2025/02/Day1NL/",
+      "date"     : "February 06, 2025",
+      "locale"   : "nl_NL",
+      "content" :  "Na onze eerste nacht in Funchal waren we klaar om Madeira met de auto te verkennen! Toen ik echter zag waar onze huurauto geparkeerd stond (in een van de steilste straatjes bij ons appartement), had ik even een moment van paniek. Zou ik daar überhaupt uit kunnen rijden? Gelukkig lukte..."
       
        , "coords" : {
           "lat" : 32.814375,
@@ -337,6 +519,20 @@
     } ,
 
     {
+      "title"    : "Funchal - een prima uitvalsbasis om het eiland van de eeuwige lente te ontdekken",
+      "url"      : "/nl/reizen/2025/01/FunchalNL/",
+      "date"     : "January 19, 2025",
+      "locale"   : "nl_NL",
+      "content" :  "Toen we een bestemming voor onze huwelijksreis moesten kiezen, wilden we iets bijzonders. Deze reis was een zeldzame kans: onze kleuter bleef thuis, dus voor één keer konden we reizen zoals voor we een gezin stichtten. We droomden van een plek met adembenemende wandelroutes, heerlijk eten en ongerepte natuur. Geen..."
+      
+       , "coords" : {
+          "lat" : 32.649987,
+          "lng" : -16.905145
+      }
+      
+    } ,
+
+    {
       "title"    : "Funchal - great starting point for visiting the island of eternal springtime",
       "url"      : "/en/travel/2025/01/Funchal/",
       "date"     : "January 19, 2025",
@@ -346,6 +542,20 @@
        , "coords" : {
           "lat" : 32.649987,
           "lng" : -16.905145
+      }
+      
+    } ,
+
+    {
+      "title"    : "De natuur- en cultuurpracht van Gerês-Xurés ontdekken: een decemberavontuur ten noorden van Braga",
+      "url"      : "/nl/reizen/2024/12/GeresNL/",
+      "date"     : "December 17, 2024",
+      "locale"   : "nl_NL",
+      "content" :  "Het grensoverschrijdende biosfeerreservaat Gerês-Xurés (Reserva de la Biosfera Transfronteriza Gerês-Xurés) strekt zich uit over Galicië (Spanje) en de noordelijke regio van Portugal. Met zijn hoogste toppen, de Nevosa (1.646 m) en de Fontefría, in het hart van het gebergte Serra Gerês-Xurés, werd het in 2009 erkend als UNESCO-biosfeerreservaat. Een zeldzaam..."
+      
+       , "coords" : {
+          "lat" : 41.708669,
+          "lng" : -8.130288
       }
       
     } ,
@@ -365,6 +575,20 @@
     } ,
 
     {
+      "title"    : "Erfgoed en kerstsfeer: een magisch bezoek aan Braga en Guimarães",
+      "url"      : "/nl/reizen/2024/12/BragaNL/",
+      "date"     : "December 14, 2024",
+      "locale"   : "nl_NL",
+      "content" :  "Tijdens een bezoek aan vrienden in Pedralva mocht de op twee na grootste stad van Portugal niet ontbreken. Onze tocht begon met een busrit, en we kwamen aan bij het mooie Parque da Avenida Central, waar een charmante kerstmarkt op ons wachtte. Het park was feestelijk versierd en dompelde ons..."
+      
+       , "coords" : {
+          "lat" : 41.550732,
+          "lng" : -8.426283
+      }
+      
+    } ,
+
+    {
       "title"    : "Heritage and Holidays: A Magical Visit to Braga and Guimarães",
       "url"      : "/en/travel/2024/12/Braga/",
       "date"     : "December 14, 2024",
@@ -374,6 +598,20 @@
        , "coords" : {
           "lat" : 41.550732,
           "lng" : -8.426283
+      }
+      
+    } ,
+
+    {
+      "title"    : "Een regenachtige dag vol avontuur in Porto",
+      "url"      : "/nl/reizen/2024/12/PortoNL/",
+      "date"     : "December 11, 2024",
+      "locale"   : "nl_NL",
+      "content" :  "Mijn reis begon met een ochtendvlucht naar Porto. Met ‘s avonds een trein naar Braga gepland had ik de perfecte gelegenheid om de dag door te brengen in het historische hart van Porto. Na een korte metrorit van 30 minuten kwam ik aan in het station Bolhão. Toen ik naar..."
+      
+       , "coords" : {
+          "lat" : 41.146549,
+          "lng" : -8.606312
       }
       
     } ,
@@ -394,10 +632,24 @@
 
     {
       "title"    : "Rodzinny przewodnik po Walencji: podwodny świat i klimatyczne stare miasto",
-      "url"      : "/pl/podr%C3%B3%C5%BCe/2024/11/Walencia/",
+      "url"      : "/pl/podroze/2024/11/Walencia/",
       "date"     : "November 08, 2024",
       "locale"   : "pl_PL",
       "content" :  "Nasz pobyt w Platja de Gandia połączyliśmy z jednodniową wycieczką do Walencji. Tym razem odkrywamy tajemnice największego w Europie oceanarium i łączymy to ze spacerem po futurystycznych Ogrodach Turii. Po raz drugi zaglądamy do Walencji dzień przed lotem powrotnym, by poznać jej historyczne centrum. W tym poście opiszemy praktyczne wskazówki..."
+      
+       , "coords" : {
+          "lat" : 39.479255,
+          "lng" : -0.382295
+      }
+      
+    } ,
+
+    {
+      "title"    : "Valencia met het gezin: oceaanavonturen, cultuur en groene ontsnappingen",
+      "url"      : "/nl/reizen/2024/11/ValenciaNL/",
+      "date"     : "November 08, 2024",
+      "locale"   : "nl_NL",
+      "content" :  "We combineerden ons verblijf in Platja de Gandia met een daguitstap naar het Oceanogràfic, een oceanarium in de schitterende Turiatuinen in het hart van Valencia. Meer details over hoe we er geraakten, vind je in het praktische gedeelte onderaan deze post. Ben je op zoek naar een onvergetelijke ervaring met..."
       
        , "coords" : {
           "lat" : 39.479255,
@@ -422,10 +674,24 @@
 
     {
       "title"    : "Nadmorskie miasto Platja de Gandia – świetny kierunek na wakacje z dziećmi",
-      "url"      : "/pl/podr%C3%B3%C5%BCe/2024/10/Gandia_Cullera-miasto/",
+      "url"      : "/pl/podroze/2024/10/Gandia_Cullera-miasto/",
       "date"     : "October 05, 2024",
       "locale"   : "pl_PL",
       "content" :  "Platja de Gandia to przyjazna rodzinom nadmorska miejscowość na wschodnim wybrzeżu Hiszpanii, idealna na spokojne wakacje z dziećmi. W tym wpisie dzielimy się informacjami o plażach, jednodniowych wycieczkach do Cullery i Walencji oraz praktycznymi wskazówkami dotyczącymi transportu. Jeśli marzy Wam się połączenie wypoczynku na plaży ze zwiedzaniem większego miasta, pobyt..."
+      
+       , "coords" : {
+          "lat" : 39.010755,
+          "lng" : -0.167208
+      }
+      
+    } ,
+
+    {
+      "title"    : "Kuststadje Platja de Gandia, een topbestemming voor vakantie met kinderen",
+      "url"      : "/nl/reizen/2024/10/Gandia_CulleraNL/",
+      "date"     : "October 05, 2024",
+      "locale"   : "nl_NL",
+      "content" :  "Platja de Gandia is een gezinsvriendelijk strandstadje aan de oostkust van Spanje, perfect voor een ontspannen vakantie met kinderen. In deze post delen we de stranden, daguitstappen naar Cullera en Valencia, en praktische tips over vervoer. Wil je strandvakantie combineren met wat stadsbezoek, dan is een verblijf in Platja de..."
       
        , "coords" : {
           "lat" : 39.010755,
@@ -463,6 +729,20 @@
     } ,
 
     {
+      "title"    : "De geheimen van de tulp ontdekken in Nederland",
+      "url"      : "/nl/reizen/2024/05/Lisse-NetherlandsNL/",
+      "date"     : "May 10, 2024",
+      "locale"   : "nl_NL",
+      "content" :  "In Nederland is april de beste maand om de prachtige Hollandse tulpen te zien. We propten een bezoek aan de Keukenhof, een fietstocht door de tulpenvelden en de festiviteiten van Koningsdag in één lang weekend. Lees verder en ontdek wat we allemaal over deze iconische bloemen leerden! Tulpen komen oorspronkelijk..."
+      
+       , "coords" : {
+          "lat" : 52.260121,
+          "lng" : 4.555686
+      }
+      
+    } ,
+
+    {
       "title"    : "Discovering the secrets of tulips in the Netherlands",
       "url"      : "/en/travel/2024/05/Lisse-Netherlands/",
       "date"     : "May 10, 2024",
@@ -482,6 +762,20 @@
       "date"     : "December 14, 2023",
       "locale"   : "pl_PL",
       "content" :  "Mały park z pozostałościami archeologicznymi obok Muzeum Historii Marsylii to miejsce, gdzie rozpoczęła się historia tego miasta. To właśnie tutaj, w tym konkretnym miejscu, pierwsi greccy osadnicy z Focji tchnęli życie w to miasto około 600 roku p.n.e., zakładając podwaliny pod to, co miało stać się tętniącym życiem portem Marsylii...."
+      
+       , "coords" : {
+          "lat" : 43.297046,
+          "lng" : 5.37468
+      }
+      
+    } ,
+
+    {
+      "title"    : "Weekend in Marseille: de oudste stad van Frankrijk verkennen",
+      "url"      : "/nl/reizen/2023/12/Marseille-FranceNL/",
+      "date"     : "December 14, 2023",
+      "locale"   : "nl_NL",
+      "content" :  "Het kleine park met archeologische resten naast het geschiedenismuseum van Marseille is de plek waar het verhaal van Marseille begon. Hier, precies op deze plaats, bliezen de eerste Griekse kolonisten uit Phocaea de stad rond 600 v.Chr. leven in en legden ze de wortels van wat de bruisende haven van..."
       
        , "coords" : {
           "lat" : 43.297046,

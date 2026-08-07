@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Angkor Wat: rozwój oraz upadek imperium Khmerów"
+description: "Trzy dni na rowerze po Angkorze: rozwój i upadek imperium Khmerów, wybór świątyń i sposoby na radzenie sobie z upałem."
 date:   2018-10-11 08:43:59
 author: Monika Suchoszek
 categories: podroze

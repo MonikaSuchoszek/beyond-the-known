@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Don Det, czarujące wrota Laosu"
+description: "Przekraczanie granicy z Laosem autobusem, busem i łódką z Siem Reap: jak wygląda transfer i co czeka na wyspie Don Det na Mekongu."
 date:   2018-10-21 08:43:59
 author: Monika Suchoszek
 categories: podroze

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Weekend trip to Kuala Lumpur"
+description: "Seven hours by bus from Singapore for one weekend: the three parts of Kuala Lumpur we managed to see between downpours and hotel trouble."
 date:   2018-01-29 08:43:59
 author: Monika Suchoszek
 categories: travel

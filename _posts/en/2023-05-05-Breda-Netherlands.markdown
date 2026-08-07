@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Peaceful Dutch countryside close to Belgium border"
+description: "A long May weekend in the countryside around Breda: farmhouses, quiet walking and cycling routes, and a very peaceful stretch of border."
 date:   2023-05-05 08:43:59
 author: Monika Suchoszek
 categories: travel

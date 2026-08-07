@@ -1,0 +1,31 @@
+{%- comment -%}
+Works out which locales actually have a counterpart for this page, matched on
+post_id for posts and pages, otherwise falling back to the locale's index.
+
+Sets `available_list`: an array of "<locale>~<url>" entries, in site.languages
+order. Renders nothing itself. Used by header.html for the language switcher and
+by head.html for the rel="alternate" hreflang annotations, so that the two can
+never disagree about what the translations of a page are.
+
+URLs come out in canonical form, since that is what hreflang has to point at and
+the switcher may as well link straight there too.
+{%- endcomment -%}
+{%- assign available = '' -%}
+{%- for language in site.languages -%}
+	{%- assign lang_url = '' -%}
+	{%- if page.post_id -%}
+		{%- for post in site.posts -%}
+			{%- if post.post_id == page.post_id and post.locale == language.locale -%}{%- assign lang_url = post.url -%}{%- endif -%}
+		{%- endfor -%}
+		{%- for translated_page in site.pages -%}
+			{%- if translated_page.post_id == page.post_id and translated_page.locale == language.locale -%}{%- assign lang_url = translated_page.url -%}{%- endif -%}
+		{%- endfor -%}
+	{%- else -%}
+		{%- assign lang_url = language.index -%}
+	{%- endif -%}
+	{%- if lang_url != '' -%}
+		{%- include canonical_url.html url=lang_url -%}
+		{%- capture available -%}{{ available }}{{ language.locale }}~{{ canonical_path }}|{%- endcapture -%}
+	{%- endif -%}
+{%- endfor -%}
+{%- assign available_list = available | split: '|' -%}

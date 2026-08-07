@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Obchody Nowego Roku w Laosie"
+description: "Pi Mai Lao, laotański Nowy Rok: obchody w najgorętszym miesiącu, darmowy wstęp do świątyń i złota stupa Pha That Luang w Vientiane."
 date:   2018-11-10 08:43:59
 author: Monika Suchoszek
 categories: podroze

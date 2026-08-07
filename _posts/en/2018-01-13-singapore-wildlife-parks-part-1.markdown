@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wildlife parks in Singapore (part 1)"
+description: "Jurong Bird Park and its walk-through aviaries of 5000 birds: the first of Singapore's four wildlife parks, and what surprised us most."
 date:   2018-01-13 08:43:59
 author: Monika Suchoszek
 categories: travel

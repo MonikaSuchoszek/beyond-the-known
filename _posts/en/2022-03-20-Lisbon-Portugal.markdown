@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Lisbon with a Little One: Our First Family Trip Abroad"
+description: "Our first trip abroad with a baby: how Lisbon held up as a destination at the end of maternity leave, and what we actually managed to see."
 date:   2022-03-20 08:43:59
 author: Monika Suchoszek
 categories: travel

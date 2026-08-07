@@ -2,13 +2,14 @@
 layout: post
 
 title:  "A Stay in Massa and a Day Trip to Pisa"
+description: "Marina di Massa as a quieter base on the Tuscan coast, with an easy day trip to Pisa: what it is like with a toddler, and what it costs."
 date:   2026-02-02 08:43:59
 author: Monika Suchoszek
 categories: travel
 tags:	Italy Massa
 cover:  "/assets/Italy/Pisa/20251019_143343_01.jpg"
 thumbnail:  "/assets/thumbnails/Pisa.JPG"
-post_id: italy_overview
+post_id: italy_massa
 coords:
   lat: 43.715680
   lng: 10.397955

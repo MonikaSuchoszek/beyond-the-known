@@ -8,7 +8,6 @@ Built with these awesome libraries:
 * [Bitters][bitters]
 * [Refills][refills]
 * [Font Awesome][fontawesome]
-* [HighlightJS][highlightjs]
 * [Lightbox][lightbox]
 
 Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages](http://bencentra.github.io/centrarium/). I also use it for [my own website][bencentra].
@@ -24,7 +23,6 @@ This theme comes with a number of features, including:
 * Cover images for your homepage and blog posts
 * Pagination enabled by default
 * Archiving of posts by categories and tags
-* Syntax highlighting for code snippets
 * Disqus integration for post comments
 * Lightbox for viewing full-screen photos and albums
 * Google Analytics with custom page name tracking
@@ -114,27 +112,6 @@ To fully disable the archive, remove the __jekyll-archives__ section AND remove 
 __NOTE:__ the Jekyll Archive gem is NOT included with GitHub pages! Disable the archive feature if you intend to deploy your site to GitHub pages. [Here is a guide](http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html) on how you can use the `jekyll archive` gem with GitHub pages. The general gist: compile the Jekyll site locally and then push that compiled site to GitHub.
 
 A sitemap is also generated using [jekyll-sitemap][sitemap].
-
-### Syntax Highlighting Settings
-
-Inside of a post, you can enable syntax highlighting with the `{% highlight <language> %}` Liquid tag. For example:
-
-```
-{% highlight javascript %}
-function demo(string, times) {
-  for (var i = 0; i < times; i++) {
-    console.log(string);
-  }
-}
-demo("hello, world!", 10);
-{% endhighlight %}
-```
-
-You can change the [HighlightJS theme][highlightjs_theme] in `_config.yml`:
-
-```yml
-highlightjs_theme: "monokai_sublime"
-```
 
 ### Disqus Settings
 
@@ -227,8 +204,6 @@ MIT. See [LICENSE.MD](https://github.com/bencentra/centrarium/blob/master/LICENS
 [bitters]: http://bitters.bourbon.io/
 [refills]: http://refills.bourbon.io/
 [fontawesome]: http://fortawesome.github.io/Font-Awesome/
-[highlightjs]: https://highlightjs.org/
-[highlightjs_theme]: https://highlightjs.org/static/demo/
 [lightbox]: http://lokeshdhakar.com/projects/lightbox2/
 [cover]: https://www.flickr.com/photos/79666107@N00/3796678503/in/photolist-6MuYfc-61Rtft-8XzPmY-a6Cozm-54eSMs-6oMJmk-aepZQq-9YkPHp-fiAEGE-dVP4Z5-oxPyJP-atKUFJ-9YHWA5-9YF2f2-9YF2gR-9YHVGN-9YHVvs-qZYYQ6-4JqP2i-a2peGy-9YHVUm-9YHVF7-9YHVCL-9YF3NK-cYteMo-aiPmb9-69dtAi-9YF21x-4aWpmn-7SLiUL-77pqVX-8vXbYv-4HGDSH-a2h5P1-8LsZrQ-9aj1ez-auPZ7q-9YHVMd-9YF2bi-9YF23D-8LpWpn-9an6KL-9YHVZL-dqZ3Cz-2GuvnX-9YHWUo-9YHVWd-p5Roh5-i1zTbv-6sYrUT
 [disqus]: https://disqus.com/

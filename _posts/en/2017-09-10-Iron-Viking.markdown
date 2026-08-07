@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mud, sweat and pain... a lot of pain!"
+description: "A full marathon with more than 100 obstacles in under seven hours: how we survived the Iron Viking Water Edition in Belgium, mud and all."
 date:   2017-09-10 08:43:59
 author: Monika Suchoszek
 categories: sports

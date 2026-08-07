@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hiking in Georgia – from Mestia to Zardlashi and Murshkeli villages"
+description: "Day one of the trek towards Ushguli: clear views of Mt Ushba, a wild herd of horses and the Svan villages of Zardlashi and Murshkeli."
 date:   2017-10-10 08:43:59
 author: Monika Suchoszek
 categories: travel

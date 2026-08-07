@@ -2,6 +2,7 @@
 layout: post
 
 title:  "A Rainy Day Adventure in Porto" 
+description: "One rainy day between a morning flight and an evening train: the Bolhao area, the historic centre and how to enjoy Porto in the drizzle."
 date:   2024-12-11 08:43:59
 author: Monika Suchoszek
 categories: travel

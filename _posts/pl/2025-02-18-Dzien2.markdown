@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Przygoda na Maderze: Dzień 2 – od spaceru nad oceanem po marsjański krajobraz, dwie twarze wyspy."
+description: "Dwie zupełnie różne wędrówki jednego dnia: surowy Półwysep św. Wawrzyńca o wschodzie słońca i zielony nadmorski szlak Vereda do Larano."
 date:   2025-02-18 08:43:59
 author: Monika Suchoszek
 categories: podroze

@@ -4,17 +4,50 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {%- comment -%}
+  Generated listing pages (category, year archive, tag) carry their own
+  localised `description` set by their generator plugin; hand-written pages set
+  one in front matter; posts fall back to their excerpt.
+
+  The last resort is `items_text.credit` rather than `site.description`, which
+  is English-only: without it every Polish and Dutch page without an excerpt
+  described itself in English. `page_locale` is assigned here, before the
+  description, because the social cards further down reuse it.
+  {%- endcomment -%}
+  {%- assign page_locale = page.locale | default: site.languages[0].locale -%}
+  {%- assign items_text = site.data.translations[page_locale] -%}
+  {%- assign site_description = items_text.credit | default: site.description -%}
+  {%- if page.description and page.description != '' -%}
+    {%- assign meta_description = page.description | strip_html | strip_newlines | truncate: 160 -%}
+  {%- elsif page.excerpt -%}
+    {%- assign meta_description = page.excerpt | strip_html | strip_newlines | truncate: 160 -%}
+  {%- else -%}
+    {%- assign meta_description = site_description -%}
+  {%- endif -%}
+  {%- comment -%}
+  Every page of a paginated index renders the same front matter, so without a
+  suffix /page/2/ and /page/3/ describe themselves identically to /.
+  {%- endcomment -%}
+  {%- if paginator and paginator.page > 1 -%}
+    {%- assign page_suffix = items_text.page_number | replace: '%{num}', paginator.page -%}
+    {%- assign meta_description = meta_description | append: ' (' | append: page_suffix | append: ')' -%}
+  {%- endif -%}
+  <meta name="description" content="{{ meta_description }}">
+  {% if page.noindex %}<meta name="robots" content="noindex, follow">{% endif %}
   {% if site.name %}
   <meta name="author" content="{{ site.name }}">
   <meta name="copyright" content="&copy; {{ site.name }} {{ site.time | date: '%Y' }}">
   {% endif %}
 
+  {%- comment -%}
+  Third-party libraries are vendored under /assets/vendor rather than loaded
+  from a CDN: it removes three extra DNS lookups and TLS handshakes from the
+  critical path, and pins the versions so the site cannot change behaviour
+  without a commit. Upgrading means replacing the files there.
+  {%- endcomment -%}
   <!-- External libraries -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/{{ site.highlightjs_theme }}.min.css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
-	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="stylesheet" href="{{ "/assets/vendor/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/vendor/lightbox2/css/lightbox.min.css" | prepend: site.baseurl }}">
 
   <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
   <link rel="shortcut icon" href="{{ "/assets/icons/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
@@ -37,41 +70,155 @@
   <meta name="msapplication-TileImage" content="{{ "/assets/icons/ms-icon-144x144.png" | prepend: site.baseurl }}">
   <meta name="theme-color" content="#ffffff">
 
-  {% if site.protocols.fb_image %}
+  {%- comment -%}
+  Canonical URL and the list of this page's translations. Both are computed
+  here, before the social metadata, because the cards need them too: og:url has
+  to be the canonical URL (otherwise Facebook treats /foo and /foo/index.html as
+  two separate objects with separate like counts) and og:locale:alternate is the
+  same locale list the hreflang block below emits.
+
+  alternates.html loops over every post once, so it is included exactly once per
+  page and both blocks read the `available_list` it leaves behind.
+  {%- endcomment -%}
+  {%- include canonical_url.html url=page.url -%}
+  {%- assign page_canonical = canonical_path -%}
+  {%- assign page_url_absolute = page_canonical | prepend: site.baseurl | prepend: site.url -%}
+  {%- include alternates.html -%}
+  {%- comment -%}
+  Whether that list is a real set of translations of *this* page rather than
+  alternates.html's locale-index fallback: true exactly when the list contains
+  this page itself. Gates both og:locale:alternate and the hreflang set, since
+  neither should claim a category listing is a translation of another locale's
+  index.
+  {%- endcomment -%}
+  {%- assign has_self = false -%}
+  {%- for entry in available_list -%}
+    {%- assign parts = entry | split: '~' -%}
+    {%- if parts[1] == page_canonical -%}{%- assign has_self = true -%}{%- endif -%}
+  {%- endfor -%}
+
+  {%- comment -%}
+  Social sharing image. _plugins/social_image_generator.rb derives a 1200x630
+  JPEG from every post cover and exposes it as `page.social_image`; the same
+  plugin makes a site-wide one from site.cover and leaves it in
+  `site.social_image.default`. Both are the dimensions the scrapers want, so the
+  width/height/type triplet is accurate rather than the logo's hardcoded
+  612x605. `site.protocols.fb_image` remains the last-resort fallback, and keeps
+  its own declared dimensions.
+  {%- endcomment -%}
+  {%- assign og_image = page.social_image | default: site.social_image.default -%}
+  {%- if og_image -%}
+    {%- assign og_image_type = 'image/jpeg' -%}
+    {%- assign og_image_width = site.social_image.width -%}
+    {%- assign og_image_height = site.social_image.height -%}
+  {%- else -%}
+    {%- assign og_image = site.protocols.fb_image -%}
+    {%- assign og_image_type = site.protocols.fb_image_type -%}
+    {%- assign og_image_width = site.protocols.fb_image_width -%}
+    {%- assign og_image_height = site.protocols.fb_image_height -%}
+  {%- endif -%}
+  {%- assign og_image_absolute = og_image | prepend: site.baseurl | prepend: site.url -%}
+  {%- assign og_title = page.title | default: site.title -%}
+  {%- assign og_image_alt = page.cover_alt | default: og_title -%}
+
+  {% if og_image %}
   <!-- Facebook OGP cards -->
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | newline_to_br | strip_newlines | replace: '<br />', ' '| strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta property="og:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
-  <meta property="og:site_name" content="{{ site.title }}" />
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:image" content="{% if page.cover %}{{ page.cover | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.protocols.fb_image | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
-  <meta property="og:image:type" content="{{ site.protocols.fb_image_type }}" />
-  <meta property="og:image:width" content="{{ site.protocols.fb_image_width }}" />
-  <meta property="og:image:height" content="{{ site.protocols.fb_image_height }}" />
+  <meta property="og:site_name" content="{{ site.title | escape }}" />
+  <meta property="og:title" content="{{ og_title | escape }}" />
+  <meta property="og:description" content="{{ meta_description | escape }}" />
+  <meta property="og:url" content="{{ page_url_absolute }}" />
+  <meta property="og:type" content="{% if page.collection == 'posts' %}article{% else %}website{% endif %}" />
+  <meta property="og:locale" content="{{ page_locale }}" />
+  {%- if has_self -%}
+    {%- for entry in available_list -%}
+      {%- assign parts = entry | split: '~' -%}
+      {%- unless parts[0] == page_locale %}
+  <meta property="og:locale:alternate" content="{{ parts[0] }}" />
+      {%- endunless -%}
+    {%- endfor -%}
+  {%- endif %}
+  <meta property="og:image" content="{{ og_image_absolute }}" />
+  <meta property="og:image:alt" content="{{ og_image_alt | escape }}" />
+  {%- if og_image_type %}
+  <meta property="og:image:type" content="{{ og_image_type }}" />
+  {%- endif -%}
+  {%- if og_image_width %}
+  <meta property="og:image:width" content="{{ og_image_width }}" />
+  <meta property="og:image:height" content="{{ og_image_height }}" />
+  {%- endif %}
+  {%- if page.collection == 'posts' %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}" />
+  <meta property="article:modified_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}" />
+  <meta property="article:author" content="{{ page.author | default: site.name | escape }}" />
+  {%- for category in page.categories %}
+  <meta property="article:section" content="{{ category | category_label: page.locale | escape }}" />
+  {%- endfor -%}
+  {%- for tag in page.tags %}
+  <meta property="article:tag" content="{{ tag | escape }}" />
+  {%- endfor -%}
+  {%- endif %}
   {% endif %}
 
-  {% if site.protocols.twitter_image %}
+  {% if og_image %}
   <!-- Twitter: card tags -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | newline_to_br | strip_newlines | replace: '<br />', ' '| strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.cover %}{{ page.cover | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.protocols.twitter_image | prepend: site.baseurl | prepend: site.url }}{% endif %}">
-  <meta name="twitter:url" content="{% if page.url %}{{ site.url }}{{ page.url }}{% else %}{{ site.url }}{% endif %}">
-  {% endif %}
-
-  {% if protocols.os_repo and protocols.os_rcs_type and protocols.os_src %}
-  <!-- Open Source Protocol -->
-  <link rel="profile" href="http://osprotocol.com" />
-  <meta property="os:repo" content="{{ protocols.os_repo }}" />
-  <meta property="os:rcs_type" content="{{ protocols.os_rcs_type }}" />
-  <meta property="os:src" content="{{ protocols.os_src }}" />
+  <meta name="twitter:title" content="{{ og_title | escape }}">
+  <meta name="twitter:description" content="{{ meta_description | escape }}">
+  <meta name="twitter:image" content="{{ og_image_absolute }}">
+  <meta name="twitter:image:alt" content="{{ og_image_alt | escape }}">
+  <meta name="twitter:url" content="{{ page_url_absolute }}">
+  {%- comment -%}
+  Only emitted once real handles are set in _config.yml; X ignores empty ones
+  and an "@" placeholder makes the card validator complain.
+  {%- endcomment -%}
+  {%- if site.protocols.twitter_site %}
+  <meta name="twitter:site" content="{{ site.protocols.twitter_site }}">
+  {%- endif -%}
+  {%- if site.protocols.twitter_creator %}
+  <meta name="twitter:creator" content="{{ site.protocols.twitter_creator }}">
+  {%- endif %}
   {% endif %}
 
   <!-- Site styles -->
   <link rel="stylesheet" href="{{ "/pagefind/pagefind-ui.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="canonical" href="{{ page_url_absolute }}">
+
+  {%- comment -%}
+  hreflang annotations, built from the same locale→URL list the language switcher
+  uses, so the two can't drift apart and the set stays reciprocal between
+  translations: every version of a page emits the same list, pointing at all the
+  others and at itself.
+
+  Only emitted when that list contains this page itself, since hreflang has to be
+  self-referential or search engines discard the whole set. Category, tag and
+  paginated pages have no post_id, so alternates.html falls back to the locale
+  indexes for them — the right destination for the switcher, but not a
+  translation of the page, so the guard drops the annotations there. The locale
+  indexes themselves do appear in that fallback list, so they stay annotated.
+
+  x-default is the first locale in site.languages that has a version of this
+  page, i.e. English wherever an English version exists. `has_self` is computed
+  once, up with the alternates include.
+  {%- endcomment -%}
+  {%- if has_self -%}
+  {%- for entry in available_list -%}
+    {%- assign parts = entry | split: '~' -%}
+    {%- assign lang = parts[0] | split: '_' | first %}
+  <link rel="alternate" hreflang="{{ lang }}" href="{{ parts[1] | prepend: site.baseurl | prepend: site.url }}">
+  {%- endfor -%}
+  {%- assign default_parts = available_list[0] | split: '~' %}
+  <link rel="alternate" hreflang="x-default" href="{{ default_parts[1] | prepend: site.baseurl | prepend: site.url }}">
+  {%- endif %}
+  {%- comment -%}
+  Each locale has its own feed (see feed_url.html); point readers at the one for
+  the language they are on rather than the mixed-language English feed.
+  {%- endcomment -%}
+  {%- include feed_url.html locale=page_locale %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" hreflang="{{ feed_lang }}" href="{{ feed_path | prepend: site.baseurl | prepend: site.url }}" />
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+  <!-- Structured data -->
+  {%- include schema.html -%}
 
   <!-- PageFind -->
   <script src="{{ "/pagefind/pagefind-ui.js" | prepend: site.baseurl }}" type="text/javascript"></script>

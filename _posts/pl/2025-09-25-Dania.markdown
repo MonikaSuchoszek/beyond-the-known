@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Rodzinna objazdówka autem po Danii – 10 dni pełnych przygód"
+description: "Dziesięć dni objazdówki po Danii w sierpniu z dzieckiem: 18-24 stopnie, nasza trasa i dlaczego było to lepsze niż kolejne upalne wakacje."
 date:   2025-09-25 08:43:59
 author: Monika Suchoszek
 categories: podroze

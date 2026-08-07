@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Funchal – świetny punkt wypadowy do zwiedzania wyspy wiecznej wiosny"
+description: "Dlaczego wybraliśmy Maderę na podróż poślubną i co Funchal oferuje jako baza wypadowa do zwiedzania wyspy wiecznej wiosny."
 date:   2025-01-19 08:43:59
 author: Monika Suchoszek
 categories: podroze

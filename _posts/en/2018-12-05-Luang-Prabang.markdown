@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Luang Prabang, charming river bank and waterfalls"
+description: "Rice paddies, a landslide across the road and a beautiful river bank: the journey from Vang Vieng to Luang Prabang and its waterfalls."
 date:   2018-12-05 08:43:59
 author: Monika Suchoszek
 categories: travel

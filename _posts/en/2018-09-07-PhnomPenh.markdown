@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Phnom Penh, capital of Cambodia"
+description: "An unreliable bus, tuk-tuk drivers quoting tourist prices, and what we found in the Cambodian capital once we finally reached our hotel."
 date:   2018-09-07 08:43:59
 author: Monika Suchoszek
 categories: travel

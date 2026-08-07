@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Practical information: Annapurna Circuit"
+description: "What to pack and expect on the Annapurna Circuit without guide or porter: permits, navigation, costs and the gear we were glad to carry."
 date:   2018-07-11 08:43:59
 author: Monika Suchoszek
 categories: travel

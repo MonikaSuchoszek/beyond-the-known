@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Miasteczka w okolicy jeziora Como"
+description: "Como, Lecco, Mediolan, Morbegno i Sondrio w dziesięć dni: co oferuje każde z miast, jak się między nimi poruszać i gdzie zjeść lody."
 date:   2019-10-17 08:43:59
 author: Monika Suchoszek
 categories: podroze

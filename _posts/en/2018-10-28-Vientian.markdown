@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Vientiane, capital with an endless number of temples"
+description: "A seven-hour local bus with no stops, and the seemingly endless temples of Vientiane that made the journey to the Lao capital worth it."
 date:   2018-10-28 08:43:59
 author: Monika Suchoszek
 categories: travel

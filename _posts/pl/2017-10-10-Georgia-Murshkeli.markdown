@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Trekking - dzień 4 – w kierunku wiosek Zardlashi i Murshkeli"
+description: "Pierwszy odcinek szlaku do Ushguli: widoki na Uszbę, stado dzikich koni i swańskie wioski Zardlashi oraz Murshkeli."
 date:   2017-10-10 08:43:59
 author: Monika Suchoszek
 categories: podroze

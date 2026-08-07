@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Vientiane, stolica kraju z nieskończoną ilością świątyń"
+description: "Siedem godzin lokalnym autobusem bez postoju i niekończące się świątynie Vientiane, które wynagrodziły nam trudy podróży."
 date:   2018-10-28 08:43:59
 author: Monika Suchoszek
 categories: podroze

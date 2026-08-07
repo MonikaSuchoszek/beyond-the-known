@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Zeeland again! Day trip from Nieuwvliet to Vlissingen"
+description: "Four days camping in Zeeland after Luxembourg turned orange: the coastal walk from Nieuwvliet to Vlissingen and how scarce pitches were."
 date:   2020-07-19 08:43:59
 author: Monika Suchoszek
 categories: travel

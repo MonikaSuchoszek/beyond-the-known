@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Buddha Park w stolicy Laosu, Vientiane"
+description: "Jak dojechać do Buddha Park z centrum Vientiane transportem publicznym za grosze i jak wygląda ten dziwny ogród betonowych rzeźb."
 date:   2018-10-31 08:43:59
 author: Monika Suchoszek
 categories: podroze

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Marina Bay and Gardens by the Bay, first glance at Singapore!"
+description: "Arriving on NTU's rainforest-edge campus and heading straight for Marina Bay and Gardens by the Bay: our first impressions of Singapore."
 date:   2018-01-11 08:43:59
 author: Monika Suchoszek
 categories: travel

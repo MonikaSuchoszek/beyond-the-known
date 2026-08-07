@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hiking in Georgia – Mestia"
+description: "Snow in early autumn, a 10 km walk up to the church above Mestia, and the mountain airport that makes this Svaneti village so striking."
 date:   2017-10-02 08:43:59
 author: Monika Suchoszek
 categories: travel

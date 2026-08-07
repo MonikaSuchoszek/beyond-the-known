@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hiking in Georgia – Heshkili"
+description: "Our first hike in Svaneti: a 7 km walk from Mestia towards the Hatsvali cable car and the Heshkili huts, in autumn colours and low cloud."
 date:   2017-10-01 08:43:59
 author: Monika Suchoszek
 categories: travel

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Rezerwaty przyrody w Singapurze, część 2"
+description: "Singapurskie Zoo, gdzie zamiast ogrodzeń są rowy, a lemury i gibony poruszają się wśród zwiedzających: druga część wizyty w parkach."
 date:   2018-01-14 08:43:59
 author: Monika Suchoszek
 categories: podroze

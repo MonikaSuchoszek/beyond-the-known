@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Kolejny dzień w Zeeland, spacer plażą do Cadzand-Bad, przy granicy z Belgią"
+description: "Spacer plażą do Cadzand-Bad obok rezerwatu Zwarte Polder: owce, mewy i chłodny, bezchmurny dzień na holenderskim wybrzeżu."
 date:   2020-08-09 08:43:59
 author: Monika Suchoszek
 categories: podroze

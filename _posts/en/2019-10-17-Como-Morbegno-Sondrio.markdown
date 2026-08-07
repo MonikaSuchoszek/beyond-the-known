@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cities in the area of Como Lake"
+description: "Como, Lecco, Milan, Morbegno and Sondrio in ten days: what each city offers, how to travel between them, and where the best gelato was."
 date:   2019-10-17 08:43:59
 author: Monika Suchoszek
 categories: travel

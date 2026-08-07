@@ -3,6 +3,7 @@ layout: default
 cover:  "/assets/tags_header.jpg"
 ---
 {% assign items_text = site.data.translations[page.locale] %}
+{% assign tag_posts = site.posts | where: "tags", page.tag | where: "locale", page.locale %}
 <div class="post" data-pagefind-ignore>
 
 <div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
@@ -16,13 +17,7 @@ cover:  "/assets/tags_header.jpg"
 <div class="wrapper">
 
   <article class="post-content">
-    <ul class="posts-list">
-      {% for post in site.posts %}
-			{% if post.tags contains page.tag and post.locale == page.locale %}
-      <li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><span class="post-date"> - {{ post.date | date: "%d-%m-%Y" }}</span></li>
-			{%endif%}
-			{% endfor %}
-    </ul>
+    {% include post_listing.html posts=tag_posts more_label=items_text.more_with_tag group_by_year="true" %}
   </article>
 
 </div>

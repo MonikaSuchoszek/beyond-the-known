@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Przygoda na Maderze: Dzień 1 – Wyzwania na drodze oraz zwiedzanie obiektu UNESCO"
+description: "Pierwszy dzień na Maderze: wyjazd autem z najbardziej stromej uliczki w Funchal i pierwszy obiekt z listy UNESCO na wyspie."
 date:   2025-02-06 08:43:59
 author: Monika Suchoszek
 categories: podroze

@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Family Road Trip in Denmark – 10 Days of Cool Adventures"
+description: "Ten days driving through Denmark in August with a child: 18-24C the whole time, the route we followed and why it beat another hot summer."
 date:   2025-09-25 08:43:59
 author: Monika Suchoszek
 categories: travel

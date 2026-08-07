@@ -2,6 +2,7 @@
 layout: post
 
 title:  "The Perfect North Portugal Road Trip – Cities, Nature & Food"
+description: "A two-week Easter road trip through northern Portugal: the route between cities, beaches and mountains, plus flights, driving and food."
 date:   2026-04-19 08:43:59
 author: Monika Suchoszek
 categories: travel

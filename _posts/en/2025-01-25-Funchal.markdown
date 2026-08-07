@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Funchal - great starting point for visiting the island of eternal springtime"
+description: "Why we chose Madeira for a honeymoon without the toddler, and what Funchal offers as a base for hiking the island of eternal spring."
 date:   2025-01-19 08:43:59
 author: Monika Suchoszek
 categories: travel

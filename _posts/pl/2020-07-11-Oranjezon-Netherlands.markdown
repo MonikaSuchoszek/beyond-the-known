@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Rezerwat przyrody Oranjezon, powrót do wczesnych wakacyjnych wspomnień"
+description: "Pierwsza wycieczka po zniesieniu covidowych restrykcji: wydmy, sosnowy las i prawie pusta plaża w rezerwacie Oranjezon w Zelandii."
 date:   2020-07-11 08:43:59
 author: Monika Suchoszek
 categories: podroze

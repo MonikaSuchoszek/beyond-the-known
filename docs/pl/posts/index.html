@@ -9,18 +9,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Posty</title>
-  <meta name="description" content="A travel blog by Monika Suchoszek.">
+  <title>Posty</title><meta name="description" content="Pełne archiwum bloga Going beyond the known: wszystkie wpisy o podróżach, górach i jedzeniu, od najnowszych.">
+  
   
   <meta name="author" content="Monika Suchoszek">
   <meta name="copyright" content="&copy; Monika Suchoszek 2026">
-  
-
   <!-- External libraries -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/monokai-sublime.min.css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
-	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="stylesheet" href="/assets/vendor/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/vendor/lightbox2/css/lightbox.min.css">
 
   <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
   <link rel="shortcut icon" href="/assets/icons/favicon.ico" type="image/x-icon">
@@ -42,38 +38,67 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/assets/icons/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
-
-  
   <!-- Facebook OGP cards -->
-  <meta property="og:description" content="A travel blog by Monika Suchoszek." />
-  <meta property="og:url" content="https://www.beyond-the-known.eu/pl/posts/">
   <meta property="og:site_name" content="Going beyond the known" />
   <meta property="og:title" content="Posty" />
+  <meta property="og:description" content="Pełne archiwum bloga Going beyond the known: wszystkie wpisy o podróżach, górach i jedzeniu, od najnowszych." />
+  <meta property="og:url" content="https://www.beyond-the-known.eu/pl/posts/" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://www.beyond-the-known.eu/assets/posts_header.jpg" />
-  <meta property="og:image:type" content="image/png" />
-  <meta property="og:image:width" content="612" />
-  <meta property="og:image:height" content="605" />
+  <meta property="og:locale" content="pl_PL" />
+  <meta property="og:locale:alternate" content="en_US" />
+  <meta property="og:locale:alternate" content="nl_NL" />
+  <meta property="og:image" content="https://www.beyond-the-known.eu/assets/social/site-default.jpg" />
+  <meta property="og:image:alt" content="Posty" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
   
 
   
   <!-- Twitter: card tags -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Posty">
-  <meta name="twitter:description" content="A travel blog by Monika Suchoszek.">
-  <meta name="twitter:image" content="https://www.beyond-the-known.eu/assets/posts_header.jpg">
+  <meta name="twitter:description" content="Pełne archiwum bloga Going beyond the known: wszystkie wpisy o podróżach, górach i jedzeniu, od najnowszych.">
+  <meta name="twitter:image" content="https://www.beyond-the-known.eu/assets/social/site-default.jpg">
+  <meta name="twitter:image:alt" content="Posty">
   <meta name="twitter:url" content="https://www.beyond-the-known.eu/pl/posts/">
-  
-
   
 
   <!-- Site styles -->
   <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
   <link rel="canonical" href="https://www.beyond-the-known.eu/pl/posts/">
-  <link rel="alternate" type="application/rss+xml" title="Going beyond the known" href="https://www.beyond-the-known.eu/feed.xml" />
+  <link rel="alternate" hreflang="en" href="https://www.beyond-the-known.eu/posts/">
+  <link rel="alternate" hreflang="pl" href="https://www.beyond-the-known.eu/pl/posts/">
+  <link rel="alternate" hreflang="nl" href="https://www.beyond-the-known.eu/nl/artikels/">
+  <link rel="alternate" hreflang="x-default" href="https://www.beyond-the-known.eu/posts/">
+  <link rel="alternate" type="application/rss+xml" title="Going beyond the known" hreflang="pl-PL" href="https://www.beyond-the-known.eu/pl/feed.xml" />
   <link rel="stylesheet" href="/css/main.css">
 
-  <!-- PageFind -->
+  <!-- Structured data --><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.beyond-the-known.eu/#website",
+      "url": "https://www.beyond-the-known.eu/",
+      "name": "Going beyond the known",
+      "description": "A travel blog by Monika Suchoszek.",
+      "inLanguage": "pl",
+      "publisher": { "@id": "https://www.beyond-the-known.eu/#person" }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.beyond-the-known.eu/#person",
+      "name": "Monika Suchoszek",
+      "url": "https://www.beyond-the-known.eu/",
+      "image": "https://www.beyond-the-known.eu/assets/logo.png",
+      "sameAs": ["https://www.facebook.com/monika.suchoszek", "https://github.com/MonikaSuchoszek"]
+    }
+  ]
+}
+</script>
+<!-- PageFind -->
   <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
 
 </head>
@@ -87,11 +112,13 @@
 		
 		
 		
-    <a href="/pl/index.html" class="logo">
+    <a href="/pl/" class="logo">
       
       <img src="/assets/logo.png" alt="Going beyond the known">
       
     </a>
+		
+		
 		
 		
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
@@ -99,12 +126,12 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-			<li class="nav-link"><a href="/pl/about/">O nas</a><li class="nav-link"><a href="/pl/galeria/">Galeria</a><li class="nav-link"><a href="/pl/mapa/">Mapa</a><li class="nav-link"><a href="/pl/posts/">Posty</a>
-
-			
-					
-					<li class="nav-link"><a href="/posts/" hreflang="en"><img src="/assets/flag-icon-en_US.png" /> English</a></li><li class="nav-link"><a href="/pl/posts/"><img src="/assets/flag-icon-pl_PL.png" /> <strong>Polski</strong></a></li>
-			
+			<li class="nav-link"><a href="/pl/about/">O nas</a><li class="nav-link"><a href="/pl/galeria/">Galeria</a><li class="nav-link"><a href="/pl/mapa/">Mapa</a><li class="nav-link"><a href="/pl/posts/">Posty</a><li class="nav-link lang-switcher" id="js-lang-switcher"><button type="button" class="lang-toggle" id="js-lang-toggle" aria-expanded="false" aria-controls="js-lang-menu">
+					<img src="/assets/flag-icon-pl_PL.png" alt="" />
+					<span class="lang-toggle-name">Polski</span>
+					<i class="fa fa-angle-down lang-caret" aria-hidden="true"></i>
+				</button>
+				<ul class="lang-menu" id="js-lang-menu"><li><a href="/pl/posts/" class="is-current" aria-current="true"><img src="/assets/flag-icon-pl_PL.png" alt="" /> <span>Polski</span> <i class="fa fa-check lang-check" aria-hidden="true"></i></a></li><li><a href="/posts/" hreflang="en"><img src="/assets/flag-icon-en_US.png" alt="" /> <span>English</span></a></li><li><a href="/nl/artikels/" hreflang="nl"><img src="/assets/flag-icon-nl_NL.png" alt="" /> <span>Nederlands</span></a></li></ul></li>
 		  		<li class="nav-link"><a href="#" class="nav-link-search"><i class="fa fa-search" style="width:16px;height:16px"></i></a></li>
 			</ul>
     </nav>
@@ -143,6 +170,12 @@
   
     
   
+    
+  
+    
+  
+    
+  
 
   
 
@@ -156,30 +189,35 @@
     
   
     
+      
+      
 			<h2 id="sport">Sport</h2>
       <p class="desc"><em>Bieganie, wyprawy w góry oraz inne aktywności</em></p>
 			<ul class="posts-list">
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/">Pokhara oraz stolica Nepalu,Kathmandu: co zobaczyć i czego spróbować</a>
 					</strong>
 					<span class="post-date">- 20-07-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/sport/2017/09/Iron-Viking-bieg/">Błoto, pot i ból.... mnóstwo bólu!</a>
 					</strong>
 					<span class="post-date">- 10-09-2017</span>
 				</li>
-				
 			
 			</ul>
 			<hr>
+      
+    
+  
+    
+  
+    
+  
     
   
     
@@ -200,6 +238,12 @@
   
     
   
+    
+  
+    
+  
+    
+  
 
   
 
@@ -211,517 +255,421 @@
     
   
     
-			<h2 id="podroze">Podroze</h2>
+      
+      
+			<h2 id="podroze">Podróże</h2>
       <p class="desc"><em>Wszystko o miejscach, które odwiedziliśmy</em></p>
 			<ul class="posts-list">
 			
-				
+				<li>
+					<strong>
+						<a href="/pl/podroze/2026/06/PonteduLimaPL/">Ponte de Lima – najstarsze miasto Portugalii i dwa piękne szlaki wśród natury</a>
+					</strong>
+					<span class="post-date">- 03-06-2026</span>
+				</li>
+			
 				<li>
 					<strong>
 						<a href="/pl/podroze/2026/05/PG-wybrzeze/">Odkrywając północne wybrzeże Portugalii: Viana do Castelo, Apúlia i Barcelos</a>
 					</strong>
 					<span class="post-date">- 22-05-2026</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2026/04/portugalia/">Idealna objazdówka po północnej Portugalii – miasta, natura i doskonałe jedzenie</a>
 					</strong>
 					<span class="post-date">- 19-04-2026</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2026/02/MassaPL/">Włoskie wybrzeże poza utartym szlakiem: Massa oraz Piza</a>
 					</strong>
 					<span class="post-date">- 02-02-2026</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2026/01/CinqueTerrePL/">Cinque Terre w jeden dzień</a>
 					</strong>
 					<span class="post-date">- 15-01-2026</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2025/12/Italy/">Podróż pociągiem wzdłuż włoskiego wybrzeża: Piza, Cinque Terre i Massa</a>
 					</strong>
 					<span class="post-date">- 05-12-2025</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2025/09/Dania/">Rodzinna objazdówka autem po Danii – 10 dni pełnych przygód</a>
 					</strong>
 					<span class="post-date">- 25-09-2025</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2025/06/Dzien5/">Przygoda na Maderze: Dzień 5 -  Pico Ruivo, Santana oraz opuszczona plaża</a>
 					</strong>
 					<span class="post-date">- 02-06-2025</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2025/05/Dzien4/">Przygoda na Maderze: Dzień 4 - Pico Grande</a>
 					</strong>
 					<span class="post-date">- 07-05-2025</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2025/03/Dzien3/">Przygoda na Maderze: Dzień 3 – Odkrywanie piękna dzikiego zachodniego wybrzeża.</a>
 					</strong>
 					<span class="post-date">- 20-03-2025</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2025/02/Dzien2/">Przygoda na Maderze: Dzień 2 – od spaceru nad oceanem po marsjański krajobraz, dwie twarze wyspy.</a>
 					</strong>
 					<span class="post-date">- 18-02-2025</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2025/02/Dzien-1/">Przygoda na Maderze: Dzień 1 – Wyzwania na drodze oraz zwiedzanie obiektu UNESCO</a>
 					</strong>
 					<span class="post-date">- 06-02-2025</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2025/01/Funchal-PL/">Funchal – świetny punkt wypadowy do zwiedzania wyspy wiecznej wiosny</a>
 					</strong>
 					<span class="post-date">- 19-01-2025</span>
 				</li>
-				
 			
-				
+				<li>
+					<strong>
+						<a href="/pl/podroze/2024/11/Walencia/">Rodzinny przewodnik po Walencji: podwodny świat i klimatyczne stare miasto</a>
+					</strong>
+					<span class="post-date">- 08-11-2024</span>
+				</li>
+			
+				<li>
+					<strong>
+						<a href="/pl/podroze/2024/10/Gandia_Cullera-miasto/">Nadmorskie miasto Platja de Gandia – świetny kierunek na wakacje z dziećmi</a>
+					</strong>
+					<span class="post-date">- 05-10-2024</span>
+				</li>
+			
 				<li>
 					<strong>
 						<a href="/pl/podroze/2024/05/Lisse-Tulipany/">Odkrywanie tajemnic holenderskich tulipanów</a>
 					</strong>
 					<span class="post-date">- 10-05-2024</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2023/12/Marsylia-Francja/">Weekend w Marsyli, najstarszym mieście Francji.</a>
 					</strong>
 					<span class="post-date">- 14-12-2023</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2023/05/Breda-Holandia/">Wiosenna przygoda w okolicy Bredy przy granicy z Belgią</a>
 					</strong>
 					<span class="post-date">- 05-05-2023</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2021/01/Swieta-Brenna2/">Zima odnaleziona! Równica oraz Kotarz, okolica miejscowości Brenna</a>
 					</strong>
 					<span class="post-date">- 25-01-2021</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2021/01/Swieta-Brenna/">W poszukiwaniu oznak zimy na szczytach Błatnia oraz Kotarz, okolica miejscowości Brenna</a>
 					</strong>
 					<span class="post-date">- 10-01-2021</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2020/09/Belgium-Namur/">Wycieczka do stolicy francuskojęzycznej części Belgii oraz ruin klasztoru Villers Abbey</a>
 					</strong>
 					<span class="post-date">- 06-09-2020</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2020/08/Zeeland-Cadzand/">Kolejny dzień w Zeeland, spacer plażą do Cadzand-Bad, przy granicy z Belgią</a>
 					</strong>
 					<span class="post-date">- 09-08-2020</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2020/07/Zeeland-Nieuwvliet/">Zeeland, region w Holandii, który ponownie urzekł nas swoim spokojem. Wycieczka z Nieuwvliet do Vlissingen</a>
 					</strong>
 					<span class="post-date">- 19-07-2020</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2020/07/Oranjezon-Netherlands/">Rezerwat przyrody Oranjezon, powrót do wczesnych wakacyjnych wspomnień</a>
 					</strong>
 					<span class="post-date">- 11-07-2020</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2019/10/Como-Morbegno-Sondrio/">Miasteczka w okolicy jeziora Como</a>
 					</strong>
 					<span class="post-date">- 17-10-2019</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2019/09/Monte-Coltignone/">Nasza druga piesza wycieczka, Monte Coltignone</a>
 					</strong>
 					<span class="post-date">- 27-09-2019</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2019/09/Ferry/">Pływając promem po jeziorze Como</a>
 					</strong>
 					<span class="post-date">- 22-09-2019</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2019/09/Trekking-na-szczyt-Monte-Resegone/">Trekking na szczyt Monte Resegone</a>
 					</strong>
 					<span class="post-date">- 14-09-2019</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2019/08/luxembourg/">Odkrywając skalne labirynty w Małej Szwajcarii</a>
 					</strong>
 					<span class="post-date">- 06-08-2019</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2019/02/Nong_Khiaw/">Nong Khiaw: bajeczne punkty widokowe na szczytach wokół rzeki Nam Ou</a>
 					</strong>
 					<span class="post-date">- 05-02-2019</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2019/01/Muang_Ngoy/">Muang Ngoy: drewniany domek, hamak, motyle oraz rozkoszna cisza</a>
 					</strong>
 					<span class="post-date">- 19-01-2019</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/12/Luang-Prabang/">Luang Prabang, miasto mnichów, urokliwych rzek oraz wodspadów</a>
 					</strong>
 					<span class="post-date">- 05-12-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/11/Vang-Vieng/">Vang Vieng, podążając w kierunku górskiej części Laosu</a>
 					</strong>
 					<span class="post-date">- 20-11-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/11/Lao-New_Year/">Obchody Nowego Roku w Laosie</a>
 					</strong>
 					<span class="post-date">- 10-11-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/10/Buddha-Park/">Buddha Park w stolicy Laosu, Vientiane</a>
 					</strong>
 					<span class="post-date">- 31-10-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/10/Vientian/">Vientiane, stolica kraju z nieskończoną ilością świątyń</a>
 					</strong>
 					<span class="post-date">- 28-10-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/10/DonDet/">Don Det, czarujące wrota Laosu</a>
 					</strong>
 					<span class="post-date">- 21-10-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/">Yummy! Obłędna kuchnia kambodżańska trzymana w sekrecie! :)</a>
 					</strong>
 					<span class="post-date">- 12-10-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/10/Angkor-Wat/">Angkor Wat: rozwój oraz upadek imperium Khmerów</a>
 					</strong>
 					<span class="post-date">- 11-10-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/09/PhnomPenh/">Phnom Penh, zwiedzając stolicę Kambodży</a>
 					</strong>
 					<span class="post-date">- 07-09-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/08/Kampot-Kep/">Wybrzeże Kambodży, Kampot oraz Kep</a>
 					</strong>
 					<span class="post-date">- 12-08-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/07/Sihanoukville/">Nasza przygoda w Kambodży właśnie się rozpoczęła, witaj Sihanoukville!</a>
 					</strong>
 					<span class="post-date">- 28-07-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/">Pokhara oraz stolica Nepalu,Kathmandu: co zobaczyć i czego spróbować</a>
 					</strong>
 					<span class="post-date">- 20-07-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/07/Annapurna-Practical/">Praktyczne informacje o trekkingu wokół Annapurny</a>
 					</strong>
 					<span class="post-date">- 11-07-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/07/AnnapurnaPoonHill/">Trekking wokół Annapurny oraz na Poon Hill</a>
 					</strong>
 					<span class="post-date">- 09-07-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/02/three-days-krakow/">3 dni w Krakowie</a>
 					</strong>
 					<span class="post-date">- 25-02-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/02/few-more-places-in-singapore/">Kolejne miejsca warte odwiedzenia w Singapurze</a>
 					</strong>
 					<span class="post-date">- 02-02-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/01/Weekend-Kuala-Lumpur/">Weekend w stolicy Malezji, Kuala Lumpur</a>
 					</strong>
 					<span class="post-date">- 29-01-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/01/singapore-wildlife-parks-part-2/">Rezerwaty przyrody w Singapurze, część 2</a>
 					</strong>
 					<span class="post-date">- 14-01-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/01/singapore-wildlife-parks-part-1/">Rezerwaty przyrody w Singapurze, cześć 1</a>
 					</strong>
 					<span class="post-date">- 13-01-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/jedzenie/2018/01/chinatown/">Dzielnica Chinatown i Maxwell hawker center</a>
 					</strong>
 					<span class="post-date">- 12-01-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2018/01/first-glance-at-singapore/">Dzielnica Marina Bay, czas zacząć zwiedzanie Singapuru!</a>
 					</strong>
 					<span class="post-date">- 11-01-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2017/10/Georgia-Prometeush-cave/">Jaskinia Prometeusza oraz kaniony, czyli jak spedzić dzień w okolicach Kutaisi</a>
 					</strong>
 					<span class="post-date">- 22-10-2017</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2017/10/Georgia-Koruldi-lakes/">Trekking - dzień 4 – w kierunku jezior Koruldi</a>
 					</strong>
 					<span class="post-date">- 11-10-2017</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2017/10/Georgia-Murshkeli/">Trekking - dzień 4 – w kierunku wiosek Zardlashi i Murshkeli</a>
 					</strong>
 					<span class="post-date">- 10-10-2017</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2017/10/Georgia-Chaaladi/">Trekking - dzień 3 - lodowiec Chaaladi</a>
 					</strong>
 					<span class="post-date">- 03-10-2017</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2017/10/Georgia-Mestia/">Trekking - dzień 2 - okolice Mestii</a>
 					</strong>
 					<span class="post-date">- 02-10-2017</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/2017/10/Georgia-Heshkili/">Trekking - dzień 1 - Heshkili</a>
 					</strong>
 					<span class="post-date">- 01-10-2017</span>
 				</li>
-				
 			
 			</ul>
 			<hr>
-    
-  
-    
-  
-    
-  
-
-  
-
-  
+      
     
   
     
@@ -749,44 +697,75 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      
+      
 			<h2 id="jedzenie">Jedzenie</h2>
-      <p class="desc"><em>interesujące kuchnie świata, których smaku nigdy nie zapomnimy </em></p>
+      <p class="desc"><em>Interesujące kuchnie świata, których smaku nigdy nie zapomnimy</em></p>
 			<ul class="posts-list">
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/jedzenie/2018/10/Cambodian-cuisine/">Yummy! Obłędna kuchnia kambodżańska trzymana w sekrecie! :)</a>
 					</strong>
 					<span class="post-date">- 12-10-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/jedzenie/sport/2018/07/PokharaKathmandu/">Pokhara oraz stolica Nepalu,Kathmandu: co zobaczyć i czego spróbować</a>
 					</strong>
 					<span class="post-date">- 20-07-2018</span>
 				</li>
-				
 			
-				
 				<li>
 					<strong>
 						<a href="/pl/podroze/jedzenie/2018/01/chinatown/">Dzielnica Chinatown i Maxwell hawker center</a>
 					</strong>
 					<span class="post-date">- 12-01-2018</span>
 				</li>
-				
 			
 			</ul>
-			
+			<hr>
+      
+    
+  
+    
+  
+    
+  
     
   
 
   
 
+  
+    
+  
+    
+  
+    
   
     
   
@@ -871,8 +850,7 @@
       </ul>
     </div>
 
-    <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="/feed.xml">via RSS</a></strong></p>
+    <div class="site-signature"><p class="rss-subscribe text"><strong><a href="/pl/feed.xml">Subskrybuj przez RSS</a></strong></p>
       <p class="text">Blog podróżniczy Moniki Suchoszek.</p>
     </div>
 
@@ -883,25 +861,12 @@
 <!-- Scripts -->
  <script data-goatcounter="https://btk.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
-<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-
-<script>
-	AOS.init({
-   once: true,
-   offset: -20,
-   duration: 600
-	});
-</script>
+<script src="/assets/vendor/jquery/jquery-3.4.1.min.js"></script>
+<script src="/assets/vendor/lightbox2/js/lightbox.min.js"></script>
+<script src="/assets/vendor/micromodal/micromodal-0.4.10.min.js"></script>
 
 <script type="text/javascript">
 $(document).ready(function() {
-  // Default syntax highlighting
-  hljs.initHighlightingOnLoad();
-
   // Header
   var menuToggle = $('#js-mobile-menu').unbind();
   $('#js-navigation-menu').removeClass("show");
@@ -912,6 +877,58 @@ $(document).ready(function() {
         $('#js-navigation-menu').removeAttr('style');
       }
     });
+  });
+
+  // Language switcher dropdown
+  var $langSwitcher = $('#js-lang-switcher');
+  var $langToggle = $('#js-lang-toggle');
+
+  function setLangMenu(open) {
+    $langSwitcher.toggleClass('is-open', open);
+    $langToggle.attr('aria-expanded', open ? 'true' : 'false');
+  }
+
+  $langToggle.on('click', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    setLangMenu(!$langSwitcher.hasClass('is-open'));
+  });
+
+  // Click or tap anywhere else closes it.
+  $(document).on('click touchstart', function(e) {
+    if (!$(e.target).closest('#js-lang-switcher').length) {
+      setLangMenu(false);
+    }
+  });
+
+  // Escape closes and returns focus to the toggle.
+  $(document).on('keydown', function(e) {
+    if ((e.key === 'Escape' || e.keyCode === 27) && $langSwitcher.hasClass('is-open')) {
+      setLangMenu(false);
+      $langToggle.focus();
+    }
+  });
+
+  // Arrow-down from the toggle opens the menu and lands on the first entry.
+  $langToggle.on('keydown', function(e) {
+    if (e.key === 'ArrowDown' || e.keyCode === 40) {
+      e.preventDefault();
+      setLangMenu(true);
+      $langSwitcher.find('.lang-menu a').first().focus();
+    }
+  });
+
+  // Arrow keys move between entries once the menu is open.
+  $langSwitcher.on('keydown', '.lang-menu a', function(e) {
+    var $items = $langSwitcher.find('.lang-menu a');
+    var i = $items.index(this);
+    if (e.key === 'ArrowDown' || e.keyCode === 40) {
+      e.preventDefault();
+      $items.eq((i + 1) % $items.length).focus();
+    } else if (e.key === 'ArrowUp' || e.keyCode === 38) {
+      e.preventDefault();
+      if (i === 0) { $langToggle.focus(); } else { $items.eq(i - 1).focus(); }
+    }
   });
 });
 

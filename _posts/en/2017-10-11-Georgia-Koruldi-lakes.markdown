@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hiking in Georgia – to the Koruldi lakes"
+description: "The hardest hike of our stay in Mestia: both routes up to the Koruldi lakes, the climb involved and the panorama over Svaneti at the top."
 date:   2017-10-11 08:43:59
 author: Monika Suchoszek
 categories: travel

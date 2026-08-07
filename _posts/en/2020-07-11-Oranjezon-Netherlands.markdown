@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Oranjezon Natuurgebied: a flashback to my childhood holidays in Poland"
+description: "Our first day trip after the covid restrictions lifted: dunes, pine woods and an almost empty beach in the Oranjezon reserve in Zeeland."
 date:   2020-07-11 08:43:59
 author: Monika Suchoszek
 categories: travel

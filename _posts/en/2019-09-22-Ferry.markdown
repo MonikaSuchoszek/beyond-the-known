@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Varenna-Bellagio-Lierna by ferry"
+description: "A slow day on Lake Como by ferry between Varenna, Bellagio and Lierna, ticket queues and all, that still added up to 16 km of walking."
 date:   2019-09-22 08:43:59
 author: Monika Suchoszek
 categories: travel

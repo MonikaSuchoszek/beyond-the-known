@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Zeeland again! Walk by the beach to Cadzand-Bad"
+description: "Walking to Cadzand-Bad along the beach past the Zwarte Polder reserve: sheep, seagulls and a chilly, cloudless day on the Dutch coast."
 date:   2020-08-09 08:43:59
 author: Monika Suchoszek
 categories: travel

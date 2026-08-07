@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Weekend w stolicy Malezji, Kuala Lumpur"
+description: "Siedem godzin autokarem z Singapuru na jeden weekend: trzy części Kuala Lumpur, które zdążyliśmy zobaczyć mimo ulewy i opóźnień."
 date:   2018-01-29 08:43:59
 author: Monika Suchoszek
 categories: podroze

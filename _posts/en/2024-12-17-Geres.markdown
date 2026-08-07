@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Exploring the Natural and Cultural Wonders of Gerês-Xurés: A December Adventure in North of Braga"
+description: "Iberian wolves, semi-wild Garrano horses and the peaks of the Geres-Xures biosphere reserve on a December trip north of Braga."
 date:   2024-12-17 08:43:59
 author: Monika Suchoszek
 categories: travel

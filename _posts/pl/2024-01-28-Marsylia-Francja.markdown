@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Weekend w Marsyli, najstarszym mieście Francji."
+description: "Weekend w najstarszym mieście Francji: od greckiego portu z 600 roku p.n.e. po Stary Port i dzielnicę Le Panier w dwa dni."
 date:   2023-12-14 08:43:59
 author: Monika Suchoszek
 categories: podroze

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Vang Vieng, podążając w kierunku górskiej części Laosu"
+description: "Vang Vieng słynie z imprez, ale prawdziwym powodem, by się tu zatrzymać, są wapienne wzgórza i jaskinie północnego Laosu."
 date:   2018-11-20 08:43:59
 author: Monika Suchoszek
 categories: podroze

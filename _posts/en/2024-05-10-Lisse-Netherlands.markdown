@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Discovering the secrets of tulips in the Netherlands"
+description: "Keukenhof, cycling through the bulb fields and King's Day in one April weekend, plus the odd history of how tulips reached the Netherlands."
 date:   2024-05-10 08:43:59
 author: Monika Suchoszek
 categories: travel

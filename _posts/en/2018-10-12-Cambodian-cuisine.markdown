@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Yummy! Cambodian cuisine a well-kept secret :)"
+description: "Why Khmer food is almost unknown in Europe, and the Cambodian dishes that convinced us it deserves the reputation Thai cuisine enjoys."
 date:   2018-10-12 08:43:59
 author: Monika Suchoszek
 categories: travel food

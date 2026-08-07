@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Vang Vieng, getting closer to the mountains in north Laos"
+description: "Vang Vieng has a party reputation, but the limestone hills and caves rising from the fields are the real reason to stop in northern Laos."
 date:   2018-11-20 08:43:59
 author: Monika Suchoszek
 categories: travel

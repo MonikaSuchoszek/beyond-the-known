@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Błoto, pot i ból.... mnóstwo bólu!"
+description: "Maraton z ponad 100 przeszkodami w niecałe siedem godzin: jak przetrwaliśmy Iron Viking Water Edition w Belgii, od błota po ostatnią przeszkodę."
 date:   2017-09-10 08:43:59
 author: Monika Suchoszek
 categories: sport

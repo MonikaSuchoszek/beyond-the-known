@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Ponte de Lima – najstarsze miasto Portugalii i dwa piękne szlaki wśród natury"
+description: "Najstarsze miasto Portugalii i dwa piękne szlaki w okolicy, a także wiosenny powrót do Bragi i Guimarães podczas naszej objazdówki."
 date:   2026-06-03 08:43:59
 author: Monika Suchoszek
 categories: podroze
@@ -15,14 +16,14 @@ coords:
 gallery_items:
   - image: "/assets/Portugal/North/Ponte/20260414_153825.jpg"
     gallery_image: "/assets/gallery/Portugal_Ponte.jpg"
-    description: " Built around the 1st century AD as part of imperial Via XIX, connecting the ancient cities of Bracara 
-    Augusta (Braga) and Asturica Augusta. Expanded heavily in the 14th century (notably completed around 1359) with additional 
-    arches added over time due to shifts in the Lima River's course. Today it spans roughly 380 meters total."
+    description: "Most zbudowano około I wieku n.e. jako część cesarskiej drogi Via XIX, łączącej antyczne miasta Bracara
+    Augusta (Braga) oraz Asturica Augusta. W XIV wieku został gruntownie rozbudowany (prace ukończono około 1359 roku), a
+    z biegiem lat dobudowywano kolejne przęsła w związku ze zmianami koryta rzeki Limy. Dziś most liczy w sumie około 380 metrów."
 ---
 
 Kolejne dwa dni spędziliśmy na zwiedzaniu Bragi oraz bardziej turystycznego Guimarães, znanego jako „kolebka Portugalii”. 
-Oba miasta odwiedziłam już w grudniu 2024 roku i możecie o nich przeczytać w moim wcześniejszym wpisie „Magiczna wizyta w 
-Bradze i Guimarães”. [A Magical Visit to Braga and Guimarães]({% post_url en/2024-12-14-Braga %}). 
+Oba miasta odwiedziłam już w grudniu 2024 roku i możecie o nich przeczytać w moim wcześniejszym wpisie
+[Magiczna wizyta w Bradze i Guimarães]({% post_url en/2024-12-14-Braga %}).
 Tym razem jednak niezwykle miło było zobaczyć te same miejsca w zupełnie innej scenerii. Wszędzie kwitły piękne wiosenne 
 kwiaty, które dodawały miastom intensywnych kolorów i sprawiały, że tętniły życiem. W grudniu panowała tam magiczna świąteczna 
 atmosfera, a drzewa pomarańczowe uginały się od owoców, dlatego obie pory roku mają swój niepowtarzalny urok.
@@ -41,8 +42,8 @@ Jesus do Monte oraz Sanktuarium Matki Bożej z Sameiro, a wszystko udało nam si
 </div>
 
 W dniu, w którym pojechaliśmy do Guimarães, pogoda była zdecydowanie najgorsza. Rano padał deszcz, choć prognozy zapowiadały 
-późniejszą poprawę, więc postanowiliśmy mimo wszystko pojechać. Podczas mojej poprzedniej wizyty nie udało mi się zobaczyć 
-Sanktuarium Penha, dlatego tym razem właśnie tam skierowaliśmy się najpierw.
+późniejszą poprawę, więc postanowiliśmy mimo wszystko pojechać. Podczas mojej poprzedniej wizyty nie udało mi się zobaczyć
+**Sanktuarium Penha**, dlatego tym razem właśnie tam skierowaliśmy się najpierw.
 Dla wielu odwiedzających jest to znacznie więcej niż tylko sanktuarium, to jeden z głównych terenów rekreacyjnych Guimarães, 
 gdzie mieszkańcy przychodzą na spacery, pikniki i odpoczynek z dala od miejskiego zgiełku.
 
@@ -137,8 +138,13 @@ Po opuszczeniu parku ruszyliśmy w stronę centrum miasta, przechodząc przez s�
 António da Torre Velha. Most ten jest również silnie związany z Camino de Santiago, ponieważ Ponte de Lima jest jednym z 
 ważniejszych przystanków na portugalskim szlaku prowadzącym do Santiago de Compostela. Spacerując po mieście, zauważyliśmy 
 kilku pielgrzymów odpoczywających w pobliżu mostu i robiących sobie przerwę przed dalszą drogą. Widzieliśmy również tablice 
-oferujące proste i niedrogie noclegi dla pielgrzymów, co uświadomiło nam, że ta wielowiekowa tradycja nadal stanowi bardzo 
+oferujące proste i niedrogie noclegi dla pielgrzymów, co uświadomiło nam, że ta wielowiekowa tradycja nadal stanowi bardzo
 ważną część codziennego życia w Ponte de Lima.
+
+Historyczne centrum jest dość niewielkie, ale pełne zabytkowych kamienic. Część z nich stoi opuszczona lub nie została
+najlepiej odrestaurowana, co jednak tylko dodaje miasteczku charakteru. Minęliśmy fontannę na placu Camões, z którego  
+rozciąga się widok na stary rzymski most, a następnie zagłębiliśmy się w wąskie uliczki prowadzące w stronę niewielkiego,
+zielonego skweru przy Estátua de António Feijó, gdzie ku naszemu zaskoczeniu zobaczyliśmy duże bocianie gniazdo.
 
 <div class="row">
   <img src="/assets/Portugal/North/Ponte/20260414_142355.jpg" class="column-50" />
@@ -196,19 +202,19 @@ w którym samo zwolnienie tempa i cieszenie się chwilą staje się częścią c
 
 __Informacje praktyczne:__
 
-* National Park Lagoas de Bertiandos e São Pedro d'Arcos: wstęp bezpłatny   
+* National Park Lagoas de Bertiandos e São Pedro d'Arcos: wstęp bezpłatny  
 Czas zwiedzania: 2 godziny
-Opisy szlaków znajdują się na [oficjalnej stronie](https://lagoas.cm-pontedelima.pt/informacoes/atividades/percursos-e-rotas/poi/percurso-do-rio-pr-3) gdzie można również pobrać pliki PDF z dokładnym opisem każdej 
+Opisy szlaków znajdują się na [oficjalnej stronie](https://lagoas.cm-pontedelima.pt/informacoes/atividades/percursos-e-rotas/poi/percurso-do-rio-pr-3), gdzie można również pobrać pliki PDF z dokładnym opisem każdej
 trasy w języku angielskim i hiszpańskim (my wybraliśmy szlak PR3).
-
 <img src="/assets/Portugal/North/Ponte/20260414_111808.jpg" />
 
 * Ponte de Lima:
-[Parking](https://maps.app.goo.gl/R2tQfwCrHU248e6q9), wzdłuż rzeki znajduje się wiele darmowych miejsc postojowych. 
-Bezpłatna toaleta publiczna na placu Camões   
-Interpretation Center Of Military History - bilet wstępu:€1   
+[Parking](https://maps.app.goo.gl/R2tQfwCrHU248e6q9), wzdłuż rzeki znajduje się wiele darmowych miejsc postojowych.  
+Bezpłatna toaleta publiczna na placu Camões  
+Interpretation Center Of Military History - bilet wstępu: €1  
+Zwiedzanie Ponte de Lima: 1,5-2 godziny  
 * Restauracja: [NACOS Restaurante](https://maps.app.goo.gl/99sAeSKDWcBVUKgW7)
-* Passadiços e moinhos da Ribeira de S.João: wstęp bezpłatny   
+* Passadiços e moinhos da Ribeira de S.João: wstęp bezpłatny  
 Czas zwiedzania: 45-60 minut
 Na początku szlaku znajduje się niewielki bezpłatny parking, mieszczący zaledwie kilka samochodów. Zauważyliśmy również 
 kilka dodatkowych miejsc postojowych w pobliżu Ekomuzeum. Największy parking, jaki znaleźliśmy, to utwardzony plac żwirowy 

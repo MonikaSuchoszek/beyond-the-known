@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Phnom Penh, zwiedzając stolicę Kambodży"
+description: "Ogromny market Phsar Thmei tuż obok hotelu, targowanie się z kierowcami tuk-tuków i to, co zobaczyliśmy w stolicy Kambodży."
 date:   2018-09-07 08:43:59
 author: Monika Suchoszek
 categories: podroze

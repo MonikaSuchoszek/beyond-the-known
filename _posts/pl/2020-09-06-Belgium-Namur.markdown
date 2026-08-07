@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Wycieczka do stolicy francuskojęzycznej części Belgii oraz ruin klasztoru Villers Abbey"
+description: "Zdjęcia średniowiecznej cytadeli w Namur i ruin klasztoru Villers: słoneczny weekend we francuskojęzycznej części Belgii."
 date:   2020-09-06 08:43:59
 author: Monika Suchoszek
 categories: podroze

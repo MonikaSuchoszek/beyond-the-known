@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Luang Prabang, miasto mnichów, urokliwych rzek oraz wodspadów"
+description: "Pola ryżowe, osuwisko na drodze i piękne nadbrzeże rzeki: podróż z Vang Vieng do Luang Prabang oraz okoliczne wodospady."
 date:   2018-12-05 08:43:59
 author: Monika Suchoszek
 categories: podroze

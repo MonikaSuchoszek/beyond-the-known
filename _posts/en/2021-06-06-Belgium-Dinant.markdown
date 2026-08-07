@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Camping in the Ardennes, visiting caves and trekking around beautiful lakes"
+description: "Camping in the Ardennes: Dinant's citadel and its saxophone, the caves nearby, and walks around the lakes on a long weekend from Leuven."
 date:   2021-06-06 08:43:59
 author: Monika Suchoszek
 categories: travel

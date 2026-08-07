@@ -9,18 +9,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Galeria</title>
-  <meta name="description" content="A travel blog by Monika Suchoszek.">
+  <title>Galeria</title><meta name="description" content="Zdjęcia ze wszystkich wypraw opisanych na blogu, od gór Gruzji po wybrzeże Portugalii, zebrane w jednej galerii.">
+  
   
   <meta name="author" content="Monika Suchoszek">
   <meta name="copyright" content="&copy; Monika Suchoszek 2026">
-  
-
   <!-- External libraries -->
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/styles/monokai-sublime.min.css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css">
-	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+  <link rel="stylesheet" href="/assets/vendor/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/assets/vendor/lightbox2/css/lightbox.min.css">
 
   <!-- Favicon and other icons (made with http://www.favicon-generator.org/) -->
   <link rel="shortcut icon" href="/assets/icons/favicon.ico" type="image/x-icon">
@@ -42,38 +38,67 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/assets/icons/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
-
-  
   <!-- Facebook OGP cards -->
-  <meta property="og:description" content="A travel blog by Monika Suchoszek." />
-  <meta property="og:url" content="https://www.beyond-the-known.eu/pl/galeria/">
   <meta property="og:site_name" content="Going beyond the known" />
   <meta property="og:title" content="Galeria" />
+  <meta property="og:description" content="Zdjęcia ze wszystkich wypraw opisanych na blogu, od gór Gruzji po wybrzeże Portugalii, zebrane w jednej galerii." />
+  <meta property="og:url" content="https://www.beyond-the-known.eu/pl/galeria/" />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="https://www.beyond-the-known.eu/assets/posts_header.jpg" />
-  <meta property="og:image:type" content="image/png" />
-  <meta property="og:image:width" content="612" />
-  <meta property="og:image:height" content="605" />
+  <meta property="og:locale" content="pl_PL" />
+  <meta property="og:locale:alternate" content="en_US" />
+  <meta property="og:locale:alternate" content="nl_NL" />
+  <meta property="og:image" content="https://www.beyond-the-known.eu/assets/social/site-default.jpg" />
+  <meta property="og:image:alt" content="Galeria" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
   
 
   
   <!-- Twitter: card tags -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Galeria">
-  <meta name="twitter:description" content="A travel blog by Monika Suchoszek.">
-  <meta name="twitter:image" content="https://www.beyond-the-known.eu/assets/posts_header.jpg">
+  <meta name="twitter:description" content="Zdjęcia ze wszystkich wypraw opisanych na blogu, od gór Gruzji po wybrzeże Portugalii, zebrane w jednej galerii.">
+  <meta name="twitter:image" content="https://www.beyond-the-known.eu/assets/social/site-default.jpg">
+  <meta name="twitter:image:alt" content="Galeria">
   <meta name="twitter:url" content="https://www.beyond-the-known.eu/pl/galeria/">
-  
-
   
 
   <!-- Site styles -->
   <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
   <link rel="canonical" href="https://www.beyond-the-known.eu/pl/galeria/">
-  <link rel="alternate" type="application/rss+xml" title="Going beyond the known" href="https://www.beyond-the-known.eu/feed.xml" />
+  <link rel="alternate" hreflang="en" href="https://www.beyond-the-known.eu/gallery/">
+  <link rel="alternate" hreflang="pl" href="https://www.beyond-the-known.eu/pl/galeria/">
+  <link rel="alternate" hreflang="nl" href="https://www.beyond-the-known.eu/nl/galerij/">
+  <link rel="alternate" hreflang="x-default" href="https://www.beyond-the-known.eu/gallery/">
+  <link rel="alternate" type="application/rss+xml" title="Going beyond the known" hreflang="pl-PL" href="https://www.beyond-the-known.eu/pl/feed.xml" />
   <link rel="stylesheet" href="/css/main.css">
 
-  <!-- PageFind -->
+  <!-- Structured data --><script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.beyond-the-known.eu/#website",
+      "url": "https://www.beyond-the-known.eu/",
+      "name": "Going beyond the known",
+      "description": "A travel blog by Monika Suchoszek.",
+      "inLanguage": "pl",
+      "publisher": { "@id": "https://www.beyond-the-known.eu/#person" }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.beyond-the-known.eu/#person",
+      "name": "Monika Suchoszek",
+      "url": "https://www.beyond-the-known.eu/",
+      "image": "https://www.beyond-the-known.eu/assets/logo.png",
+      "sameAs": ["https://www.facebook.com/monika.suchoszek", "https://github.com/MonikaSuchoszek"]
+    }
+  ]
+}
+</script>
+<!-- PageFind -->
   <script src="/pagefind/pagefind-ui.js" type="text/javascript"></script>
 
 </head>
@@ -87,11 +112,13 @@
 		
 		
 		
-    <a href="/pl/index.html" class="logo">
+    <a href="/pl/" class="logo">
       
       <img src="/assets/logo.png" alt="Going beyond the known">
       
     </a>
+		
+		
 		
 		
     <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
@@ -99,12 +126,12 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-			<li class="nav-link"><a href="/pl/about/">O nas</a><li class="nav-link"><a href="/pl/galeria/">Galeria</a><li class="nav-link"><a href="/pl/mapa/">Mapa</a><li class="nav-link"><a href="/pl/posts/">Posty</a>
-
-			
-					
-					<li class="nav-link"><a href="/gallery/" hreflang="en"><img src="/assets/flag-icon-en_US.png" /> English</a></li><li class="nav-link"><a href="/pl/galeria/"><img src="/assets/flag-icon-pl_PL.png" /> <strong>Polski</strong></a></li>
-			
+			<li class="nav-link"><a href="/pl/about/">O nas</a><li class="nav-link"><a href="/pl/galeria/">Galeria</a><li class="nav-link"><a href="/pl/mapa/">Mapa</a><li class="nav-link"><a href="/pl/posts/">Posty</a><li class="nav-link lang-switcher" id="js-lang-switcher"><button type="button" class="lang-toggle" id="js-lang-toggle" aria-expanded="false" aria-controls="js-lang-menu">
+					<img src="/assets/flag-icon-pl_PL.png" alt="" />
+					<span class="lang-toggle-name">Polski</span>
+					<i class="fa fa-angle-down lang-caret" aria-hidden="true"></i>
+				</button>
+				<ul class="lang-menu" id="js-lang-menu"><li><a href="/pl/galeria/" class="is-current" aria-current="true"><img src="/assets/flag-icon-pl_PL.png" alt="" /> <span>Polski</span> <i class="fa fa-check lang-check" aria-hidden="true"></i></a></li><li><a href="/gallery/" hreflang="en"><img src="/assets/flag-icon-en_US.png" alt="" /> <span>English</span></a></li><li><a href="/nl/galerij/" hreflang="nl"><img src="/assets/flag-icon-nl_NL.png" alt="" /> <span>Nederlands</span></a></li></ul></li>
 		  		<li class="nav-link"><a href="#" class="nav-link-search"><i class="fa fa-search" style="width:16px;height:16px"></i></a></li>
 			</ul>
     </nav>
@@ -133,6 +160,18 @@
 <div class="gallery-items">
 
 	
+		
+		<div class="gallery-item">
+			<a href="/assets/Portugal/North/Ponte/20260414_153825.jpg" data-lightbox="gallery_image" data-title="Most zbudowano około I wieku n.e. jako część cesarskiej drogi Via XIX, łączącej antyczne miasta Bracara Augusta (Braga) oraz Asturica Augusta. W XIV wieku został gruntownie rozbudowany (prace ukończono około 1359 roku), a z biegiem lat dobudowywano kolejne przęsła w związku ze zmianami koryta rzeki Limy. Dziś most liczy w sumie około 380 metrów. <a href='/pl/podroze/2026/06/PonteduLimaPL/'>Czytaj więcej...</a>">
+  			<img src="/assets/gallery/Portugal_Ponte.jpg" title="Most zbudowano około I wieku n.e. jako część cesarskiej drogi Via XIX, łączącej antyczne miasta Bracara Augusta (Braga) oraz Asturica Augusta. W XIV wieku został gruntownie rozbudowany (prace ukończono około 1359 roku), a z biegiem lat dobudowywano kolejne przęsła w związku ze zmianami koryta rzeki Limy. Dziś most liczy w sumie około 380 metrów.">
+			</a>
+		</div>
+		
+	
+
+	
+
+	
 
 	
 		
@@ -142,6 +181,8 @@
 			</a>
 		</div>
 		
+	
+
 	
 
 	
@@ -159,6 +200,8 @@
 	
 
 	
+
+	
 		
 		<div class="gallery-item">
 			<a href="/assets/Italy/Pisa/20251019_170954_01.jpg" data-lightbox="gallery_image" data-title="Fundament Krzywej Wieży w Pizie ma zaledwie trzy metry głębokości i znajduje się na niestabilnym gruncie, który nie był w stanie utrzymać ciężaru konstrukcji z białego marmuru. Budowę wstrzymano na prawie 100 lat z powodu wojen, co pozwoliło gruntowi się ustabilizować i zapobiegło natychmiastowemu zawaleniu. Od 1987 roku obiekt znajduje się na liście światowego dziedzictwa UNESCO. <a href='/pl/podroze/2026/02/MassaPL/'>Czytaj więcej...</a>">
@@ -166,6 +209,8 @@
 			</a>
 		</div>
 		
+	
+
 	
 
 	
@@ -183,6 +228,8 @@
 	
 
 	
+
+	
 		
 		<div class="gallery-item">
 			<a href="/assets/Italy/Pisa/20251016_103442_01.jpg" data-lightbox="gallery_image" data-title="Zachwycający kościół San Pietro, położony u wejścia do zatoki w Porto Venere. <a href='/pl/podroze/2025/12/Italy/'>Czytaj więcej...</a>">
@@ -190,6 +237,8 @@
 			</a>
 		</div>
 		
+	
+
 	
 
 	
@@ -207,6 +256,8 @@
 	
 
 	
+
+	
 		
 		<div class="gallery-item">
 			<a href="/assets/Portugal/Madeira/Day5/DSC09364.JPG" data-lightbox="gallery_image" data-title="Zięba maderska jest bardzo pospolita na Maderze, szczególnie w lasach wawrzynowych i na terenach górzystych, takich jak szlak na Pico Ruivo, gdzie właśnie je spotkaliśmy. Ptaki te są ciekawskie i fotogeniczne, często zbliżają się blisko turystów, zwłaszcza w miejscach, gdzie są przyzwyczajone do obecności ludzi. <a href='/pl/podroze/2025/06/Dzien5/'>Czytaj więcej...</a>">
@@ -214,6 +265,8 @@
 			</a>
 		</div>
 		
+	
+
 	
 
 	
@@ -231,6 +284,8 @@
 	
 
 	
+
+	
 		
 		<div class="gallery-item">
 			<a href="/assets/Portugal/Madeira/Day3/20241030_144924_01.jpg" data-lightbox="gallery_image" data-title="Miradouro da Boa Morte – To miejsce ma w sobie coś magicznego: piękna zieleń, zapierający dech w piersiach widok na wybrzeże, cisza, spokój i brak tłumów. <a href='/pl/podroze/2025/03/Dzien3/'>Czytaj więcej...</a>">
@@ -238,6 +293,8 @@
 			</a>
 		</div>
 		
+	
+
 	
 
 	
@@ -255,6 +312,8 @@
 	
 
 	
+
+	
 		
 		<div class="gallery-item">
 			<a href="/assets/Portugal/Madeira/Day1/DSC08621.JPG" data-lightbox="gallery_image" data-title="Madera słynie z tradycyjnego systemu tarasowego rolnictwa, nazywanego poios po portugalsku. Tarasy te budowane są na stromych zboczach, aby stworzyć płaskie powierzchnie nadające się do uprawy. Podpierają je kamienne mury, które zapobiegają erozji gleby i pozwalają maksymalnie wykorzystać ograniczoną przestrzeń rolną na wyspie. Woda dostarczana jest na tarasy za pomocą słynnych lewad – wąskich kanałów irygacyjnych, które ciągną się przez setki kilometrów. Dzięki temu wydajnemu systemowi można tu uprawiać różnorodne rośliny, takie jak winogrona, banany, bataty, marakuje, papaje i wiele innych owoców oraz warzyw. <a href='/pl/podroze/2025/02/Dzien-1/'>Czytaj więcej...</a>">
@@ -262,6 +321,8 @@
 			</a>
 		</div>
 		
+	
+
 	
 
 	
@@ -285,9 +346,17 @@
 	
 
 	
+
+	
+
+	
+
+	
+
+	
 		
 		<div class="gallery-item">
-			<a href="/assets/Spain/Valencia/20240827_115942.jpg" data-lightbox="gallery_image" data-title="Oceanografic  <a href='/pl/podr%C3%B3%C5%BCe/2024/11/Walencia/'>Czytaj więcej...</a>">
+			<a href="/assets/Spain/Valencia/20240827_115942.jpg" data-lightbox="gallery_image" data-title="Oceanografic  <a href='/pl/podroze/2024/11/Walencia/'>Czytaj więcej...</a>">
   			<img src="/assets/gallery/Valencia.JPG" title="Oceanografic ">
 			</a>
 		</div>
@@ -297,13 +366,17 @@
 	
 
 	
+
+	
 		
 		<div class="gallery-item">
-			<a href="/assets/Spain/Gandia/P8243713.JPG" data-lightbox="gallery_image" data-title="Meduza nazywana „jajkiem sadzonym” zawdzięcza swoją nazwę charakterystycznemu wyglądowi, żółty, wypukły środek przypomina żółtko, a jasna, półprzezroczysta część wokół wygląda jak białko jajka. Występuje głównie w Morzu Śródziemnym i najczęściej można ją spotkać latem, gdy woda jest cieplejsza. Mimo swoich rozmiarów jest niegroźna dla ludzi, jej parzydełka są bardzo słabe i zazwyczaj niewyczuwalne. Meduzy te poruszają się powoli i często dryfują tuż pod powierzchnią wody, stanowiąc niezwykły widok. <a href='/pl/podr%C3%B3%C5%BCe/2024/10/Gandia_Cullera-miasto/'>Czytaj więcej...</a>">
+			<a href="/assets/Spain/Gandia/P8243713.JPG" data-lightbox="gallery_image" data-title="Meduza nazywana „jajkiem sadzonym” zawdzięcza swoją nazwę charakterystycznemu wyglądowi, żółty, wypukły środek przypomina żółtko, a jasna, półprzezroczysta część wokół wygląda jak białko jajka. Występuje głównie w Morzu Śródziemnym i najczęściej można ją spotkać latem, gdy woda jest cieplejsza. Mimo swoich rozmiarów jest niegroźna dla ludzi, jej parzydełka są bardzo słabe i zazwyczaj niewyczuwalne. Meduzy te poruszają się powoli i często dryfują tuż pod powierzchnią wody, stanowiąc niezwykły widok. <a href='/pl/podroze/2024/10/Gandia_Cullera-miasto/'>Czytaj więcej...</a>">
   			<img src="/assets/gallery/Gandia.JPG" title="Meduza nazywana „jajkiem sadzonym” zawdzięcza swoją nazwę charakterystycznemu wyglądowi, żółty, wypukły środek przypomina żółtko, a jasna, półprzezroczysta część wokół wygląda jak białko jajka. Występuje głównie w Morzu Śródziemnym i najczęściej można ją spotkać latem, gdy woda jest cieplejsza. Mimo swoich rozmiarów jest niegroźna dla ludzi, jej parzydełka są bardzo słabe i zazwyczaj niewyczuwalne. Meduzy te poruszają się powoli i często dryfują tuż pod powierzchnią wody, stanowiąc niezwykły widok.">
 			</a>
 		</div>
 		
+	
+
 	
 
 	
@@ -321,6 +394,8 @@
 	
 
 	
+
+	
 		
 		<div class="gallery-item">
 			<a href="/assets/France/Marseille/20231110_124506.jpg" data-lightbox="gallery_image" data-title="Plac przed Starym Centrum Charytatywnym (obecnie miesci muzea i wystawy) był zupełnie pusty w listopadzie, ale nasz przewodnik zapewnił nas, że w szczycie sezonu trudno byłoby przejść obok tego miejsca, gdy wszystkie pobliskie restauracje i kawiarnie wystawiają tutaj swoje stoliki. Pod koniec jesieni to miejsce, podobnie jak większość dzielnicy Le Panier, jest opustoszałe, wiele kawiarni i sklepów jest zamkniętych. Cała ta okolica pustoszeje w oczekiwaniu na wiosnę i kolejny ruchliwy okres dla właścicieli apartamentów na Airbnb. <a href='/pl/podroze/2023/12/Marsylia-Francja/'>Czytaj więcej...</a>">
@@ -328,6 +403,8 @@
 			</a>
 		</div>
 		
+	
+
 	
 
 	
@@ -915,8 +992,7 @@
       </ul>
     </div>
 
-    <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="/feed.xml">via RSS</a></strong></p>
+    <div class="site-signature"><p class="rss-subscribe text"><strong><a href="/pl/feed.xml">Subskrybuj przez RSS</a></strong></p>
       <p class="text">Blog podróżniczy Moniki Suchoszek.</p>
     </div>
 
@@ -927,25 +1003,12 @@
 <!-- Scripts -->
  <script data-goatcounter="https://btk.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
-<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-
-<script>
-	AOS.init({
-   once: true,
-   offset: -20,
-   duration: 600
-	});
-</script>
+<script src="/assets/vendor/jquery/jquery-3.4.1.min.js"></script>
+<script src="/assets/vendor/lightbox2/js/lightbox.min.js"></script>
+<script src="/assets/vendor/micromodal/micromodal-0.4.10.min.js"></script>
 
 <script type="text/javascript">
 $(document).ready(function() {
-  // Default syntax highlighting
-  hljs.initHighlightingOnLoad();
-
   // Header
   var menuToggle = $('#js-mobile-menu').unbind();
   $('#js-navigation-menu').removeClass("show");
@@ -956,6 +1019,58 @@ $(document).ready(function() {
         $('#js-navigation-menu').removeAttr('style');
       }
     });
+  });
+
+  // Language switcher dropdown
+  var $langSwitcher = $('#js-lang-switcher');
+  var $langToggle = $('#js-lang-toggle');
+
+  function setLangMenu(open) {
+    $langSwitcher.toggleClass('is-open', open);
+    $langToggle.attr('aria-expanded', open ? 'true' : 'false');
+  }
+
+  $langToggle.on('click', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    setLangMenu(!$langSwitcher.hasClass('is-open'));
+  });
+
+  // Click or tap anywhere else closes it.
+  $(document).on('click touchstart', function(e) {
+    if (!$(e.target).closest('#js-lang-switcher').length) {
+      setLangMenu(false);
+    }
+  });
+
+  // Escape closes and returns focus to the toggle.
+  $(document).on('keydown', function(e) {
+    if ((e.key === 'Escape' || e.keyCode === 27) && $langSwitcher.hasClass('is-open')) {
+      setLangMenu(false);
+      $langToggle.focus();
+    }
+  });
+
+  // Arrow-down from the toggle opens the menu and lands on the first entry.
+  $langToggle.on('keydown', function(e) {
+    if (e.key === 'ArrowDown' || e.keyCode === 40) {
+      e.preventDefault();
+      setLangMenu(true);
+      $langSwitcher.find('.lang-menu a').first().focus();
+    }
+  });
+
+  // Arrow keys move between entries once the menu is open.
+  $langSwitcher.on('keydown', '.lang-menu a', function(e) {
+    var $items = $langSwitcher.find('.lang-menu a');
+    var i = $items.index(this);
+    if (e.key === 'ArrowDown' || e.keyCode === 40) {
+      e.preventDefault();
+      $items.eq((i + 1) % $items.length).focus();
+    } else if (e.key === 'ArrowUp' || e.keyCode === 38) {
+      e.preventDefault();
+      if (i === 0) { $langToggle.focus(); } else { $items.eq(i - 1).focus(); }
+    }
   });
 });
 

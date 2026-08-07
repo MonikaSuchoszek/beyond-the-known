@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Idealna objazdówka po północnej Portugalii – miasta, natura i doskonałe jedzenie"
+description: "Dwutygodniowa objazdówka po północnej Portugalii w Wielkanoc: trasa między miastami, plażami i górami, a do tego loty, jazda i jedzenie."
 date:   2026-04-19 08:43:59
 author: Monika Suchoszek
 categories: podroze

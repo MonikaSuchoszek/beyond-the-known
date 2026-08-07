@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Trekking na szczyt Monte Resegone"
+description: "Wymagająca całodniowa wędrówka z Lecco na Monte Resegone nad jeziorem Como: trasa, przewyższenie i schronisko na szczycie."
 date:   2019-09-14 08:43:59
 author: Monika Suchoszek
 categories: podroze

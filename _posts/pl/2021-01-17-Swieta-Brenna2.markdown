@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Zima odnaleziona! Równica oraz Kotarz, okolica miejscowości Brenna"
+description: "Mróz, śnieg i bezchmurne niebo: wejście na Kotarz niebieskim szlakiem obok zalewu Hołcyna oraz spacer na Równicę w okolicy Brennej."
 date:   2021-01-25 08:43:59
 author: Monika Suchoszek
 categories: podroze

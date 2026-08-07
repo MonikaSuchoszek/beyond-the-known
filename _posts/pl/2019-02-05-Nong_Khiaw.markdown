@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Nong Khiaw: bajeczne punkty widokowe na szczytach wokół rzeki Nam Ou"
+description: "Strome punkty widokowe nad Nong Khiaw i rzeką Nam Ou, gwałtowna popołudniowa burza i poranny rejs łódką z Muang Ngoy."
 date:   2019-02-05 08:43:59
 author: Monika Suchoszek
 categories: podroze

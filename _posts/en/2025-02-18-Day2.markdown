@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Madeira Adventure: Day 2 – coastal hike and walking on the surface of another planet"
+description: "Two very different Madeira hikes in one day: the barren Dragon's Tail at sunrise and the green coastal Vereda do Larano, with timings."
 date:   2025-02-18 08:43:59
 author: Monika Suchoszek
 categories: travel

@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Odkrywając północne wybrzeże Portugalii: Viana do Castelo, Apúlia i Barcelos"
+description: "Viana do Castelo, Barcelos, wiatraki w Apúlii i grodzisko Castro de São Lourenço: dwa dni na północnym wybrzeżu Portugalii."
 date:   2026-05-22 08:43:59
 author: Monika Suchoszek
 categories: podroze

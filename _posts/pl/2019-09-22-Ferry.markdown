@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pływając promem po jeziorze Como"
+description: "Leniwszy dzień nad jeziorem Como: prom między Varenną, Bellagio i Lierną, kolejki po bilety i mimo wszystko 16 km spaceru."
 date:   2019-09-22 08:43:59
 author: Monika Suchoszek
 categories: podroze

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "PassApp: Getting around Phnom Penh and Siem Reap in style"
+description: "How PassApp works in Phnom Penh and Siem Reap, and why it beats haggling over every tuk-tuk fare: setup, coverage and what rides cost."
 date:   2018-09-12 08:43:59
 author: Sebastian Proost
 categories: travel

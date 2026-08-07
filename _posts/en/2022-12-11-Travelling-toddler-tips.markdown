@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Tips to make travelling with the baby or toddler easier"
+description: "What really changes when you travel with a baby or toddler, and the practical habits that keep trips enjoyable instead of exhausting."
 date:   2022-12-11 08:43:59
 author: Monika Suchoszek
 categories: travel

@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Madeira Adventure: Day 1 – Driving Challenges and first UNESCO site"
+description: "Day one on Madeira: getting the rental car off the steepest street in Funchal, and reaching our first UNESCO-listed site on the island."
 date:   2025-02-06 08:43:59
 author: Monika Suchoszek
 categories: travel

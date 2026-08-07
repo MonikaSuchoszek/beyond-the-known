@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Annapurna Circuit and Poon Hill combo"
+description: "Landing in Kathmandu in the middle of Holi, then walking the Annapurna Circuit combined with Poon Hill: two weeks in the Himalayas."
 date:   2018-07-09 08:43:59
 author: Monika Suchoszek
 categories: travel

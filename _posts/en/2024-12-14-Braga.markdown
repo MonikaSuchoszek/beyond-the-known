@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Heritage and Holidays: A Magical Visit to Braga and Guimarães"
+description: "Christmas markets after dark in Braga and a day in Guimaraes, the birthplace of Portugal, on a December visit to the north of the country."
 date:   2024-12-14 08:43:59
 author: Monika Suchoszek
 categories: travel

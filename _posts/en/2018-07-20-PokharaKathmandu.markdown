@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pokhara and Kathmandu: things to do and places to visit"
+description: "Recovering beside Phewa Lake in Pokhara and back to Kathmandu: what to see, where to eat and what the hiking gear shops are really like."
 date:   2018-07-20 08:43:59
 author: Monika Suchoszek
 categories: travel food sports

@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Banalmadena, perfect autumn destination for a sunny holiday!"
+description: "Why Benalmadena is a good autumn choice with a small child: beach, mountains, easy transport from the airport and warm October weather."
 date:   2022-10-20 08:43:59
 author: Monika Suchoszek
 categories: travel

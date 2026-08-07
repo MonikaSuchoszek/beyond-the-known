@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Prometeus cave and canyons - day trip around Kutaisi"
+description: "A day trip from Kutaisi to the Prometheus cave and the Martvili and Okatse canyons, with our guesthouse host as driver and no crowds."
 date:   2017-10-22 08:43:59
 author: Monika Suchoszek
 categories: travel

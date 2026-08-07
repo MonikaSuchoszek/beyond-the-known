@@ -3,21 +3,22 @@
 
   {% for desc in site.descriptions %}
     {% if desc.cat == cat and desc.locale == page.locale %}
-			<h2 id="{{cat}}">{{ cat | capitalize }}</h2>
+      {% assign cat_posts = site.categories[cat] | where: "locale", page.locale %}
+      {% if cat_posts.size > 0 %}
+			<h2 id="{{cat}}">{{ cat | category_label: page.locale }}</h2>
       <p class="desc"><em>{{ desc.desc }}</em></p>
 			<ul class="posts-list">
-			{% for post in site.categories[cat] %}
-				{% if post.locale == page.locale %}
+			{% for post in cat_posts %}
 				<li>
 					<strong>
 						<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 					</strong>
 					<span class="post-date">- {{ post.date | date: "%d-%m-%Y" }}</span>
 				</li>
-				{% endif %}
 			{% endfor %}
 			</ul>
 			{% if forloop.last == false %}<hr>{% endif %}
+      {% endif %}
     {% endif %}
   {% endfor %}
 {% endfor %}

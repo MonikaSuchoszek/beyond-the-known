@@ -43,7 +43,8 @@
     </div>
 
     <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
+      {%- include feed_url.html -%}
+      <p class="rss-subscribe text"><strong><a href="{{ feed_path | prepend: site.baseurl }}">{{ items_text.rss_subscribe }}</a></strong></p>
       <p class="text">{{ items_text.credit }}</p>
     </div>
 
@@ -54,25 +55,12 @@
 <!-- Scripts -->
  <script data-goatcounter="https://btk.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
-<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
-<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-
-<script>
-	AOS.init({
-   once: true,
-   offset: -20,
-   duration: 600
-	});
-</script>
+<script src="{{ "/assets/vendor/jquery/jquery-3.4.1.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/vendor/lightbox2/js/lightbox.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/assets/vendor/micromodal/micromodal-0.4.10.min.js" | prepend: site.baseurl }}"></script>
 
 <script type="text/javascript">
 $(document).ready(function() {
-  // Default syntax highlighting
-  hljs.initHighlightingOnLoad();
-
   // Header
   var menuToggle = $('#js-mobile-menu').unbind();
   $('#js-navigation-menu').removeClass("show");
@@ -83,6 +71,58 @@ $(document).ready(function() {
         $('#js-navigation-menu').removeAttr('style');
       }
     });
+  });
+
+  // Language switcher dropdown
+  var $langSwitcher = $('#js-lang-switcher');
+  var $langToggle = $('#js-lang-toggle');
+
+  function setLangMenu(open) {
+    $langSwitcher.toggleClass('is-open', open);
+    $langToggle.attr('aria-expanded', open ? 'true' : 'false');
+  }
+
+  $langToggle.on('click', function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    setLangMenu(!$langSwitcher.hasClass('is-open'));
+  });
+
+  // Click or tap anywhere else closes it.
+  $(document).on('click touchstart', function(e) {
+    if (!$(e.target).closest('#js-lang-switcher').length) {
+      setLangMenu(false);
+    }
+  });
+
+  // Escape closes and returns focus to the toggle.
+  $(document).on('keydown', function(e) {
+    if ((e.key === 'Escape' || e.keyCode === 27) && $langSwitcher.hasClass('is-open')) {
+      setLangMenu(false);
+      $langToggle.focus();
+    }
+  });
+
+  // Arrow-down from the toggle opens the menu and lands on the first entry.
+  $langToggle.on('keydown', function(e) {
+    if (e.key === 'ArrowDown' || e.keyCode === 40) {
+      e.preventDefault();
+      setLangMenu(true);
+      $langSwitcher.find('.lang-menu a').first().focus();
+    }
+  });
+
+  // Arrow keys move between entries once the menu is open.
+  $langSwitcher.on('keydown', '.lang-menu a', function(e) {
+    var $items = $langSwitcher.find('.lang-menu a');
+    var i = $items.index(this);
+    if (e.key === 'ArrowDown' || e.keyCode === 40) {
+      e.preventDefault();
+      $items.eq((i + 1) % $items.length).focus();
+    } else if (e.key === 'ArrowUp' || e.keyCode === 38) {
+      e.preventDefault();
+      if (i === 0) { $langToggle.focus(); } else { $items.eq(i - 1).focus(); }
+    }
   });
 });
 

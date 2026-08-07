@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Trekking - dzień 4 – w kierunku jezior Koruldi"
+description: "Najtrudniejsza wędrówka podczas pobytu w Mestii: dwa warianty podejścia do jezior Koruldi i panorama Swanetii ze szczytu."
 date:   2017-10-11 08:43:59
 author: Monika Suchoszek
 categories: podroze

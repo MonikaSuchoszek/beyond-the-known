@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Muang Ngoy: our small bungalow, butterflies and blissful silence"
+description: "A bungalow on the Nam Ou river, butterflies and complete silence: why the village of Muang Ngoy became our favourite place in Laos."
 date:   2019-01-19 08:43:59
 author: Monika Suchoszek
 categories: travel

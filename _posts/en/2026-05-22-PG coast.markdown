@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Exploring the North Coast of Portugal: Viana do Castelo, Apúlia & Barcelos"
+description: "Viana do Castelo, Barcelos, the Apulia windmills and the hill fort of Castro de Sao Lourenco: two days on the north coast of Portugal."
 date:   2026-05-22 08:43:59
 author: Monika Suchoszek
 categories: travel

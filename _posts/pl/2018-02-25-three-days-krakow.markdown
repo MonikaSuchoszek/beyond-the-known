@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "3 dni w Krakowie"
+description: "Trzy zimowe dni w Krakowie: spacer z przewodnikiem po starym mieście, Barbakan, Wawel i mróz, który daje się we znaki już po godzinie."
 date:   2018-02-25 08:43:59
 author: Monika Suchoszek
 categories: podroze

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Yummy! Obłędna kuchnia kambodżańska trzymana w sekrecie! :)"
+description: "Dlaczego kuchnia khmerska jest w Europie prawie nieznana i które kambodżańskie dania przekonały nas, że zasługuje na własne miejsce."
 date:   2018-10-12 08:43:59
 author: Monika Suchoszek
 categories: podroze jedzenie

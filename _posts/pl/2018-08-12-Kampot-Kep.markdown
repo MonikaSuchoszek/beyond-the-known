@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wybrzeże Kambodży, Kampot oraz Kep"
+description: "Kampot nad rzeką i nadmorskie Kep: plantacja pieprzu La Plantation, pola solne i ślady francuskiej kolonii widoczne w architekturze."
 date:   2018-08-12 08:43:59
 author: Monika Suchoszek
 categories: podroze

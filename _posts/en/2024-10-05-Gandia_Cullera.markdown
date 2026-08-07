@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Coastal city Platja de Gandia, great destination for holidays with kids"
+description: "Platja de Gandia as a base for a family beach holiday on Spain's east coast, with day trips to Cullera and Valencia and transport tips."
 date:   2024-10-05 08:43:59
 author: Monika Suchoszek
 categories: travel

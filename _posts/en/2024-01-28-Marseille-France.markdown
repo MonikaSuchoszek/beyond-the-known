@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Weekend in Marseille: Exploring the Oldest City of France"
+description: "A weekend in the oldest city in France: from the Greek harbour of 600 BC to the Vieux-Port and Le Panier, and what fits into two days."
 date:   2023-12-14 08:43:59
 author: Monika Suchoszek
 categories: travel

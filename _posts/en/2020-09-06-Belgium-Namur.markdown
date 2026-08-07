@@ -2,6 +2,7 @@
 layout: post
 
 title:  "French-speaking part of Belgium, Namur and Villers Abbey"
+description: "Photographing the medieval citadel of Namur and the ruins of Villers Abbey on a sunny weekend in the French-speaking part of Belgium."
 date:   2020-09-06 08:43:59
 author: Monika Suchoszek
 categories: travel

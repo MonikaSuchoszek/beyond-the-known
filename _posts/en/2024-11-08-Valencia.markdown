@@ -2,6 +2,7 @@
 layout: post
 
 title:  "A Family’s Guide to Valencia: Ocean Adventures, Culture, and Scenic Escapes"
+description: "A day at Oceanografic, the largest aquarium in Europe, and the rest of Valencia with a small child: Turia gardens, old town and transport."
 date:   2024-11-08 08:43:59
 author: Monika Suchoszek
 categories: travel
@@ -215,7 +216,7 @@ depending on the day, holiday week, etc.
 
 * La Lonja de la Seda de Valencia - €2 admission fee, quick visit (a few rooms and the main hall, small courtyard).
 
-* [Botanical Garden](https://visit-cullera.es/guia/castillo-de-cullera/), entrance fee €3, free for babies and toddlers. If you're fast, you can be done in 30 minutes, 
+* [Botanical Garden](https://www.jardibotanic.org/), entrance fee €3, free for babies and toddlers. If you're fast, you can be done in 30 minutes, 
 but if you take your time, I would plan for 2 hours. It's a relatively small garden compared to others around the world, 
 but definitely a must-see at a very cheap price! It wasn’t crowded during our Friday afternoon visit. Clean restrooms are available.
 

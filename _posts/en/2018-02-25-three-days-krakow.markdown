@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Three days in Krakow"
+description: "Three winter days in Krakow: a free walking tour of the old town, Wawel castle on its hill, and how cold a Polish February really is."
 date:   2018-02-25 08:43:59
 author: Monika Suchoszek
 categories: travel

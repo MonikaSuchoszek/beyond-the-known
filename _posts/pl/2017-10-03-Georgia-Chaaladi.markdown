@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Trekking - dzień 3 - lodowiec Chaaladi"
+description: "Łatwy szlak z Mestii do lodowca Chaaladi: jak ominąć nudne pierwsze kilometry wzdłuż drogi gruntowej i jak lodowiec wygląda z bliska."
 date:   2017-10-03 08:43:59
 author: Monika Suchoszek
 categories: podroze

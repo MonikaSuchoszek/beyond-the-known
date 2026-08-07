@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Cinque Terre w jeden dzień"
+description: "Plan zwiedzania Cinque Terre w jeden dzień z La Spezii: prom w jedną stronę, pociąg w drugą, Porto Venere, Vernazza i Monterosso."
 date:   2026-01-15 08:43:59
 author: Monika Suchoszek
 categories: podroze

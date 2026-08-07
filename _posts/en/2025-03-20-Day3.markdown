@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Madeira Adventure: Day 3 - Exploring the Beauty of the Wild West Coast"
+description: "A gentler day on Madeira: a 9 km walk, viewpoint after viewpoint along the wild west coast, and the natural pools of Porto Moniz."
 byline: "Lush cliffs, stunning viewpoints, banana plantations and natural pools"
 date:   2025-03-20 08:43:59
 author: Monika Suchoszek

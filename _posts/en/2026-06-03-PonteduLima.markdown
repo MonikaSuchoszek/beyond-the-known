@@ -2,6 +2,7 @@
 layout: post
 
 title:  "Ponte de Lima: Portugal's Oldest Town and Two Beautiful Nature Walks"
+description: "Portugal's oldest town and two beautiful nature walks nearby, plus a spring return to Braga and Guimaraes, on our northern road trip."
 date:   2026-06-03 08:43:59
 author: Monika Suchoszek
 categories: travel
