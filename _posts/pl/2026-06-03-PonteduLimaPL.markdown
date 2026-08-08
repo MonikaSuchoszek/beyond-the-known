@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  "Ponte de Lima – najstarsze miasto Portugalii i dwa piękne szlaki wśród natury"
+title:  "Ponte de Lima – najstarsze miasto Portugalii oraz dwa piękne szlaki w okolicy"
 description: "Najstarsze miasto Portugalii i dwa piękne szlaki w okolicy, a także wiosenny powrót do Bragi i Guimarães podczas naszej objazdówki."
 date:   2026-06-03 08:43:59
 author: Monika Suchoszek
@@ -23,13 +23,13 @@ gallery_items:
 
 Kolejne dwa dni spędziliśmy na zwiedzaniu Bragi oraz bardziej turystycznego Guimarães, znanego jako „kolebka Portugalii”. 
 Oba miasta odwiedziłam już w grudniu 2024 roku i możecie o nich przeczytać w moim wcześniejszym wpisie
-[Magiczna wizyta w Bradze i Guimarães]({% post_url en/2024-12-14-Braga %}).
+[Dziedzictwo i święta: magiczna wizyta w Bradze i Guimarães]({% post_url pl/2024-12-14-BragaPL %}).
 Tym razem jednak niezwykle miło było zobaczyć te same miejsca w zupełnie innej scenerii. Wszędzie kwitły piękne wiosenne 
-kwiaty, które dodawały miastom intensywnych kolorów i sprawiały, że tętniły życiem. W grudniu panowała tam magiczna świąteczna 
+kwiaty, które poprzez swoje intensywne kolory, dodawały miastom uroku i sprawiały, że tętniły życiem. W grudniu panowała tam magiczna świąteczna 
 atmosfera, a drzewa pomarańczowe uginały się od owoców, dlatego obie pory roku mają swój niepowtarzalny urok.
 
-Ponieważ zatrzymaliśmy się w samym centrum Bragi, mogliśmy bez problemu spacerować po mieście również wieczorami, wychodząc 
-na kolację i podziwiając piękne place pełne kolorowych kwiatów. Oprócz zwiedzania samego miasta odwiedziliśmy także Bom 
+Ponieważ zatrzymaliśmy się w samym centrum Bragi, mogliśmy bez problemu spacerować po mieście o każdej porze dnia,
+podziwiając piękne place pełne kolorowych kwiatów oraz obserwując życie mieszkanców. Oprócz zwiedzania samego miasta odwiedziliśmy także Bom 
 Jesus do Monte oraz Sanktuarium Matki Bożej z Sameiro, a wszystko udało nam się zobaczyć w ciągu jednego dnia.
 
 <div class="row">
@@ -47,7 +47,7 @@ późniejszą poprawę, więc postanowiliśmy mimo wszystko pojechać. Podczas m
 Dla wielu odwiedzających jest to znacznie więcej niż tylko sanktuarium, to jeden z głównych terenów rekreacyjnych Guimarães, 
 gdzie mieszkańcy przychodzą na spacery, pikniki i odpoczynek z dala od miejskiego zgiełku.
 
-Choć pogoda nie pozwoliła nam podziwiać widoków, od razu było widać, że góra Penha oferuje znacznie więcej niż samo sanktuarium. 
+Choć pogoda nie dała nam szans na podziwianie widoków, od razu było wiadomo, że góra Penha oferuje znacznie więcej niż samo sanktuarium. 
 Wokół kościoła znajdowały się tablice informacyjne opisujące szlak pieszy PR3, a także miejsca piknikowe, gdzie można 
 odpocząć w otoczeniu przyrody. Cały teren porasta las, pomiędzy którym wyrastają imponujące granitowe formacje skalne, 
 tworząc krajobraz wręcz idealny do dłuższego spaceru i odkrywania okolicy.
@@ -55,7 +55,8 @@ tworząc krajobraz wręcz idealny do dłuższego spaceru i odkrywania okolicy.
 Zauważyliśmy liczne ścieżki prowadzące pomiędzy ogromnymi głazami i przez las. Od razu pomyśleliśmy, że warto tu wrócić 
 w słoneczny dzień, aby w pełni nacieszyć się panoramą Guimarães i okolicznych wzgórz.
 Było ponuro i ciemno, a podczas spaceru wokół sanktuarium ponownie zaczął padać deszcz. Szybko wróciliśmy więc do samochodu. 
-Na szczęście, gdy dotarliśmy do miasta, opady ustały, a późnym popołudniem mogliśmy nawet cieszyć się słońcem.
+Na szczęście, gdy dotarliśmy do miasta, opady ustały, a późnym popołudniem mogliśmy nawet cieszyć się słońcem, spacerując po tym 
+niezwykle uroczym mieście.
 
 <div class="row">
   <img src="/assets/Portugal/North/Ponte/20260413_095435.jpg" class="column-50" />
@@ -63,18 +64,18 @@ Na szczęście, gdy dotarliśmy do miasta, opady ustały, a późnym popołudnie
 </div>
 
 Następnego dnia naszym celem było udanie się na północ od Bragi, w okolice Ponte de Lima. Plan zakładał połączenie zwiedzania 
-tego średniowiecznego miasteczka z dwoma krótkimi pieszymi wycieczkami. Dzień rozpoczęliśmy od wizyty w chronionym krajobrazie 
-lagun **Bertiandos and São Pedro de Arcos Lagoons Protected Landscape**. Zaparkowaliśmy obok centrum dla odwiedzających, 
+tego średniowiecznego miasteczka z dwoma krótkimi pieszymi wycieczkami. Dzień rozpoczęliśmy od wizyty w parku krajobrazowym 
+**Bertiandos and São Pedro de Arcos Lagoons Protected Landscape**. Zaparkowaliśmy obok centrum informacji dla odwiedzających, 
 gdzie stał duży autobus szkolny. Okazało się, że grupa dzieci uczestniczyła tam w zajęciach terenowych.
 
 Dzieci przebywały wewnątrz centrum, do którego zajrzała również nasza córka, szukając toalety. Bardzo zainteresowało ją 
-to, co robiły, i musieliśmy ją trochę namawiać, zanim zgodziła się wyruszyć na szlak. Na terenie rezerwatu wyznaczono 
+to, co robiły, i musieliśmy ją długo namawiać, zanim zgodziła się ruszyć na szlak. Na terenie rezerwatu wyznaczono 
 pięć oznakowanych tras pieszych, od krótkiej, liczącej zaledwie 1,6 km ścieżki z drewnianymi pomostami wokół laguny po 
 12,5-kilometrową trasę prowadzącą przez znaczną część obszaru chronionego.
 
-My wybraliśmy 2,9-kilometrowy Szlak Rzeczny (PR3), który okazał się idealnym wyborem na wędrówkę z dzieckiem. Trasa 
-prowadziła przez las, mokradła i drewniane pomosty, a dodatkową atrakcją było geocaching. Jednocześnie spacer nie był zbyt 
-długi. Podczas naszej podróży z Bragi padał deszcz, dlatego las był jeszcze bardzo mokry. Chociaż opady ustały, przez 
+My wybraliśmy 2,9-kilometrowy Szlak Rzeczny (PR3), który okazał się idealnym na wędrówkę z dzieckiem. Trasa 
+prowadziła przez las, mokradła i drewniane pomosty i przez to spacer nie był zbyt 
+długi i monotonny. Podczas naszej podróży z Bragi padał deszcz, dlatego las był jeszcze bardzo mokry. Chociaż opady ustały, przez 
 cały czas czuliśmy krople wody spadające z gałęzi drzew.
 
 <div class="row">
@@ -93,7 +94,7 @@ W czasie naszych wędrówek dawał córce poczucie celu i zachęcał ją do dals
 skupiać się na długości trasy, z niecierpliwością wypatrywała kolejnej ukrytej skrytki, dzięki czemu sama droga była równie 
 przyjemna jak cel wyprawy.
 
-W tę grę gra z tatą już od dłuższego czasu. Szczególnie ucieszyła się ze znalezienia jednej ze skrytek ukrytej pod ogromnym 
+W tę grę, angażuje się z tatą już od dłuższego czasu. Szczególnie ucieszyła się ze znalezienia jednej ze skrytek ukrytej pod ogromnym 
 eukaliptusem, choć niestety notes znajdujący się w środku był całkowicie przemoczony.
 Sam spacer okazał się bardzo przyjemny. Trasa nie była długa, a po drodze mijaliśmy ogromne poduszki mchu nasiąknięte wodą. 
 Na drzewach rosło również wiele porostów, świadczących o bardzo czystym powietrzu. Wydaje mi się, że zauważyłam porost z 
@@ -121,8 +122,8 @@ mostu, który był ważną przeprawą na rzymskiej drodze łączącej Bragę z A
 <img src="/assets/Portugal/North/Ponte/20260414_153825.jpg" />
 
 W kwietniu Ponte de Lima prezentuje się wyjątkowo pięknie, ponieważ parki i nadrzeczne bulwary toną w wiosennych kwiatach 
-i soczystej zieleni. Szczególne wrażenie robią kwitnące glicynie. Samochód zostawiliśmy przy Parque Temático do Arnado, 
-gdzie przywitały nas drzewa pomarańczowe, fontanny, urocze miejsca do odpoczynku oraz niezwykły pokaz kwitnących glicynii. 
+i soczystej zieleni. Szczególne wrażenie robią kwitnące wisterie. Samochód zostawiliśmy przy **Parque Temático do Arnado**, 
+gdzie przywitały nas drzewa pomarańczowe, fontanny, urocze miejsca do odpoczynku oraz niezwykły pokaz kwitnących wisterii. 
 Można było podziwiać kwiaty w wielu odcieniach fioletu, a pnącza poprowadzono tak, że tworzyły tunele, pod którymi można 
 było spacerować z kwiatami zwisającymi nad głową. Opadłe płatki pokrywały alejki, tworząc złudzenie fioletowych dywanów 
 rozciągających się po całym parku. To było zdecydowanie moje ulubione miejsce w całym mieście.
@@ -134,30 +135,30 @@ podróży po Portugalii naprawdę trudno było znaleźć dobrze wyposażone plac
   <img src="/assets/Portugal/North/Ponte/20260414_140329.jpg" class="column-50" />
 </div>
 
-Po opuszczeniu parku ruszyliśmy w stronę centrum miasta, przechodząc przez słynny most, obok którego stoi Igreja de Santo 
-António da Torre Velha. Most ten jest również silnie związany z Camino de Santiago, ponieważ Ponte de Lima jest jednym z 
+Po opuszczeniu parku ruszyliśmy w stronę centrum miasta, przechodząc przez słynny most, obok którego stoi **Igreja de Santo 
+António da Torre Velha**. Most ten jest również silnie związany z **Camino de Santiago**, ponieważ Ponte de Lima jest jednym z 
 ważniejszych przystanków na portugalskim szlaku prowadzącym do Santiago de Compostela. Spacerując po mieście, zauważyliśmy 
 kilku pielgrzymów odpoczywających w pobliżu mostu i robiących sobie przerwę przed dalszą drogą. Widzieliśmy również tablice 
 oferujące proste i niedrogie noclegi dla pielgrzymów, co uświadomiło nam, że ta wielowiekowa tradycja nadal stanowi bardzo
 ważną część codziennego życia w Ponte de Lima.
 
 Historyczne centrum jest dość niewielkie, ale pełne zabytkowych kamienic. Część z nich stoi opuszczona lub nie została
-najlepiej odrestaurowana, co jednak tylko dodaje miasteczku charakteru. Minęliśmy fontannę na placu Camões, z którego  
+najlepiej odrestaurowana, co jednak tylko dodaje miasteczku charakteru. Minęliśmy fontannę na placu Camões, z którego
 rozciąga się widok na stary rzymski most, a następnie zagłębiliśmy się w wąskie uliczki prowadzące w stronę niewielkiego,
-zielonego skweru przy Estátua de António Feijó, gdzie ku naszemu zaskoczeniu zobaczyliśmy duże bocianie gniazdo.
+zielonego skweru przy **Estátua de António Feijó**, gdzie ku naszemu zaskoczeniu zobaczyliśmy duże bocianie gniazdo.
 
 <div class="row">
   <img src="/assets/Portugal/North/Ponte/20260414_142355.jpg" class="column-50" />
   <img src="/assets/Portugal/North/Ponte/20260414_144351.jpg" class="column-50" />
 </div>
 
-Spędziliśmy również trochę czasu przy Paço do Marquês de Ponte de Lima. Z murów zamkowych rozciąga się piękny widok na 
+Spędziliśmy również trochę czasu przy **Paço do Marquês de Ponte de Lima**. Z murów zamkowych rozciąga się piękny widok na 
 miasto. W pałacu mieści się Centrum Interpretacji Historii Wojskowości, którego nie odwiedziliśmy, ponieważ nie wydawało 
 nam się szczególnie interesujące dla naszej córki. Miłośnikom historii wojskowości z pewnością może się jednak spodobać.
 Następnie przeszliśmy główną ulicą R. Agostinho José Taveira, podziwiając zabytkową zabudowę, aż dotarliśmy nad rzekę i 
-na słynną Avenida dos Plátanos. To idealne miejsce, aby schronić się przed letnim upałem, usiąść na ławce w cieniu platanów 
+na słynną **Avenida dos Plátanos**. To idealne miejsce, aby schronić się przed letnim upałem, usiąść na ławce w cieniu platanów 
 i cieszyć się spokojnym widokiem na rzekę. Ostatecznie wróciliśmy wzdłuż nabrzeża do mostu, który ponownie przeszliśmy, 
-kierując się do samochodu.
+kierując się do naszego samochodu.
 
 <div class="row">
   <img src="/assets/Portugal/North/Ponte/20260414_150006.jpg" class="column-50" />
@@ -179,10 +180,10 @@ ponieważ za każdym zakrętem czeka coś ciekawego.
 </div>
 
 Na miejscu znajduje się nowocześnie wyglądające centrum informacji, jednak niestety było zamknięte, podobnie jak toalety 
-znajdujące się obok ekomuzeum. Gdy przyjechaliśmy, minęliśmy jedynie kilka osób kończących spacer, dlatego przez większość 
+znajdujące się obok tego obiektu. Gdy przyjechaliśmy, minęliśmy jedynie kilka osób kończących spacer, dlatego przez większość 
 czasu mieliśmy cały szlak praktycznie tylko dla siebie. Jedyną rzeczą, która może być nieco myląca, jest to, że trasa 
 składa się z dwóch oddzielnych odcinków rozdzielonych drogą. Najpierw przeszliśmy większą pętlę, na której znajdują się 
-główne wodospady. Następnie poszliśmy drogą obok miejscowego kościoła aż do ekomuzeum, za którym rozpoczyna się druga 
+główne wodospady. Następnie poszliśmy drogą obok miejscowego kościoła aż do centrum informacji, za którym rozpoczyna się druga 
 część szlaku. Oznacza to, że aby przejść całą trasę, trzeba dwukrotnie pokonać ten sam odcinek drogi. Ponieważ nie ma 
 tam chodnika, a droga jest dość kręta, warto zachować szczególną ostrożność, zwłaszcza podczas wycieczki z dziećmi.
 
@@ -197,29 +198,28 @@ idealny ostatni przystanek przed powrotem do Bragi.
 
 Ponte de Lima okazało się jednym z najważniejszych punktów naszej podróży po północnej Portugalii. Początkowo planowaliśmy 
 tylko krótką wizytę w miasteczku oraz dwa niewielkie spacery, ale połączenie wiosennych kwiatów, spokojnych krajobrazów 
-i przyjaznych rodzinom szlaków sprawiło, że żałowaliśmy, iż nie zaplanowaliśmy tutaj więcej czasu. To właśnie takie miejsce, 
-w którym samo zwolnienie tempa i cieszenie się chwilą staje się częścią całego doświadczenia.
+i przyjaznych rodzinom szlaków sprawiło, że zostaliśmy tutaj do poźnego popołudnia. 
 
 __Informacje praktyczne:__
 
 * National Park Lagoas de Bertiandos e São Pedro d'Arcos: wstęp bezpłatny  
-Czas zwiedzania: 2 godziny
+Czas zwiedzania: 2 godziny   
 Opisy szlaków znajdują się na [oficjalnej stronie](https://lagoas.cm-pontedelima.pt/informacoes/atividades/percursos-e-rotas/poi/percurso-do-rio-pr-3), gdzie można również pobrać pliki PDF z dokładnym opisem każdej
 trasy w języku angielskim i hiszpańskim (my wybraliśmy szlak PR3).
 <img src="/assets/Portugal/North/Ponte/20260414_111808.jpg" />
 
 * Ponte de Lima:
-[Parking](https://maps.app.goo.gl/R2tQfwCrHU248e6q9), wzdłuż rzeki znajduje się wiele darmowych miejsc postojowych.  
+[Parking](https://maps.app.goo.gl/R2tQfwCrHU248e6q9), ponadto wzdłuż rzeki znajduje się wiele darmowych miejsc postojowych.  
 Bezpłatna toaleta publiczna na placu Camões  
 Interpretation Center Of Military History - bilet wstępu: €1  
 Zwiedzanie Ponte de Lima: 1,5-2 godziny  
 * Restauracja: [NACOS Restaurante](https://maps.app.goo.gl/99sAeSKDWcBVUKgW7)
 * Passadiços e moinhos da Ribeira de S.João: wstęp bezpłatny  
-Czas zwiedzania: 45-60 minut
+Czas zwiedzania: 45-60 minut   
 Na początku szlaku znajduje się niewielki bezpłatny parking, mieszczący zaledwie kilka samochodów. Zauważyliśmy również 
-kilka dodatkowych miejsc postojowych w pobliżu Ekomuzeum. Największy parking, jaki znaleźliśmy, to utwardzony plac żwirowy 
+kilka dodatkowych miejsc postojowych w pobliżu centrum informacji. Największy parking, jaki znaleźliśmy, to utwardzony plac żwirowy 
 obok kościoła, [tuż przy głównej drodze](https://maps.app.goo.gl/HveHTcM2D8PDLaaT9). Prawdopodobnie przeznaczony jest głównie dla osób odwiedzających kościół, 
-ale może być również wygodnym miejscem do zaparkowania, gdy mniejsze parkingi są już pełne.
+ale może być również wygodnym miejscem do zaparkowania, gdy mniejsze parkingi są już zapełnione.
 
 <img src="/assets/Portugal/North/Ponte/20260414_160206.jpg" />
 

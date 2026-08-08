@@ -880,6 +880,28 @@ pre code {
     text-align: justify; }
 
 /*
+*	404 page
+*/
+.error-page {
+  text-align: center;
+  padding: 2em 0 3em 0; }
+  .error-page .error-image {
+    display: block;
+    width: 100%;
+    max-width: 360px;
+    height: auto;
+    margin: 0 auto 1em auto; }
+    @media screen and (min-width: 768px) {
+      .error-page .error-image {
+        max-width: 440px; } }
+  .error-page .error-title {
+    margin: 0;
+    font-size: 1.44em; }
+    @media screen and (min-width: 768px) {
+      .error-page .error-title {
+        font-size: 2.0736em; } }
+
+/*
 *	Footer
 */
 .site-footer {

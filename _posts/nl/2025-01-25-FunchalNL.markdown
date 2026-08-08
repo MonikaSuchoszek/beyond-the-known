@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Funchal - een prima uitvalsbasis om het eiland van de eeuwige lente te ontdekken"
-description: "Waarom we Madeira kozen voor onze huwelijksreis zonder kleuter, en wat Funchal biedt als uitvalsbasis op het eiland van de eeuwige lente."
+description: "Waarom we Madeira kozen voor onze huwelijksreis zonder kleuter, en wat Funchal biedt als uitvalsbasis voor wandeltochten op het eiland van de eeuwige lente."
 date:   2025-01-19 08:43:59
 author: Monika Suchoszek
 categories: reizen
@@ -189,7 +189,7 @@ We waren werkelijk verbaasd over de verscheidenheid aan fruit in de winkels, zel
 smaakte dan dat in België. Fruitwinkels, "frutarias" genoemd, trokken telkens onze aandacht wanneer we er voorbijkwamen.
 Onze favoriet was de lokale papaja. Onze laatste dag hielden we vrij om te shoppen, en een van de plekken die we graag
 wilden bezoeken was de Mercado dos Lavradores. Deze beroemde markt biedt een indrukwekkend aanbod exotisch fruit, zoals
-passievrucht, annona (zuurzak) en de intrigerende banaan-ananashybrides. Verkopers laten je vaak proeven, maar de prijzen
+passievrucht, annona (suikerappel) en de intrigerende banaan-ananashybrides. Verkopers laten je vaak proeven, maar de prijzen
 kunnen een pak hoger liggen dan elders, dus let op dat je niet te veel betaalt: de prijzen zijn makkelijk het dubbele van
 die bij straatkraampjes of in frutarias.
 

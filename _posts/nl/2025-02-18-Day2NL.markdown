@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Avontuur op Madeira: dag 2 – een kustwandeling en wandelen op het oppervlak van een andere planeet"
-description: "Twee heel verschillende wandelingen op één dag: de kale Drakenstaart bij zonsopgang en de groene kustroute Vereda do Larano."
+description: "Twee heel verschillende wandelingen op één dag: de kale Drakenstaart bij zonsopgang en de groene kustroute Vereda do Larano, met tijden."
 date:   2025-02-18 08:43:59
 author: Monika Suchoszek
 categories: reizen

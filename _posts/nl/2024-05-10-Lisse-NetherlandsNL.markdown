@@ -2,7 +2,7 @@
 layout: post
 
 title:  "De geheimen van de tulp ontdekken in Nederland"
-description: "Keukenhof, fietsen door de tulpenvelden en Koningsdag in één lang weekend, plus de vreemde geschiedenis van hoe de tulp hier belandde."
+description: "Keukenhof, fietsen door de bollenvelden en Koningsdag in één lang aprilweekend, plus de vreemde geschiedenis van hoe de tulp hier belandde."
 date:   2024-05-10 08:43:59
 author: Monika Suchoszek
 categories: reizen

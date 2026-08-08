@@ -48,7 +48,7 @@ een van de belangrijkste recreatiegebieden van Guimarães, waar de inwoners kome
 ontvluchten. Hoewel het weer ons niet toeliet van de uitzichten te genieten, zagen we meteen dat de berg Penha veel meer
 te bieden heeft dan het heiligdom alleen. Rond de kerk stonden informatieborden over de wandelroute PR3, en er waren
 picknickplaatsen waar bezoekers kunnen uitrusten in het groen. Het hele gebied is bebost en bezaaid met indrukwekkende
-granieten rotsformaties, wat een landschap oplevert dat perfect lijkt voor een langere wandeling. We zagen verschillende
+granieten rotsformaties, wat een landschap oplevert dat perfect lijkt voor een langere wandeling en verkenningstocht. We zagen verschillende
 paadjes tussen de enorme keien en door het bos lopen, en het voelde echt als een plek om op een zonnige dag naar terug te
 keren, wanneer we volop kunnen genieten van het uitzicht over Guimarães en het omliggende landschap.
 Het was somber en donker, en terwijl we rond het heiligdom wandelden, begon het opnieuw te regenen. We haastten ons terug
@@ -82,8 +82,8 @@ Geocaching is een schattenjacht in de echte wereld, waarbij deelnemers met een s
 verstopte doosjes, geocaches genoemd, die door andere gebruikers zijn achtergelaten. Het spel maakt van een gewone wandeling
 of trektocht een avontuur, want elke cache wordt een klein doel om te ontdekken.
 Wanneer je met kinderen reist, is geocaching een prima manier om ze betrokken en gemotiveerd te houden. Tijdens onze
-wandelingen gaf het onze dochter een doel en zin om verder te stappen en de omgeving te verkennen. In plaats van op de
-afstand te letten, keek ze reikhalzend uit naar de volgende verstopte cache, waardoor de weg net zo leuk werd als de
+wandelingen gaf het onze dochter een doel en een dosis enthousiasme om verder te stappen en de omgeving te verkennen. In plaats van op de
+afstand te letten, was ze vol ongeduld op zoek naar de volgende verstopte cache, waardoor de weg net zo leuk werd als de
 bestemming. Ze speelt dit spel al een hele tijd samen met haar papa, en ze was vooral in de wolken met een cache die onder
 een enorme eucalyptusboom verstopt zat, al was het notitieboekje erin jammer genoeg helemaal doorweekt.
 De wandeling zelf was heel aangenaam. Ze was niet te lang, en we zagen enorme kussens mos die vol water gezogen zaten.
@@ -114,7 +114,7 @@ In april is Ponte de Lima extra mooi, want de parken en de rivieroevers staan vo
 spectaculaire blauweregen als blikvanger. We parkeerden naast het Parque Temático do Arnado, waar we sinaasappelbomen,
 fonteinen, gezellige zitplekjes en een ongelooflijke show van bloeiende blauweregen vonden. Er waren allerlei tinten paars,
 en de planten waren zo geleid dat ze tunnels vormden waar je onder kon doorlopen met de bloemtrossen boven je hoofd. Gevallen
-blaadjes bedekten de paden en creëerden de illusie van paarse tapijten doorheen het hele park. Dit was zonder twijfel mijn
+bloemblaadjes bedekten de paden en creëerden de illusie van paarse tapijten doorheen het hele park. Dit was zonder twijfel mijn
 favoriete plek in het stadje. Midden in het park lag ook een speeltuin, waar onze dochter zich een hele tijd heeft geamuseerd.
 Goede speeltuinen bleken tijdens onze rondreis door Portugal namelijk verrassend moeilijk te vinden.
 
@@ -130,7 +130,7 @@ verschillende pelgrims uitrusten bij de brug, die even op adem kwamen voor ze ve
 eenvoudige en betaalbare overnachtingen voor pelgrims, wat duidelijk maakte dat deze eeuwenoude traditie nog altijd deel
 uitmaakt van het dagelijkse leven in Ponte de Lima.
 
-Het historische centrum is vrij klein, maar staat vol oude gebouwen. Sommige staan leeg of zijn niet bepaald goed
+Het historische centrum is vrij klein, maar staat vol oude gebouwen. Sommige staan verlaten of zijn niet bepaald goed
 gerestaureerd, en net dat geeft het stadje karakter. We passeerden de fontein op het Camõesplein met zicht op de oude
 Romeinse brug en dwaalden daarna door smalle straatjes naar het kleine groene pleintje bij het Estátua de António Feijó,
 waar we verrast werden door een groot ooievaarsnest.
@@ -157,8 +157,8 @@ terug naar de brug, die we nog een keer overstaken om bij onze auto te raken.
 We hadden nog net genoeg tijd voor een laatste stop dichter bij de bergen, bij **Passadiços e Moinhos da Ribeira de S. João**,
 en dat bleek een geweldige verrassing. Hoewel het maar een korte wandeling is (minder dan 2 km), zit ze boordevol leuke
 dingen: houten vlonderpaden, hangbruggetjes, kleine houten gebouwtjes die waarschijnlijk vroegere watermolens waren, en
-een prachtig landschap. Onze dochter vond het schommelen van de bruggetjes en het lopen over de houten paden geweldig, dus
-legde ze de hele route met plezier af, zonder één keer te klagen. Ik vind het een fantastische plek om met kinderen te
+een prachtig landschap. Onze dochter vond het oversteken van de schommelende bruggetjes en het rennen over de houten
+vlonderpaden geweldig, dus legde ze de hele route met plezier af, zonder één keer te klagen. Ik vind het een fantastische plek om met kinderen te
 bezoeken, want om elke bocht wacht wel iets interessants.
 
 <img src="/assets/Portugal/North/Ponte/20260414_161053.jpg" />
@@ -168,7 +168,7 @@ bezoeken, want om elke bocht wacht wel iets interessants.
   <img src="/assets/Portugal/North/Ponte/20260414_160738.jpg" class="column-50" />
 </div>
 
-Er was een modern ogend bezoekerscentrum, maar dat was jammer genoeg gesloten, net als de toiletten naast het ecomuseum.
+Er was een modern ogend infocentrum, maar dat was jammer genoeg gesloten, net als de toiletten naast het ecomuseum.
 We kruisten enkel een paar mensen die vertrokken toen wij aankwamen, dus we hadden de plek het grootste deel van ons bezoek
 zo goed als voor onszelf. Wat wel een beetje verwarrend is, is dat de route uit twee aparte stukken bestaat, gescheiden door
 een weg. Wij begonnen met de grootste lus, waar de belangrijkste watervallen liggen. Daarna stapten we langs de weg voorbij

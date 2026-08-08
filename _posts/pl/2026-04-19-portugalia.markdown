@@ -54,6 +54,11 @@ loty powrotne mieliśmy wszyscy tego samego dnia, co znacznie ułatwiło organiz
 Poniżej znajduje się mapa naszej trasy.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vUmgFtmt-hGxwTlX1H6uc6AoQyJPCFE&ehbc=2E312F" width="640" height="480"></iframe>
 
+Więcej szczegółów na temat mojej wcześniejszej podróży znajdziesz w tych wpisach:
+[Deszczowy dzień pełen przygód w Porto]({% post_url pl/2024-12-11-PortoPL %}),
+[Dziedzictwo i święta: magiczna wizyta w Bradze i Guimarães]({% post_url pl/2024-12-14-BragaPL %}) oraz
+[Przyrodnicze i kulturowe skarby Gerês-Xurés]({% post_url pl/2024-12-17-GeresPL %}).
+
 **Transport – jak poruszaliśmy się po regionie?**   
 
 Samochód odebraliśmy na lotnisku i tam również go zwróciliśmy. Na ostatnie dwa dni pobytu w Porto auto nie było nam 

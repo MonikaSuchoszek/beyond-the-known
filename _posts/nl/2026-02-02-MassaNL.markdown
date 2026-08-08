@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Een verblijf in Massa en een daguitstap naar Pisa"
-description: "Marina di Massa als rustigere uitvalsbasis aan de Toscaanse kust, met een makkelijke daguitstap naar Pisa, ook met een kleuter erbij."
+description: "Marina di Massa als rustigere uitvalsbasis aan de Toscaanse kust, met een makkelijke daguitstap naar Pisa: hoe dat is met een kleuter erbij, en wat het kost."
 date:   2026-02-02 08:43:59
 author: Monika Suchoszek
 categories: reizen

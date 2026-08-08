@@ -812,6 +812,35 @@ pre code {
 }
 
 /*
+*	404 page
+*/
+.error-page {
+	text-align: center;
+	padding: 2em 0 3em 0;
+
+	.error-image {
+		display: block;
+		width: 100%;
+		max-width: 360px;
+		height: auto;
+		margin: 0 auto 1em auto;
+
+		@include media($tablet) {
+			max-width: 440px;
+		}
+	}
+
+	.error-title {
+		margin: 0;
+		font-size: modular-scale(2);
+
+		@include media($tablet) {
+			font-size: modular-scale(4);
+		}
+	}
+}
+
+/*
 *	Footer
 */
 .site-footer {

@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Valencia met het gezin: oceaanavonturen, cultuur en groene ontsnappingen"
-description: "Een dag in het Oceanogràfic, het grootste aquarium van Europa, en de rest van Valencia met een kind: Turiatuinen, oude stad en vervoer."
+description: "Een dag in het Oceanogràfic, het grootste aquarium van Europa, en de rest van Valencia met een klein kind: Turiatuinen, oude stad en vervoer."
 date:   2024-11-08 08:43:59
 author: Monika Suchoszek
 categories: reizen

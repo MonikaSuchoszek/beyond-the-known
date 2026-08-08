@@ -2,7 +2,7 @@
 layout: post
 
 title:  "De perfecte roadtrip door Noord-Portugal – steden, natuur & eten"
-description: "Een roadtrip van twee weken door Noord-Portugal tijdens de paasvakantie: de route langs steden, stranden en bergen, plus eten en kosten."
+description: "Een roadtrip van twee weken door Noord-Portugal tijdens de paasvakantie: de route langs steden, stranden en bergen, plus vluchten, rijden en eten."
 date:   2026-04-19 08:43:59
 author: Monika Suchoszek
 categories: reizen
