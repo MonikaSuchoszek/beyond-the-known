@@ -22,14 +22,14 @@ gallery_items:
 ---
 
 Kolejne dwa dni spędziliśmy na zwiedzaniu Bragi oraz bardziej turystycznego Guimarães, znanego jako „kolebka Portugalii”. 
-Oba miasta odwiedziłam już w grudniu 2024 roku i możecie o nich przeczytać w moim wcześniejszym wpisie
+Oba miasta zwiedziłam już w grudniu 2024 roku i możecie o nich przeczytać w moim wcześniejszym wpisie
 [Dziedzictwo i święta: magiczna wizyta w Bradze i Guimarães]({% post_url pl/2024-12-14-BragaPL %}).
 Tym razem jednak niezwykle miło było zobaczyć te same miejsca w zupełnie innej scenerii. Wszędzie kwitły piękne wiosenne 
 kwiaty, które poprzez swoje intensywne kolory, dodawały miastom uroku i sprawiały, że tętniły życiem. W grudniu panowała tam magiczna świąteczna 
 atmosfera, a drzewa pomarańczowe uginały się od owoców, dlatego obie pory roku mają swój niepowtarzalny urok.
 
 Ponieważ zatrzymaliśmy się w samym centrum Bragi, mogliśmy bez problemu spacerować po mieście o każdej porze dnia,
-podziwiając piękne place pełne kolorowych kwiatów oraz obserwując życie mieszkanców. Oprócz zwiedzania samego miasta odwiedziliśmy także Bom 
+podziwiając piękne place pełne kolorowych kwiatów oraz obserwując życie mieszkanców. Oprócz zwiedzania samego miasta zwiedziliśmy także Bom 
 Jesus do Monte oraz Sanktuarium Matki Bożej z Sameiro, a wszystko udało nam się zobaczyć w ciągu jednego dnia.
 
 <div class="row">
@@ -44,7 +44,7 @@ Jesus do Monte oraz Sanktuarium Matki Bożej z Sameiro, a wszystko udało nam si
 W dniu, w którym pojechaliśmy do Guimarães, pogoda była zdecydowanie najgorsza. Rano padał deszcz, choć prognozy zapowiadały 
 późniejszą poprawę, więc postanowiliśmy mimo wszystko pojechać. Podczas mojej poprzedniej wizyty nie udało mi się zobaczyć
 **Sanktuarium Penha**, dlatego tym razem właśnie tam skierowaliśmy się najpierw.
-Dla wielu odwiedzających jest to znacznie więcej niż tylko sanktuarium, to jeden z głównych terenów rekreacyjnych Guimarães, 
+Dla wielu zwiedzających jest to znacznie więcej niż tylko sanktuarium, to jeden z głównych terenów rekreacyjnych Guimarães, 
 gdzie mieszkańcy przychodzą na spacery, pikniki i odpoczynek z dala od miejskiego zgiełku.
 
 Choć pogoda nie dała nam szans na podziwianie widoków, od razu było wiadomo, że góra Penha oferuje znacznie więcej niż samo sanktuarium. 
@@ -65,7 +65,7 @@ niezwykle uroczym mieście.
 
 Następnego dnia naszym celem było udanie się na północ od Bragi, w okolice Ponte de Lima. Plan zakładał połączenie zwiedzania 
 tego średniowiecznego miasteczka z dwoma krótkimi pieszymi wycieczkami. Dzień rozpoczęliśmy od wizyty w parku krajobrazowym 
-**Bertiandos and São Pedro de Arcos Lagoons Protected Landscape**. Zaparkowaliśmy obok centrum informacji dla odwiedzających, 
+**Bertiandos and São Pedro de Arcos Lagoons Protected Landscape**. Zaparkowaliśmy obok centrum informacji, 
 gdzie stał duży autobus szkolny. Okazało się, że grupa dzieci uczestniczyła tam w zajęciach terenowych.
 
 Dzieci przebywały wewnątrz centrum, do którego zajrzała również nasza córka, szukając toalety. Bardzo zainteresowało ją 
@@ -110,7 +110,7 @@ Podczas całej wędrówki spotkaliśmy zaledwie kilka osób, dzięki czemu okoli
 sprzyjała relaksowi. Podwyższone drewniane pomosty były bardzo dobrze oznakowane, a wzdłuż trasy znajdowało się kilka 
 czatowni ornitologicznych oraz punktów obserwacyjnych. W drugiej części szlaku szliśmy wzdłuż rzeki Estorãos, wcześniej 
 okrążając słodkowodne laguny po drewnianych pomostach. Ponieważ teren wokół lagun jest naturalnie grząski, podmokły i 
-bardzo delikatny, zbudowano rozbudowaną sieć podwyższonych kładek. Dzięki nim odwiedzający mogą swobodnie przemierzać 
+bardzo delikatny, zbudowano tam rozległą sieć podwyższonych kładek. Dzięki nim zwiedzający mogą swobodnie przemierzać 
 mokradła, nie zapadając się w błoto i nie niszcząc cennych siedlisk przyrodniczych.
 
 W drodze powrotnej do miasta zatrzymaliśmy się na lunch w lokalnej restauracji. Później byliśmy już gotowi, aby odkrywać 
@@ -153,7 +153,7 @@ zielonego skweru przy **Estátua de António Feijó**, gdzie ku naszemu zaskocze
 </div>
 
 Spędziliśmy również trochę czasu przy **Paço do Marquês de Ponte de Lima**. Z murów zamkowych rozciąga się piękny widok na 
-miasto. W pałacu mieści się Centrum Interpretacji Historii Wojskowości, którego nie odwiedziliśmy, ponieważ nie wydawało 
+miasto. W pałacu mieści się Centrum Interpretacji Historii Wojskowości, którego nie zwiedziliśmy, ponieważ nie wydawało 
 nam się szczególnie interesujące dla naszej córki. Miłośnikom historii wojskowości z pewnością może się jednak spodobać.
 Następnie przeszliśmy główną ulicą R. Agostinho José Taveira, podziwiając zabytkową zabudowę, aż dotarliśmy nad rzekę i 
 na słynną **Avenida dos Plátanos**. To idealne miejsce, aby schronić się przed letnim upałem, usiąść na ławce w cieniu platanów 

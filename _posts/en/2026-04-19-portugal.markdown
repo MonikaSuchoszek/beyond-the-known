@@ -2,7 +2,7 @@
 layout: post
 
 title:  "The Perfect North Portugal Road Trip – Cities, Nature & Food"
-description: "A two-week Easter road trip through northern Portugal: the route between cities, beaches and mountains, plus flights, driving and food."
+description: "An 8-day Easter road trip through northern Portugal: the route between cities, beaches and mountains, plus flights, driving and food."
 date:   2026-04-19 08:43:59
 author: Monika Suchoszek
 categories: travel
@@ -39,7 +39,7 @@ travel budget, and practical advice for exploring Northern Portugal by car. If y
 kids or simply looking for ideas beyond Porto, this guide may help you plan your own adventure.
 
 
-**Our Route and General Impressions**   
+## Our Route and General Impressions
 I had already visited Porto in December 2024 for a long 
 weekend to see a colleague, and I really enjoyed my stay. This time, I wanted to explore more of Northern Portugal with 
 my family by renting a car and doing a road trip, similar to what we did [in Denmark last summer]({% post_url en/2025-09-25-Denmark %}).
@@ -55,9 +55,9 @@ More details about my earlier trip can be found in these posts: [A Rainy Day Adv
 , [A Magical Visit to Braga and Guimarães]({% post_url en/2024-12-14-Braga %}) and [Exploring the Natural and Cultural Wonders
 of Gerês-Xurés]({% post_url en/2024-12-17-Geres %})
 
-**Getting Around – Transportation Tips**   
+## Getting Around – Transportation Tips
 We rented the car at the airport and dropped it off at the airport as well. We really did not need a car in Porto for the 
-last 2 days of our stay since we were sightseeing the city on foot. offers multiple drop-off locations in Porto, including 
+last 2 days of our stay since we were sightseeing the city on foot. Sixt offers multiple drop-off locations in Porto, including
 one outside the city centre, but returning the car to a different location than where it was picked up would have involved 
 an additional fee. Because of that, it made more sense for us to return the car at the airport, where we had originally 
 collected it.
@@ -78,7 +78,7 @@ got off at General Torres. Line D runs frequently and crosses the iconic Luís I
   <img src="/assets/Portugal/North/20260415_180352_01.jpg" class="column-50" />
 </div>
 
-**Parking and Driving**   
+## Parking and Driving
 We never paid for parking during the trip. In smaller towns and at most attractions, parking was free. In Braga, where we 
 stayed for four nights, parking was free as well in some zones, but it could be difficult to find a spot in the late afternoon 
 when returning from day trips. After a couple of days, we learned which streets had better chances for free parking. In some 
@@ -93,7 +93,7 @@ one way so it is very competitive compare to prices of public transportation if 
 left to the airport when we decided to check this park out on the last day) and it was definitely faster and easier way 
 to get there.
 
-**Fuel and roads**   
+## Fuel and Roads
 Fuel prices ranged between €1.88 and €2.02 per litre, with Auchan being the cheapest option. We did in total almost 500km 
 so there was no need to tank multiple times and we used [petrol station close to the airport](https://maps.app.goo.gl/1HjWYrcv8PPcYu159).
 Portugal has toll highways, but we always avoided them. On our routes, the time difference was often less than 10 minutes, 
@@ -105,7 +105,7 @@ to the €2.23 daily fee. Sixt automatically adds this E-Toll fee for the whole 
 car did not pass any highway toll gates. I was informed that the reimbursement would happen within 30 days after the rental, 
 and it was actually done as promised. Cars are equipped with an electronic toll device.
 
-**Accommodation**   
+## Accommodation
 We stayed in Airbnb apartments in A Ver o Mar and Braga, always entire flats. Both apartments had self check-in via lockbox, 
 were very spacious and highly rated. [The first apartment](https://www.airbnb.com/rooms/1476400048216795229?source_impression_id=p3_1777192418_P3A-TqFdcgkEuJr5) 
 was very comfortable and located near a large beach. The town itself was not very charming, but it was a great base for 
@@ -122,7 +122,7 @@ Average cost: €90 per night
 •	Booking minimum 3 months ahead is ideal for good deals   
 •	Average rating: 4.9+   
 
-**Food & Eating Out**   
+## Food & Eating Out
 We were looking for local restaurants, with great reviews and value. Important to note is that restaurants in Portugal are 
 closing around 3pm and re-opening at 7pm. There are always some places open the whole day but really not many and often 
 these were often more fast food places. To avoid eating in the late evening that would be difficult with our daughter, we 
@@ -144,7 +144,7 @@ communication issues.
   <img src="/assets/Portugal/North/IMG_20260417_124619889_HDR_01.jpg" class="column-50" />
 </div>
 
-**List of restaurants we would recommend:**   
+## List of restaurants we would recommend:
 Porto: [Spice Art Indian Restaurante & Bar](https://maps.app.goo.gl/SjQhQqhTJLWr8sya9)   
 Porto: [Mirone - Cachorrinhos do Morro](https://maps.app.goo.gl/s3bZUU24cY7yKSX5A)   
 Porto: [Manteigaria](https://maps.app.goo.gl/zCoh84FsDt8h5q379)   
@@ -157,7 +157,7 @@ Braga: [Atípica](https://maps.app.goo.gl/UpCRBGD8gC8D7bw88)
 Braga: [Bella Braga Caffé & Restaurante](https://maps.app.goo.gl/tsmwZfs4sLDtM2q1A)   
 
 
-**Budget Overview (for 8 days, 3 adults and four-year-old child)**
+## Budget Overview (for 8 days, 3 adults and four-year-old child)
 
 | Category                                       | Total Cost (€) |
 |------------------------------------------------|---------------:|
@@ -172,7 +172,7 @@ Braga: [Bella Braga Caffé & Restaurante](https://maps.app.goo.gl/tsmwZfs4sLDtM2
 
 <img src="/assets/Portugal/North/Picture chart.jpg" />
 
-**Our Experience of Travelling with a Child**   
+## Our Experience of Travelling with a Child
 This trip was easier due to shorter distances between attractions. Despite the fact that good quality playgrounds were 
 very rare, our daughter was occupied by nature. She was happy when we found even small playgrounds, but discovering beaches, 
 forests, or old medieval cities was a perfect substitute for playgrounds.
@@ -193,7 +193,7 @@ There was also nice [park](https://maps.app.goo.gl/KqtFnzwtaMAmBqcSA) near the f
 </div>
 
 
-**Final Thoughts and Recommendations**   
+## Final Thoughts and Recommendations
 We do not regret any of the places we chose. The balance between cities, mountains, and coastal areas worked very well.
 For a spring trip, Northern Portugal is an excellent option. While locals mentioned the weather was not ideal, for us 
 15–20°C felt comfortable and pleasant for exploring.

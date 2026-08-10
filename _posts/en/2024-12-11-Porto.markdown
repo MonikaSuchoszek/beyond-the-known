@@ -17,8 +17,8 @@ gallery_items:
   - image: "/assets/Portugal/Porto/20241205_162405_01.jpg"
     gallery_image: "/assets/gallery/Porto.JPG"
     description: "Vintage tramcars, symbol of the city’s history and charm. Operated by STCP (Sociedade 
-de Transportes Colectivos do Porto), these historic trams are one to explore its streets. There are only still 3 lines 
-that are operating through Porto’s most picturesque areas. The trams are beautifully restored and retain their original 
+de Transportes Colectivos do Porto), these historic trams are one way to explore its streets. There are only still 3 lines
+that are operating through Porto’s most picturesque areas. The trams are beautifully restored and retain their original
 wooden elements and classic design."
 ---
 
@@ -118,7 +118,7 @@ including train to Braga.
   <img src="/assets/Portugal/Porto/20241205_145300_01.jpg" class="column-50" />
 </div>
 
-Jardins do Palácio de Crista, well-maintained park with fountains, sculptures was a perfect destination for a leisurely stroll.
+Jardins do Palácio de Cristal, well-maintained park with fountains, sculptures was a perfect destination for a leisurely stroll.
 However, I would not recommend this place if you have only 6h to visit the city and weather is not great :) At the heart 
 of the gardens stands the Pavilhão Rosa Mota, also known as the Super Bock Arena. This multipurpose venue hosts concerts, 
 sports events, and exhibitions. I have noticed some  peacocks there but they were all hiding under the roof of the pavilion.

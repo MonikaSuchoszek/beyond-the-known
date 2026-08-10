@@ -1,215 +1,244 @@
 ---
 layout: post
 
-title:  "Ponte de Lima: Portugal's Oldest Town and Two Beautiful Nature Walks"
+title:  "XXX"
 description: "Portugal's oldest town and two beautiful nature walks nearby, plus a spring return to Braga and Guimaraes, on our northern road trip."
 date:   2026-06-03 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Portugal PonteDeLima Braga
-cover:  "/assets/Portugal/North/Ponte/20260414_153825.jpg"
-thumbnail:  "/assets/thumbnails/Ponte.JPG"
-post_id: north_PonteDeLima_overview
+tags:	Belgium 
+cover:  "/assets/Belgium/Liege/20260515_150509.jpg"
+thumbnail:  "/assets/thumbnails/Hikes.JPG"
+post_id: BE_hikes
 coords:
   lat: 41.768971 
   lng: -8.585567
 gallery_items:
-  - image: "/assets/Portugal/North/Ponte/20260414_153825.jpg"
-    gallery_image: "/assets/gallery/Portugal_Ponte.jpg"
-    description: " Built around the 1st century AD as part of imperial Via XIX, connecting the ancient cities of Bracara 
-    Augusta (Braga) and Asturica Augusta. Expanded heavily in the 14th century (notably completed around 1359) with additional 
-    arches added over time due to shifts in the Lima River's course. Today it spans roughly 380 meters total."
+  - image: "/assets/Belgium/Liege/20260516_151519.jpg"
+    gallery_image: "/assets/gallery/Hikes.jpg"
+    description: " XXX "
 ---
 
-The next two days were spent exploring Braga and the more touristy Guimarães, known as the "birthplace of Portugal". I had 
-already visited both cities in December 2024, and you can read about them in my previous blog post, [A Magical Visit to Braga and Guimarães]({% post_url en/2024-12-14-Braga %}). 
-However, it was really nice to see the same places in completely different surroundings, 
-this time with beautiful spring flowers everywhere, adding vibrant colours and making the cities feel full of life. In 
-December, they had a magical Christmas atmosphere, and the orange trees were full of fruit, so both seasons have their 
-own unique charm. Since we stayed in Braga's city centre, we could easily walk into town, even in the evening, to get some food and enjoy 
-the beautiful squares filled with colourful flowers. Besides exploring the city itself, we also visited Bom Jesus do Monte 
-and the Sanctuary of Our Lady of Sameiro, managing to fit everything into a single day.
+We decided to use one of the longer weekends in May to finally explore an area of Belgium that I had never visited before. 
+We were looking for longer hikes rather than short family walks, so we left our daughter with her grandparents and headed 
+towards Liège. The weather, however, had other plans. The forecast for the long weekend was surprisingly bad, with storms 
+expected across Belgium. Since our apartment was in Liège and the weather looked better around 13th-century castle complex 
+of **Alden Biesen**, we decided to make the most of the situation and stop there on the way.
+
+## Alden Biesen - An Easy Hike Around the Castle
+We decided to follow the hike marked with an orange cross, which leads through the fields around the castle and is about 
+8.2 km long. The hike starts right at the grand gates of the castle, where we passed a nice sitting area and a small wooden 
+trailer called De Bij-Mobiel. It turned out to be a trailer designed in Limburg to teach the public about bees and biodiversity. 
+It highlights how essential honeybees and solitary bees are for cross-pollination, which is vital for the massive fruit 
+orchards in this region. It must be a fantastic place to visit during the blossoms in spring. 
 
 <div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260412_104928.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260412_144228.jpg" class="column-50" />
-</div>
-<div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260413_103556.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260412_180310.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260514_105250.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260514_105348_01.jpg" class="column-50" />
 </div>
 
-The day we visited Guimarães, the weather was at its worst. It was raining in the morning, although the forecast promised 
-some improvement later, so we decided to go anyway. During my previous visit, I hadn't had the chance to see the **Sanctuary 
-of Penha**, so we headed there first. Many visitors treat it as much more than just a sanctuary, it's one of Guimarães' 
-main recreational areas, where locals come to walk, picnic, and escape the city. Although the weather did not allow us to 
-enjoy the views, we could see that Penha Mountain offers much more than just the sanctuary itself. Around the church, 
-there were information boards showing the PR3 hiking route, as well as picnic areas where visitors can relax surrounded 
-by nature. The area is covered with forest and dotted with impressive granite rock formations, creating a landscape that 
-looked perfect for a longer walk and exploration. We noticed several paths leading between the huge boulders and through 
-the woodland, and it definitely felt like a place worth returning to on a sunny day, when we could properly enjoy the views 
-over Guimarães and the surrounding countryside. 
-It was gloomy and dark, and it actually started raining while we were walking around the sanctuary. We rushed back to the 
-car, but luckily, by the time we reached the city, the rain had stopped and we even enjoyed some sunshine later that afternoon. 
+Leaving the castle walls 
+behind, the orange cross guided us through farmland, forested stream valleys and lush wetlands, where we found some wooden 
+paths next to the Demer River. We passed multiple nice picnic benches along the route and really enjoyed the beautiful 
+diversity of this loop. After the hike, we also explored the castle's inner courtyard and French garden on our way back 
+to the parking area.
+
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 212039.png" />
 
 <div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260413_095435.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260413_095951.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260514_105620.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260514_124043.jpg" class="column-50" />
 </div>
 
-The following day, our goal was to travel further north from Braga to the surroundings of Ponte de Lima, where we planned 
-to combine a visit to this medieval town with two short hikes nearby.
-We decided to begin the day in the **Bertiandos and São Pedro de Arcos Lagoons Protected Landscape**. We parked next to the 
-visitor centre, where a large school bus was parked because a group of children were taking part in outdoor classes. They 
-stayed inside the visitor centre, which our daughter also visited while looking for a toilet. She became very interested 
-in what the children were doing, and it took some convincing before she agreed to start the hike.
-The protected landscape offers five marked walking trails ranging from a short 1.6 km boardwalk around the lagoon to a 12.5 
-km route exploring much of the reserve. We chose the 2.9 km River Trail (PR3), which turned out to be the perfect option with 
-our daughter, combining forest, wetlands, wooden boardwalks, and geocaching without being too long
- It had been raining on our drive 
-from Braga, so the forest was still very wet. Although the rain had stopped, we could constantly feel drops of water falling 
-from the trees. 
+<img src="/assets/Belgium/Liege/20260514_114956.jpg" />
+
+
+## Esneux - A Hike Interrupted by a Storm
+Despite the unstable weather, we decided to visit Esneux and try a hike along the Ourthe River. Unfortunately, after only 
+the first 1.5 km, we were stopped by heavy rain and thunder. Since the bridge where we could cross the river was probably 
+6 km into the hike, we would not have had any possibility of shortening the route if the weather became even more unpleasant.
+Once the storm had passed, we walked uphill to St. Hubert's Church and then followed the path along the fence of Château 
+Le Fy, slowly going down the slope towards Rue Grandfosse. From there, we walked back to the car along the river, passing 
+the train station on the way. It was not the hike we originally planned, but at least we managed to explore a little bit 
+of the area between the storms.
+
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 212344.png" />
+
+## Hautes Fagnes - A Long Hike Through Forest and Open Landscapes
+The next day, the weather forecast was much better, but only until 4 pm, so we had to make sure to be at the start of the 
+hike by 10 am at the latest. We still had 60 km to drive from our apartment, so it took us about an hour without traffic. 
+However, you need to follow local roads to get there, so it can take longer depending on the traffic. The parking next to 
+the restaurant and small chapel was quite empty when we arrived. I had some paths marked in the Organic Maps app that I 
+wanted to follow, but we had to adjust our route because of wet sections that we couldn't pass. The previous few days had 
+definitely been much rainier than the rest of the month. At the beginning, we walked on very well-defined paths in the 
+forest. However, every time we tried to go deeper into the forest using smaller paths, we were stopped by very muddy terrain, 
+so we decided to stick to the main path. One of the things I particularly liked in the open landscape was the cotton grass 
+growing everywhere. The fluffy white seed heads stood out beautifully against the green and brown vegetation and made the 
+landscape look almost covered in small pieces of cotton. 
 
 <div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260414_111544.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260414_115217.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_094347.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_093955.jpg" class="column-50" />
 </div>
 
-The forest looked mysterious, and to make the walk more exciting for our daughter, we checked whether 
-there were any nearby geocaches. There were two, which was enough to keep her motivated throughout the hike.
-Geocaching is a real-world treasure hunt where participants use a smartphone or GPS device to search for hidden containers, 
-called geocaches, that have been placed by other users. The game turns an ordinary walk or hike into an adventure, as each 
-cache becomes a small goal to discover.
-When travelling with children, geocaching can be a great way to keep them engaged and motivated. During our hikes, it gave 
-our daughter a sense of purpose and excitement, encouraging her to keep walking and explore the surroundings. Instead of 
-focusing on the distance, she was eager to search for the next hidden cache, making the journey just as enjoyable as the 
-destination. She has been playing this game with her father for quite some time, and she was especially excited to find 
-one hidden beneath a huge eucalyptus tree, although unfortunately the notebook inside was completely wet.
-The hike itself turned out to be very enjoyable. It wasn't too long, and we saw huge cushions of moss soaked with water. 
-There were also many lichens growing on the trees, indicating the clean air in the area. I believe we saw Ramalina, a 
-shrubby, fruticose lichen that serves as an excellent bio-indicator because it requires clean, unpolluted air to thrive.
+The forest was very quiet and big, with signs indicating mountain-bike 
+paths in the area. We walked partially on these paths and later turned onto smaller paths through the forest. The furthest point 
+we reached was a nice viewpoint with a roofed platform and some benches. From there, we could hear and see water cascades 
+in the valley below us. I had seen a small path on the map leading steeply down to the creek, and we decided to try it. 
+This was, for me, the most interesting part of the hike, with more rocks and a narrow, steep path, which I personally like 
+much more.
+We very quickly reached the stream, where we surprisingly noticed many people on the other side. I saw a nearby hike called 
+Promenade de la Hoëgne, which was leading along the river, and I think this was part of that route until the Pont du 
+Centenaire bridge. The area around the stream was really interesting, with wooden boardwalks and bridges, but it was 
+definitely the most crowded part of the hike. We had to wait many times to let people pass because they were significantly 
+slower than us and the path was very narrow, so it wasn't easy to overtake. 
 
 <div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260414_113755.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260414_113012.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_114237.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_115331.jpg" class="column-50" />
 </div>
 
-During the hike, we met only a few other people, making the whole area feel peaceful and relaxing. The elevated wooden 
-boardwalks were well marked, and there were several birdwatching hides and observation points along the route. In the 
-second half of the hike, we walked alongside the Estorãos River after first circling the freshwater lagoons on wooden 
-boardwalks. Because the ground around the lagoons is naturally muddy, wet, and fragile, an extensive network of elevated 
-walkways has been built, allowing visitors to cross the wetlands without sinking into the mud or damaging the delicate 
-habitat.
-
-On our way back towards the town, we stopped at a local restaurant for lunch. Afterwards, we were ready to explore **Ponte 
-de Lima**, one of the most charming towns in northern Portugal and often described as the oldest town in the country. Located 
-on the banks of the Lima River, it is famous for its medieval bridge, flower-filled riverside gardens, and relaxed atmosphere. 
-The town's name literally means "Bridge over the Lima", referring to the historic stone bridge that became an important 
-crossing on the Roman road connecting Braga with Astorga.
-
-<img src="/assets/Portugal/North/Ponte/20260414_153825.jpg" />
-
-In April, Ponte de Lima is especially beautiful because its parks and riverbanks are filled with spring flowers and lush 
-greenery, including spectacular wisteria. We parked next to Parque Temático do Arnado, where we found orange trees, fountains, 
-lovely seating areas, and an incredible display of flowering wisteria. There were many different shades of purple, and the 
-plants had been trained to form tunnels that visitors could walk through with flowers hanging overhead. Fallen petals 
-covered the paths, creating the illusion of purple carpets throughout the park. This was definitely my favourite place 
-in the town. There was also a playground in the middle of the park, which kept our daughter happily occupied for quite a 
-while. Good playgrounds were actually surprisingly difficult to find during our trip around Portugal.
+One thing that immediately caught my attention 
+was the colour of the water in some of the streams. It was surprisingly dark, almost reddish-brown, and looked a bit like 
+tea. The water was actually clear enough to see the rocks underneath. The colour comes from organic matter released by the 
+peat and vegetation in this wetland landscape, giving the streams their characteristic dark colour. From the bridge, we decided to head back in 
+the direction of the parking area where we had left the car. After only a couple hundreds of metres, we were alone again. 
 
 <div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260414_142146.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260414_140329.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_120643.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_123022.jpg" class="column-50" />
 </div>
 
-After leaving the park, we walked towards the town centre, crossing the famous bridge with Igreja de Santo António da Torre 
-Velha standing beside it. The bridge is also closely connected with the Camino de Santiago, as Ponte de Lima is one of the 
-important stops on the Portuguese route to Santiago de Compostela. While walking through the town, we noticed several 
-pilgrims resting near the bridge, taking a moment to relax before continuing their journey. We also saw signs offering 
-simple and affordable accommodation for pilgrims, which made it clear that this centuries-old tradition is still very 
-much part of everyday life in Ponte de Lima.
+I was asking myself, Where are these characteristic boardwalks that I saw in so many photos? We actually reached them during 
+the last 3 kilometres of the hike. By that time, my husband was already complaining about pain in his feet, and it turned 
+out that he had multiple blisters. Therefore, when we reached the last path towards the parking area, we decided that I 
+would continue on a small loop on the other side of the main road to see what it looked like, while he would wait in the 
+car. When we split up, I crossed the main road next to Le Mont Rigi hotel and entered the area called Hautes Fagnes, which 
+was very different from the rest of the hike. The landscape there is very open, with not many trees on the horizon, but 
+you need to follow wooden paths because the main area is above the ground. You can enjoy beautiful walks here on boardwalks.
+I just did a quick 3 km loop to check it out, but you can do a much longer hike on that side of the main road, all the way 
+to another nature reserve, Fagne de Brackvenn (parking Nahtsief). 
 
-The historic centre is quite small but full of old buildings. Some are abandoned or not particularly 
-well restored, yet this only adds to the town's character. We passed the fountain in Camões Square overlooking the old 
-Roman bridge before wandering through narrow streets towards the small green square near the Estátua de António Feijó, 
-where we were surprised to see a large stork's nest.
+ <div class="row">
+  <img src="/assets/Belgium/Liege/20260515_141939.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_150514.jpg" class="column-50" />
+</div>
+
+For people who really want to stand on the highest peak 
+of Belgium, you can drive a bit further to the Signal de Botrange parking area. However, it is basically just a hilltop 
+with stairs next to the parking area, so we decided to skip it. Someone decided to build the stairs in 1923 to bring the 
+symbolic top up to exactly 700 metres, as the natural peak is lower. Of course, it can be a starting point for another 
+amazing hike in this area. That was an intense hike, but with beautiful landscapes and very few people, apart from the 
+short section along the stream close to Pont du Centenaire and the area around the parking lot, which has the famous 
+boardwalks.
+
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 212447.png" />
+
+## Vallon du Ninglinspo - Beautiful but Too Crowded
+On the last day, after checking out, we started the day with a hike in the Vallon du Ninglinspo area. That was the biggest 
+disappointment of our trip. First, we had to park the car a bit further from the start because, even before 10 am, the 
+two small parking areas were already full of cars. Very quickly, the hike became a bit confusing. There were tapes between 
+the trees in some places indicating that we should follow a different route because of changes being made in the area, but 
+it was really not clear where to go. Sometimes the arrows were even pointing in directions where crossing the stream was 
+not possible. It was also very crowded, and the further we got, the worse it became. There were a lot of people with small 
+children, but actually, this hike was not easy. I would not recommend it for families with young kids because of the many 
+slippery rocks, mud and places where it was necessary to take bigger steps. I noticed that many children were struggling.
+We also had to wait multiple times because people were having problems crossing the narrowest parts of the path, which 
+were particularly muddy that day. We had the impression that too many tourists had damaged the landscape. There were too 
+many footsteps everywhere, and it looked like nature was suffering from the high number of visitors.
+
+ <div class="row">
+  <img src="/assets/Belgium/Liege/20260516_104849.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260516_105004.jpg" class="column-50" />
+</div>
+
+Halfway through the regular hike, after about 3 km, we decided to extend the route and make an additional 6 km loop to La 
+Charmille du Haut Marêt, a charming 573 m long path with more than 4,500 hornbeam trees forming a tunnel. During this 
+additional hike, we hardly met anyone. We enjoyed this part the most because we could finally experience beautiful and 
+quiet nature. We simply followed good-looking paths that were also visible on the map in Organic Maps and found the place 
+without any issues. On the way back, we passed through another side of the forest and turned the wrong way only once, around 
+the 8 km mark. That part was pretty flat, with paths that were easy to walk on. There were also signs indicating biking 
+routes. Once we came back to the Ninglinspo route, the other half was very easy to hike. It was a wide and nice path 
+through the forest. There weren't many views, so it was definitely less interesting than the first part, but there were 
+no difficult sections with rocks or extensive mud.
+
+ <div class="row">
+  <img src="/assets/Belgium/Liege/20260516_121438.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260516_121815.jpg" class="column-50" />
+</div>
+
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 213621.png" />
+
+## Heid Des Gattes - A Short Extra Hike Near Aywaille
+Since we still had some time and the weather was stable, we decided to stop at Heid Des Gattes, near Aywaille.
+I did the hike myself, while my husband stayed on a bench next to the riverbank because his blisters were getting really 
+painful after the morning hike. I still felt like doing some more hiking, though. After a steep climb, the terrain became 
+flat, and views of the city and river below opened up between the trees. I passed some small houses on the top and followed 
+a very visible path until I reached a field with two donkeys. It was time to find the path leading back to the parking area. 
+It was narrow and steep, but I quickly reached the lower sections of the hill. 
 
 <div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260414_142355.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260414_144351.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260516_150040.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260516_152012.jpg" class="column-50" />
 </div>
 
-We also spent some time around the Paço do Marquês de Ponte de Lima. From the top of the castle walls, there are lovely 
-views over the town below. The palace houses the Interpretation Centre of Military History, a museum that we decided not 
-to visit, as it didn't seem particularly suitable with our daughter, although it may be interesting for visitors with an 
-interest in military history.
-Afterwards, we followed the main street, R. Agostinho José Taveira, admiring the historic buildings before reaching the 
-riverbank and the famous Avenida dos Plátanos. This is a wonderful place to escape the summer heat, sit on a bench beneath 
-the trees, and enjoy the peaceful views of the river. We eventually returned along the river to the bridge, which we crossed 
-once again to reach our car.
+<img src="/assets/Belgium/Liege/20260516_151519.jpg" />
+
+On the way down towards the area where the 
+goats were supposed to be, I noticed something quite unusual from the top of the hill. There was a large, deep hole in the 
+ground, almost like a crater, with trees growing at the bottom. It was quite impressive to see from above.
+What surprised me most was how sudden the drop was. There was no fence or other protection along much of the edge, so it 
+looked like someone not paying attention could easily fall several metres down. There were some huge rocks placed along 
+parts of the edge, but they didn't seem to protect all of the potentially dangerous sections. Later, I learned that this 
+area contains several old quarries, so I assume this could have been one of the old quarry excavations. There were no goats 
+to be found in the area. There was an information board about approaching the goats and feeding them, so I'm not sure if 
+you need to visit the place at a specific time of year or on specific days to see them, or if they are no longer there 
+permanently. After that, it was time to head back to pick up our daughter from her grandparents and continue back to Leuven.
 
 <div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260414_150006.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260414_150836.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260516_154045.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260516_154125.jpg" class="column-50" />
 </div>
 
-We still had enough time for one final stop closer to the mountains at **Passadiços e Moinhos da Ribeira de S. João**, which 
-turned out to be a wonderful surprise. Although it is only a short walk (less than 2km), it is packed with interesting 
-features, including wooden boardwalks, suspension bridges, small wooden buildings that were probably former watermills, 
-and beautiful scenery. Our daughter especially loved crossing the swinging bridges and running along the wooden walkways, 
-so she happily completed the whole route without any complaints. I think it is a fantastic place to visit with children, 
-as there is always something interesting to look at around the next corner.
+<img src="/assets/Belgium/Liege/20260516_153222.jpg" />
 
-<img src="/assets/Portugal/North/Ponte/20260414_161053.jpg" />
-
-<div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260414_161230.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260414_160738.jpg" class="column-50" />
-</div>
-
-There was a modern-looking information centre, but unfortunately it was closed, as were the toilets next to the Ecomuseum. 
-We met only a few people leaving as we arrived, so for most of our visit we had the place almost entirely to ourselves. 
-One thing that was slightly confusing is that the trail consists of two separate sections divided by a road. We started 
-with the larger loop, where the main waterfalls are located. Afterwards, we walked along the road past the local church 
-until we reached the Ecomuseum, where the second section of the trail begins behind the museum building. This means you 
-have to walk along the road twice to complete the full route. As there is no pavement and the road is quite winding, it 
-is worth being especially careful if you are visiting with children.
-
-<div class="row">
-  <img src="/assets/Portugal/North/Ponte/20260414_162450.jpg" class="column-50" />
-  <img src="/assets/Portugal/North/Ponte/20260414_161329.jpg" class="column-50" />
-</div>
-
-Although the route is short, it is much more varied than we expected. In less than an hour, we crossed several bridges, 
-explored waterfalls, admired the old mills, and enjoyed the peaceful forest scenery. It felt like a perfect final stop 
-before returning to Braga.
-
-Ponte de Lima turned out to be one of the highlights of our northern Portugal trip. We initially came for a quick visit 
-to the town and two short walks, but the combination of spring flowers, peaceful landscapes, and family-friendly trails 
-made us wish we had planned more time here. It is exactly the kind of place where slowing down is part of the experience.
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 213856.png" />
 
 __Practical info:__
 
-* National Park Lagoas de Bertiandos e São Pedro d'Arcos: free entrance   
-Hikes are described on the [official website](https://lagoas.cm-pontedelima.pt/informacoes/atividades/percursos-e-rotas/poi/percurso-do-rio-pr-3)
-that also includes pdf of each hike (we did PR3) with detailed description version in Spanish and English
-Duration of the visit: 2 hours
-<img src="/assets/Portugal/North/Ponte/20260414_111808.jpg" />
+**Alden Biesen**   
+Hike description: https://www.wandeleninlimburg.be/en/wandellus/alden-biesen-orange-cross-193
+Hike duration: 1h 45min
+Hike distance: 9 km
+Free parking: https://maps.app.goo.gl/eoudxYgX2bHpea5j8
+Castle: http://www.alden-biesen.be/
+De Bij-Mobiel: https://www.boomgaardenstichting.be/activiteiten/projecten/de-bij-mobiel
 
-* Ponte de Lima:
-[Parking](https://maps.app.goo.gl/R2tQfwCrHU248e6q9), there were plenty of free parkings along the river   
-Free public toilet on Camões Square   
-Interpretation Center Of Military History - €1 entry fee 
-Ponte de Lima sightseeing: 1.5–2 hours   
-* Restaurant: [NACOS Restaurante](https://maps.app.goo.gl/99sAeSKDWcBVUKgW7)
-* Passadiços e moinhos da Ribeira de S.João: free entrance.    
-Duration of the visit:45–60 minutes
-There is a small free car park next to the start of the trail, but it only has space for a few vehicles. We also noticed 
-a few additional parking spaces near the Ecomuseum. The largest parking area we found was an [open gravel field beside 
-the church](https://maps.app.goo.gl/HveHTcM2D8PDLaaT9), just off the main road. It is probably intended mainly for church visitors, but it can also be a convenient 
-place to park if the smaller car parks are full. 
+**Esneux**
+Free parking next to the bridge: https://maps.app.goo.gl/4evZeH9sQ6nLW2499
 
-<img src="/assets/Portugal/North/Ponte/20260414_160206.jpg" />
+**Hautes Fagnes**
+Free parking next to La Baraque Michel restaurant: https://maps.app.goo.gl/ut7yH3u1873iRfbZA
+Hike duration: 5h 45min
+Hike distance: 23 km
+Signal de Botrange: https://maps.app.goo.gl/6pebocht3KyJWsk3A
+
+**Balade du Ninglinspo**
+Parking: along the road, since the paid parking was completely full before 10 am. We also noticed a second parking area, 
+which was free, but it was also full and half of it was closed because of construction.
+It is dangerous to walk along the road with all the cars parked on both sides, creating deep mud on the sides of the road. 
+I hope there will be new parking soon because the area is currently very chaotic.
+Hike duration: 3h 45min
+Hike distance: 12.5 km
+
+**Aywaille**   
+Free parking: big parking next to https://maps.app.goo.gl/EBUZt4bvPvUK93Zh9
+I followed a path marked on Organic Maps that was not visible on Google Maps.
+Hike duration: 1h
+Hike distance: 4 km
+
+**Where we stayed**
+Airbnb apartment in Liège: https://www.airbnb.com/rooms/1362297371259597564
 
 
 

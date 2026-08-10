@@ -83,7 +83,7 @@ We also received a step-by-step explanation of the tulip cultivation process. De
 flower growers' farms, meaning they don’t grow tulips year-round. In contrast, other farms cultivate tulips continuously 
 in greenhouses. Remarkably, 80% of tulips produced in the Netherlands remain in the country, with only 20% being exported.
 
-The tulip cycle at De Tulperij begins between October and December, when bulbs are planted and protected with hay. They 
+The tulip cycle at De Tulperij begins between October and December, when bulbs are planted and protected with straw. They 
 require lower temperatures for a few months to bloom in spring, ideally around 9°C. As spring arrives and tulips start to 
 emerge, the grower meticulously checks for viruses, removing any plants that look different, such as those lacking leaves 
 or displaying a mosaic pattern.

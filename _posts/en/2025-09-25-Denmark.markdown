@@ -70,8 +70,8 @@ Typical speed limits are:
  - [Storebælt Bridge](https://storebaelt.dk/en/prices-and-discounts/private/): 230 DKK (31€)
  - [Fanø Island ferry](https://www.fanoelinjen.dk/): 299 DKK (40€)
  - [Aarhus–Sjælland ferry](https://www.molslinjen.com/): 560 DKK (75€, book early, prices rise quickly!). Area marked with green
-outline on the photo below is indicating where you can take a seat without having a reservation, everything in the front of 
-the ferry is either business blueclass, restaurants or shops.
+outline on the photo below is indicating where you can take a seat without having a reservation, everything in the front of
+the ferry is either business class, restaurants or shops.
 
 <div class="row">
   <img src="/assets/Denmark/Summary/20250822_095610_01.jpg" class="column-50" />

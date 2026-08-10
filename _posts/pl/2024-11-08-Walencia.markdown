@@ -17,7 +17,7 @@ coords:
 gallery_items:
   - image: "/assets/Spain/Valencia/20240827_115942.jpg"
     gallery_image: "/assets/gallery/Valencia.JPG"
-    description: "Oceanografic "
+    description: "Oceanografic"
 
 ---
 
