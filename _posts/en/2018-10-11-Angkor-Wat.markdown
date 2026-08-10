@@ -164,7 +164,7 @@ The city itself did not impress us so much (besides the food! It impressed us so
 <p class="caption">The Fish Pedicure :) Some would say a kind of a massage but not for people who get tickled easily (so me), then it is torture! :D</p>
 
 
-__Practical information:__
+## Practical information:
 
   * Siem Reap was our last stop in Cambodia and the cheapest city in this country. Great number of tourists triggered fierce competition and this is driving prices down.
   * Tuk-tuk in the city - 1$ per 2km (using PassApp)

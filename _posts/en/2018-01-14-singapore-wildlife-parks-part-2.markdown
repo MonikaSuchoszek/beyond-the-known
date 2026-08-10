@@ -100,7 +100,7 @@ I was the most impressed by the giant Asian Elephant, White African Lions and Gr
 add that in some parts, animals such as deers were running freely in very close proximity from the tram, no fences 
 at all, unforgettable experience!
 
-__Practical information:__
+## Practical information:
 
 All in all, I truly recommend you to visit all 4 parks, they are all amazing. It can be exhausting to do in 1.5 day 
 as we did but it's definitely worth it. Take snacks, stay hydrated and join the shows which showcase great 

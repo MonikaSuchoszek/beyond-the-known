@@ -85,7 +85,7 @@ podążać do miejsca odjazdu naszego autobusu.
 <img src="/assets/Malaysia/KualaLumpur/DSC00845.jpg">
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Autokar - 40S$ bilet w obie strony od osoby, firma StarMart Express (nie poleciłabym tej firmy, ponieważ już na początku wyruszyliśmy z ponad godziną opóźnienia tylko
    dlatego, że czekaliśmy aż zbierze się cały autokar ludzi i rozkład jazdy nie był brany pod uwagę. Większym problemem było nie zatrzymanie się autobusu w drodze 
    powrotnym na przystanku do którego mieliśmy wykupiony bilet przez co musieliśmy się wracać przez całe miasto co zajęło Nam znowu dodatkową godzinę. Autokar sam w 

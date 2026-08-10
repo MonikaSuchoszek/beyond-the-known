@@ -107,7 +107,7 @@ my favourite kind was with a sweet, yellow custard filling :)
 <img src="/assets/Thailand/ChiangRai/IMG_20180428_135019590_01.jpg" alt="Baozi or bao, filled with meat or taro" />
 
 
-__Practical info:__
+## Practical info:
 
   * how we got here was described in the previous post, [Luang Namtha]({% post_url en/2019-02-11-Luang_Namtha %})
   * entrance ticket to the White Temple - 50 THB per person, visiting time around 1h

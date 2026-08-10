@@ -83,7 +83,7 @@ windsurfingu czy po prostu puszczania latawcy</p>
 <img src="/assets/Netherlands/Oranjezon/P7110322.1.jpg" alt="osoba uprawiająca kitesurfing" />
 <p class="caption">Kitesurfing jest w Holandi bardzo popularny!</p> 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Bilet wstępu do rezerwatu przyrody Oranjezon Natuurgedied - 1 euro od osoby, bilety kupiliśmy w automacie zaraz przy
    głównym wejściu do rezerwatu, płatność tylko monetami

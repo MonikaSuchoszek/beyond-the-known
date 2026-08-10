@@ -190,7 +190,7 @@ bezoek aan het stadje en twee korte wandelingen, maar de combinatie van lenteblo
 kindvriendelijke paden deed ons wensen dat we hier meer tijd hadden ingepland. Het is precies zo'n plek waar vertragen
 deel uitmaakt van de ervaring.
 
-__Praktische info:__
+## Praktische info:
 
 * National Park Lagoas de Bertiandos e São Pedro d'Arcos: gratis toegang  
 De wandelingen staan beschreven op de [officiële website](https://lagoas.cm-pontedelima.pt/informacoes/atividades/percursos-e-rotas/poi/percurso-do-rio-pr-3)

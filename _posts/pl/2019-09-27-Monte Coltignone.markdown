@@ -81,7 +81,7 @@ kamieni - więc co kto woli. Myślę, że to była dobra decyzja by tą stroną 
 Na koniec szybki bieg, aby złapac nadjeżdżający autobus i byliśmy zpowrotem w drodze do Lecco :) 
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Pociąg na trasie Como S.Giovanni - Lecco 4.80 euro od osoby. To był najcześciej uzywane przez nas środek transportu do przemieszczania sie we Włoszech pomiędzy miastami.
    Bardzo łatwo można wyszukać połączenia na stronie internetowej, zazwyczaj bilety kupowaliśmy w automatach lub w kasach biletowych na stacji (Trenitalia) lub w kiosku z

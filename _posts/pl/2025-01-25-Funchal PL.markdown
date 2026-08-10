@@ -234,7 +234,7 @@ strefę dla małych dzieci.
 <img src="/assets/Portugal/Madeira/Funchal/20241102_161407_02.jpg" /> 
 <img src="/assets/Portugal/Madeira/Funchal/20241102_155924_01.jpg" /> 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 * Transport: Skorzystaliśmy z aplikacji [Bolt](https://bolt.eu/nl-be/) aby wieczorem dostać się z lotniska do Funchal, koszt wyniósł 19 euro. 
 W dzień wylotu, z samego rano zapłaciliśmy więcej (29 euro), ponieważ było mniej dostępnych samochodów, a dodatkowo zarezerwowaliśmy przejazd na 

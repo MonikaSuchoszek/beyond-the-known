@@ -100,7 +100,7 @@ heading back the sky became darker and sea rougher but it actually made photos o
 <img src="/assets/Netherlands/Nieuwvliet/DSC07153.edit.jpg" alt="Vlissingen" />
 
 
-__Practical info:__
+## Practical info:
 
   * We stayed at the camping site: [Camping De Catshoek](https://minicampingdecatshoek.nl/)
 

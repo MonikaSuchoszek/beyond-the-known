@@ -113,7 +113,7 @@ Tasty food at a great price!
 <img src="/assets/Poland/Krakow/DSC01400.jpg" />
 <img src="/assets/Poland/Krakow/DSC01403.jpg" />
 
-__Souvenirs to buy:__
+## Souvenirs to buy:
   * furs
   * amber jewellery
   * lacework
@@ -122,7 +122,7 @@ __Souvenirs to buy:__
   * accesories with polish folk patterns (umbrella, glasses case, apron, pillow case)
   * many people will be really happy to get ptasie mleczko (look section below) from Wawel or kabanosy (long thin dry sausage made usually of pork) as a souvenir ;)
 
-__Food to try:__
+## Food to try:
   * Pierogi - dumplings, hearty (meat, cabbage and mushrooms, Russian) or sweet version (sweet cottage cheese, apples, strawberries)
   * Golonka - knuckle of pork usually with beer sauce
   * Zrazy - traditional Polish beef reulade
@@ -134,14 +134,14 @@ __Food to try:__
   * Placki ziemniaczane - potatoe pancakes, very often served with pork stew
   * Kompot - boiled fruit drink, very common to drink with dinner
 
-__Sweet treats:__
+## Sweet treats:
   * Pączek - Szewska street, 25 (small window with doughnuts and other sweet treats), 3.5zl
   * Ptasie mleczko (Wedel company) - soft chocolate covered candy, many flavours
   * Krówki - Polish fudge
   * Prince Polo - Polish chocolate bar
   * Obwarzanek - 1.60-2zl
 
-__Practical info:__
+## Practical info:
   * Rynek underground exhibition - 19zl admission fee
   * Bus to Zakopane - 40zl, return ticket, few different bus companies but the same price, many connections during the day, better buy tickets one day in advance at the <a href="http://rozklady.mda.malopolska.pl/?lang=eng#krk">main bus station</a> (Bosacka 18 street)
   * Gubałówka cable car - 23zl, return ticket

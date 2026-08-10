@@ -94,7 +94,7 @@ from where we caught a bus back to Singapore.
 <img src="/assets/Malaysia/KualaLumpur/DSC00845.jpg">
 
 
-__Practical info:__
+## Practical info:
   * Bus - 40S$ return ticket, StarMart Express (I would not recommend this company due to the fact that we left Singapore with more then an hour of delay, it looked like they were waiting for enough people to fill all seats on a bus. Additionally, we bought a ticket to Boon Lay bus station (we departured from here to KL) near our housing and bus did not stop there on a way back so we (along with a few other travellers) spend an extra hour on MRT to get to our campus :/
   * Food - between few to 20 ringgits (Little Penang Kafe in KLCC shopping mall, good place when you are visiting Petronas Towers)
   * Train from Bank Negara station to Batu Caves - 2.30 ringgit

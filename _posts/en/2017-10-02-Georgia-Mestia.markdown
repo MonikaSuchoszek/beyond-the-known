@@ -57,5 +57,5 @@ It is possible to visit some of the towers in Mestia and even get on top of them
 encourage us to do so. Watch out on the top level after the snow fall, could be really slippery!
 
 
-__Practical info:__
+## Practical info:
   * entrance to the Khergiani tower – 2 lari

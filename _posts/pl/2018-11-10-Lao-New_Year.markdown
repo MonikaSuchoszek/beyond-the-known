@@ -100,7 +100,7 @@ lepszym refleksem a dzieciaki miały ogromny ubaw!). Podczas tych kilku zwariowa
 
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Bilet autobusowy do Pha That Luang (autobus nr 10) - 4k od osoby, jeden przejazd
   * Bilet autobusowy do Vang Vieng (minivan) - 60k Kip od osoby
 

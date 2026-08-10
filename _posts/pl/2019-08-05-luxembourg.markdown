@@ -77,7 +77,7 @@ Otaczający to miejsce las tworzy bardzo przyjemne warunki do wspinaczki, dając
 
 Na pewno tam wrócimy w niedalekiej przyszłości, bo czeka przecież na nas szlak nr 1 oraz nr 3, a także wiele wspaniałych zamków, które kryją się w tym małym kraju!
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 Mullerthal szlak nr 2 - 31km, pominęliśmy ok 7km pętlę w części południowej , idąc z parkingu Consdorfer Millen do Scheidgen, gdzie ponownie zaczęliśmy podążać szlakiem
 Mullerthal nr 2 aż wróciliśmy do punktu startowego w Berdorf, poniższa mapa pokazuje szczegóły naszej wędrówki.

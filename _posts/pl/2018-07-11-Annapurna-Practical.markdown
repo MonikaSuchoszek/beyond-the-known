@@ -187,7 +187,7 @@ Autobusy są bardzo zatłoczone, wszystkie plecaki oraz worki z lokalnymi produk
   * Świątynia Swayambhunath&nbsp; - 200 rupii/osoban
 
 
-__Lista rzeczy, które zabraliśmy na trekking wokół Annapurny:__
+## Lista rzeczy, które zabraliśmy na trekking wokół Annapurny:
 
   * Buty podejściowe/biegowe (Salewa Wildfire GTX - Monika oraz Salomon Speedcross 4 GTX - Sebastian)
   * Japonki

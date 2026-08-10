@@ -81,7 +81,7 @@ We decided to try another hiking path and go back to Piani d'Erna by trail numbe
 <img src="/assets/Italy/Monte_Resegone/DSC06703.JPG" alt="Monte Resegone" />
 
 
-__Practical info:__
+## Practical info:
 
 If you are afraid that this is gonna be too much for you but you still want to enjoy the spectacular views, then taking cable car to Piani d'Erna is a good idea. It will shorten the hike meaningfully, then it's "only" about 550m of altitude gain to Monte Resegone. On the map below you can see our hike and the distance. It took us almost 4h to get there and almost the same (including breaks) to get back. We were not rushing, just enjoying the day. As always, navigation app MAPS.ME was very useful to double check our position and to find a shortcut to our room in Lecco. You can just simply download maps of the region where you stay for an offline use (maps of more than 100 countries in the world ready to download!). It worked even in Marocco when we did 10 days hike in Atlas Mountains where the paths were not really marked and difficult to find. We hightly reccomend this app for hiking but also for sightseeing. [MAPS.ME app](https://apps.apple.com/us/app/maps-me-offline-map-nav/id510623322)
 

@@ -151,7 +151,7 @@ zatopieniem, niektóre malowidła są już częściowo poniżej poziomu wody. Pi
 tego niesłychanego odkrycia światu. Obecnie jaskinia nie jest dostępna dla publiczności, a jej wejście zostało zamknięte 
 dla jej ochrony.
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Wynajęliśmy apartament na Airbnb w dzielnicy La Joliette, zaledwie kilka budynków od Katedry Marsylskiej, znajdujący 
 się na 6. piętrze bez windy. Zauwazylismy wiele podobnych ofert wynajmu. To może nie być najlepsze rozwiązanie dla osób z dużą 

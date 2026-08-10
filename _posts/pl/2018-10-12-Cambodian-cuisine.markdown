@@ -92,7 +92,7 @@ dolegliwości żałądkowych, Tajlandia juz nie była dla mnie taka łaskawa :p
 </div>
 
 
-__Restauracje rekomendowane w Kambodży:__
+## Restauracje rekomendowane w Kambodży:
   * <a href="https://www.tripadvisor.com/Restaurant_Review-g293940-d2372913-Reviews-Kabbas_Restaurant-Phnom_Penh.html">Kabbas</a> , <a href="https://www.tripadvisor.com/Restaurant_Review-g293940-d10226831-Reviews-350_BBQ_Cafe-Phnom_Penh.html">350 BBQ Cafe</a> lub <a href="https://www.tripadvisor.com/Restaurant_Review-g293940-d3454214-Reviews-David_s_Restaurant_Handmade_Noodles-Phnom_Penh.html">David's Restaurant </a>w Phnom Penh
   * <a href="https://www.tripadvisor.com/Restaurant_Review-g293940-d8568725-Reviews-Davy_s_Shake_Shack-Phnom_Penh.html">Davy's shake shack</a> w Phnom Penh
   * <a href="https://www.tripadvisor.com/Restaurant_Review-g297390-d10069292-Reviews-Try_Me-Siem_Reap_Siem_Reap_Province.html">Try me , </a><a href="https://www.tripadvisor.com/Restaurant_Review-g297390-d11880648-Reviews-The_Christa_Restaurant_Bar-Siem_Reap_Siem_Reap_Province.html">The Christa restaurant, </a><a href="https://www.tripadvisor.com/Restaurant_Review-g297390-d10128349-Reviews-Atmosphere_Siem_Reap-Siem_Reap_Siem_Reap_Province.html">Atmosphere</a> w Siem Reap

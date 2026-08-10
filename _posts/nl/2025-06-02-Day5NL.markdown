@@ -164,7 +164,7 @@ welverdiend diner in de stad.
 </div>
 
 
-__Praktische info:__
+## Praktische info:
 
 * [Officiële website](https://ifcn.madeira.gov.pt/pt/atividades-de-natureza/percursos-pedestres-recomendados/percursos-pedestres-recomendados.html)
 om na te gaan of de wandelpaden open zijn na de bosbranden van de zomer van 2024.

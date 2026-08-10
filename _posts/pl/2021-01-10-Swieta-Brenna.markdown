@@ -77,7 +77,7 @@ to odrobina słońca, ale i to wkrótce się zmieniło o czym będzie kolejny po
 <img src="/assets/Poland/Brenna/PC261501.edit.jpg" />
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Nocowaliśmy u moich rodziców, którzy wynajmują pokoje gościnne, dlatego chciałabym je polecić, gdy sytuacja epidemiologiczna 
   poprawi się na tyle, że możliwe będą weekendowe wyjazdy w góry z noclegiem [Kimanko pod sosnami](https://kimanko-pod-sosnami.github.io/)

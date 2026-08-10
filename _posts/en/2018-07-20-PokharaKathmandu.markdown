@@ -135,7 +135,7 @@ by 4 people took forever, their computer stopped working and there was a problem
 that was something we never encountered). Luckily, our backpacks arrived in Bangkok safe and sound :D
 
 
-__Practical information:__
+## Practical information:
   * Renting a kayak - 300 rupees / 1 hour / 1 person
   * Boat to Tal Barahi Temple - 50 rupees per person
   * Frontiers Paragliding - 7000 rupees per person (photos and movies included)

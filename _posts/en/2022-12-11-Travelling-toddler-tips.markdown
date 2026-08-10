@@ -21,7 +21,7 @@ old) and Malaga (at 14 months). Both trips were very different because of the ba
 learned a lot during the first trip.
 
 
-**What are our tips for the flight itself?**
+## What are our tips for the flight itself?
 
 Take in consideration the time of the flight and if it will fit with yours baby daily routine. E.g. we don't book flights
 with departures time before 10am or after 4pm (which limits our options considerably!). 
@@ -77,7 +77,7 @@ It is always for us very nice experience.
 very small and closed off for unknown reasons. Going through security was a pleasant experience.
 
 
-**What are the important criteria when looking for accommodation?** 
+## What are the important criteria when looking for accommodation?
 
 Airbnb is our favourite platform when travelling. When we went for you first trip to Lisbon, we thought that having an 
 apartment in the city center will give us flexibility.
@@ -91,7 +91,7 @@ bus stops (this time we also relied on public transportation). Dark curtains to 
 was another useful feature of the apartment. A small kitchen for making breakfasts and snacks is always a must for us. 
 A bigger shower helped us a lot when it comes to the evening baths, especially after playing on the beach.
 
-**Arrived at your destination? What to do next?**
+## Arrived at your destination? What to do next?
 
 It always makes sense to search in advance for playgrounds in the areas that you are going to visit. Sometimes they can 
 be really nice, perfect for a break with a toddler. Once babies start to walk, it becomes impossible to keep them long

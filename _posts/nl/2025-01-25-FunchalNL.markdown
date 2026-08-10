@@ -241,7 +241,7 @@ die voor kleuters ontworpen waren.
 <img src="/assets/Portugal/Madeira/Funchal/20241102_161407_02.jpg" />
 <img src="/assets/Portugal/Madeira/Funchal/20241102_155924_01.jpg" />
 
-__Praktische info:__
+## Praktische info:
 
 * Vervoer: we namen [Bolt](https://bolt.eu/nl-be/) om 's avonds van de luchthaven naar Funchal te raken, voor 19 euro.
 's Ochtends betaalden we meer (29 euro), omdat er minder wagens beschikbaar waren en we er ook een voor een specifiek

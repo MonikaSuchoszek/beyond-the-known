@@ -154,7 +154,7 @@ verderop. Door de stijgende zeespiegel dreigt deze prehistorische site echter te
 al gedeeltelijk onder water. Het is dringend geworden om deze weergaloze ontdekking te bewaren en met de wereld te delen.
 De grot is momenteel niet toegankelijk voor het publiek en de ingang is ter bescherming afgesloten.
 
-__Praktische info:__
+## Praktische info:
 
   * We huurden een appartement via Airbnb in de wijk La Joliette, op een paar gebouwen van de kathedraal van Marseille,
 op de 6e verdieping zonder lift. Er waren veel gelijkaardige aanbiedingen. Dit is misschien niet de beste oplossing voor

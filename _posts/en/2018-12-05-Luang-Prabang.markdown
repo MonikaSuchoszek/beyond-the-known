@@ -125,7 +125,7 @@ Muang Ngoy was our next destination, a village located on the banks of the Nam O
 Pretty amazing to walk being surrounded by several dozen of them at the same time :) Bungalow with hammock, bananas from the garden and the mountains around made this place really
 special for us.
 
-__Practical info:__
+## Practical info:
 
   * minivan to Lunag Prabang from Vang Vieng - 4h, 110k KIP
   * entrance to the Kuang Si waterfalls - 20k KIP per person

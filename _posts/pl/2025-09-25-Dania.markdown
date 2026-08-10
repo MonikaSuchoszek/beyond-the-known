@@ -31,7 +31,7 @@ wspaniały sposób na naładowanie baterii przed rozpoczęciem nowego roku szkol
 spodziewaliśmy: 18–24°C, momentami dość wietrznie, ale tylko z kilkoma krótkimi opadami deszczu. Idealne warunki na rodzinną 
 objazdówkę autem!
 
-**Nasza trasa i ogólne wrażenia**
+## Nasza trasa i ogólne wrażenia
 
 Planując podróż, ambitnie zaznaczyłam miejsca w całym kraju, ale szybko zdałam sobie sprawę, że zobaczenie wszystkiego jest 
 niemożliwe. Ostatecznie stworzyliśmy pętlę o długości około 1500 km, odwiedzając cztery z pięciu regionów Danii: Sjælland 
@@ -50,7 +50,7 @@ się małych, kolorowych drewnianych domków jak na Islandii, jednak większoś�
 pobytu w Niemczech: prostą, schludną i nowoczesną. Trafiliśmy jednak także na urokliwe historyczne miejsca, takie jak Sønderho 
 i Ribe, gdzie stare drewniane domy tworzą widoki jak z pocztówki.
 
-**Poruszanie się po kraju**
+## Poruszanie się po kraju
 
 Wynajęliśmy samochód w firmie Sixt, odbierając go i oddając na lotnisku w Kopenhadze. Cały proces przebiegł generalnie 
 sprawnie, choć mieliśmy dwa drobne problemy. Opłacony z góry przejazd przez most Storebælt nie zadziałał i musieliśmy 
@@ -103,7 +103,7 @@ dnia, gdy było pusto, więc zaparkowaliśmy na jednej z bocznych ulic.
 </div>
 
 
-**Zwiedzanie Kopenhagi pociągiem**
+## Zwiedzanie Kopenhagi pociągiem
 
 Miejscowi doradzali nam, aby nie wjeżdżać samochodem do Kopenhagi ze względu na wysokie koszty parkowania (16–44 DKK/godz., 
 2–6 €/godz.), [wiecej szczegolow tutaj.](https://international.kk.dk/live/transport-and-parking/parking-in-copenhagen/public-parking-in-copenhagen) Zamiast tego zaparkowaliśmy samochód za darmo przy stacji Køge i pojechaliśmy 
@@ -117,7 +117,7 @@ tydzień wcześniej.
   <img src="/assets/Denmark/Summary/20250824_175754_01.jpg" class="column-50" />
 </div>
 
-**Noclegi**
+## Noclegi
 
 Podczas pobytu w Danii zatrzymaliśmy się w mieszkaniach wynajętych przez portal Airbnb w różnych częściach kraju, zazwyczaj 
 poza miastami, gdzie ceny były niższe, a mieszkania oferowały dostęp do ogrodu. Kopenhaga jest droga, dlatego dwukrotnie 
@@ -136,7 +136,7 @@ dobra lokalizacja mieszkania, spokojna okolica i wygodne łóżka. Właściciela
  - [Vejle](https://www.airbnb.com/rooms/53997686?source_impression_id=p3_1761981599_P3eOLQWcL95MEcg3) - malutkie, ale bardzo wygodne mieszkanie z przemiłą właścicielką i spokojną okolicą, blisko centrum miasta.   
  - [Aarhus Municipality - Sabro](https://www.airbnb.com/rooms/11245647?source_impression_id=p3_1761981691_P3WVhqP86RQ02twv) - mieszkanie na skraju wioski, piękny ogród oraz bardzo wygodne i ślicznie urządzone wnętrze.
 
-**Jedzenie i restauracje**
+## Jedzenie i restauracje
 
 Jedzenie na mieście w Danii jest drogie, w tanich restauracjach trzeba liczyć około 30–40 € za osobę za posiłek z napojem. 
 Nawet proste streetfoodowe dania, jak frytki ze smażoną rybą, kosztują 100–140 DKK (13–19 €). Dlatego głównie gotowaliśmy 
@@ -150,7 +150,7 @@ Przykładowe ceny:
 Warto spróbować świeżej, smażonej ryby w porcie!
 
 
-**Budżet (10 dni, 2 dorosłych + 4-letnie dziecko)**
+## Budżet (10 dni, 2 dorosłych + 4-letnie dziecko)
 
 | Kategoria                                                             |  Suma (€) |
 |-----------------------------------------------------------------------|----------:|
@@ -164,7 +164,7 @@ Warto spróbować świeżej, smażonej ryby w porcie!
 
 <img src="/assets/Denmark/Summary/podsumowanie PL.jpg" />
 
-**Podróżowanie z dzieckiem – nasze doświadczenia**
+## Podróżowanie z dzieckiem – nasze doświadczenia
 
 To jak dotąd najbardziej przyjazny dzieciom kraj, jaki odwiedziliśmy. Place zabaw były niesamowite i mieliśmy ogromną frajdę 
 spędzać na nich czas jako rodzina. Bardzo często znajdowały się w lasach, w otoczeniu pięknej przyrody, a dodatkowo zdobiły 
@@ -207,7 +207,7 @@ w Kopenhadze i nazywa się Green George.
 </div>
 
 
-**Praktyczne uwagi**
+## Praktyczne uwagi
 
  - Nie było łatwo zorientować się, czym dokładnie są niektóre produkty w supermarketach, musieliśmy tłumaczyć etykiety 
  - telefonem, bo język bardzo różni się od tych, które znamy.
@@ -217,7 +217,7 @@ w innym sklepie tej samej sieci).
  - Przez cały pobyt widziałam duńską monetę tylko raz, gdy mąż znalazł ją w parku. Bardzo dziwne uczucie podróżować przez 
 10 dni i ani razu nie użyć gotówki.
 
-**Podsumowanie i rekomendacje**
+## Podsumowanie i rekomendacje
 
 Zdecydowanie wrócilibyśmy do Danii, ale następnym razem dodalibyśmy więcej jazdy na rowerze (szczególnie na wyspach takich 
 jak Fanø, która ma tylko 14 km długości i idealnie nadaje się do zwiedzania na dwóch kółkach). To kraj idealny dla rodzin, 

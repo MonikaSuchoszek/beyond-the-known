@@ -78,7 +78,7 @@ and cheerfully played with the water. That was very nice and unexpected attracti
 <img src="/assets/Netherlands/Nieuwvliet/DSC07292.edit.jpg" />
 
 
-__Practical info:__
+## Practical info:
 
   * We stayed at the camping site: [Camping De Catshoek](https://minicampingdecatshoek.nl/)
 

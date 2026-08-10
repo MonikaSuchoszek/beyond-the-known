@@ -137,7 +137,7 @@ delightful lunch at the nearby restaurant, Adega de Belém, which was the perfec
 View from view point Miradouro de São Pedro de Alcântara, above Rossion station from where trains to Sintra leave.
 <img src="/assets/Portugal/Lisbon/20220215_141206.jpg" />
 
-__Practical info:__
+## Practical info:
 
   * The airport has a perfect connection with the city via the metro. We purchased a rechargeable card called the Viva 
 Viagem Card, which we used for both of us on the metro, tram, and train. The cost of this card is 0.50 euro. The train 

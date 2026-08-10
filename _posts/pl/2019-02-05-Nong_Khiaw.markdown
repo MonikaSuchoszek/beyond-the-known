@@ -114,7 +114,7 @@ on a horribly zigzag road), the intermediate stop on our way to Chiang Rai in Th
  
 <img src="/assets/Laos/NongKhiaw/IMG_20180425_103219716.jpg" alt="Bus station in Nong Khiaw." />
 
-__Practical info:__
+## Practical info:
 
   * minivan to Nong Khiaw from Luang Prabang - 4h, 75k KIP per person
   * entrance to the Pha Daeng Peak viewpoint (first day) - 20k KIP per person

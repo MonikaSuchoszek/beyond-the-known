@@ -61,6 +61,6 @@ błotnym zboczu :p
 Niektóre wieże obronne w Mestii można odwiedzić a nawet wspiąć się na najwyższy poziom i sprawdzić widok na otaczające wioski. Jednakże, należy uważać na chwiejące się drabiny, które prowadzą na wyższe poziomy. Szczególnie do opadach deszczu lub śniegu, potrafią być bardzo śliskie!
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Bilet wstępu do wieży Khergiani – 2 lari
   * Korzystaliśmy z usług firmy [Vanilla Sky](https://ticket.vanillasky.ge/), bliety kupowaliśmy na drodze mailowej

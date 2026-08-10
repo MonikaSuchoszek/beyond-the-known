@@ -65,7 +65,7 @@ local bus to Chiang Rai, we saw a schedule of the buses and they also operate in
 </div>
 
 
-__Practical info:__
+## Practical info:
 
   * minivan to Luang Namtha from Nong Khiaw - 6.5h, 70k KIP per person
   * crossing the border with Thailand with the assistance of travel agency (Gat Way Tour travel agency) - 200k KIP per person

@@ -193,7 +193,7 @@ działania, ulepszając systemy wczesnego ostrzegania. Zniszczenia wykraczają
 poza ludzką tragedię: infrastruktura, mosty i budynki użyteczności publicznej zostały poważnie uszkodzone, a ich naprawa 
 potrwa kilka lat.
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 * Z lotniska w Walencji do centrum dojedziesz metrem linią 3 lub 5 (ok. 21 minut do stacji Xàtiva, strefa AB+). Bilet kosztuje 5,80 €.
 

@@ -66,7 +66,7 @@ widoczne malowidła.
 <img src="/assets/Laos/BuddhaPark/DSC03264.jpg" />
 <img src="/assets/Laos/BuddhaPark/DSC03266.jpg" />
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Bilet autobusowy do Buddha Park - 6k Kip od osoby, w jedną stronę
   <div class="row">
   <img src="/assets/Laos/BuddhaPark/IMG_20180413_093157285_01.jpg" class="column-50" alt="Dworzec autobusowy w Vientiane" />

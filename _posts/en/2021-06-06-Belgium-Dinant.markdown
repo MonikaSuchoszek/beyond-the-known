@@ -138,7 +138,7 @@ what we saw. Maybe it's just the matter of comparison to the big cave we visited
 We were so lucky with the weather, it was first few days with some sun after long, rainy weeks! It was definitely intense but
 amazing weekend :D 
 
-__Practical info:__
+## Practical info:
 
   * De Citadel Dinant - 10 euro entrance fee, you can take a cable car or 408 steps get up to the top. Toilets on the top 
   but you have to pay 0.50 euro which is strange after paying for the entrance. There are big parking areas on the top of 

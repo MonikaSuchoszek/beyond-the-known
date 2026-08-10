@@ -233,7 +233,7 @@ so they must be part of a chain of swimming pools. These pools also had sections
 <img src="/assets/Portugal/Madeira/Funchal/20241102_161407_02.jpg" /> 
 <img src="/assets/Portugal/Madeira/Funchal/20241102_155924_01.jpg" /> 
 
-__Practical info:__
+## Practical info:
 
 * Transportation: We used [Bolt](https://bolt.eu/nl-be/) to get from the airport to Funchal in the evening for 19 euros.
 In the morning, we paid more (29 euros) because fewer cars were available, and we also reserved one for a specific time.

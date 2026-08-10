@@ -172,7 +172,7 @@ wydawały się przytulne nawet podczas niesprzyjajacej pogody.
 Wsiadając do pociągu [do Bragi]({% post_url pl/2024-12-14-BragaPL %}), wiedziałam już jedno, na pewno tu jeszcze wrócę,
 żeby odkryć jeszcze więcej!
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 * Bilet na metro kosztował 2,85 euro (2,25 euro za strefę Z4 + 0,60 euro za kartę Andante). Kartę Andante można wielokrotnie
 doładowywać. Na automacie biletowym znajduje się naklejka z nazwami wszystkich stacji metra, a obok nich podana jest strefa

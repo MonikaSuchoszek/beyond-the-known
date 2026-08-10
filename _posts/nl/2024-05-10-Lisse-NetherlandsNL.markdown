@@ -160,7 +160,7 @@ enorme toeloop is het niets wat ik elk jaar zou overdoen. Toch blijft de Keukenh
 </div>
 
 
-__Praktische info:__
+## Praktische info:
  * [Easy Fiets in Leiden](https://www.easyfiets.nl/en/) Heel vriendelijk personeel, en we konden de fietsen zelfs na
 sluitingstijd terugbrengen, maar ze waren wel vrij klein en 50 km fietsen met zo'n fiets was niet niks.
 <img src="/assets/Netherlands/TulipTrip/Screenshot 2024-05-02 223301.png" />

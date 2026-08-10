@@ -47,5 +47,5 @@ visit one of Mestia’s characteristic towers (connected to the museum) and see 
 <img src="/assets/Georgia/Chaaladi/IMG_0361.jpg">
 <img src="/assets/Georgia/Chaaladi/IMG_0362.jpg">
 
-__Practical info:__
+## Practical info:
   * Admission fee to the museum - 3 lari

@@ -59,7 +59,7 @@ back to Mestia. Lakes are localized at the foot of Mt. Ushba and it is possible 
 We decided to come back the same path as we used to get here. The whole day was very sunny and our huge mistake 
 was not using sunglasses and sunscreen. We got sunburned ... these mountains taught us that lesson the hard way ;)
 
-__Track info:__
+## Track info:
   * Difficulty: moderate
   * Distance: 19 km
   * Elevation gain: 1300m

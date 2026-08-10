@@ -102,7 +102,7 @@ Interesting fact for a cat lovers: The population of cats in Phnom Penh is mostl
 <img src="/assets/Cambodia/PhnomPenh/DSC02401.jpg">
 <p class="caption">Probably best to leave stray cats alone, but Sebastian decided to distract this one long enough so I could take a sharp picture :)</p>
 
-__Practical information:__
+## Practical information:
   * Bus to Phnom Penh - 7$ per person</p>
   * Entrance fee to Tuol Sleng Museum - 8$ with audio guide per person
   * Entrance fee to the Royal Palace - 10$ per person

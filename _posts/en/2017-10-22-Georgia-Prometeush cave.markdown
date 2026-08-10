@@ -65,7 +65,7 @@ a boat trip (extra fee). Though pretty small, worth stopping by.
 
 <img src="/assets/Georgia/Prometeush_cave/IMG_161454431.JPG" class="column-45" alt="Martvili canyon" />
 
-__Practical info:__
+## Practical info:
 
 Entrance fees for the different sites:
 

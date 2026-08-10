@@ -106,7 +106,7 @@ soak up the local atmosphere! For an exciting day trip, hop on a train to nearby
 Gandia to Alicante (buses leaving from Gania bus station, back side of the train station). In our opinion, wonderful alternative 
 to tourist-heavy beach destinations—perfect for families looking to relax and experience something new.
 
-__Practical info:__
+## Practical info:
 * If you're arriving at Valencia's Airport (Aeroport), it’s an easy trip to the city center. Metro lines 3 and 5 will take 
 you from Aeroport to North Station (Xàtiva) in just 21 minutes, covering Zone AB+. The fare is €5.80 per person.
 

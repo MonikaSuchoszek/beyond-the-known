@@ -114,7 +114,7 @@ zwierząt dodaje mu specyficznego posmaku, jednak nie miałam ochoty tego testow
   <img src="/assets/Laos/VangVieng/DSC03415.JPG" class="column-50" alt="Vang Vieng village" />
 </div>
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 Jak tutaj dotarliśmy zostało opisane w poprzednim poście. 
   * wypożyczenie roweru górskiego - 30k KIP od osoby, jak zawsze stan roweru pozostawiał dużo do życzenia

@@ -89,7 +89,7 @@ child and enjoy pouring water on the others! :D
 
 
 
-__Practical info:__
+## Practical info:
 
   * Bus ticket to Pha That Luang (bus number 10) - 4k per person, one way
   * Bus ticket to Vang Vieng (minivan) - 60k Kip per person

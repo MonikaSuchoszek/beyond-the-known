@@ -115,7 +115,7 @@ Muang Ngoy is nice place to relax, cool to come here for a few days to experienc
 <img src="/assets/Laos/MuangNgoy/DSC03876.jpg" alt="Water buffalo resting on the river bank" />
 <img src="/assets/Laos/MuangNgoy/DSC03893.jpg" alt="On the way to Muang Ngoy" />
 
-__Practical info:__
+## Practical info:
 
   * minivan to Nong Khiaw from Luang Prabang - 4h, 75k KIP per person
   * tuk-tuk from bus station to pier - 10k KIP per person (3km)

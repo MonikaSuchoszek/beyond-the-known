@@ -128,7 +128,7 @@ to pass visitors center, cafe, souvenir shop and another restaurant to get outsi
 
 <img src="/assets/Belgium/Namur/DSC07463.1.jpg" />
 
-__Practical info:__
+## Practical info:
 
   * Citadelle de Namur - free entrance, few different ways to get up to the top, including one for people with strollers (entrance A),
   all of them leading to the restaurant and visitor center (with toilets inside). There are two parking areas on the top of the hill but with very

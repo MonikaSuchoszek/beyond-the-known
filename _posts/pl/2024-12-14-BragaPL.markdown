@@ -186,7 +186,7 @@ Do Bragi i Guimarães wróciłam ponownie wiosną 2026 roku, tym razem z całą 
 w zupełnie innej scenerii, pełnej wiosennych kwiatów, przeczytasz we wpisie
 [Ponte de Lima – najstarsze miasto Portugalii]({% post_url pl/2026-06-03-PonteduLimaPL %}).
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 * Z Pedralvy do Bragi można dojechać lokalnym autobusem za jedyne 2 € (około 40 minut, bilety kupuje się u kierowcy) lub
 zamówić Ubera za 14 € (20 minut).

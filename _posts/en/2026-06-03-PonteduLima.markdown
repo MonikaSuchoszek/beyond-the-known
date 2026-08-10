@@ -188,7 +188,7 @@ Ponte de Lima turned out to be one of the highlights of our northern Portugal tr
 to the town and two short walks, but the combination of spring flowers, peaceful landscapes, and family-friendly trails 
 made us wish we had planned more time here. It is exactly the kind of place where slowing down is part of the experience.
 
-__Practical info:__
+## Practical info:
 
 * National Park Lagoas de Bertiandos e São Pedro d'Arcos: free entrance   
 Hikes are described on the [official website](https://lagoas.cm-pontedelima.pt/informacoes/atividades/percursos-e-rotas/poi/percurso-do-rio-pr-3)

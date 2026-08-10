@@ -150,7 +150,7 @@ we really needed to accept the reality of transportation in Asia.
 <p class="caption">Food stands next to the beach, offering a freshly squeezed sugar cane juice and kind of 
 crunchy pancakes served rolled in a shape of tube</p>
 
-__Practical information:__
+## Practical information:
   * Bus ticket from Kampot to Kep - 3$ per person
   * Entrance fee to Kep National Park - 1$ per person
   * Rambutans - 3$ per kg

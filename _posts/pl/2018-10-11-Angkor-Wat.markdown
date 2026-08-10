@@ -223,7 +223,7 @@ Jedynym tego minusem był fakt, że wiele hoteli było już zapełnionych o czym
 tak dużo i były tak aktywne, że ja osobiście nie mogłam tam wytrzymać ani minuty! czułam sie jak na torturze! :D</p>
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Siem Reap to ostatnie miasto, które odwiedziliśmy w Kambodży i najtańsze w tym kraju przez nas odwiedzone. Jest tam tak dużo turystów a przez to konkurencja
   jest bardzo poważna i każdy walczy o klienta, obniżając ceny

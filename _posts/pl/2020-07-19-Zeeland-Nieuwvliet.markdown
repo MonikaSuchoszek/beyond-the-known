@@ -113,7 +113,7 @@ groźnego koloru i nasilił się wiatr, przez co wzburzone morze stało się int
 <img src="/assets/Netherlands/Nieuwvliet/DSC07153.edit.jpg" alt="Vlissingen" />
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Zatrzymaliśmy się na polu namiotowym: [Camping De Catshoek](https://minicampingdecatshoek.nl/)
 

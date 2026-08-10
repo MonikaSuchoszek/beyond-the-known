@@ -64,7 +64,7 @@ dość tłuste ;p
 <img src="/assets/Georgia/Murshkeli/IMG_185037198.JPG" alt="Okatse canyon" />
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 Na mapie poniżej widoczna jest nasza wędrówka oraz przebyty dystans. Zajęło Nam to 6h, ale w spokojnym tempie z licznymi przerwami.
 

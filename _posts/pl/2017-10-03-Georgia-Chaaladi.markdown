@@ -44,5 +44,5 @@ konkursach. Został doceniony przez Zwiazek Radziecki, ale także inne kraje zau
 <img src="/assets/Georgia/Chaaladi/IMG_0361.jpg">
 <img src="/assets/Georgia/Chaaladi/IMG_0362.jpg">
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * wejście do muzeum - 3 lari

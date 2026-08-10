@@ -74,7 +74,7 @@ lepiej będzie wejść szlakiem nr 10 a zejść szlakiem nr 1, który ma zdecydo
 <img src="/assets/Italy/Monte_Resegone/DSC06703.JPG" alt="Monte Resegone" />
 
 
-__Praktyczne informacje:__
+## Praktyczne informacje:
 
 Jeśli obawiasz się, że być może taka wędrówka będzie zbyt wymagająca, ale wciąż jesteś ciekaw niesamowitych widoków, dobrym pomysłem będzie 
 wjechanie kolejką linową do Piani d'Erna i rozpoczęcie trekkingu z tego miejsca. To zdecydowanie zmniejszy dystans i różnice wysokości jaką 

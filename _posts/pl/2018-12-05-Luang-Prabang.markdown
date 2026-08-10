@@ -143,7 +143,7 @@ niewystarczający środkiem transportu.
 To tam widziałam niezliczoną ilość motyli, jadłam banany zerwane w ogródku i leżałam na hamaku, podziwiając chmury unoszące się nad 
 pobliskimi wzgórzami, bajeczne miejsce!
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * minibus do Lunag Prabang z Vang Vieng - 4h, 110k KIP od osoby
   * bilet wstępu do wodospadów Kuang Si - 20k KIP od osoby

@@ -97,7 +97,7 @@ was amplified as it marked my first weekend trip without my daughter. It was a c
 energy of Paris, accompanied by a friend. With a mere 36 hours in the City of Light, we were determined to make every 
 moment count and create lasting memories. More details in upcoming post.
 
-__Practical info:__
+## Practical info:
 
   * We rented a [cottage house on Airbnb close to Rijsbergen](https://www.hoevenelleveld.nl), only a 1.5-hour drive from 
 Leuven. The house had an amazing playground for kids, and there were two horses, chickens, and a dog living on the farm. 

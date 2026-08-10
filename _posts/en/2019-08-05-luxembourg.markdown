@@ -58,7 +58,7 @@ The area has a lot to offer not only for hikers, runners or cyclists but also fo
 
 <img src="/assets/Luxembourg/DSC05414.JPG" alt="Climbing" />
 
-__Practical info:__
+## Practical info:
 
 Mullerthal trail route 2 - 31km, we skipped around 7km part in south, taking a shortcut from Consdorfer Millen parking to Scheidgen where we again started to follow Mullerthal trail 2 until Berdorf, see the map below for details 
 

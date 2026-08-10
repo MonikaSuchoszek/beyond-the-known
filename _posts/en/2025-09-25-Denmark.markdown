@@ -25,7 +25,7 @@ pace of life. We spent 10 full days in Denmark in the second half of August, a w
 of the new school year. The weather was exactly as we hoped: 18–24°C, a bit windy at times, and only a few brief moments 
 of rain. Perfect conditions for a family road trip!
 
-**Our Route and General Impressions**
+## Our Route and General Impressions
 
 When planning the trip, I ambitiously marked spots across the entire country, but quickly realized it would be impossible 
 to see everything. In the end, we created a 1,500 km loop, visiting four out of Denmark’s five regions:
@@ -43,7 +43,7 @@ Architecturally, I expected to see tiny, colorful wooden houses like in Iceland,
 simple, neat, and modern. We did find some charming historical spots though, such as Sønderho and Ribe, where old wooden 
 houses create postcard-perfect scenery.
 
-**Getting Around – Transportation Tips**
+## Getting Around – Transportation Tips
 
 We rented a car from **Sixt**, picking it up and dropping it off at Copenhagen Airport. The process went smoothly overall, 
 though we had two small issues:
@@ -93,7 +93,7 @@ it was empty so we parked on one of the side streets.
 </div>
 
 
-**Visiting Copenhagen by Train**
+## Visiting Copenhagen by Train
 
 Locals advised us not to drive into Copenhagen due to parking costs (16–44 DKK/hour, 2-6€/hour), check [here](https://international.kk.dk/live/transport-and-parking/parking-in-copenhagen/public-parking-in-copenhagen)
 for more details. Instead, we parked for free at Køge 
@@ -107,7 +107,7 @@ on looking for parking spot. We bought our tickets a week ahead of time.
   <img src="/assets/Denmark/Summary/20250824_175754_01.jpg" class="column-50" />
 </div>
 
-**Accommodation**
+## Accommodation
 
 We stayed in Airbnb apartments across the country, almost always entire flats, usually outside cities where prices were 
 lower, and it was easier to park with the car. Copenhagen was expensive, so we chose to stay twice in the Køge area, a 
@@ -122,7 +122,7 @@ The AirBnb places we are happy to recommend:
  - [Vejle](https://www.airbnb.com/rooms/53997686?source_impression_id=p3_1761981599_P3eOLQWcL95MEcg3)
  - [Aarhus Municipality - Sabro](https://www.airbnb.com/rooms/11245647?source_impression_id=p3_1761981691_P3WVhqP86RQ02twv)
 
-**Food & Eating Out**
+## Food & Eating Out
 
 Dining out in Denmark is expensive, expect to pay €30–40 per person for a meal with a drink in cheap restaurants. Even simple 
 street food like fish and chips costs 100–140 DKK (13-19€). That’s why we mostly cooked in our apartments, which all had excellent 
@@ -135,7 +135,7 @@ Exemplary prices:
 Local restaurant highlight: fresh fish or hearty Danish burger with chips and homemade gravy, delicious!
 
 
-**Budget Overview (for 10 days, 2 adults and four-year-old child)**
+## Budget Overview (for 10 days, 2 adults and four-year-old child)
 
 | Category | Total Cost (€) |
 |-----------|---------------:|
@@ -149,7 +149,7 @@ Local restaurant highlight: fresh fish or hearty Danish burger with chips and ho
 
 <img src="/assets/Denmark/Summary/Budget breakdown.jpg" />
 
-**Our Experience of Travelling with a Child**
+## Our Experience of Travelling with a Child
 
 We feel like this is, so far, the most kid-friendly country we have visited. The playgrounds were incredible, we had so 
 much fun as a family. Very often, the playgrounds are located in forests, surrounded by beautiful nature, and they also 
@@ -190,7 +190,7 @@ called Green George.
 </div>
 
 
-**Practical notes and some surprises**
+## Practical notes and some surprises
 
  - It was not easy to figure out what exactly the products in the supermarkets were, we had to translate the labels with 
 our phones since the language was too different from the ones we know.
@@ -200,7 +200,7 @@ from the same chain).
  - During the whole stay, I saw a Danish coin only once, when my husband found one in the park. It was a very strange feeling 
 to travel for 10 days without using cash even once.
 
-**Final Thoughts and Recommendations**
+## Final Thoughts and Recommendations
 
 We’d definitely visit Denmark again but next time, perhaps add cycling (especially on islands like Fanø, which is perfect 
 for biking at only 14 km long). This country is perfect for families, older travellers, and anyone seeking peace rather 

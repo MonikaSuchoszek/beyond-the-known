@@ -119,7 +119,7 @@ Walencji albo autobusem z Gandii do Alicante (autobusy odjeżdżają z dworca au
 stacją kolejową). Naszym zdaniem to doskonała alternatywa dla zatłoczonych kurortów, idealna dla rodzin szukających spokoju 
 i czegoś nowego.
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 * Po przylocie na lotnisko w Walencji (Aeroport), dojazd do centrum miasta jest bardzo prosty. Linie metra 3 i 5 
 dowiozą Was z lotniska do stacji North Station (Xàtiva) w zaledwie 21 minut (strefa AB+). Koszt biletu wynosi 5,80 € od 
 osoby. 

@@ -195,7 +195,7 @@ waarschuwingssystemen verbetert om zulk verlies aan mensenlevens in de toekomst 
 dan het menselijke leed: infrastructuur, bruggen en openbare gebouwen raakten zwaar beschadigd en lieten littekens na die
 jaren zullen kosten om te herstellen.
 
-__Praktische info:__
+## Praktische info:
 
 * Kom je aan op de luchthaven van Valencia (Aeroport), dan raak je makkelijk in het stadscentrum. Metrolijnen 3 en 5
 brengen je van Aeroport naar het noordstation (Xàtiva) in amper 21 minuten, in zone AB+. Het tarief is €5,80 per persoon.

@@ -82,7 +82,7 @@ Piani Resinelli (you can park your car there). Between the peak and the shelter 
 A final sprint to catch the next bus and we were back on our way to Lecco.
 
 
-__Practical info:__
+## Practical info:
 
 We came to Lecco from Como S.Giovanni by train (4.80 euro per person) which was the main means of transportation used by us to travel between the cities in Italy. It's easy to find a schedule on the websites, usually we bought our ticket in the ticket machines, at the counter at the train station (Trenitalia) or in the newspaper shops (Trenord). The shops have a sticker from Trenord in the shop window if they sell them. You can't buy them in the machines from Trenitalia. Check both links [Trenord](http://m.trenord.it/site-lite/index.html) and [Trenitalia](https://www.trenitalia.com/en.html). In Lecco you can buy a 12 rides bus ticket for 13 euro (single ride is 2 euro) and use it for more then one person at the same time (just need to validate it more times). The ticket is valid for 90min and within this time you can make changes so it's pretty good deal. Schedule of the buses you can find here [Busses in Lecco](http://www.lineelecco.it/tpl/orari-invernali/)
 

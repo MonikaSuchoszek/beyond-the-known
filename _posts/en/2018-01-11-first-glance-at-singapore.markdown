@@ -88,7 +88,7 @@ Skywalk. The illuminated trees looked incredible, I wish the show would have las
 <img src="/assets/Singapore/DSC09462.jpg">
 
 
-__Practical info:__
+## Practical info:
   * Gardens by the Bay - free admission
   * Admission fee to 2 conservatories - 28 S$
   * Garden Rhapsody Show - 7.45 and 8.45 pm, free

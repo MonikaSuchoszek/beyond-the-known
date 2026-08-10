@@ -109,7 +109,7 @@ naar het nabijgelegen Cullera of Valencia, of neem je vanuit Gandia de bus naar 
 busstation van Gandia, aan de achterkant van het treinstation). Wat ons betreft een prachtig alternatief voor
 toeristische strandbestemmingen, perfect voor gezinnen die willen ontspannen en iets nieuws willen ontdekken.
 
-__Praktische info:__
+## Praktische info:
 * Kom je aan op de luchthaven van Valencia (Aeroport), dan raak je makkelijk in het stadscentrum. Metrolijnen 3 en 5
 brengen je van Aeroport naar het noordstation (Xàtiva) in amper 21 minuten, in zone AB+. Het tarief is €5,80 per persoon.
 

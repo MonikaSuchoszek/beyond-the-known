@@ -74,7 +74,7 @@ Jako ostatni, odwiedziliśmy Martvili kanion, który znajdował się w odległo�
 
 <img src="/assets/Georgia/Prometeush_cave/IMG_161454431.JPG" class="column-45" alt="Martvili canyon" />
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 Entrance fees for the different sites:
 

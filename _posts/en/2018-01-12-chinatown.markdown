@@ -97,7 +97,7 @@ has a unique claret color and few enormous gardens with swimming pools, an outst
 <img src="/assets/Singapore/DSC09541-e1515723702413.jpg">
 
 
-__Practical info:__
+## Practical info:
   * Food at Maxwell center in price range 3-7S$, drinks 1-2S$
   * MRT station - Tanjong Pagar (starting point of our walk)
   

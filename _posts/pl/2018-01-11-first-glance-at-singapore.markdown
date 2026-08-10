@@ -87,7 +87,7 @@ dłużej! Warto przyjść chwilę wcześniej przed spektaklem, aby zając sobie 
 <img src="/assets/Singapore/DSC09462.jpg">
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Gardens by the Bay - wstęp wolny
   * Bilet wstępu do dwóch szklarni - 28 S$ (dostępny tylko bilet łączony)
   * Spektakl świateł i muzyki (Garden Rhapsody Show) - codziennie 19.45 i 20.45, wstęp wolny

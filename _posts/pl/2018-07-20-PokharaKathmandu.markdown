@@ -121,7 +121,7 @@ przy bardziej sprawnej akcji ratunkowej, więcej pasażerów miałoby szansę pr
  ubrudzeniem). Na szczeście nasze plecaki dotarły do Bangkoku w jednym kawałku :DD
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Wypożyczenie kajaka - 300 rupii / 1 godz / 1 osoba
   * Łódka do świątyni Tal Barahi&nbsp; - 50 rupii od osoby
   * Frontiers Paragliding - 7000 rupii od osoby (zdjęcia i filmy z GoPro w cenie)

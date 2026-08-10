@@ -62,7 +62,7 @@ paintings on the ceiling.
 <img src="/assets/Laos/BuddhaPark/DSC03264.jpg" />
 <img src="/assets/Laos/BuddhaPark/DSC03266.jpg" />
 
-__Practical information:__
+## Practical information:
   * Bus ticket to Buddha Park - 6 000 Kip per person, one way
   * Entrance ticket to Buddha Park - 15 000 Kip per person
   * Entrance to Patuxai - 3 000 Kip per person

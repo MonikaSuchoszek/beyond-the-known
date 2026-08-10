@@ -92,13 +92,13 @@ Tutaj też znalazłyśmy restauracje "<a href="http://marchewkazgroszkiem.pl/">M
 <img src="/assets/Poland/Krakow/DSC01400.jpg" />
 <img src="/assets/Poland/Krakow/DSC01403.jpg" />
 
-__Pamiątki z Krakowa:__
+## Pamiątki z Krakowa:
 
 Futra, biżuteria z bursztynem, wyroby koronkowe, ręcznie szyte ubrania, drewniane rzeźby, akcesoria z polskimi motywami ludowymi (parasolki, etui na okulary, fartuch, 
 poszewki na poduszke).Dobrym pomysłem dla łasuchów jest tez ptasie mleczko firmy Wawel lub też kabanosy, które możemy podarowac jako pamiatkę dla naszych zagranicznych 
 znajomych ;)
 
-__Praktyczne informacje:__
+## Praktyczne informacje:
 
   * Podziemia rynku - 19zl blet wstępu
   * Bus do Zakopanego - 40zl, w obie strony, kilka firm przewozowych w tej samej cenie, sporo połaczeń w ciagu dnia, lepiej kupić bilet z jednodniowym wyprzedzeniem na dworcu autobusowym (ulica Bosacka 18)

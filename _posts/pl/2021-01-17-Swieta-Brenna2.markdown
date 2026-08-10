@@ -80,7 +80,7 @@ patrzeć jak negatywnie na nasze lasy wpływają prowadzone obecnie wycinki.
 <img src="/assets/Poland/Brenna/P1021600.edit.jpg" />
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Nocowaliśmy u moich rodziców, którzy wynajmują pokoje gościnne, dlatego chciałabym je polecić, gdy sytuacja epidemiologiczna 
   poprawi się na tyle, że możliwe będą weekendowe wyjazdy w góry z noclegiem [Kimanko pod sosnami](https://https://kimanko-pod-sosnami.github.io/)

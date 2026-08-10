@@ -61,7 +61,7 @@ As always we finished the hike in one of the restaurants in Mestia, waiting for 
 <img src="/assets/Georgia/Murshkeli/IMG_185037198.JPG" alt="Okatse canyon" />
 
 
-__Practical info:__
+## Practical info:
 
 On the map below you can see our hike and the distance. It took us almost 3h to get there and almost the same (including breaks) to get back.
 We were not rushing, just enjoying the day.

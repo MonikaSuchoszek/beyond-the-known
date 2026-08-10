@@ -95,7 +95,7 @@ standing in bars and restaurants. These drinks don't look very appealing to me b
 
 
 
-__Practical info:__
+## Practical info:
 
 How we got to Vang Vieng was described in a previous post. 
   * renting a mountain bike - 30k KIP per person, as always the condition of the bikes left much to be desired (at least this time my tyre didn't explode!)

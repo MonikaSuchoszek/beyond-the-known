@@ -114,7 +114,7 @@ przygodę. Zwłaszcza wtedy, gdy dni są dłuższe, a większa ilość światła
 Do tej części Portugalii przyjechałam po weekendzie spędzonym w [Bradze i Guimarães]({% post_url pl/2024-12-14-BragaPL %}),
 oraz wcześniejszym dniu w [Porto]({% post_url pl/2024-12-11-PortoPL %}).
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 * Na stronie [Transgranicznego Rezerwatu Biosfery Gerês-Xurés](https://turismo.cm-terrasdebouro.pt/aventura/) znajdziesz
 opisy szlaków z tego regionu, od PR1 do PR15, a także dłuższych tras GR34 (pętla 34 km) i GR50 (187,5 km, trasa liniowa).

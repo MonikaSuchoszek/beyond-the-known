@@ -97,7 +97,7 @@ Hotel Oasis niedaleko stacji kolejki miejskiej, Tanjong Pagar wyróżnia się sw
 <img src="/assets/Singapore/DSC09541-e1515723702413.jpg">
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Jedzenia w centrum Maxwell w granicach 3-7S$, napoje 1-2S$
   * Stacja MRT - Tanjong Pagar (początek naszego spaceru)
   

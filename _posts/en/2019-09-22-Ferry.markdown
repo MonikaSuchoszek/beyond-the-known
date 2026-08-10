@@ -83,7 +83,7 @@ village, Collico.
 <img src="/assets/Italy/Ferry/DSC06825.JPG" alt="Ferry" />
 
 
-__Practical info:__
+## Practical info:
 
   * [Castello di Vezio](http://www.castellodivezio.it/EN/home-en.html)  - entrance fee 4 euro per person, check their website for opening hours. 
 

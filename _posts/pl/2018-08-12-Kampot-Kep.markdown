@@ -145,7 +145,7 @@ Po odwiedzeniu parku, podążaliśmy wzdłuż wybrzeża aż do plaży, w pobliż
 <p class="caption">Uliczni sprzedawcy niedaleko plaży oferują świeżo wyciskany sok z trzciny cukrowej (okropnie słodki!) oraz bardzo chrupki rodzaj naleśników 
 zwiniętych w rulon</p>
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Bilet autobusowy z Kampot do Kep - 3$ od osoby w jedną stronę
   * Wstęp do Parku Narodowego Kep - 1$ od osoby
   * Rambutany - 3$/kg

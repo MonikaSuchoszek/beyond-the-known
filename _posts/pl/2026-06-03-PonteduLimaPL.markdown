@@ -200,7 +200,7 @@ Ponte de Lima okazało się jednym z najważniejszych punktów naszej podróży 
 tylko krótką wizytę w miasteczku oraz dwa niewielkie spacery, ale połączenie wiosennych kwiatów, spokojnych krajobrazów 
 i przyjaznych rodzinom szlaków sprawiło, że zostaliśmy tutaj do poźnego popołudnia. 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 * National Park Lagoas de Bertiandos e São Pedro d'Arcos: wstęp bezpłatny  
 Czas zwiedzania: 2 godziny   

@@ -100,7 +100,7 @@ night since we left before it got dark.
 
 Don't miss out on the opportunity to visit this vibrant and welcoming destination on your next European holiday!
 
-__Practical info:__
+## Practical info:
 
   * The airport has perfect connection with Malaga and nearby cities on the coast by train. Buying tickets was very easy,
 someone from the train service told us to use one debet card and scan once for each person and then again while leaving 

@@ -41,7 +41,7 @@ objazdówkę po Portugalii, z dziećmi lub bez, i chcesz zobaczyć coś więcej 
 własną podróż.
 
 
-**Nasza trasa i pierwsze wrażenia**   
+## Nasza trasa i pierwsze wrażenia
 Porto oraz okolice Bragi odwiedziłam już wcześniej, w grudniu 2024 roku spędziłam tam długi weekend u koleżanki z pracy, 
 i bardzo mi 
 się tam spodobało. Tym razem chciałam pokazać rodzinie więcej atrakcji północnej Portugalii, wynajmując samochód i 
@@ -59,7 +59,7 @@ Więcej szczegółów na temat mojej wcześniejszej podróży znajdziesz w tych 
 [Dziedzictwo i święta: magiczna wizyta w Bradze i Guimarães]({% post_url pl/2024-12-14-BragaPL %}) oraz
 [Przyrodnicze i kulturowe skarby Gerês-Xurés]({% post_url pl/2024-12-17-GeresPL %}).
 
-**Transport – jak poruszaliśmy się po regionie?**   
+## Transport – jak poruszaliśmy się po regionie?
 
 Samochód odebraliśmy na lotnisku i tam również go zwróciliśmy. Na ostatnie dwa dni pobytu w Porto auto nie było nam 
 już potrzebne, ponieważ miasto zwiedzaliśmy pieszo. Firma Sixt oferuje kilka punktów zwrotu samochodów w Porto, w tym jeden 
@@ -83,7 +83,7 @@ już podczas podróży można podziwiać jedną z najbardziej charakterystycznyc
   <img src="/assets/Portugal/North/20260415_180352_01.jpg" class="column-50" />
 </div>
 
-**Parkowanie i jazda samochodem**   
+## Parkowanie i jazda samochodem
 Przez cały wyjazd ani razu nie zapłaciliśmy za parking. W mniejszych miejscowościach oraz przy większości atrakcji turystycznych 
 parkowanie było bezpłatne. W Bradze, gdzie spędziliśmy cztery noce, również można było parkować za darmo w niektórych strefach. 
 Problem pojawiał się jednak późnym popołudniem, kiedy wracaliśmy z całodniowych wycieczek i znalezienie wolnego miejsca 
@@ -101,7 +101,7 @@ konkurencyjna cena w porównaniu z kosztami transportu publicznego (mój tata po
 tego dnia podróżowaliśmy we trójkę). Dodatkowo był to zdecydowanie najszybszy i najwygodniejszy 
 sposób, aby tam dotrzeć.
 
-**Ceny paliwa i płatne drogi**   
+## Ceny paliwa i płatne drogi
 Cena benzyny wahała się od 1,88 € do 2,02 € za litr, a najtańsze stacje znaleźliśmy przy supermarketach Auchan.
 Łącznie przejechaliśmy niecałe 500 kilometrów, dlatego tankowaliśmy tylko raz, na stacji [niedaleko lotniska](https://maps.app.goo.gl/1HjWYrcv8PPcYu159).
 W Portugalii funkcjonuje rozbudowany system płatnych autostrad, jednak przez cały wyjazd świadomie ich unikaliśmy. Różnica 
@@ -114,7 +114,7 @@ opłata zostaje zwrócona (lub przeliczona ze względu na ilość dni podczas kt
 naszym przypadku zwrot pojawił się na koncie zgodnie z obietnicą, w ciągu 30 dni od zakończenia 
 wynajmu. Samochody wyposażone są w elektroniczne urządzenie do automatycznego naliczania tych opłat.
 
-**Zakwaterowanie**  
+## Zakwaterowanie
 Mieszkaliśmy w apartamentach Airbnb w A Ver o Mar i Braga – za każdym razem były to całe mieszkania na wyłączność. Oba 
 obiekty oferowały samodzielne zameldowanie za pomocą skrzynki na szyfr (lockbox), były bardzo przestronne i miały wysokie 
 oceny. [Pierwsze mieszkanie](https://www.airbnb.com/rooms/1476400048216795229?source_impression_id=p3_1777192418_P3A-TqFdcgkEuJr5) 
@@ -134,7 +134,7 @@ wiele przydatnych wskazówek.
 •	Najlepiej rezerwować z co najmniej 3-miesięcznym wyprzedzeniem, aby trafić na dobre okazje   
 •   Średnia ocena: 4.9+ 
 
-**Jedzenie na mieście**   
+## Jedzenie na mieście
 Szukaliśmy lokalnych restauracji z świetnymi opiniami i dobrym stosunkiem jakości do ceny. Warto pamiętać, że restauracje 
 w Portugalii zamykają się około godziny 15:00 i otwierają ponownie o 19:00. Zawsze znajdzie się kilka miejsc otwartych 
 przez cały dzień, ale jest ich naprawdę niewiele i często są to lokale typu fast food. Aby uniknąć jedzenia późnym wieczorem, 
@@ -156,7 +156,7 @@ pojawiały się pewne trudności w komunikacji.
   <img src="/assets/Portugal/North/IMG_20260417_124619889_HDR_01.jpg" class="column-50" />
 </div>
 
-**Lista restauracji, które moglibyśmy polecić.**   
+## Lista restauracji, które moglibyśmy polecić.
 Porto: [Spice Art Indian Restaurante & Bar](https://maps.app.goo.gl/SjQhQqhTJLWr8sya9)   
 Porto: [Mirone - Cachorrinhos do Morro](https://maps.app.goo.gl/s3bZUU24cY7yKSX5A)   
 Porto: [Manteigaria](https://maps.app.goo.gl/zCoh84FsDt8h5q379)   
@@ -169,7 +169,7 @@ Braga: [Atípica](https://maps.app.goo.gl/UpCRBGD8gC8D7bw88)
 Braga: [Bella Braga Caffé & Restaurante](https://maps.app.goo.gl/tsmwZfs4sLDtM2q1A)   
 
 
-**Przegląd budżetu (na 8 dni, 3 osoby dorosłe i czteroletnie dziecko)**
+## Przegląd budżetu (na 8 dni, 3 osoby dorosłe i czteroletnie dziecko)
 
 | Kategoria                                 | Suma (€) |
 |-------------------------------------------|---------------:|
@@ -184,7 +184,7 @@ Braga: [Bella Braga Caffé & Restaurante](https://maps.app.goo.gl/tsmwZfs4sLDtM2
 
 <img src="/assets/Portugal/North/Picture chart.jpg" />
 
-**Nasze wrażenia z podróżowania z dzieckiem**   
+## Nasze wrażenia z podróżowania z dzieckiem
 Ta podróż była łatwiejsza ze względu na krótsze odległości między atrakcjami. Pomimo, że dobrej jakości placów zabaw było 
 jak na lekarstwo, nasza córka była pochłonięta naturą. Cieszyła się, gdy udawało nam się znaleźć choćby mały plac zabaw, 
 ale odkrywanie plaż, lasów czy starych, średniowiecznych miasteczek było dla nich idealną alternatywą. Bardzo smakowało 
@@ -206,7 +206,7 @@ okazał się [Jardins do Palácio de Cristal](https://maps.app.goo.gl/3VEPVtXa1N
 </div>
 
 
-**Podsumowanie i rekomendacje**   
+## Podsumowanie i rekomendacje
 Nie żałujemy żadnego z wybranych miejsc. Równowaga między miastami, górami a wybrzeżem sprawdziła się znakomicie. Na wiosenną 
 wycieczkę Północna Portugalia to doskonały wybór. Choć lokalni mieszkańcy twierdzili, że pogoda nie była wybitnie dobra, dla nas 
 15–20°C było bardzo komfortowe i przyjemne podczas zwiedzania.

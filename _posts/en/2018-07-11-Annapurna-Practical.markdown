@@ -184,7 +184,7 @@ on the distance. Buses are old and really dusty, we saw people getting motion si
   * Swayambhunath temple - 200 rupees/person
 
 
-__List of our equippement for Annapurna Circuit trekking:__
+## List of our equippement for Annapurna Circuit trekking:
 
   * Hiking shoes (Salewa Wildfire GTX - Monika and Salomon Speedcross 4 GTX - Sebastian)
   * Flip-flops

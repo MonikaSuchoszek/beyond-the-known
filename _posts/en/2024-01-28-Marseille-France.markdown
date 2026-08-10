@@ -151,7 +151,7 @@ distant. However, due to rising sea levels, this prehistoric site is at risk of 
 partially submerged. The urgency to preserve and share this unparalleled discovery with the world has become urgent. 
 Currently, the cave is not accessible to the public, and its entrance has been sealed for its protection.
 
-__Practical info:__
+## Practical info:
 
   * We rented an apartment on Airbnb in the La Joliette neighborhood, just a few buildings away from Marseille Cathedral, 
 located on the 6th floor without an elevator. There were many similar rental offers. This might not be the best solution 

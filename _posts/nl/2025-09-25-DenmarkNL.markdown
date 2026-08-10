@@ -25,7 +25,7 @@ en een ontspannen levensritme. We brachten in de tweede helft van augustus 10 vo
 heerlijke manier om op te laden voor het nieuwe schooljaar. Het weer was precies zoals we gehoopt hadden: 18 tot 24 °C,
 af en toe wat winderig, en maar een paar korte buien. Perfecte omstandigheden voor een roadtrip met het gezin!
 
-**Onze route en algemene indrukken**
+## Onze route en algemene indrukken
 
 Bij het plannen van de reis duidde ik ambitieus plekken over het hele land aan, maar ik besefte al snel dat het onmogelijk
 zou zijn alles te zien. Uiteindelijk stippelden we een lus van 1.500 km uit, waarbij we vier van de vijf Deense regio's
@@ -44,7 +44,7 @@ Qua architectuur had ik kleine, kleurrijke houten huisjes verwacht zoals in IJsl
 in Duitsland: eenvoudig, netjes en modern. We vonden wel een paar charmante historische plekjes, zoals Sønderho en Ribe,
 waar oude houten huizen voor een postkaartperfect decor zorgen.
 
-**Je verplaatsen – tips over vervoer**
+## Je verplaatsen – tips over vervoer
 
 We huurden een auto bij **Sixt**, met ophalen en inleveren op de luchthaven van Kopenhagen. Dat verliep over het algemeen
 vlot, al hadden we twee kleine problemen:
@@ -96,7 +96,7 @@ dag, toen het leeg was, dus we parkeerden in een van de zijstraten.
 </div>
 
 
-**Kopenhagen bezoeken met de trein**
+## Kopenhagen bezoeken met de trein
 
 De lokale bevolking raadde ons af om met de auto Kopenhagen in te rijden, door de parkeerkosten (16 tot 44 DKK/uur, 2 tot
 6 €/uur); bekijk [hier](https://international.kk.dk/live/transport-and-parking/parking-in-copenhagen/public-parking-in-copenhagen)
@@ -111,7 +111,7 @@ zonder tijd te verliezen met het zoeken naar een parkeerplaats. Wij kochten onze
   <img src="/assets/Denmark/Summary/20250824_175754_01.jpg" class="column-50" />
 </div>
 
-**Accommodatie**
+## Accommodatie
 
 We verbleven in Airbnb-appartementen door het hele land, bijna altijd volledige appartementen, meestal buiten de steden
 waar de prijzen lager lagen en het makkelijker was om met de auto te parkeren. Kopenhagen was duur, dus we kozen ervoor
@@ -127,7 +127,7 @@ De Airbnb-adressen die we met plezier aanraden:
  - [Vejle](https://www.airbnb.com/rooms/53997686?source_impression_id=p3_1761981599_P3eOLQWcL95MEcg3)
  - [Gemeente Aarhus - Sabro](https://www.airbnb.com/rooms/11245647?source_impression_id=p3_1761981691_P3WVhqP86RQ02twv)
 
-**Eten & uit eten gaan**
+## Eten & uit eten gaan
 
 Uit eten gaan in Denemarken is duur; reken op €30 à €40 per persoon voor een maaltijd met een drankje in een goedkoop
 restaurant. Zelfs eenvoudig streetfood zoals fish-and-chips kost 100 tot 140 DKK (13 tot 19 €). Daarom kookten we meestal
@@ -141,7 +141,7 @@ Voorbeeldprijzen:
 Hoogtepunt in een lokaal restaurant: verse vis of een stevige Deense burger met frietjes en huisgemaakte jus, heerlijk!
 
 
-**Budgetoverzicht (voor 10 dagen, 2 volwassenen en een vierjarig kind)**
+## Budgetoverzicht (voor 10 dagen, 2 volwassenen en een vierjarig kind)
 
 | Categorie | Totale kost (€) |
 |-----------|----------------:|
@@ -155,7 +155,7 @@ Hoogtepunt in een lokaal restaurant: verse vis of een stevige Deense burger met 
 
 <img src="/assets/Denmark/Summary/Budget breakdown.jpg" />
 
-**Onze ervaring met reizen met een kind**
+## Onze ervaring met reizen met een kind
 
 Wij vinden dit tot nog toe het meest kindvriendelijke land dat we bezocht hebben. De speeltuinen waren ongelooflijk, we
 hebben er als gezin enorm veel plezier aan beleefd. Heel vaak liggen de speeltuinen in bossen, omringd door prachtige
@@ -196,7 +196,7 @@ De tweede trol hieronder is die in de befaamde wijk Christianshavn, Green George
 </div>
 
 
-**Praktische opmerkingen en enkele verrassingen**
+## Praktische opmerkingen en enkele verrassingen
 
  - Het was niet makkelijk om uit te vissen wat de producten in de supermarkt precies waren; we moesten de etiketten met
 onze telefoon vertalen, want de taal verschilde te veel van de talen die we kennen.
@@ -206,7 +206,7 @@ niet in een andere winkel van dezelfde keten).
  - Tijdens het hele verblijf zag ik maar één keer een Deense munt, toen mijn man er een in het park vond. Het voelde erg
 vreemd om 10 dagen te reizen zonder ook maar één keer cash te gebruiken.
 
-**Slotgedachten en aanbevelingen**
+## Slotgedachten en aanbevelingen
 
 We zouden Denemarken zeker opnieuw bezoeken, maar de volgende keer misschien met de fiets erbij (zeker op eilanden zoals
 Fanø, dat met zijn 14 km lengte perfect is om te fietsen). Dit land is ideaal voor gezinnen, oudere reizigers en iedereen

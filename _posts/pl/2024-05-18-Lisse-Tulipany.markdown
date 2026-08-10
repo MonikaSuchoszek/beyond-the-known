@@ -161,7 +161,7 @@ jednak Keukenhof pozostaje rajem dla miłośników kwiatów, który należy zoba
 </div>
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
  * [Easy Fiets in Leiden](https://www.easyfiets.nl/en/) Personel był bardzo miły, a nawet mogliśmy oddać rowery po godzinach otwarcia, 
 jednak rowery były dość małe, a jazda nimi przez 50 km nie była łatwa.
 <img src="/assets/Netherlands/TulipTrip/Screenshot 2024-05-02 223301.png" />

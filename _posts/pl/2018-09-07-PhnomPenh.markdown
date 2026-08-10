@@ -113,7 +113,7 @@ innej mutacji.
 <img src="/assets/Cambodia/PhnomPenh/DSC02401.jpg">
 <p class="caption">Prawdopodobnie powinniśmy zostawić zabłąkanego kota w spokoju, ale Sebastian próbował przykuć jego uwagę tak długo, aż uda mi się zrobić ostre zdjęcie :)</p>
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Autobus do Phnom Penh - 7$ od osoby
   
   Oczywiście znowu doświadczyliśmy problemów podczas podróżowania autobusami. Tym razem kierowca wysadził nas w zupełnie innej części miasta niż było nam to gwarantowane.

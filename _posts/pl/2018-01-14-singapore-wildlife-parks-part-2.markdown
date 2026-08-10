@@ -98,7 +98,7 @@ nosorożec indyjski. Warto podkreślić, że w kilku miejscach, zwierzęt takie 
 były na wyciągnięcie ręki, niesamowite przeżycie!
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 Podsumowując, szczerze polecam odwiedzenie wszystkich 4 parków, są one naprawdę niezwykłe! My poświęciliśmy na to 1.5 dnia i było to bardzo męczące, ale warte tych bolących
  stóp :p Warto wybrać się na oferowane przedstawienia, które pokazują silną wieź między opiekunami i zwierzętami. Jednak jeśli macie mniej czasu i możecie wybrać tylko jeden, 

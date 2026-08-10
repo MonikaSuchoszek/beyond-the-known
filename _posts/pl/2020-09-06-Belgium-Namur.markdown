@@ -133,7 +133,7 @@ kawiarnia, sklepik z pamiątkami oraz restauracja, no nie było łatwo! :D
 
 <img src="/assets/Belgium/Namur/DSC07463.1.jpg" />
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Citadelle de Namur - wejście darmowe. Na wzgórze, gdzie znajduje się restauracja i centrum dla odwiedzających (jedyne miejsce z toaletami) 
   prowadzi kilka ścieżek w tym jedna dla osób z wózkami (ścieżka A na mapie). Minęliśmy dwa parkingi samochodowe na samej górze wzniesienia, jednak 

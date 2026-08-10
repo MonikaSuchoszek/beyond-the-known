@@ -101,7 +101,7 @@ To był niezapomniany czas spędzony na łonie natury, pełen niepowtarzalnych c
 Bredy zdecydowanie zapisze się w mojej pamięci jako wyjątkowa podróż, która otworzyła nasze oczy na piękno holenderskiego 
 krajobrazu. Z niecierpliwością oczekiwałem na moją kolejną przygodę. 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Wynajęliśmy dom [na Airbnb niedaleko Rijsbergen](https://www.hoevenelleveld.nl) znajdujący się na farmie, 
 tylko 1.5 godziny jazdy z Leuven. Plac zabaw dla dzieci był niesamowity, a na dodatek mieszkały tam dwa konie 

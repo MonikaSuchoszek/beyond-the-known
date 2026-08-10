@@ -80,7 +80,7 @@ heading back to Belgium</p>
 <img src="/assets/Netherlands/Oranjezon/P7110322.1.jpg" alt="kite surfer" />
 <p class="caption">Kite surfing is really popular here!</p> 
 
-__Practical info:__
+## Practical info:
 
   * Entrance fee to the Oranjezon Natuurgedied - 1 euro per person, tickets bought from the ticket machine at the entrance
   to this nature reserve, next to the camping Oranjezon 

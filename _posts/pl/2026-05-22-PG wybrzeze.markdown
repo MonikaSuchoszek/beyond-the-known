@@ -289,7 +289,7 @@ W drodze powrotnej do samochodu odkryliśmy jeszcze więcej rzeźb kogutów ukry
 było wiadomo, gdzie pojawi się kolejna. Barcelos okazało się dla nas wspaniałym zaskoczeniem, kolorowym, tętniącym życiem 
 i niezwykle przyjemnym miastem, idealnym na spacer oraz relaksujący przystanek w drodze do Bragi.
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
 * Povoa de Varzim: bezpłatny [parking](https://maps.app.goo.gl/zE33kPoTeKkxEbbR9)
 * Sanktuarium Najświętszego Serca Jezusowego (Santuário de Santa Luzia)   

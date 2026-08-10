@@ -87,7 +87,7 @@ wykazać się refleksem. Także była to nasza ostatnia, niespodziewana atrakcja
 <img src="/assets/Netherlands/Nieuwvliet/DSC07292.edit.jpg" />
 
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
 
   * Zatrzymaliśmy się na polu namiotowym: [Camping De Catshoek](https://minicampingdecatshoek.nl/), które z pewnością możemy polecić!
 

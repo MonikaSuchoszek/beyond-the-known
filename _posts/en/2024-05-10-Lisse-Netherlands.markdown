@@ -155,7 +155,7 @@ paradise that should be experienced at least once.
 </div>
 
 
-__Practical info:__
+## Practical info:
  * [Easy Fiets in Leiden](https://www.easyfiets.nl/en/) Very friendly stuff, and we could give them back even after 
 opening hours, but the bikes were quite small and cycling 50 km with these, was not idle. 
 <img src="/assets/Netherlands/TulipTrip/Screenshot 2024-05-02 223301.png" />

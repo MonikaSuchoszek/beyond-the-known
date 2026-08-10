@@ -109,7 +109,7 @@ accumulating around the peak, it can get chilly.
 
 
 
-__Practical info:__
+## Practical info:
 
   * Playground, Patio de Juegos, next to Parque La Muralla in Mijas. We spend there a lot of time, this amazing playground has
 attractions for each age group. Our one-year-old baby loved it and it not so easy to find a playground that suits her age.

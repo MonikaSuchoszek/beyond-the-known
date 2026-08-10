@@ -59,7 +59,7 @@ im dalszą drogę. Niestety wychodzenie późnym porankiem nie daje dużo zapasu
 W drodze powrotnej zatrzymalismy się na dłużej przy platformie widokowej bo mieliśmy jeszcze sporo czasu przed zachodem słońca, ale oczywiście perspektywa pysznego jedzona w jednej
 z lokalnych restauracji skłoniła nas do szybszego powrotu :) Pogodę mieliśmy idealną, widoczność była wspaniała
 
-__Informacje praktyczne:__
+## Informacje praktyczne:
   * Trudność: średnia
   * Dystans: 19 km
   * Przewyższenie: 1300m
