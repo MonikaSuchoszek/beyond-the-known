@@ -1,11 +1,25 @@
 [
 
     {
+      "title"    : "Chasing Sunshine Around Liège: Five Belgian Hikes",
+      "url"      : "/en/travel/2026/08/HikesBE/",
+      "date"     : "August 01, 2026",
+      "locale"   : "en_US",
+      "content" :  "We decided to use one of the longer weekends in May to finally explore an area of Belgium that I had never visited before. We were looking for longer hikes rather than short family walks, so we left our daughter with her grandparents and headed towards Liège. The weather, however,..."
+      
+       , "coords" : {
+          "lat" : 41.768971,
+          "lng" : -8.585567
+      }
+      
+    } ,
+
+    {
       "title"    : "Ponte de Lima – najstarsze miasto Portugalii oraz dwa piękne szlaki w okolicy",
       "url"      : "/pl/podroze/2026/06/PonteduLimaPL/",
       "date"     : "June 03, 2026",
       "locale"   : "pl_PL",
-      "content" :  "Kolejne dwa dni spędziliśmy na zwiedzaniu Bragi oraz bardziej turystycznego Guimarães, znanego jako „kolebka Portugalii”. Oba miasta odwiedziłam już w grudniu 2024 roku i możecie o nich przeczytać w moim wcześniejszym wpisie Dziedzictwo i święta: magiczna wizyta w Bradze i Guimarães. Tym razem jednak niezwykle miło było zobaczyć te same..."
+      "content" :  "Kolejne dwa dni spędziliśmy na zwiedzaniu Bragi oraz bardziej turystycznego Guimarães, znanego jako „kolebka Portugalii”. Oba miasta zwiedziłam już w grudniu 2024 roku i możecie o nich przeczytać w moim wcześniejszym wpisie Dziedzictwo i święta: magiczna wizyta w Bradze i Guimarães. Tym razem jednak niezwykle miło było zobaczyć te same..."
       
        , "coords" : {
           "lat" : 41.768971,

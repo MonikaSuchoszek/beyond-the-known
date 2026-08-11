@@ -1,9 +1,9 @@
 ---
 layout: post
 
-title:  "XXX"
-description: "Portugal's oldest town and two beautiful nature walks nearby, plus a spring return to Braga and Guimaraes, on our northern road trip."
-date:   2026-06-03 08:43:59
+title:  "Chasing Sunshine Around Liège: Five Belgian Hikes"
+description: "Five hikes around Liège in Belgium: a castle loop at Alden Biesen, the boardwalks of Hautes Fagnes and the crowded Vallon du Ninglinspo."
+date:   2026-08-01 08:43:59
 author: Monika Suchoszek
 categories: travel
 tags:	Belgium 
@@ -33,8 +33,8 @@ It highlights how essential honeybees and solitary bees are for cross-pollinatio
 orchards in this region. It must be a fantastic place to visit during the blossoms in spring. 
 
 <div class="row">
-  <img src="/assets/Belgium/Liege/20260514_105250.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260514_105348_01.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260514_105250_01.jpg" class="column-50" alt="Curved wooden boardwalk winding through green orchard grounds at Alden Biesen castle" />
+  <img src="/assets/Belgium/Liege/20260514_105348_01.jpg" class="column-50" alt="De Bij-Mobiel, a wooden trailer decorated with card-suit symbols, used to teach visitors about bees and biodiversity" />
 </div>
 
 Leaving the castle walls 
@@ -43,18 +43,18 @@ paths next to the Demer River. We passed multiple nice picnic benches along the 
 diversity of this loop. After the hike, we also explored the castle's inner courtyard and French garden on our way back 
 to the parking area.
 
-<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 212039.png" />
+<img src="/assets/Belgium/Liege/20260514_114956.jpg" alt="A hiker relaxing on a wooden bench at the end of a boardwalk over a reed-lined wetland pond near Alden Biesen" />
 
 <div class="row">
-  <img src="/assets/Belgium/Liege/20260514_105620.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260514_124043.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260514_105620.jpg" class="column-50" alt="Wooden trail marker post in tall grass showing several hexagonal waymarking signs, including an orange cross route marker" />
+  <img src="/assets/Belgium/Liege/20260514_124043.jpg" class="column-50" alt="Purple irises blooming in the formal French garden of Alden Biesen castle, with clipped topiary cones and the castle towers behind" />
 </div>
 
-<img src="/assets/Belgium/Liege/20260514_114956.jpg" />
-
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 212039.png" alt="Hike tracking app screenshot showing an 8.87 km loop around Alden Biesen castle with stats and an elevation profile totaling 153 m of climb" />
 
 ## Esneux - A Hike Interrupted by a Storm
-Despite the unstable weather, we decided to visit Esneux and try a hike along the Ourthe River. Unfortunately, after only 
+Despite the unstable weather, we decided to visit Esneux and try a hike along the Ourthe River.The blue line on the map 
+shows the route we originally planned to follow, while the red line shows the route we actually walked. Unfortunately, after only 
 the first 1.5 km, we were stopped by heavy rain and thunder. Since the bridge where we could cross the river was probably 
 6 km into the hike, we would not have had any possibility of shortening the route if the weather became even more unpleasant.
 Once the storm had passed, we walked uphill to St. Hubert's Church and then followed the path along the fence of Château 
@@ -62,7 +62,7 @@ Le Fy, slowly going down the slope towards Rue Grandfosse. From there, we walked
 the train station on the way. It was not the hike we originally planned, but at least we managed to explore a little bit 
 of the area between the storms.
 
-<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 212344.png" />
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 212344.png" alt="Hike tracking app screenshot showing a 5.29 km route along the Ourthe River near Esneux with stats and an elevation profile totaling 113 m of climb" />
 
 ## Hautes Fagnes - A Long Hike Through Forest and Open Landscapes
 The next day, the weather forecast was much better, but only until 4 pm, so we had to make sure to be at the start of the 
@@ -77,8 +77,8 @@ growing everywhere. The fluffy white seed heads stood out beautifully against th
 landscape look almost covered in small pieces of cotton. 
 
 <div class="row">
-  <img src="/assets/Belgium/Liege/20260515_094347.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260515_093955.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_094347.jpg" class="column-50" alt="Gravel path through the open moorland of Hautes Fagnes, lined with birch trees and tall grasses" />
+  <img src="/assets/Belgium/Liege/20260515_093955.jpg" class="column-50" alt="Fluffy white cotton grass seed heads growing among tussocks in the Hautes Fagnes wetland" />
 </div>
 
 The forest was very quiet and big, with signs indicating mountain-bike 
@@ -94,8 +94,8 @@ definitely the most crowded part of the hike. We had to wait many times to let p
 slower than us and the path was very narrow, so it wasn't easy to overtake. 
 
 <div class="row">
-  <img src="/assets/Belgium/Liege/20260515_114237.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260515_115331.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_114237.jpg" class="column-50" alt="Rocky forest stream cascading over stones near wooden steps, with a hiker resting on the bank in Hautes Fagnes" />
+  <img src="/assets/Belgium/Liege/20260515_115331.jpg" class="column-50" alt="Boulder-strewn forest stream winding between mossy rocks and fallen logs in Hautes Fagnes" />
 </div>
 
 One thing that immediately caught my attention 
@@ -105,8 +105,8 @@ peat and vegetation in this wetland landscape, giving the streams their characte
 the direction of the parking area where we had left the car. After only a couple hundreds of metres, we were alone again. 
 
 <div class="row">
-  <img src="/assets/Belgium/Liege/20260515_120643.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260515_123022.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260515_120643.jpg" class="column-50" alt="Rustic wooden bridge with a branch railing crossing the reddish-brown Hoëgne river near Pont du Centenaire" />
+  <img src="/assets/Belgium/Liege/20260515_123022.jpg" class="column-50" alt="Sunlit path through a tall spruce forest with a soft carpet of needles and fallen branches" />
 </div>
 
 I was asking myself, Where are these characteristic boardwalks that I saw in so many photos? We actually reached them during 
@@ -119,20 +119,20 @@ you need to follow wooden paths because the main area is above the ground. You c
 I just did a quick 3 km loop to check it out, but you can do a much longer hike on that side of the main road, all the way 
 to another nature reserve, Fagne de Brackvenn (parking Nahtsief). 
 
- <div class="row">
-  <img src="/assets/Belgium/Liege/20260515_141939.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260515_150514.jpg" class="column-50" />
+<div class="row">
+  <img src="/assets/Belgium/Liege/20260515_141939.jpg" class="column-50" alt="Wooden boardwalk with railings crossing a dark peat stream lined with birch trees in Hautes Fagnes" />
+  <img src="/assets/Belgium/Liege/20260515_150514.jpg" class="column-50" alt="Wooden boardwalk curving through open moorland under a dramatic cloudy sky in Hautes Fagnes" />
 </div>
 
 For people who really want to stand on the highest peak 
-of Belgium, you can drive a bit further to the Signal de Botrange parking area. However, it is basically just a hilltop 
+of Belgium, you can drive a bit further to the Signal de Botrange parking. However, it is basically just a hilltop 
 with stairs next to the parking area, so we decided to skip it. Someone decided to build the stairs in 1923 to bring the 
 symbolic top up to exactly 700 metres, as the natural peak is lower. Of course, it can be a starting point for another 
 amazing hike in this area. That was an intense hike, but with beautiful landscapes and very few people, apart from the 
 short section along the stream close to Pont du Centenaire and the area around the parking lot, which has the famous 
 boardwalks.
 
-<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 212447.png" />
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 212447.png" alt="Hike tracking app screenshot showing a 22.92 km route through Hautes Fagnes with stats and an elevation profile totaling 435 m of climb" />
 
 ## Vallon du Ninglinspo - Beautiful but Too Crowded
 On the last day, after checking out, we started the day with a hike in the Vallon du Ninglinspo area. That was the biggest 
@@ -147,9 +147,9 @@ We also had to wait multiple times because people were having problems crossing 
 were particularly muddy that day. We had the impression that too many tourists had damaged the landscape. There were too 
 many footsteps everywhere, and it looked like nature was suffering from the high number of visitors.
 
- <div class="row">
-  <img src="/assets/Belgium/Liege/20260516_104849.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260516_105004.jpg" class="column-50" />
+<div class="row">
+  <img src="/assets/Belgium/Liege/20260516_104849.jpg" class="column-50" alt="Crowded rocky trail with a wooden handrail alongside a small waterfall in the Vallon du Ninglinspo" />
+  <img src="/assets/Belgium/Liege/20260516_105004.jpg" class="column-50" alt="Quiet forest stream over rocks with a bench in a clearing along the Vallon du Ninglinspo" />
 </div>
 
 Halfway through the regular hike, after about 3 km, we decided to extend the route and make an additional 6 km loop to La 
@@ -162,12 +162,12 @@ routes. Once we came back to the Ninglinspo route, the other half was very easy 
 through the forest. There weren't many views, so it was definitely less interesting than the first part, but there were 
 no difficult sections with rocks or extensive mud.
 
- <div class="row">
-  <img src="/assets/Belgium/Liege/20260516_121438.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260516_121815.jpg" class="column-50" />
+<div class="row">
+  <img src="/assets/Belgium/Liege/20260516_121438.jpg" class="column-50" alt="Two cyclists riding away down a quiet forest road lined with tall trees near Ninglinspo" />
+  <img src="/assets/Belgium/Liege/20260516_121815.jpg" class="column-50" alt="Tunnel of arched, intertwined hornbeam trees forming a green canopy over the path at La Charmille du Haut Marêt" />
 </div>
 
-<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 213621.png" />
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 213621.png" alt="Hike tracking app screenshot showing a 12.56 km route through the Vallon du Ninglinspo with stats and an elevation profile totaling 354 m of climb" />
 
 ## Heid Des Gattes - A Short Extra Hike Near Aywaille
 Since we still had some time and the weather was stable, we decided to stop at Heid Des Gattes, near Aywaille.
@@ -178,11 +178,11 @@ a very visible path until I reached a field with two donkeys. It was time to fin
 It was narrow and steep, but I quickly reached the lower sections of the hill. 
 
 <div class="row">
-  <img src="/assets/Belgium/Liege/20260516_150040.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260516_152012.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260516_150040.jpg" class="column-50" alt="Rocky forest trail marked with a red-and-yellow waymark on a tree, climbing along a stony slope at Heid Des Gattes" />
+  <img src="/assets/Belgium/Liege/20260516_152012.jpg" class="column-50" alt="White donkey with a red halter looking over a fence in a green pasture at Heid Des Gattes" />
 </div>
 
-<img src="/assets/Belgium/Liege/20260516_151519.jpg" />
+<img src="/assets/Belgium/Liege/20260516_151519.jpg" alt="View from a hilltop at Heid Des Gattes over a deep former quarry pit and the village of Aywaille in the valley below" />
 
 On the way down towards the area where the 
 goats were supposed to be, I noticed something quite unusual from the top of the hill. There was a large, deep hole in the 
@@ -196,49 +196,49 @@ you need to visit the place at a specific time of year or on specific days to se
 permanently. After that, it was time to head back to pick up our daughter from her grandparents and continue back to Leuven.
 
 <div class="row">
-  <img src="/assets/Belgium/Liege/20260516_154045.jpg" class="column-50" />
-  <img src="/assets/Belgium/Liege/20260516_154125.jpg" class="column-50" />
+  <img src="/assets/Belgium/Liege/20260516_154045.jpg" class="column-50" alt="Old stone building with a corrugated roof and a green sign reading 'Réserve Naturelle de la Heid des Gattes', a grassy path leading to its open door" />
+  <img src="/assets/Belgium/Liege/20260516_154125.jpg" class="column-50" alt="Welcome information panel for the Heid des Gattes nature reserve, with rules in French and Dutch and a smaller sign marking the former Goiveux quarry at 185 m altitude" />
 </div>
 
-<img src="/assets/Belgium/Liege/20260516_153222.jpg" />
+<img src="/assets/Belgium/Liege/20260516_153222.jpg" alt="Trail map of the full Goiveux and La Falize loop through the Heid des Gattes nature reserve near Aywaille" />
 
-<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 213856.png" />
+<img src="/assets/Belgium/Liege/Screenshot 2026-08-08 213856.png" alt="Hike tracking app screenshot showing a 3.31 km route near Aywaille with stats and an elevation profile totaling 216 m of climb" />
 
 ## Practical info:
 
-**Alden Biesen**   
-Hike description: https://www.wandeleninlimburg.be/en/wandellus/alden-biesen-orange-cross-193
-Hike duration: 1h 45min
-Hike distance: 9 km
-Free parking: https://maps.app.goo.gl/eoudxYgX2bHpea5j8
-Castle: http://www.alden-biesen.be/
-De Bij-Mobiel: https://www.boomgaardenstichting.be/activiteiten/projecten/de-bij-mobiel
+**Alden Biesen**  
+Hike description: [wandeleninlimburg.be](https://www.wandeleninlimburg.be/en/wandellus/alden-biesen-orange-cross-193)   
+Hike duration: 1h 45min   
+Hike distance: 9 km   
+Free parking: [Google Maps](https://maps.app.goo.gl/eoudxYgX2bHpea5j8)   
+Castle: [alden-biesen.be](http://www.alden-biesen.be/)   
+De Bij-Mobiel: [boomgaardenstichting.be](https://www.boomgaardenstichting.be/activiteiten/projecten/de-bij-mobiel)   
 
-**Esneux**
-Free parking next to the bridge: https://maps.app.goo.gl/4evZeH9sQ6nLW2499
+**Esneux**   
+Free parking next to the bridge: [Google Maps](https://maps.app.goo.gl/4evZeH9sQ6nLW2499)
 
 **Hautes Fagnes**
-Free parking next to La Baraque Michel restaurant: https://maps.app.goo.gl/ut7yH3u1873iRfbZA
-Hike duration: 5h 45min
-Hike distance: 23 km
-Signal de Botrange: https://maps.app.goo.gl/6pebocht3KyJWsk3A
+Free parking next to La Baraque Michel restaurant: [Google Maps](https://maps.app.goo.gl/ut7yH3u1873iRfbZA)   
+Hike duration: 5h 45min   
+Hike distance: 23 km   
+Signal de Botrange: [Google Maps](https://maps.app.goo.gl/6pebocht3KyJWsk3A)   
 
 **Balade du Ninglinspo**
-Parking: along the road, since the paid parking was completely full before 10 am. We also noticed a second parking area, 
+Parking: along the road, since the paid parking was completely full before 10 am. We also noticed a second parking area,
 which was free, but it was also full and half of it was closed because of construction.
-It is dangerous to walk along the road with all the cars parked on both sides, creating deep mud on the sides of the road. 
-I hope there will be new parking soon because the area is currently very chaotic.
-Hike duration: 3h 45min
-Hike distance: 12.5 km
+It is dangerous to walk along the road with all the cars parked on both sides, creating deep mud on the sides of the road.
+I hope there will be new parking soon because the area is currently very chaotic.  
+Hike duration: 3h 45min   
+Hike distance: 12.5 km   
 
-**Aywaille**   
-Free parking: big parking next to https://maps.app.goo.gl/EBUZt4bvPvUK93Zh9
-I followed a path marked on Organic Maps that was not visible on Google Maps.
-Hike duration: 1h
-Hike distance: 4 km
+**Aywaille**  
+Free parking: big parking next to [Google Maps](https://maps.app.goo.gl/EBUZt4bvPvUK93Zh9)   
+I followed a path marked on Organic Maps that was not visible on Google Maps.   
+Hike duration: 1h   
+Hike distance: 4 km   
 
 **Where we stayed**
-Airbnb apartment in Liège: https://www.airbnb.com/rooms/1362297371259597564
+Airbnb apartment in Liège: [airbnb.com](https://www.airbnb.com/rooms/1362297371259597564)
 
 
 
