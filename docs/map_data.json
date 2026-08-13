@@ -1,6 +1,34 @@
 [
 
     {
+      "title"    : "W pogoni za słońcem w okolicach Liège: pięć belgijskich szlaków",
+      "url"      : "/pl/podroze/2026/08/HikesBE/",
+      "date"     : "August 01, 2026",
+      "locale"   : "pl_PL",
+      "content" :  "Postanowiliśmy wykorzystać jeden z majowych długich weekendów, aby w końcu poznać region Belgii, w którym nigdy wcześniej nie byłam. Szukaliśmy raczej dłuższych szlaków niż krótkich rodzinnych spacerów, więc zostawiliśmy córkę u dziadków i pojechaliśmy w stronę Liège. Pogoda miała jednak inne plany. Prognoza na długi weekend była zaskakująco zła, a..."
+      
+       , "coords" : {
+          "lat" : 50.500524,
+          "lng" : 6.095967
+      }
+      
+    } ,
+
+    {
+      "title"    : "Op zoek naar zon rond Luik: vijf Belgische wandelingen",
+      "url"      : "/nl/reizen/2026/08/HikesBE/",
+      "date"     : "August 01, 2026",
+      "locale"   : "nl_NL",
+      "content" :  "We besloten een van de langere weekends in mei te gebruiken om eindelijk een streek in België te verkennen waar ik nog nooit was geweest. We waren op zoek naar langere wandelingen in plaats van korte familiewandelingen, dus lieten we onze dochter bij haar grootouders achter en reden richting Luik...."
+      
+       , "coords" : {
+          "lat" : 50.500524,
+          "lng" : 6.095967
+      }
+      
+    } ,
+
+    {
       "title"    : "Chasing Sunshine Around Liège: Five Belgian Hikes",
       "url"      : "/en/travel/2026/08/HikesBE/",
       "date"     : "August 01, 2026",
@@ -8,8 +36,8 @@
       "content" :  "We decided to use one of the longer weekends in May to finally explore an area of Belgium that I had never visited before. We were looking for longer hikes rather than short family walks, so we left our daughter with her grandparents and headed towards Liège. The weather, however,..."
       
        , "coords" : {
-          "lat" : 41.768971,
-          "lng" : -8.585567
+          "lat" : 50.500524,
+          "lng" : 6.095967
       }
       
     } ,

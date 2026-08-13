@@ -11,12 +11,12 @@ cover:  "/assets/Belgium/Liege/20260515_150509.jpg"
 thumbnail:  "/assets/thumbnails/Hikes.JPG"
 post_id: BE_hikes
 coords:
-  lat: 41.768971 
-  lng: -8.585567
+  lat: 50.500524
+  lng: 6.095967
 gallery_items:
   - image: "/assets/Belgium/Liege/20260516_151519.jpg"
     gallery_image: "/assets/gallery/Hikes.jpg"
-    description: " XXX "
+    description: "Looking down from Heid Des Gattes over a plunging old quarry pit to the church spire and rooftops of Aywaille, tucked into the valley below."
 ---
 
 We decided to use one of the longer weekends in May to finally explore an area of Belgium that I had never visited before. 
@@ -210,34 +210,38 @@ permanently. After that, it was time to head back to pick up our daughter from h
 Hike description: [wandeleninlimburg.be](https://www.wandeleninlimburg.be/en/wandellus/alden-biesen-orange-cross-193)   
 Hike duration: 1h 45min   
 Hike distance: 9 km   
+Our GPX track: [download](/assets/Belgium/Liege/2026-05-14-Alden%20Biesen.gpx)   
 Free parking: [Google Maps](https://maps.app.goo.gl/eoudxYgX2bHpea5j8)   
 Castle: [alden-biesen.be](http://www.alden-biesen.be/)   
 De Bij-Mobiel: [boomgaardenstichting.be](https://www.boomgaardenstichting.be/activiteiten/projecten/de-bij-mobiel)   
 
-**Esneux**   
+**Esneux**  
 Free parking next to the bridge: [Google Maps](https://maps.app.goo.gl/4evZeH9sQ6nLW2499)
 
-**Hautes Fagnes**
+**Hautes Fagnes**  
 Free parking next to La Baraque Michel restaurant: [Google Maps](https://maps.app.goo.gl/ut7yH3u1873iRfbZA)   
 Hike duration: 5h 45min   
 Hike distance: 23 km   
+Our GPX track: [download](/assets/Belgium/Liege/2026-05-15-Hautes%20Fagnes.gpx)   
 Signal de Botrange: [Google Maps](https://maps.app.goo.gl/6pebocht3KyJWsk3A)   
 
-**Balade du Ninglinspo**
+**Balade du Ninglinspo**  
 Parking: along the road, since the paid parking was completely full before 10 am. We also noticed a second parking area,
 which was free, but it was also full and half of it was closed because of construction.
 It is dangerous to walk along the road with all the cars parked on both sides, creating deep mud on the sides of the road.
 I hope there will be new parking soon because the area is currently very chaotic.  
 Hike duration: 3h 45min   
 Hike distance: 12.5 km   
+Our GPX track: [download](/assets/Belgium/Liege/2026-05-16-Ninglinspo.gpx)   
 
 **Aywaille**  
 Free parking: big parking next to [Google Maps](https://maps.app.goo.gl/EBUZt4bvPvUK93Zh9)   
 I followed a path marked on Organic Maps that was not visible on Google Maps.   
 Hike duration: 1h   
 Hike distance: 4 km   
+Our GPX track: [download](/assets/Belgium/Liege/2026-05-16-Aywaille.gpx)   
 
-**Where we stayed**
+**Where we stayed**  
 Airbnb apartment in Liège: [airbnb.com](https://www.airbnb.com/rooms/1362297371259597564)
 
 

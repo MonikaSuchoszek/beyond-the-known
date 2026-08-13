@@ -18,16 +18,14 @@ stable identifier used to detect existing translations.
 - Grep `_posts/pl/*.markdown` and `_posts/nl/*.markdown` for the same `post_id:`.
   If a translation already exists, inform the user and ask if it needs to be updated or skipped.
 - If no translation exists yet, create new files with the same date prefix as the
-  source and the same slug with `PL` / `NL` appended before the extension (this is
-  the convention used by all recently added posts, e.g. `PonteduLimaPL.markdown`,
-  `PonteduLimaNL.markdown`). Place them in `_posts/pl/` and `_posts/nl/`.
+  source and the same slug. Place them in `_posts/pl/` and `_posts/nl/`.
 
-## Step 3 — Reuse existing category vocabulary
-Grep `categories:` across `_posts/en`, `_posts/pl`, `_posts/nl` to see how existing
+## Step 3 — Reuse existing category and tags vocabulary
+Grep `categories:` and `tags:` across `_posts/en`, `_posts/pl`, `_posts/nl` to see how existing
 category words have already been translated (e.g. `travel`→`podroze`(PL)/`reizen`(NL),
 `food`→`jedzenie`(PL), `sports`→`sport`). Reuse the established mapping instead of
-inventing new wording, so category-based URLs and archive pages stay consistent
-across the site.
+inventing new wording, so category- and tag-based URLs and archive pages stay consistent
+across the site and posts covering the same topics are connected through the tag pages.
 
 ## Step 4 — Translate
 Delegate the actual translation to the `translator` subagent (Opus, medium effort —
@@ -42,7 +40,7 @@ and the target filename to write to. For each language:
 - `alt="..."` text on `<img>` tags in the body
 - the full markdown/HTML body text
 - `categories` (via the mapping from Step 3)
-- `tags`
+- `tags` (use previously used tags where possible)
 
 **Copy unchanged:**
 - `layout`, `date`, `author`, `cover`, `thumbnail`, `post_id`, `coords`

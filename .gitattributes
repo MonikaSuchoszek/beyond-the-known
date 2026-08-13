@@ -1,3 +1,7 @@
 # Vendored third-party libraries ship as-is - no line-ending translation.
 assets/vendor/** -text
 docs/assets/vendor/** -text
+
+# docs/ is generated build output (Jekyll site) - line endings are irrelevant,
+# so don't let Git normalize/convert them (avoids LF/CRLF warnings on commit).
+docs/** -text
