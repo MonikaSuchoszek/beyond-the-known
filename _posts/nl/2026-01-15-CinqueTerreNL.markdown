@@ -1,12 +1,12 @@
 ---
 layout: post
 
-title:  "Cinque Terre in één dag: het complete veerboot- en treinprogramma vanuit La Spezia"
+title:  "Cinque Terre in één dag: een complete dagroute met veerboot en trein vanuit La Spezia"
 description: "Een werkbaar dagplan voor Cinque Terre vanuit La Spezia met veerboot en trein: Porto Venere, Riomaggiore, Vernazza en Monterosso."
 date:   2026-01-15 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Italie
+tags:	Italië
 cover:  "/assets/Italy/Pisa/20251016_104949_01.jpg"
 thumbnail:  "/assets/thumbnails/CinqueTerre.JPG"
 post_id: italy_cinque
@@ -24,16 +24,16 @@ adembenemende ligging op de klif. "
 
 Vraag je je af of het mogelijk is om Cinque Terre op één dag te bezoeken, dan is het antwoord ja, maar het vraagt wel een
 slim plan. Tijdens onze reis door Italië trokken we één volledige dag uit om de kleurrijke kustdorpjes van deze
-UNESCO-streek te verkennen, waarbij we boottochten en treinverbindingen combineerden om onze tijd optimaal te benutten.
+UNESCO-streek te verkennen. We combineerden overtochten met de veerboot en treinritten om onze tijd optimaal te benutten.
 
 Vanuit La Spezia bezochten we Porto Venere, Riomaggiore, Vernazza en Monterosso al Mare, met spectaculaire uitzichten
 vanaf de kliffen, charmante haventjes, middeleeuwse kerken, mooie uitkijkpunten en zelfs zandstranden. Reizen met een kind
-en een buggy voegde er nog een laag logistiek aan toe, dus in deze gids deel ik niet alleen ons gedetailleerde programma,
-maar ook praktische tips, vaaruren, advies over toegankelijkheid en eerlijke indrukken over de drukte in oktober. Alle
+en een buggy maakte de planning nog wat ingewikkelder. Daarom deel ik in deze gids niet alleen ons gedetailleerde programma,
+maar ook praktische tips, dienstregelingen van de veerboot, advies over toegankelijkheid en eerlijke indrukken van de drukte in oktober. Alle
 praktische details staan beschreven in een aparte post, die je [hier vindt]({% post_url nl/2025-12-05-ItalyNL %}).
 
 Plan je een daguitstap naar Cinque Terre, twijfel je tussen de veerboot of de trein, of probeer je te beslissen welke
-dorpjes voorrang krijgen, dan helpt deze gids je om een efficiënte, realistische en onvergetelijke dag uit te stippelen
+dorpjes je voorrang wil geven, dan helpt deze gids je om een efficiënte, realistische en onvergetelijke dag uit te stippelen
 langs een van de meest iconische kustlijnen van Italië.
 
 **Porto Venere** was onze eerste halte nadat we La Spezia verlieten. Het kustlandschap onderweg was prachtig: we voeren
@@ -67,9 +67,9 @@ een duidelijke toegang tot het water vanaf een betonnen blok.
 </div>
 
 Onze volgende halte was de **kerk van Sint-Laurentius**, een romaanse kerk die iets hoger dan de haven ligt. Ze voelt rustiger
-en minder blootgesteld aan dan San Pietro, en binnen hing een serene sfeer, zeker in vergelijking met de ruige, winderige
+en meer beschut aan dan San Pietro, en binnen hing een serene sfeer, zeker in vergelijking met de ruige, winderige
 kliffen aan zee. Vandaar klommen we verder naar het **Doria-kasteel**, dat over het stadje uitkijkt. De klim telt heel wat
-trappen, maar de uitzichten van bovenaan zijn ze absoluut waard. Vanaf de terrassen zie je de hele haven, de kleurrijke
+trappen, maar de uitzichten van bovenaf zijn de moeite meer dan waard. Vanaf de terrassen zie je de hele haven, de kleurrijke
 huizen en de eindeloze blauwe horizon. Het is een heel rustgevende plek met prachtige groene bomen, en het is er veel
 minder druk dan rond de haven. De toegang kost €5, maar we hadden niet genoeg tijd om binnen te gaan. Met slechts één uur
 in Porto Venere moesten we doorstappen om op tijd terug aan de haven te zijn.
@@ -90,8 +90,8 @@ bereiken, maar tot bij het kasteel raken lukt niet met een buggy.
 Porto Venere is ook het startpunt van een van de bekendste wandelroutes in de streek, het
 [Sentiero 1-pad](https://www.cinqueterre.eu.com/en/footpaths-cinqueterre#riomaggiore-portovenere:~:text=Hiking%20trail%20Riomaggiore%20%2D%20Portovenere ) richting
 Riomaggiore. De hele kustlijn hier is een paradijs voor wandelaars, met indrukwekkende klifpaden en panoramische
-zeezichten. Veel mensen zeggen dat dit stuk wandelen de beste manier is om Cinque Terre echt te beleven, voorbij de
-postkaartbeelden. We zouden hier ooit dolgraag terugkomen om de paden grondig te verkennen.
+uitzichten over zee. Veel mensen zeggen dat je Cinque Terre pas echt beleeft wanneer je dit stuk wandelt, los van de
+bekende postkaartbeelden. We zouden hier ooit dolgraag terugkomen om de paden grondig te verkennen.
 
 <div class="row">
   <img src="/assets/Italy/Pisa/20251016_110615_01.jpg" class="column-50" />
@@ -146,7 +146,7 @@ het te verkennen.
   <img src="/assets/Italy/Pisa/20251016_115724_01.jpg" class="column-50" />
 </div>
 
-In het volgende dorp, **Vernazza**, hadden we een pauze van twee uur ingepland, wat de perfecte hoeveelheid tijd bleek voor
+In het volgende dorp, **Vernazza**, hadden we een pauze van twee uur ingepland, wat precies genoeg tijd bleek voor
 een ontspannen lunchstop. Voor het eerst die dag moesten we ons niet haasten. We waren verbaasd hoe relatief vlak het
 gebied naast de haven was, heel anders dan in Riomaggiore. Het kleine natuurlijke haventje, de kleurrijke huizen en de
 vissersboten vormen opnieuw een schilderachtig plaatje.
@@ -161,7 +161,7 @@ terrassen van restaurants toegelaten is. Omdat er buiten verschillende mensen za
 nemen. Uiteindelijk bleek dat een goed idee, want zo zagen we duidelijk al het verse eten aan de toonbank liggen. Het was
 een eenvoudige zaak met versgemaakte bruschetta, focaccia, hartige rijsttaart en andere snelle hapjes, perfect voor een
 korte stop. Na het eten volgden we de **Via Roma**, de hoofdstraat die door het dorp loopt, en liepen we onder het
-stationsgebied door, dat compleet volgepakt stond met mensen. Vernazza is een van de drukste dorpen van Cinque Terre.
+station door, waar het zwart zag van het volk. Vernazza is een van de drukste dorpen van Cinque Terre.
 Toen we doorhadden dat we stilaan het centrum verlieten, sloegen we de kleinere Via Brigate Partigiane in en dwaalden we
 door piepkleine, smalle straatjes richting de **kerk van Sint-Margaretha van Antiochië**. De huizen stonden hier ongelooflijk
 dicht bij elkaar; je kon bijna twee gebouwen tegelijk aanraken door je armen te spreiden. Veel van die huizen waren met
@@ -188,9 +188,9 @@ bovenaan was verbluffend: de kustlijn strekte zich aan beide kanten spectaculair
 liggen. We spotten zelfs onze reisgenoten op een bankje voor de kerk.
 
 Het Doria-kasteel werd gebouwd door de machtige familie Doria om het dorp tegen piratenaanvallen te beschermen. Vandaag is
-de belangrijkste overgebleven structuur de cilindrische wachttoren (Torre Doria), het meest prominente en best bewaarde
+de belangrijkste overgebleven structuur de cilindrische wachttoren (Torre Doria), het opvallendste en best bewaarde
 deel van de vesting. De rest van het kasteel bestaat vooral uit stenen muren en gedeeltelijke verdedigingswerken in plaats
-van volledig bewaarde gebouwen, dus verwacht geen klassiek "kasteelinterieur" met ingerichte kamers. De site is niet
+van volledig bewaarde gebouwen, dus verwacht geen klassiek "kasteelinterieur" met ingerichte kamers. De plek is niet
 beroemd om uitgestrekte ruïnes, maar om haar spectaculaire panoramische ligging.
 Tijdens onze wandeling door het dorp hadden we eerder al terrasvormige wijngaarden op de omliggende heuvels opgemerkt, en
 vanaf de toren waren ze opnieuw duidelijk in de verte te zien. Die wijngaarden zijn typisch voor de streek en worden

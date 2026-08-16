@@ -1,8 +1,8 @@
 ---
 layout: post
 
-title:  "Avontuur op Madeira: dag 1 – uitdagend rijden en een eerste UNESCO-site"
-description: "Dag één op Madeira: de huurauto uit het steilste straatje van Funchal krijgen en de eerste UNESCO-site van het eiland bereiken."
+title:  "Avontuur op Madeira: dag 1 – uitdagend rijden en een eerste UNESCO-werelderfgoedsite"
+description: "Dag één op Madeira: de huurauto uit het steilste straatje van Funchal krijgen en de eerste UNESCO-werelderfgoedsite van het eiland bereiken."
 date:   2025-02-06 08:43:59
 author: Monika Suchoszek
 categories: reizen
@@ -17,18 +17,18 @@ gallery_items:
   - image: "/assets/Portugal/Madeira/Day1/DSC08621.JPG"
     gallery_image: "/assets/gallery/Day1.JPG"
     description: "Het traditionele terrassenlandbouwsysteem van Madeira, in het Portugees poios genoemd. Mensen legden deze terrassen aan op de steile hellingen om vlakke grond voor landbouw te creëren. Ze worden gestut door stenen muurtjes die bodemerosie helpen voorkomen en het beperkte land maximaal benutten. De beroemde levadas
-verdelen het water over deze terrassen. Dat zijn gewoon smalle waterkanaaltjes die als irrigatiesysteem dienen.
+verdelen het water over deze terrassen. Het gaat om smalle waterkanaaltjes die als irrigatiesysteem dienen.
 Druiven, bananen, zoete aardappelen, passievrucht, papaja en nog veel meer fruit en groenten worden met dit systeem geteeld."
 ---
 
 Na onze eerste nacht in [Funchal]({% post_url nl/2025-01-25-FunchalNL %}) waren we klaar om Madeira met de auto te
 verkennen! Toen ik echter zag waar onze huurauto geparkeerd stond (in een van de steilste straatjes bij ons appartement),
-had ik even een moment van paniek. Zou ik daar überhaupt uit kunnen rijden? Gelukkig lukte het, maar alleen omdat het
-eenrichtingsverkeer was en er genoeg ruimte voor de auto was om gewoon aan het stuur te draaien en meteen uit de
+had ik even een paniekmoment. Zou ik daar überhaupt uit kunnen rijden? Gelukkig lukte het, maar alleen omdat het
+eenrichtingsverkeer was en er genoeg ruimte voor de auto was om gewoon het stuur te draaien en meteen uit de
 parkeerplek te rijden.
 
-Ik had heel wat verhalen gelezen over rijden op Madeira: hoe steil de straten kunnen zijn, de onverwachte scherpe
-bochten, grote bussen tegenkomen op weg naar uitkijkpunten, en de ongelooflijk moeilijke parkeersituatie in Funchal. Wat
+Ik had heel wat verhalen gelezen over rijden op Madeira: over de steile straten, de onverwachte scherpe bochten, de grote
+bussen die je op weg naar uitkijkpunten tegenkomt en de ongelooflijk moeilijke parkeersituatie in Funchal. Wat
 ik niet verwachtte, was dat het felle zonlicht de lastigste weersomstandigheid zou zijn. Zeker bij het uitrijden van een
 tunnel kan de lage winterzon bijzonder verblindend zijn. Altijd een zonnebril bij de hand hebben is een must.
 
@@ -42,10 +42,10 @@ Een paar uitkijkpunten waren minder populair en die hadden we zowat voor onszelf
 
 **Cabo Girão Skywalk**: de naam "Skywalk" is misschien wat misleidend, want het is eerder een uitkijkplatform dan een
 echte skywalk-ervaring. Maar het is wel de hoogste zeeklif van Europa! Wanneer je op het platform met de glazen vloer
-staat, hang je 580 meter boven de oceaan. Jammer genoeg is die glazen vloer erg bekrast, waardoor je er niet goed
+staat, bevind je je 580 meter boven de oceaan. Jammer genoeg is die glazen vloer erg bekrast, waardoor je er niet goed
 doorheen ziet; misschien was ik daarom niet bang om erop te stappen. Op een andere dag wandelden we op de Levada Nova, en
-die bezorgde me wel een paar erg stresserende momenten toen we heel blootgestelde steile hellingen zonder enige
-beveiliging passeerden; dat was meer een skywalk-ervaring :) Vanaf het uitkijkpunt zie je de kustlijn, de Fajãs de Cabo
+die bezorgde me wel een paar erg stresserende momenten toen we langs zeer steile, onbeschutte hellingen zonder enige
+beveiliging liepen; dat voelde meer als een skywalk-ervaring :) Vanaf het uitkijkpunt zie je de kustlijn, de Fajãs de Cabo
 Girão (de kleine bewerkte stukjes grond aan de voet van de klif, zie foto hieronder), Câmara de Lobos en zelfs Funchal in
 de verte.
 
@@ -63,7 +63,7 @@ lichtstralen delen van de heuvels uitlichten, wat een spectaculair tafereel ople
   <img src="/assets/Portugal/Madeira/Day1/DSC08632.JPG" class="column-50" />
 </div>
 
-We merkten het traditionele terrassenlandbouwsysteem van Madeira op, "poios" genoemd. Mensen legden deze terrassen aan op
+We zagen het traditionele terrassenlandbouwsysteem van Madeira, "poios" genoemd. Mensen legden deze terrassen aan op
 de steile hellingen om vlakke grond voor landbouw te creëren. Ze worden gestut door stenen muurtjes, die bodemerosie
 helpen voorkomen en het beperkte land maximaal benutten. Ik zag hetzelfde systeem in het noorden van Portugal. De
 beroemde levadas verdelen het water over deze terrassen: smalle waterkanaaltjes die als irrigatiesysteem dienen. Druiven,
@@ -92,13 +92,13 @@ raast. Dat kan zelfs tot tijdelijke wegafsluitingen leiden.
 **Praia do Seixal (zwart zandstrand)**: Google Maps gaf aan dat de weg naar de hoofdparking afgesloten was, dus we
 parkeerden in de Estrada Santo Antão, waar we snel borden vonden naar de steile trappen die naar het strand leiden. Op
 weg naar beneden hielden we halt bij Mercearia Amanhecer en kochten we wat gebak om op het strand op te eten. Wat ik niet
-verwacht had, was het pure aantal kakkerlakken. Ik heb er in mijn leven niet veel gezien, maar twee in Azië, en dit pad
+verwacht had, was het enorme aantal kakkerlakken. Ik heb er in mijn leven niet veel gezien, amper twee in Azië, en dit pad
 naar het strand lag vol dode exemplaren, vooral goed zichtbaar terwijl je de trappen weer op wandelt. Ik weet dat het een
-van de meest voorkomende insecten op Madeira is, maar ik kan niet goed om met snel bewegende, knisperende beestjes.
+van de meest voorkomende insecten op Madeira is, maar ik kan niet goed om met snelle beestjes die kraken als je erop trapt.
 
 Mijn eerste indruk van het strand was er een van teleurstelling: het zag er vuil en klein uit, en helemaal niet zoals op
 de foto's online. Ik kon toch nog een paar mooie foto's maken, maar alles hangt af van het perspectief en van filters die
-deze plek op het internet veel gaver doen lijken. Dat gezegd, er waren maar heel weinig plekken op Madeira die er in het
+deze plek op het internet veel gaver doen lijken. Toch waren er maar heel weinig plekken op Madeira die er in het
 echt slechter uitzagen dan op foto's.
 
 <img src="/assets/Portugal/Madeira/Day1/DSC08649.JPG" />
@@ -125,7 +125,7 @@ stoppen.
 <img src="/assets/Portugal/Madeira/Day1/20241028_122535_01.jpg" />
 
 **Restaurant Las Caraibas**: hier aten we terwijl we onze schoenen wat lieten drogen voor we naar het Fanalbos trokken.
-De ligging is schitterend, met zeezicht en mooie golven. De sfeer is rustig, met een gezellig terras. Het was de eerste
+De ligging is schitterend, met zeezicht en indrukwekkende golven. De sfeer is rustig, met een gezellig terras. Het was de eerste
 keer in mijn leven dat ik at terwijl ik zulke fantastische golven bewonderde. Het personeel was heel vriendelijk, het
 eten was uitstekend (we probeerden de burger, de kip en de passievruchtcheesecake, een must!) en de prijzen waren
 redelijk.
@@ -142,12 +142,12 @@ teken voor mist is. Toen we aankwamen, was er geen mist en voelde ik me teleurge
 
 <img src="/assets/Portugal/Madeira/Day1/DSC08695.JPG" />
 
-Maar na zo'n 15 minuten wandelen begon de mist binnen te rollen. Het voelde alsof de wolken ons naderden, en de wind
+Maar na zo'n 15 minuten wandelen kwam de mist opzetten. Het voelde alsof de wolken ons naderden, en de wind
 wakkerde aan.
 Toen we bij een nabijgelegen heuvel kwamen, openden de wolken zich plots en onthulden ze een schitterend zicht op de
 oceaan! Ik was compleet verrast; we hadden zo lang gereden dat ik nooit verwacht had van daar de oceaan te zien. De
-verwrongen, met mos begroeide bomen leveren surrealistische foto's op, en je ziet er veel mensen fotograferen in speciale
-outfits of zelfs in trouwjurk. Er graasden ook volop koeien in de mistige weides. Sommige bomen zijn meer dan 500 jaar
+verwrongen, met mos begroeide bomen leveren surrealistische foto's op, en je ziet er veel mensen fotograferen in bijzondere
+outfits of zelfs in trouwjurken. Er graasden ook volop koeien in de mistige weides. Sommige bomen zijn meer dan 500 jaar
 oud! Het zijn groenblijvende bomen, dus Fanal oogt het hele jaar door weelderig.
 
 <img src="/assets/Portugal/Madeira/Day1/DSC08731.JPG" />
@@ -168,22 +168,22 @@ want ze groeien op hellingen en bergkammen, iets wat we zelf ondervonden. De kou
   <img src="/assets/Portugal/Madeira/Day1/20241028_153842_01.jpg" class="column-50" />
 </div>
 
-Onze eerste dag op Madeira was een intense mix van opwinding en uitdagingen, van het navigeren over de steile wegen van
+Onze eerste dag op Madeira was een intense mix van opwinding en uitdagingen, van het rijden op de steile wegen van
 het eiland en de onverwachte rijomstandigheden tot het ontdekken van adembenemende uitkijkpunten en natuurwonderen.
-Ondanks een paar stresserende momenten, zoals bijna onze schoenen verliezen aan een verdwaalde golf op het strand van
+Ondanks een paar stresserende momenten, zoals onze schoenen bijna verliezen aan een onverwachte golf op het strand van
 Seixal, waren we al helemaal in de ban van de wilde schoonheid van Madeira. En dit was nog maar het begin! Met nog vier
-dagen voor de boeg wachtten er ons nog meer ongelooflijke avonturen. In de volgende post nemen we je mee op twee compleet
-verschillende wandelingen: de ruige, kale landschappen van de Drakenstaart en de weelderige, kustpracht van de Vereda do
+dagen voor de boeg wachtten er ons nog meer fantastische avonturen. In de volgende post nemen we je mee op twee compleet
+verschillende wandelingen: de ruige, kale landschappen van de Drakenstaart en de weelderige schoonheid langs de Vereda do
 Larano.
 
 ## Praktische info:
 
 We probeerden op Madeira de hoofdwegen te nemen, die de verschillende delen van het eiland verbinden en ook van zuid naar
-noord lopen, om niet vast te raken op erg smalle en moeilijkere wegen. Ook al legden we meer kilometers af, het was al bij
-al sneller dan de kleinere wegen nemen. Het grote aantal tunnels maakt een enorm verschil!
+noord lopen, om niet op erg smalle en moeilijkere wegen te belanden. Ook al legden we meer kilometers af, het was toch
+sneller dan de kleinere wegen nemen. Het grote aantal tunnels maakt een enorm verschil!
 
 We waren getuige van een ongeval dat vlak voor ons op de snelweg gebeurde. De op- en afritten zijn ongelooflijk kort, dus
-wanneer je de snelweg opdraait, kan je niet tot het einde van de strook doorrijden zoals wij gewend zijn. In de plaats
+wanneer je de snelweg opdraait, kan je niet tot het einde van de strook doorrijden zoals wij gewend zijn. In plaats
 daarvan moet je vaak halverwege stoppen, omdat het tweede deel van die strook ook de afrit is voor auto's die de snelweg
 verlaten; net daar gebeuren de ongevallen.
 
@@ -193,14 +193,14 @@ betalen. Een gele lijn betekent parkeerverbod en een witte lijn betekent gratis 
 
 * Cabo Girão Skywalk
 Ligt vlak bij de hoofdweg ER101 richting Funchal. De toegang kost €2, online of aan de ticketautomaat te betalen (cash of
-kaart). De eigen parking is heel klein, en een deel ervan is voorbehouden voor bussen, dus wellicht moet je langs de weg
+kaart). De speciaal voorziene parking is heel klein, en een deel ervan is voorbehouden voor bussen, dus wellicht moet je langs de weg
 naar het Santuário de Nossa Senhora de Fátima parkeren. Het was al erg druk toen we er kort na 10 uur aankwamen. Gelukkig
 was dit het enige uitkijkpunt tijdens ons verblijf dat overdreven druk aanvoelde! Dit was de drukste plek die we
 bezochten. Het uitkijkpunt is rolstoeltoegankelijk.
 
 * Capela de Nossa Senhora de Fátima
 Er is parkeergelegenheid bij de trappen, en het ligt dicht bij de hoofdweg. Het is een fijne stop tussen Seixal en
-Funchal, en omdat het minder toeristisch is dan andere uitkijkpunten, beleef je het er rustig.
+Funchal, en omdat het minder toeristisch is dan andere uitkijkpunten, kan je er in alle rust van genieten.
 
 * Miradouro Véu da Noiva
 Ligt pal naast de hoofdweg ER101, net na de tunnel wanneer je van São Vicente richting Seixal rijdt. Er zijn twee
@@ -214,15 +214,15 @@ restaurant parkeren. Een hoofdgerecht met een drankje kwam net onder €20 per p
 Adres: Rua do Porto do Laje 15, Fajã da Parreira 9270-122 Seixal PMZ, 9270-120 Seixal, Portugal
 
 * Fanalbos. We bereikten het Fanalbos vanuit Seixal, via Ribeira da Janela. Naast het Fanalbos ligt een enorme parking,
-dus we vonden zonder moeite een plaats. Aanvankelijk was het plan langs dezelfde weg terug te keren om zigzagwegen te
-vermijden, maar omdat ik me comfortabeler voelde achter het stuur, namen we de ER209 naar Funchal. Op de hoogvlakte
+dus we vonden zonder moeite een plaats. Aanvankelijk was het plan langs dezelfde weg terug te keren om de bochtige wegen te
+vermijden, maar omdat ik me zekerder voelde achter het stuur, namen we de ER209 naar Funchal. Op de hoogvlakte
 kwamen we meer mist tegen, maar gelukkig heel weinig auto's. Zodra de weg begon af te dalen, kwamen er meer en meer
-scherpe bochten, brak de zon door en werden de zeezichten schitterend! We genoten enorm van deze rit, behalve van de
-laatste paar kilometer over de ER222 voor je op de hoofdweg naar Funchal komt (erg druk, woonwijk).
+scherpe bochten, brak de zon door en werden de uitzichten op zee schitterend! We genoten enorm van deze rit, behalve van de
+laatste paar kilometer over de ER222 voor je op de hoofdweg naar Funchal komt (een erg drukke woonwijk).
 Zelfs in de zomer kan het er fris zijn door de hoogte (~1.150 m). Het was 12 °C toen wij er waren, dus een fleece en een
 waterdichte jas kwamen goed van pas. Goede schoenen zijn een must, want sommige paden kunnen modderig zijn. Wij kwamen na
 twee regendagen, en het was er ontzettend nat; we hadden spijt dat we geen degelijke waterdichte schoenen bij hadden.
-Omdat onze schoenen al doorweekt waren door ons kleine ongelukje op het strand van Seixal, maakte hier wandelen niet veel
+Omdat onze schoenen al doorweekt waren door ons kleine ongelukje op het strand van Seixal, maakte het hier niet veel
 verschil meer. Op veel plekken stond het water echter zo diep dat er kleine meertjes langs de paden waren ontstaan,
 waardoor er niet door te lopen viel. Het gras rond de paden voelde als een spons.
 Er zijn geen winkels of restaurants in de buurt, dus neem je eigen versnaperingen mee. Er was een toiletgebouw, maar dat
@@ -231,7 +231,7 @@ Onze wandeling was 3,5 km lang.
 
 <img src="/assets/Portugal/Madeira/Day1/Screenshot 2025-01-26 203915.png" />
 
-Andere opties in deze omgeving van het Fanalbos die wij niet deden:
+Andere opties in deze omgeving van het Fanalbos die wij niet uitprobeerden:
 
 [Vereda do Fanal PR13](https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-13-vereda-do-fanal/) –
 een mooie wandeling vanaf Assobiadores (10,8 km, matig), maar die eindigt in Fanal en is geen lus rond het Fanalbos.

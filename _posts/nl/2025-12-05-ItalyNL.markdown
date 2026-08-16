@@ -2,11 +2,11 @@
 layout: post
 
 title:  "Met de trein langs de Italiaanse kust: Pisa, Cinque Terre en Massa"
-description: "Invliegen en meteen verder met de trein: hoe we de Italiaanse kust tussen Pisa, Cinque Terre en Massa zonder auto verkenden."
+description: "Met het vliegtuig naar Italië en vanaf de luchthaven meteen verder met de trein: hoe we zonder auto langs de kust reisden tussen Pisa, Cinque Terre en Massa."
 date:   2025-12-05 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Italie
+tags:	Italië
 cover:  "/assets/Italy/Pisa/20251025_165505.jpg"
 thumbnail:  "/assets/thumbnails/Italy.JPG"
 post_id: italy_overview
@@ -21,8 +21,8 @@ gallery_items:
 beschermen tegen weer en beschadiging. Vandaag worden de originelen in het museum bewaard, terwijl op de gevel kopieën staan."
 ---
 
-Deze reis was een van mijn favoriete manieren van reizen: met het vliegtuig een land invliegen en de reis dan meteen vanaf
-de luchthaven met de trein verderzetten. Het is een ongelooflijk handige manier om met kinderen te reizen, zeker wanneer de
+Deze reis was een van mijn favoriete manieren van reizen: naar een land vliegen en vanaf de luchthaven meteen verderreizen
+met de trein. Het is een ongelooflijk handige manier om met kinderen te reizen, zeker wanneer de
 treinverbindingen goed zijn en de afstanden redelijk blijven. Door langs de kust met de trein te reizen kan je in meerdere
 steden halt houden zonder een auto te moeten huren, wat de vervoerskosten flink drukt. Het is ook ideaal als je reist met
 kinderen die niet graag lang in de auto zitten, of als je gewoon wil ontspannen en je vakantie niet achter het stuur wil
@@ -44,7 +44,7 @@ en makkelijk te voet af te leggen is, voelde de PisaMover erg duur aan.
 Op onze terugreis besloten we te kijken of we in plaats daarvan naar de luchthaven konden wandelen. De afstand vanaf het
 stadscentrum was minder dan 1,6 km, en omdat we niet veel bagage hadden, waagden we het erop. Het bleek een uitstekende
 beslissing: de wandeling was veilig, makkelijk en duurde minder dan 30 minuten. Onderweg passeerden we zelfs een paar
-koffiebars waar we nog gebak meepikten voor we aan de luchthaven kwamen.
+cafés waar we nog wat gebak kochten voor we aan de luchthaven kwamen.
 
 Vanaf het hoofdstation van Pisa zetten we onze reis verder naar La Spezia, waar we de eerste 2 nachten bleven. We namen de
 regionale treinen van [Trenitalia](https://www.trenitalia.com/en.html). Daarna trokken we naar Marina di Massa voor de rest
@@ -59,12 +59,12 @@ Stadsbussen in Massa
 Totaal uitgegeven: €25,70  
 •	Ticketprijs: €1,70 per rit  
 •	Geldig gedurende 70 minuten na activering  
-•	Ticketten via een app mogelijk  
+•	Tickets kopen via een app is mogelijk  
 
 We installeerden de app van de lokale busmaatschappij, maakten een account aan en kochten de tickets rechtstreeks met een
 kredietkaart. Je moet eraan denken je ticket te activeren voor je opstapt, wat wat verwarrend kan zijn omdat de app niet
-volledig naar het Engels vertaald is. De eerste keer vroeg ik een medereiziger om bevestiging. Daarna was het heel
-eenvoudig in gebruik. Je kan meerdere tickets tegelijk activeren, wat erg handig is als je in groep reist. Kinderen kleiner
+volledig naar het Engels vertaald is. De eerste keer vroeg ik een medereiziger of ik het goed deed. Daarna was de app heel
+eenvoudig te gebruiken. Je kan meerdere tickets tegelijk activeren, wat erg handig is als je in groep reist. Kinderen kleiner
 dan 1 meter reizen gratis. Onze dochter (104 cm) had geen ticket, en tijdens een controle zeiden ze ons dat dat in orde
 was. In de praktijk lijkt die regel moeilijk af te dwingen. We namen lijn L60 van het station van Massa tot de halte
 'Marina di Massa Piazza Betti', op een paar minuten wandelen van ons appartement.
@@ -74,12 +74,12 @@ was. In de praktijk lijkt die regel moeilijk af te dwingen. We namen lijn L60 va
 In plaats van een dagticket voor de veerboot te kopen, kozen we voor een enkele reis met tussenstops en keerden we met de
 trein terug. Zo konden we meer tijd in Monterosso doorbrengen en vermeden we een erg lange terugvaart (tot 2 uur). De boot
 was in het begin rustig en stil, maar al in Riomaggiore werd het er stampvol. Op een bepaald moment zat de veerboot zo vol
-dat we ons in twee groepen moesten opsplitsen omdat er geen zitplaatsen meer waren. Aan boord waren er enkel koude
+dat we ons in twee groepen moesten opsplitsen omdat er geen zitplaatsen meer waren. Aan boord waren enkel koude
 drankjes en snacks, maar de toiletten kwamen erg goed van pas met een kind. Het weer was prachtig en zonnig, al waaide het
 stevig, maar voor oktober was het nog heel aangenaam. We schrokken van de drukte aan het station van Riomaggiore. De
-veerboot voelde al druk aan, maar het aantal mensen op het perron was heftig. We namen na 17 uur de trein terug vanuit
+veerboot voelde al druk aan, maar op het perron stond een enorme mensenmassa. We namen na 17 uur de trein terug vanuit
 Monterosso. De trein zat vanaf Vernazza al vol, dus in Monterosso opstappen was net een voordeel: we vonden makkelijk
-zitplaatsen en konden met de buggy binnen. Eén nadeel van de Italiaanse treinen zijn de toiletten. Er zijn er meestal maar
+zitplaatsen en konden met de buggy binnen. De toiletten zijn wel een nadeel van de Italiaanse treinen. Er zijn er meestal maar
 één of twee per trein, en vaak is er één defect. Wanneer de trein overvol zit, is het erg lastig om met een kind bij een
 werkend toilet te raken.
 
@@ -113,8 +113,8 @@ We kochten al onze tickets aan de automaten. Die waren de eerste keer niet erg i
 kon ik alle stappen zowat met mijn ogen dicht doorlopen. De Cinque Terre Express heeft drie prijscategorieën, afhankelijk
 van de dag waarop je reist. Het prijsoverzicht en de gedetailleerde dienstregeling vind je op de
 [website](https://www.cinqueterre.eu.com/en/cinque-terre-timetable). Voor ons was het laagseizoen, dus categorie A (groen):
-volwassenen €5, kinderen €2,50. Ben je van plan om tijdens je verblijf voortdurend tussen de dorpjes op en af de trein te
-springen, dan is de Cinque Terre Card een prima keuze. Die geeft je onbeperkt reizen op de Cinque Terre Express-treinen
+volwassenen €5, kinderen €2,50. Ben je van plan om tijdens je uitstap vaak in en uit te stappen om de dorpjes te bezoeken,
+dan is de Cinque Terre Card een prima keuze. Daarmee reis je onbeperkt met de Cinque Terre Express-treinen
 tussen La Spezia, Cinque Terre en Levanto. Bovendien geeft de kaart ook toegang tot de betalende wandelpaden tussen
 Monterosso en Corniglia. Wij maakten er geen gebruik van, omdat we de kustlijn ook vanaf het water wilden zien.
 
@@ -126,15 +126,15 @@ Zelf inchecken, heel comfortabel en goed uitgerust. Dicht bij het station gelege
 stadscentrum. Het was zo'n 2 km stappen naar de haven, maar de weg liep door de belangrijkste winkelstraat, wat het
 aangenaam maakte. Een grote supermarkt vlakbij (Coop) en een rustige straat, een echte aanrader.  
 Marina di Massa - geboekt via Booking.com, pal naast het strand.
-Het meubilair was eenvoudiger, maar we hadden een heerlijke buitenruimte en een zwembad op het dak. De keuken was heel
-minimaal uitgerust, prima voor ontbijt en tussendoortjes, maar niet om te koken. De zaak werd gerund door een lieve
+Het meubilair was eenvoudiger, maar we hadden een heerlijke buitenruimte en een zwembad op het dak. De keuken was erg
+karig uitgerust, prima voor ontbijt en tussendoortjes, maar niet om te koken. De accommodatie werd uitgebaat door een lieve
 familie die altijd klaarstond om te helpen. Er lag heel wat speelgoed in de tuin, maar vooral voor kinderen tot 3 jaar
 (onze dochter gebruikte vaak de schommel).
 Gemiddelde kostprijs: €200 per nacht
 
 
- - [La Spezia](https://www.airbnb.com/rooms/1424523201571350734?source_impression_id=p3_1769291588_P3kCjfZRNbS32n36) zicht vanuit het raam op de foto hieronder links  
- - [Marina Di Massa](https://www.residencestella.com/) zicht vanaf het dakzwembad op de foto hieronder rechts  
+ - [La Spezia](https://www.airbnb.com/rooms/1424523201571350734?source_impression_id=p3_1769291588_P3kCjfZRNbS32n36): het uitzicht vanuit het raam staat op de foto linksonder  
+ - [Marina Di Massa](https://www.residencestella.com/): het uitzicht vanaf het dakzwembad staat op de foto rechtsonder  
 
 <div class="row">
   <img src="/assets/Italy/Pisa/IMG-20251017-WA0035_01.jpg" class="column-50" />
@@ -143,10 +143,10 @@ Gemiddelde kostprijs: €200 per nacht
 
 ## Eten & uit eten gaan
 
-Omdat we dol zijn op Italiaans eten, gingen we naar geen enkel ander type restaurant. Meestal bestelden we primi (pasta,
-risotto, gnocchi), waar we het meest van houden. Secondo (vlees, vis, zeevruchten) sprak ons minder aan, en allebei
-bestellen zou meestal te veel eten zijn, zeker omdat we altijd plaats hielden voor ijs. Er werd altijd een coperto
-aangerekend (€1,50–€2,50 per persoon). We kozen budgetrestaurants met heel goede recensies.
+Omdat we dol zijn op Italiaans eten, gingen we alleen naar Italiaanse restaurants. Meestal bestelden we primi (pasta,
+risotto, gnocchi), want die hebben onze voorkeur. Secondo (vlees, vis, zeevruchten) sprak ons minder aan, en zowel een primo
+als een secondo bestellen zou meestal te veel zijn, zeker omdat we altijd plaats hielden voor ijs. Er werd altijd een coperto
+aangerekend (€1,50–€2,50 per persoon). We kozen betaalbare restaurants met heel goede recensies.
 
 <div class="row">
   <img src="/assets/Italy/Pisa/20251020_123628_01.jpg" class="column-50" />
@@ -195,6 +195,6 @@ eind door de trein stappen om bij een werkend toilet te raken, en wanneer de tre
 
 ## Slotgedachten en aanbevelingen
 
-Dit was een heel ontspannende reis met perfect oktoberweer, uitstekend eten en een mooie mix van bekende en minder
+Dit was een heel ontspannende reis met ideaal weer voor oktober, uitstekend eten en een mooie mix van bekende en minder
 toeristische bestemmingen. Cinque Terre was adembenemend, Pisa verrassend aangenaam en Massa een rustige uitvalsbasis aan
 zee. Met de trein langs de Italiaanse kust reizen werkte perfect voor ons, en we zouden het zo weer doen.

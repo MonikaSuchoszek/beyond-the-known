@@ -17,21 +17,21 @@ gallery_items:
   - image: "/assets/Portugal/Porto/20241205_162405_01.jpg"
     gallery_image: "/assets/gallery/Porto.JPG"
     description: "Oude tramstellen, symbool van de geschiedenis en de charme van de stad. Deze historische trams worden
-uitgebaat door de STCP (Sociedade de Transportes Colectivos do Porto) en zijn een van de manieren om de straten te
+uitgebaat door de STCP (Sociedade de Transportes Colectivos do Porto) en bieden een sfeervolle manier om de straten te
 verkennen. Er rijden nog maar 3 lijnen door de schilderachtigste buurten van Porto. De trams zijn prachtig gerestaureerd
-en behielden hun originele houten onderdelen en klassieke vormgeving."
+en hebben hun originele houten onderdelen en klassieke vormgeving behouden."
 ---
 
-Mijn reis begon met een ochtendvlucht naar Porto. Met 's avonds een trein naar Braga gepland had ik de perfecte
+Mijn reis begon met een ochtendvlucht naar Porto. Omdat mijn trein naar Braga pas 's avonds vertrok, had ik de perfecte
 gelegenheid om de dag door te brengen in het historische hart van Porto. Na een korte metrorit van 30 minuten kwam ik aan
-in het station Bolhão. Toen ik naar buiten stapte, verwelkomde een lichte motregen me, waardoor mijn eerste opdracht een
-zoektocht naar een paraplu werd. Gelukkig bood ALE-HOP, de favoriete winkel van mijn dochter, redding met een vrolijke
+in het station Bolhão. Buiten werd ik begroet door lichte motregen, dus mijn eerste opdracht werd een zoektocht naar een
+paraplu. Gelukkig bood ALE-HOP, de favoriete winkel van mijn dochter, redding met een vrolijke
 keuze aan paraplu's.
 Mijn volgende halte was de nabijgelegen Mercado do Bolhão, want mijn maag begon te knorren en deze plek heeft een dak,
 wat bij zulk onaangenaam weer bijzonder goed uitkwam. Deze markt begon als een openluchtmarkt, maar in 1914 opende het
-huidige neoclassicistische gebouw. De plek ging in 2022 weer open na een grondige renovatie, en je ziet de veranderingen
-duidelijk: modern, goed georganiseerd en proper. Er is een glazen dak, zodat het natuurlijke licht de standhouders
-bereikt die verse bloemen, groenten, fruit, vlees, kaas, olijven en zeevruchten verkopen. Kraampjes met traditioneel
+huidige neoclassicistische gebouw. Na een grondige renovatie ging de markt in 2022 weer open, en het resultaat is duidelijk:
+ze is modern, goed georganiseerd en proper. Een glazen dak laat volop daglicht binnen bij de standhouders, die verse
+bloemen, groenten, fruit, vlees, kaas, olijven en zeevruchten verkopen. Kraampjes met traditioneel
 handwerk geven de markt extra charme.
 
 <img src="/assets/Portugal/Porto/20241205_133924_01.jpg" />
@@ -40,12 +40,12 @@ handwerk geven de markt extra charme.
 Op de markt vind je ook authentieke Portugese gerechten, van francesinha (een broodje uit Porto) tot vers gebak zoals
 pastéis de nata. Deze iconische Portugese gebakjes ontstonden begin 19e eeuw in het Mosteiro dos Jerónimos in Belém,
 Lissabon, waar katholieke monniken het eerste recept ontwikkelden. Ik had het genoegen het klooster en de Fábrica de
-Pastéis de Belém, de geboorteplek van deze gebakjes, te bezoeken [tijdens onze eerste reis naar Lissabon]({% post_url en/2022-03-20-Lisbon-Portugal %}).
-Dit is zonder twijfel mijn favoriete gebak in Portugal, en ik zou er nooit op uitgekeken raken.
+Pastéis de Belém, de bakermat van deze gebakjes, te bezoeken [tijdens onze eerste reis naar Lissabon]({% post_url en/2022-03-20-Lisbon-Portugal %}).
+Dit zijn zonder twijfel mijn favoriete gebakjes in Portugal, en ik zou ze nooit beu worden.
 Het is heel interessant om te weten waarom monniken dit gebak met veel eierdooiers bedachten. Monniken en nonnen
 gebruikten grote hoeveelheden eiwit om kleding te stijven, zoals hun habijten. De overgebleven dooiers kregen creatief
 een tweede leven in desserts. Briljant, toch?
-Het korstdeeg hoort echt krokant te zijn, je moet het duidelijk horen wanneer je een stuk afbijt, en de rijke, romige
+De korst hoort echt krokant te zijn: je moet hem duidelijk horen kraken wanneer je een stuk afbijt. De rijke, romige
 vulling zorgt voor het perfecte contrast in texturen en smaken. Ze zijn op hun best warm en vers. Ik proefde er een in de
 beroemde bakkerij Manteigaria, naast de markt, en die stelde niet teleur.
 
@@ -58,7 +58,7 @@ Vlakbij is de Capela das Almas (Zielenkapel) zeker een korte stop waard. De unie
 en witte azulejo-tegels, is van ver te zien. Die schitterende keramische tegels beelden scènes uit het leven van heiligen
 uit en werden in 1929 aan de kapel toegevoegd. De kapel staat in de belangrijkste winkelstraat van Porto, de Rua de Santa
 Catarina, en de blauwe azulejos bedekken een indrukwekkende oppervlakte van zo'n 360 vierkante meter. Deze kapel is een
-perfect voorbeeld van mooie en unieke architectuur die een bezoek verdient wanneer je de bruisende Bolhão-buurt verkent.
+prachtig voorbeeld van unieke architectuur en mag je niet overslaan wanneer je de bruisende Bolhão-buurt verkent.
 
 <img src="/assets/Portugal/Porto/20241205_140835_01.jpg" />
 
@@ -86,7 +86,7 @@ dat de zichten op de rivier en de omliggende groene heuvels een magische toets g
 </div>
 
 Het Mosteiro da Serra do Pilar, een 16e-eeuws klooster en UNESCO-werelderfgoed, biedt een van de mooiste panoramische
-uitkijkpunten over Porto en de Douro. Na het uitkijkpunt bij het klooster zette ik mijn tocht voort in de wijk Gaia, via
+uitkijkpunten over Porto en de Douro. Na mijn bezoek aan het uitkijkpunt bij het klooster zette ik mijn tocht voort in de wijk Gaia, via
 de Jardim do Morro. Gaia staat bekend om zijn portwijnhuizen, waar bezoekers meer leren over de productie van deze
 iconische wijn en kunnen proeven. Een kabelbaan verbindt de oever met het hoger gelegen deel van Gaia en biedt mooie
 uitzichten over de stad en de rivier beneden. Ik koos ervoor om de smalle straatjes onder de kabelbaan af te dalen en de
@@ -102,18 +102,18 @@ leeg te staan. Zulke historische panden restaureren kan duur zijn, en eigenaars 
 renoveren, zeker wanneer er ingewikkelde eigendomsverhoudingen of juridische geschillen bij komen kijken. Dat probleem
 speelt ook in Funchal, op Madeira.
 
-Gelukkig heeft de opkomst van het toerisme hernieuwde interesse gewekt om Gaia nieuw leven in te blazen. Projecten zoals
+Gelukkig heeft de opkomst van het toerisme de belangstelling voor de heropleving van Gaia aangewakkerd. Projecten zoals
 de WOW-wijk (World of Wine) hebben verlaten ruimtes omgetoverd tot bruisende culturele en recreatieve bestemmingen. Zoals
 je op de foto hieronder ziet, zijn sommige daken nog ingestort, maar er wordt volop gewerkt om de buurt te herstellen en
-haar historische charme nieuw leven in te blazen.
+haar historische charme terug te brengen.
 
 <img src="/assets/Portugal/Porto/20241205_152535_01.jpg" />
 
-Station Porto São Bento is nog zo'n plek waar je schitterend azulejo-tegelwerk kan bewonderen, ruim 20.000 azulejo-tegels!
+In station Porto São Bento kan je nog meer schitterend azulejo-tegelwerk bewonderen: ruim 20.000 azulejo-tegels!
 Het is niet alleen een vervoersknooppunt, maar ook een cultureel en architecturaal pareltje dat talloze bezoekers trekt.
 Het ligt heel handig, pal in het hart van Porto. Op de muren herken je taferelen uit de geschiedenis van Portugal en uit
 het traditionele plattelandsleven, met feesten, markten en gebruiken. De naam van het station gaat terug op een vroeger
-benedictijnenklooster. Ondanks zijn historische charme is São Bento een volwaardig werkend station, met regionale en
+benedictijnenklooster. Ondanks zijn historische charme is São Bento nog altijd volop in gebruik, met regionale en
 intercitytreinen, waaronder de trein naar Braga.
 
 <div class="row">
@@ -121,30 +121,30 @@ intercitytreinen, waaronder de trein naar Braga.
   <img src="/assets/Portugal/Porto/20241205_145300_01.jpg" class="column-50" />
 </div>
 
-De Jardins do Palácio de Cristal, een goed onderhouden park met fonteinen en beelden, waren de perfecte bestemming voor
+De Jardins do Palácio de Cristal vormen een goed onderhouden park met fonteinen en beelden, en waren de perfecte bestemming voor
 een ontspannen wandeling. Toch zou ik deze plek niet aanraden als je maar 6 uur hebt om de stad te bezoeken en het weer
 niet meezit :) In het hart van de tuinen staat het Pavilhão Rosa Mota, ook bekend als de Super Bock Arena. Deze
-polyvalente zaal ontvangt concerten, sportevenementen en tentoonstellingen. Ik zag er een paar pauwen, maar die zaten
+polyvalente zaal doet dienst als locatie voor concerten, sportevenementen en tentoonstellingen. Ik zag er een paar pauwen, maar die zaten
 allemaal onder het dak van het paviljoen te schuilen. De tuinen werden oorspronkelijk aangelegd rond het Kristallen
 Paleis, dat in 1951 werd afgebroken, maar het park behield dezelfde naam.
 
 <img src="/assets/Portugal/Porto/20241205_164132_01.jpg" />
 
 Op weg naar het park zag ik de oude tramstellen, symbool van de geschiedenis en de charme van de stad. Deze historische
-trams worden uitgebaat door de STCP (Sociedade de Transportes Colectivos do Porto) en zijn een van de manieren om de
+trams worden uitgebaat door de STCP (Sociedade de Transportes Colectivos do Porto) en bieden een sfeervolle manier om de
 straten te verkennen. Er rijden nog maar 3 lijnen door de schilderachtigste buurten van Porto. De trams zijn prachtig
-gerestaureerd en behielden hun originele houten onderdelen en klassieke vormgeving. Ben je geïnteresseerd in de
+gerestaureerd en hebben hun originele houten onderdelen en klassieke vormgeving behouden. Ben je geïnteresseerd in de
 geschiedenis van het tramnet van Porto, bezoek dan het Museu do Carro Eléctrico (trammuseum) met zijn collectie oude
 tramstellen.
 
 <img src="/assets/Portugal/Porto/20241205_162405_01.jpg" />
 
-Het begon al donker te worden toen ik de kerstmarkt in de Jardim da Cordoaria passeerde. Klein, maar toch een aangename
-plek om rond te lopen. In de straatjes ernaast hing de rokerige geur van geroosterde kastanjes, verkocht door heel wat
+Het begon al donker te worden toen ik de kerstmarkt in de Jardim da Cordoaria passeerde. Hoewel hij klein was, was het
+een aangename plek om rond te lopen. In de straatjes ernaast hing de rokerige geur van geroosterde kastanjes, verkocht door heel wat
 kraampjes met traditionele karretjes met kleine kolenovens. De rook uit die karretjes zorgde voor een gezellige,
 feestelijke sfeer terwijl de mensen voorbijliepen. Geroosterde kastanjes worden meestal op straat verkocht in de herfst-
-en wintermaanden, van oktober tot januari, wat ze tot een seizoensfavoriet maakt. Ik proefde deze gezonde snack een paar
-weken eerder voor het eerst op Madeira en vond ze erg lekker! Ze vullen goed en worden geserveerd in kleine papieren
+en wintermaanden, van oktober tot januari, en zijn dan een geliefde snack. Ik proefde deze gezonde lekkernij een paar
+weken eerder voor het eerst op Madeira en vond ze erg lekker! Ze zijn behoorlijk vullend en worden geserveerd in kleine papieren
 puntzakjes, ideaal om onderweg op te eten. Het torenhoge bouwwerk bij de kerstmarkt bleek de Clérigos-kerk te zijn, een
 iconisch monument in Porto. Jammer genoeg kon ik er niet zonder ticket binnen omdat de Spiritus-lichtshow op dat moment
 bezig was. Overal in de straten begonnen de kerstversieringen te branden, en ondanks het regenweer hing er een vrolijke
@@ -156,7 +156,7 @@ de bovenste foto hieronder.
 <img src="/assets/Portugal/Porto/20241205_180859_01.jpg" />
 
 Op weg naar het station om mijn trein naar Braga te halen, besefte ik dat ik de kathedraal van Porto niet had bezocht!
-Met nog een uur voor mijn trein vertrok, haastte ik me snel naar de wijk Batalha, waar de kathedraal staat.
+Met nog een uur voor mijn trein vertrok, haastte ik me naar de wijk Batalha, waar de kathedraal staat.
 
 Vanaf de Avenida Dom Afonso Henriques viel het vestingachtige uiterlijk van de kathedraal me meteen op. Langs dit stuk
 straat stonden ook kerstkraampjes, wat bijdroeg aan de feestelijke sfeer in de stad. Ik verkende de zo goed als
@@ -164,7 +164,7 @@ uitgestorven omgeving rond de kathedraal en wandelde een stuk bergaf, dwalend do
 Tegen dan was het al donker, dus jammer genoeg was er vanaf het kathedraalplein geen zicht op de Douro of de Luís I-brug.
 De kathedraal is een belangrijke halte op de pelgrimsroute naar Santiago de Compostela, en het is niet ongewoon om hier
 pelgrims aan hun tocht te zien beginnen. Mijn bezoek was kort, maar het was toch fascinerend om dit historische en
-iconische monument te ervaren.
+iconische monument zelf te bezoeken.
 
 <div class="row">
   <img src="/assets/Portugal/Porto/20241205_182435_01.jpg" class="column-50" />
@@ -174,7 +174,7 @@ iconische monument te ervaren.
 
 Toen mijn dag in Porto ten einde liep, kon ik alleen maar glimlachen om hoeveel ik in amper een paar uur had kunnen zien
 en beleven. Van de levendige Mercado do Bolhão tot de schitterende azulejo-tegels in station São Bento: de stad wist me om
-elke hoek te verrassen. De kerstlichtjes die in de motregen oplichtten en de rokerige geur van geroosterde kastanjes
+elke hoek te verrassen. De kerstlichtjes die in de motregen brandden en de rokerige geur van geroosterde kastanjes
 maakten de straten zo gezellig, zelfs in de regen.
 Toen ik op de trein naar Braga stapte, wist ik één ding zeker: ik kom ooit terug om nog veel meer te ontdekken!
 
@@ -186,7 +186,7 @@ vanaf de luchthaven naartoe reist. Ik ging naar metrostation Bolhão, dus dat wa
 bekijken, al gaf de site bij de verbinding Aeroporto – Bolhão een prijs van 2 euro voor een enkel ticket, dus het juiste
 tarief staat er niet op (de zone klopte wel).
 
-* Restaurant in Porto PAPO CHEIO - A Tasca de Cedofeita: de zaak heeft binnen weinig ruimte en tafeltjes buiten, en
+* Restaurant PAPO CHEIO - A Tasca de Cedofeita in Porto: de zaak heeft binnen weinig ruimte en tafeltjes buiten, en
 serveert heerlijke lokale gerechten. Uitstekende prijs-kwaliteitverhouding en heel vriendelijke bediening.
 Adres: R. de Cedofeita 95, 4050-166 Porto, Portugal
 

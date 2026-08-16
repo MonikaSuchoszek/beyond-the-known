@@ -2,7 +2,7 @@
 layout: post
 
 title:  "Weekend in Marseille: de oudste stad van Frankrijk verkennen"
-description: "Een weekend in de oudste stad van Frankrijk: van de Griekse haven uit 600 v.Chr. tot het Vieux-Port en Le Panier, en wat in twee dagen past."
+description: "Een weekend in de oudste stad van Frankrijk: van de Griekse haven uit 600 v.Chr. tot het Vieux-Port en Le Panier, en wat je in twee dagen kunt bezoeken."
 date:   2023-12-14 08:43:59
 author: Monika Suchoszek
 categories: reizen
@@ -19,19 +19,19 @@ gallery_items:
     gallery_image: "/assets/gallery/Marseille.JPG"
     description: "Het plein voor het Vieille Charité was in november helemaal leeg, maar onze gids verzekerde ons dat je hier
 in het hoogseizoen amper voorbij raakt, wanneer alle restaurants en cafés er hun tafeltjes zetten.
-In de late herfst is deze plek, net als de rest van de wijk Le Panier, uitgestorven en sluiten winkels en veel cafés."
+In de late herfst is deze plek, net als de rest van de wijk Le Panier, leeg en zijn de winkels en veel cafés gesloten."
 ---
 
 Het kleine park met archeologische resten naast het geschiedenismuseum van Marseille is de plek waar het verhaal van
-Marseille begon. Hier, precies op deze plaats, bliezen de eerste Griekse kolonisten uit Phocaea de stad rond 600 v.Chr.
-leven in en legden ze de wortels van wat de bruisende haven van Marseille zou worden. Je ziet er nog altijd de boot op
-ware grootte waarmee de Grieken de ruwe Middellandse Zee overstaken om deze van nature rustige baai te bereiken, die
-uitstekende bescherming tegen de wind bood en de nieuwkomers onderdak gaf.
+Marseille begon. Precies hier stichtten de eerste Griekse kolonisten uit Phocaea omstreeks 600 v.Chr. een nederzetting en
+legden ze de basis voor wat later de bruisende havenstad Marseille zou worden. Je ziet er nog altijd de boot op ware
+grootte waarmee de Grieken de woelige Middellandse Zee overstaken om deze van nature rustige baai te bereiken, die
+uitstekende bescherming bood tegen de wind en de nieuwkomers beschutting gaf.
 
 <img src="/assets/France/Marseille/20231110_112904.jpg" />
 
-Een steenworp verderop gonst de moderne haven van bedrijvigheid, goed zichtbaar vanaf het uitkijkpunt "Mirador de
-Saint-Jean" bij de stadsvestingen, dat de schepen naar de haveningang leidt.
+Een steenworp verderop gonst de moderne haven van bedrijvigheid. Je hebt er een goed zicht op vanaf de "Mirador de
+Saint-Jean", een uitkijkpunt bij de stadsvesting aan de haveningang.
 Aan het einde van de haven komt de Quai des Belges elke ochtend tot leven wanneer de vissers er hun verse vangst
 aanprijzen. Hier staat ook een gedenkteken voor die eerste avontuurlijke Griekse kolonisten, ter herinnering aan hun
 stichtende rol in de geschiedenis van de stad.
@@ -44,7 +44,8 @@ stichtende rol in de geschiedenis van de stad.
 De wijk 'Le Panier' lag pal naast ons appartement, dus we dwaalden er een paar keer doorheen, telkens verdwaald in de
 smalle straatjes, terwijl we nieuwe graffiti, kleurrijke steegjes en charmante winkeltjes met Marseillezeep ontdekten.
 Eigenlijk ziet de originele Marseillezeep er heel saai uit: gewoon een grote kubus (300 g) groenige zeep met een subtiele
-geur. Maar dat is net wat je huid nodig heeft: 72% olijfolie hydrateert je huid grondig en is een waar wondermiddel voor de huid. Laat je
+geur. Maar dat is net wat je huid nodig heeft: met 72% olijfolie hydrateert de zeep je huid grondig en is ze een waar
+wondermiddel. Laat je
 niet verleiden door al die mooie zeepjes vol kleurstoffen, parfum of synthetische toevoegingen. Naast schattige
 winkeltjes vind je hier ook kleine galerieën en interessante koffiebars.
 
@@ -62,17 +63,17 @@ net als de rest van de wijk Le Panier, leeg: winkels sluiten en de buurt valt st
 de lente en de drukke maanden die volgen. Een paar jaar geleden was het nog mogelijk om hier te wonen met een
 langlopend huurcontract, maar intussen staat het merendeel van de woningen op Airbnb. Kortetermijnverhuur, zelfs voor
 maar een paar maanden, blijkt veel winstgevender dan verhuren aan vaste stadsbewoners. We zagen vaak "Airbnb dehors" op
-de muren gespoten, wat zoveel betekent als "Airbnb ga weg". Een duidelijk statement van bewoners die hier graag wonen,
+de muren gespoten, wat zoveel betekent als "Airbnb, ga weg". Een duidelijke boodschap van bewoners die hier graag wonen,
 maar het zich steeds minder kunnen veroorloven.
 
 <img src="/assets/France/Marseille/PB103136.jpg" />
 <img src="/assets/France/Marseille/PB103135.jpg" />
 
-Deze schitterende basiliek, de kathedraal La Major, werd in de 19e eeuw gebouwd nabij de fundamenten van de
+Deze schitterende basiliek, de kathedraal La Major, werd in de 19e eeuw gebouwd bij de fundamenten van de
 oorspronkelijke haven van Marseille. De kleuren van de muren waren verbluffend, zeker wanneer het licht van de
 ondergaande zon de verschillende gebruikte steensoorten deed uitkomen. De bouw duurde meer dan 40 jaar.
 Ons appartement lag maar een paar honderd meter van deze basiliek, dus we raakten nooit verdwaald: de 60 meter hoge toren
-was heel makkelijk te spotten. De omgeving is een heerlijke plek voor een avondwandeling bij zonsondergang, met een mooi
+was heel makkelijk te herkennen. De omgeving is een heerlijke plek voor een avondwandeling bij zonsondergang, met een mooi
 zicht op de haven, het [MUCEM] en Cosquer Méditerranée er vlak naast. De vloer van de basiliek is versierd met prachtige
 mozaïeken.
 
@@ -85,12 +86,12 @@ mozaïeken.
 We raden een bezoek aan het dakterras van het Museum van de Beschavingen van Europa en de Middellandse Zee ([MUCEM]) van
 harte aan. Je raakt er via een loopbrug vanaf Fort Saint-Jean of door het museum zelf. Dit museum heeft een fascinerende
 architectuur en lijkt van een afstand op een gigantische spons of op diepwaterkoraal. Eenmaal op het dak, dat gratis
-toegankelijk is, neem je door de fijne metalen buitenwanden de weidse uitzichten over de stad, de haven en het fort in je
-op. De perfecte plek voor een pauze met uitzicht! Het contrast tussen de oude gebouwen van het fort en het moderne museum
-vult elkaar prachtig aan. Daarna verkenden we de smalle paadjes en tuinen, waar we rust en de warmte van de zon vonden in
+toegankelijk is, geniet je door de fijne metalen buitenwanden van een weids uitzicht over de stad, de haven en het fort.
+De perfecte plek voor een pauze met uitzicht! De oude gebouwen van het fort en het moderne museum gaan prachtig samen.
+Daarna verkenden we de smalle paadjes en tuinen, waar we rust en de warmte van de zon vonden in
 beschutte hoekjes waar de wind niet bij kon. Vanaf meerdere uitkijkpunten konden we zowel de basiliek Notre-Dame de la
 Garde als de kathedraal La Major bewonderen. Onze verkenning zat vol verrassingen, van verscholen pleintjes met fonteinen
-tot muurschilderingen van vrouwen en een overvloed aan planten die deze plek echt uniek maken. Een must als je aan de
+tot muurschilderingen van vrouwen en een overvloed aan planten die deze plek echt uniek maken. Niet te missen als je aan de
 drukte van de stad wil ontsnappen.
 
 <div class="row">
@@ -100,11 +101,11 @@ drukte van de stad wil ontsnappen.
 <img src="/assets/France/Marseille/20231110_135459.jpg" />
 <img src="/assets/France/Marseille/PB103111.jpg" />
 
-De basiliek Notre-Dame de la Garde, met een uitzicht van 360 graden over de stad, is zonder twijfel een must. Al brachten
+De basiliek Notre-Dame de la Garde, met een uitzicht van 360 graden over de stad, mag je absoluut niet overslaan. Al brachten
 we niet veel tijd binnen door, toch vielen de fascinerende decoraties ons op, waaronder scheepjes die aan het plafond
 hangen en die de diepe band van de stad met de zee benadrukken. Kijk zeker omhoog, het plafond is adembenemend! Vanaf het
 buitenterras neem je het weidse panorama over Marseille in je op, met daarbij de nieuwe cruisehaven in een industriëler
-deel van de stad, die te ver ligt om te voet te bereiken vanaf het oude historische centrum.
+deel van de stad, die te ver ligt om te voet te bereiken vanaf het historische centrum.
 
 <img src="/assets/France/Marseille/20231110_141834.jpg" />
 <div class="row">
@@ -113,7 +114,7 @@ deel van de stad, die te ver ligt om te voet te bereiken vanaf het oude historis
 </div>
 <img src="/assets/France/Marseille/PB103129.JPG" />
 
-Aan de achterkant van de kerk opent het zicht zich naar Endoume, de meest prestigieuze wijk van de stad, waar de huizen
+Aan de achterkant van de kerk krijg je zicht op Endoume, de meest prestigieuze wijk van de stad, waar de huizen
 dicht tegen elkaar aan liggen, omringd door zee en bergen.
 
 <img src="/assets/France/Marseille/PB103128.jpg" />
@@ -127,7 +128,7 @@ We houden van natuur en wandelen, dus we proberen korte stadstrips altijd te com
 natuur. Het [Nationaal Park Calanques](https://www.calanques-parcnational.fr/en), tussen Marseille en Cassis, was na een
 blik op de kaart van de omgeving de voor de hand liggende keuze. Wandelen, klimmen, zwemmen en kajakken zijn de
 belangrijkste activiteiten in dit nationaal park. De scherpe, witte kliffen en het heldere water aan hun voet vormen een
-schitterend zicht waarvan je onderweg volop geniet. Een 'calanque' is een uniek soort geologische formatie van kalksteen
+schitterend zicht waarvan je onderweg volop geniet. Een 'calanque' is een bijzondere kalksteenformatie
 die je langs de Middellandse Zeekust vindt. De eerste foto hieronder toont het belangrijkste uitkijkpunt, Sugiton, dat
 het makkelijkst bereikbaar is, op zo'n 2,5 km van de bushalte. Van hieruit kan je ook naar het strand afdalen (nog eens
 ongeveer 1 km) of je wandeling met enkele kilometers verlengen richting Cassis, via het GR-hoofdpad. Dat was onze keuze,
@@ -148,35 +149,35 @@ markeringen op de rotsen vertrouwen volstond niet om te navigeren.
 Onze tweede avond brachten we door in het museum met de replica van de Cosquergrot, op een paar honderd meter van ons
 appartement. In 1985 werd de grot ontdekt door Henri Cosquer, een gepassioneerd duiker, die de ingang naar een immense
 ondergelopen galerij vond. Deze bijna 175 meter lange gang onthulde een echte schat van 30.000 jaar oud, met meer dan 480
-stuks, waaronder schilderingen en gravures van pinguïns, herten, steenbokken en bizons, maar ook handafdrukken en sporen
-van een haardvuur. In die tijd lag de zeespiegel zo'n 120 meter lager dan vandaag en lag de kustlijn enkele kilometers
+afbeeldingen en sporen, waaronder schilderingen en gravures van pinguïns, herten, steenbokken en bizons, handafdrukken en
+resten van een haardvuur. In die tijd lag de zeespiegel zo'n 120 meter lager dan vandaag en lag de kustlijn enkele kilometers
 verderop. Door de stijgende zeespiegel dreigt deze prehistorische site echter te verdwijnen, en sommige kunstwerken staan
 al gedeeltelijk onder water. Het is dringend geworden om deze weergaloze ontdekking te bewaren en met de wereld te delen.
 De grot is momenteel niet toegankelijk voor het publiek en de ingang is ter bescherming afgesloten.
 
 ## Praktische info:
 
-  * We huurden een appartement via Airbnb in de wijk La Joliette, op een paar gebouwen van de kathedraal van Marseille,
+  * We huurden een appartement via Airbnb in de wijk La Joliette, enkele gebouwen voorbij de kathedraal van Marseille,
 op de 6e verdieping zonder lift. Er waren veel gelijkaardige aanbiedingen. Dit is misschien niet de beste oplossing voor
-wie veel bagage of kinderen bij heeft. Toen het scheepvaartverkeer de capaciteit van de oude haven oversteeg, werd er een
+wie veel bagage heeft of met kinderen reist. Toen het scheepvaartverkeer de capaciteit van de oude haven oversteeg, werd er een
 nieuwe aangelegd, en ons appartement lag pal aan de ingang van die enorme haven. Het station 'Saint-Charles' ligt op 15 à
 20 minuten wandelen, dus we hebben zelfs niet aan het openbaar vervoer gedacht.
 
-  * Rondleiding [Marseille Free Walking Tour](https://marseillefreewalkingtour.com/) van ongeveer 2,5 uur
+  * De rondleiding [Marseille Free Walking Tour](https://marseillefreewalkingtour.com/) duurt ongeveer 2,5 uur
   * Heerlijke patisserie La Pâtisserie des Marseillais [Pascal Guglielmi](https://www.lapatisseriedesmarseillais.fr/)
-  * Bus 60, van de halte Capitainerie tot de basiliek Notre-Dame de la Garde, is een rit van bijna 20 minuten. De kerk is
+  * De rit met bus 60, van de halte Capitainerie tot de basiliek Notre-Dame de la Garde, duurt bijna 20 minuten. De kerk is
 gratis toegankelijk. We bleven maar zo'n 15 minuten in de omgeving van de kerk door de harde wind en het koude weer, en
 we keerden terug met hetzelfde ticket, dat 1 uur geldig was.
 Toen we opnieuw opstapten, scanden we ons ticket, maar er werd niets aangerekend en we konden het de dag erna nog voor de
 metro gebruiken. Elk ticket dat we kochten was geldig voor 2 ritten, maar de automaat biedt meerdere opties bij het
-kiezen van het aantal ritten. Wie kinderen bij heeft, neemt het best het treintje vanaf de oude haven (recht tegenover
-het stadhuis van Marseille), een prima optie!
+kiezen van het aantal ritten. Voor gezinnen met kinderen is het treintje vanaf de oude haven (recht tegenover het
+stadhuis van Marseille) een prima optie!
 
   * Neem metrolijn 2 van Joliette naar Castellane en dan bus B1 voor een rit van 30 à 40 minuten richting Campus de
-Luminy, met afstappen aan de halte Luminy – PN des Calanques. Onze wandeling in het Nationaal Park Calanques was ongeveer
+Luminy. Stap uit aan de halte Luminy – PN des Calanques. Onze wandeling in het Nationaal Park Calanques was ongeveer
 16 km lang (5 à 6 uur, pauzes inbegrepen). Op de kaart hieronder, waarop onze route staat aangeduid, zie je een kleine
-zijtak naar het uitkijkpunt Belvédère de Sugiton, een populaire bestemming voor veel bezoekers. Het is vrij toegankelijk;
-we zagen mensen met een buggy, maar stevige wielen zijn wel een must. Het gebied is erg rotsachtig, dus goede trailrun-
+zijtak naar het uitkijkpunt Belvédère de Sugiton, een populaire bestemming voor veel bezoekers. Het is vrij makkelijk bereikbaar;
+we zagen mensen met een buggy, maar stevige wielen zijn wel een must. Het gebied is erg rotsachtig, dus goede trail-
 of wandelschoenen zijn cruciaal voor je veiligheid. Let goed op de wegmarkeringen, want we begonnen een paar keer per
 ongeluk rotsen te beklimmen die niet bij het pad hoorden (de markeringen zijn niet altijd duidelijk en veel ervan zijn
 beschadigd). We hadden het geluk van fantastisch weer, een prachtige zonnige dag in november met aangename temperaturen.

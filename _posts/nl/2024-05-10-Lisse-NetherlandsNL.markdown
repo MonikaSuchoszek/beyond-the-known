@@ -2,7 +2,7 @@
 layout: post
 
 title:  "De geheimen van de tulp ontdekken in Nederland"
-description: "Keukenhof, fietsen door de bollenvelden en Koningsdag in één lang aprilweekend, plus de vreemde geschiedenis van hoe de tulp hier belandde."
+description: "Keukenhof, fietsen door de bollenvelden en Koningsdag in één lang aprilweekend, plus de merkwaardige geschiedenis van de komst van de tulp naar Nederland."
 date:   2024-05-10 08:43:59
 author: Monika Suchoszek
 categories: reizen
@@ -20,14 +20,14 @@ gallery_items:
     description: "Een van de rustplaatsen langs de tulpenvelden bood een grote verscheidenheid aan tulpen op één plek; de verschillende kleuren en vormen zagen er schitterend uit, zeker van dichtbij."
 ---
 
-In Nederland is april de beste maand om de prachtige Hollandse tulpen te zien. We propten een bezoek aan de Keukenhof,
+In Nederland is april de beste maand om de prachtige Hollandse tulpen te zien. We combineerden een bezoek aan de Keukenhof,
 een fietstocht door de tulpenvelden en de festiviteiten van Koningsdag in één lang weekend. Lees verder en ontdek wat we
 allemaal over deze iconische bloemen leerden!
 
 Tulpen komen oorspronkelijk uit het gebied ten noorden van de Himalaya, in Centraal-Azië, en werden al in de 10e eeuw in
 het oude Perzië gekweekt als symbool van gratie en schoonheid. Van daaruit verspreidden tulpen zich westwaarts, tot ze
 Istanbul bereikten, wat de deur naar Europa opende. In de tweede helft van de 16e eeuw brachten reizigers bollen en
-bloemen naar verschillende landen, en vooral in Nederland vonden ze een bijzonder enthousiast publiek. Dat was het begin
+bloemen naar verschillende landen, en vooral in Nederland vonden ze veel bijval. Dat was het begin
 van de Nederlandse tulpenteelt, met enkele decennia later al belangrijke variëteiten die de geschiedenis van deze
 prachtige bloem voorgoed zouden bepalen.
 We begonnen ons weekendje weg met als voornaamste doel de tulpenteelt beter te begrijpen en de schitterende variëteiten
@@ -55,8 +55,8 @@ konden we ons alleen maar inbeelden hoe adembenemend die velden in volle bloei m
 </div>
 
 We kwamen langs een paar tulpenkwekerijen met kleine showtuinen waarin veel soorten tulpen stonden, elk met hun naam en
-nummer, zodat je ze heel makkelijk online kan bestellen. Een prima gelegenheid om de verschillende soorten te zien en die
-uit te kiezen die het best bij je tuin past!
+nummer, zodat je ze heel makkelijk online kan bestellen. Een prima gelegenheid om de verschillende soorten te zien en de
+soort te kiezen die het best bij je tuin past!
 
 <img src="/assets/Netherlands/TulipTrip/20240427_175129.jpg" />
 <img src="/assets/Netherlands/TulipTrip/20240427_170210.jpg" />
@@ -64,8 +64,8 @@ uit te kiezen die het best bij je tuin past!
 <img src="/assets/Netherlands/TulipTrip/20240427_150613.jpg" />
 
 Tulpenkwekerij De Tulperij is een charmant familiebedrijf dat in 1927 van start ging. De zoon van de eigenaar besloot de
-kwekerij over te nemen en begint binnenkort aan de 4e generatie. Bezoekers worden persoonlijk verwelkomd door de
-eigenaars, de kweker en zijn vrouw. De kwekerij ligt vlak bij de Keukenhof en is tijdens dezelfde periode open als de
+kwekerij over te nemen, waardoor binnenkort de vierde generatie aan het roer staat. Bezoekers worden persoonlijk
+verwelkomd door de eigenaars: de kweker en zijn vrouw. De kwekerij ligt vlak bij de Keukenhof en is tijdens dezelfde periode open als de
 tuinen.
 
 <img src="/assets/Netherlands/TulipTrip/20240429_150031.jpg" />
@@ -75,11 +75,11 @@ tuinen.
   <img src="/assets/Netherlands/TulipTrip/20240429_142701.jpg" class="column-50" />
 </div>
 
-Omdat we een rondleiding meepikten, deelde de eigenaar gul zijn onmisbare tips om tulpen beter te kweken in onze eigen
+Omdat we een rondleiding meepikten, deelde de eigenaar waardevolle tips om tulpen beter te kweken in onze eigen
 tuin. Een belangrijke les was om tulpen in zandgrond met een hoge grondwaterstand te planten. Op hun kwekerij zit het
-grondwater maar 65 cm onder het oppervlak, waardoor extra water geven overbodig is en het teveel gewoon naar
-irrigatiesystemen wordt afgevoerd. We leerden ook hoe belangrijk het is om de tulpenbollen elk jaar op een andere plek te
-zetten, om bacteriële en virale ziekten rond de bollen te voorkomen.
+grondwater maar 65 cm onder het oppervlak, waardoor extra water geven overbodig is en het overtollige water via het
+irrigatiesysteem wordt afgevoerd. We leerden ook hoe belangrijk het is om de tulpenbollen elk jaar op een andere plek te
+zetten, om bacteriële en virale aantastingen van de bollen te voorkomen.
 
 We kregen ook stap voor stap uitgelegd hoe de tulpenteelt verloopt. De Tulperij is een bollenkwekerij, anders dan
 bloemenkwekerijen, wat betekent dat ze niet het hele jaar door tulpen kweken. Andere bedrijven telen tulpen wel continu
@@ -102,10 +102,10 @@ Een klein deel van de bollen wordt nog altijd op veilingen verkocht. Grote bolle
 zijn, worden gewassen om bacteriën of schimmels te verwijderen. De kleinere bollen worden bewaard en in de herfst opnieuw
 geplant; klisters doen er twee tot drie jaar over om groot genoeg te worden om te verkopen.
 
-De Tulperij heeft sinds 2001 een nieuwe tulpenkleur, oranje, die erg zeldzaam is en 30% meer kost dan rode tulpen. Rode,
+Sinds 2001 kweekt De Tulperij een nieuwe, oranje tulpensoort die erg zeldzaam is en 30% meer kost dan rode tulpen. Rode,
 gele en paarse tulpen komen het meest voor, en het duurt gemiddeld 20 jaar om een nieuwe variëteit op de markt te brengen.
 Zulke nieuwe variëteiten kunnen toevallig ontstaan door een willekeurige mutatie, zoals bij de oranje tulp, of door
-doelbewuste kruising.
+soorten doelbewust te kruisen.
 De oranje tulp bij De Tulperij was een gelukkige vondst, ontstaan uit een toevallige mutatie. De kwekers isoleerden de
 bol zorgvuldig, en toen die het jaar erna in dezelfde felle kleur bloeide, wisten ze dat ze iets bijzonders in handen
 hadden. Die blijvende mutatie was het begin van hun inspanningen om deze unieke oranje bollen te kweken en te
@@ -115,8 +115,8 @@ vermeerderen.
 <img src="/assets/Netherlands/TulipTrip/20240429_134734.jpg" />
 
 Vlak naast De Tulperij zit een buur met een indrukwekkende collectie van 7.000 verschillende tulpensoorten, waaronder
-virusresistente variëteiten. Elke nieuwe tulpenvariëteit krijgt een certificaat van de genenbank, als bewijs van haar
-uniciteit en identiteit. Van bij het begin werden tulpen naar beroemde persoonlijkheden of kwekers genoemd. De bekendste
+virusresistente variëteiten. Elke nieuwe tulpenvariëteit krijgt een certificaat van de genenbank, dat de unieke identiteit
+ervan bevestigt. Van bij het begin werden tulpen naar beroemde persoonlijkheden of kwekers genoemd. De bekendste
 is de "Semper Augustus", vernoemd naar de Romeinse keizer Augustus, in de 16e eeuw.
 Een leuk weetje dat we van de kweker bij De Tulperij opstaken, ging over de bijzondere manier waarop hyacinten gekweekt
 worden. Anders dan bij tulpen gaat het bij hyacinten om een doelbewuste techniek waarbij kwekers de onderkant van de
@@ -141,13 +141,13 @@ Een van de blikvangers van de Keukenhof is de charmante molen, oorspronkelijk in
 door een cruisemaatschappij. Vanaf het platform bovenaan de molen heb je normaal een adembenemend uitzicht over de
 kleurrijke tulpenvelden op het hoogtepunt van het seizoen. Tijdens ons bezoek waren de omliggende velden echter al gekopt.
 
-De Keukenhof draait vooral rond de 7 miljoen voorjaarsbloeiende bollen, een levende catalogus voor de 100 deelnemende
+De grootste trekpleister van de Keukenhof zijn de 7 miljoen voorjaarsbloeiende bollen, die samen een levende catalogus vormen voor de 100 deelnemende
 bedrijven. Meer dan 500 kwekers tonen een indrukwekkende verscheidenheid aan snijbloemen en potplanten op meer dan 20
 bloemenshows. Vroeg in het seizoen geniet je van krokussen, narcissen, hyacinten en vroege tulpen in volle bloei.
 Naarmate het seizoen vordert, verandert de tuin en verschijnen grotere tulpen en andere bloemen. De Keukenhof is een
-must voor elke bloemenliefhebber en biedt een spectaculair schouwspel van natuurpracht. Het is wel belangrijk om te weten
+voor elke bloemenliefhebber een niet te missen bestemming en biedt een spectaculair schouwspel van natuurpracht. Het is wel belangrijk om te weten
 dat het park behoorlijk druk kan worden, zelfs op een maandagochtend. De ervaring is ongetwijfeld magisch, maar door de
-enorme toeloop is het niets wat ik elk jaar zou overdoen. Toch blijft de Keukenhof een bloemenparadijs dat je minstens
+enorme toeloop zou ik dit niet elk jaar opnieuw doen. Toch blijft de Keukenhof een bloemenparadijs dat je minstens
 één keer moet meemaken.
 
 <img src="/assets/Netherlands/TulipTrip/20240429_090751.jpg" />
@@ -161,29 +161,29 @@ enorme toeloop is het niets wat ik elk jaar zou overdoen. Toch blijft de Keukenh
 
 
 ## Praktische info:
- * [Easy Fiets in Leiden](https://www.easyfiets.nl/en/) Heel vriendelijk personeel, en we konden de fietsen zelfs na
+ * Bij [Easy Fiets in Leiden](https://www.easyfiets.nl/en/) was het personeel heel vriendelijk en konden we de fietsen zelfs na
 sluitingstijd terugbrengen, maar ze waren wel vrij klein en 50 km fietsen met zo'n fiets was niet niks.
 <img src="/assets/Netherlands/TulipTrip/Screenshot 2024-05-02 223301.png" />
   * [Tulip Store Showgarden](https://www.tulipstore.eu/nl/service/tulip-store-showtuin/) is een tulpenshowtuin met grote
-tulpenvelden die je gratis mag betreden. Nog een plek met prachtige velden lag naast Vernooij VOF, geen tulpenkwekerij
-maar wel mooie, makkelijk toegankelijke velden.
-  * Tijdens onze fietstocht volgden we grotendeels de route van [Flowermap.nl](https://goo.gl/maps/cxvXKUircv5tzJJw6?g_st=aw)
+tulpenvelden die je gratis mag betreden. Nog een plek met prachtige velden lag naast Vernooij VOF. Dat is geen tulpenkwekerij,
+maar de mooie velden ernaast zijn makkelijk toegankelijk.
+  * Tijdens onze fietstocht volgden we grotendeels de route van [Flowermap.nl](https://goo.gl/maps/cxvXKUircv5tzJJw6?g_st=aw).
 Je kan die openen en wordt meteen doorgestuurd naar Google Maps, wat het heel gebruiksvriendelijk maakt. Daarna volg je
 gewoon de markeringen op de kaart. We sloegen één lus richting de zee over omdat het weer onstabiel was en we nog naar
 Leiden terug moesten. Onze collega's deden dat stuk wel, en zij bevestigden dat het landschap er drastisch verandert, met
 duinen die er zelfs bij winderig en stormachtig weer schitterend uitzien.
 * Tulpenkwekerij [De Tulperij](https://detulperij.nl/) in Voorhout - je kan er een rondleiding door de tulpenvelden
-volgen (3 rondleidingen per dag, Engels en Nederlands). Er is ook een prachtig versierde bloemenkas met koffie, thee en
+volgen (3 rondleidingen per dag, Engels en Nederlands). In een prachtig versierde bloemenkas krijg je koffie, thee en
 een Hollandse wafel. Je kan er ook heel wat souvenirs rond tulpen en Delfts blauw kopen. Tijdens ons bezoek konden we
 geen bollen kopen, maar die kan je online bestellen en later naar je thuisadres laten sturen. Het is ongelooflijk om te
-zien hoeveel toewijding en tijd er in het kweken van bollen kruipt. Kom je ooit in de buurt van de Keukenhof, dan is een
-bezoek aan De Tulperij een must voor elke bloemenliefhebber! Het bezoek duurde bijna een uur en omvatte een film van 20
+zien hoeveel toewijding en tijd er in het kweken van bollen kruipt. Kom je ooit in de buurt van de Keukenhof, dan mag een
+bezoek aan De Tulperij voor elke bloemenliefhebber niet ontbreken! Het bezoek duurde bijna een uur en omvatte een film van 20
 minuten en vrije tijd om foto's te maken op de velden, die normaal niet voor elke bezoeker open zijn. Op deze kwekerij
 kan je ook dahlia's zien, van begin augustus tot begin oktober, wanneer de kwekerij opnieuw open is voor bezoekers. Let
 op: iedereen mag de tulpenshowtuin bekijken, maar om foto's op de velden te nemen moet je een rondleiding boeken.
 <img src="/assets/Netherlands/TulipTrip/20240429_134831.jpg" />
   * De [Keukenhof](https://keukenhof.nl/nl/) is waarschijnlijk de meest bezochte plek van Nederland tijdens de paar weken
-dat hij open is. Het aantal grote toeristenbussen op de parkings die we op zaterdag tijdens het fietsen passeerden was
+dat het park open is. Het aantal grote toeristenbussen op de parkings die we op zaterdag tijdens het fietsen passeerden was
 verbluffend, om nog te zwijgen van het aantal auto's op de verschillende parkings rond de befaamde tuinen. We waren blij
 dat we ons ticket voor maandagochtend om 8.30 uur geboekt hadden. Het enige probleem waar we tegenaan liepen, was dat de
 parkings 's ochtends zo leeg waren dat we niet goed wisten waar we naartoe moesten. We reden uiteindelijk naar twee
@@ -194,7 +194,7 @@ Wij naderden de Keukenhof uit een andere richting, dus let op de tijdelijke bord
 moet afslaan. Op het bord stond enkel "Keukenhof", wat verwarrend was. Het zou handiger zijn als er ook het woord "open"
 en een parkeerpictogram op stond.
 
-Tot 11 uur was het aantal bezoekers in het park redelijk. Daarna werd het echt druk. We zagen steeds meer grote groepen,
+Tot 11 uur viel het aantal bezoekers in het park mee. Daarna werd het echt druk. We zagen steeds meer grote groepen,
 waardoor het lastig werd om je op sommige plekken een weg te banen. Omdat we kwamen nadat de tulpenvelden al gekopt
 waren, was het niet de moeite om eerst naar de molen te haasten, want zonder de kleurrijke velden was het uitzicht niet
 spectaculair. In de plaats daarvan raden we aan om naar de Historische Tuin te gaan, ideaal voor selfies en, zoals we
