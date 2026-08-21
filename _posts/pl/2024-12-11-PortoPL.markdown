@@ -6,7 +6,7 @@ description: "Jeden deszczowy dzień między porannym lotem a wieczornym pociąg
 date:   2024-12-11 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Portugalia miasto Porto
+tags:	portugalia miasto porto
 cover:  "/assets/Portugal/Porto/20241205_150642_01.jpg"
 thumbnail:  "/assets/thumbnails/Porto.JPG"
 post_id: Porto
@@ -38,7 +38,7 @@ Na targu można również znaleźć autentyczne portugalskie dania, od francesin
 jak **Pastéis de Nata**. Te kultowe portugalskie ciastka wywodzą się z klasztoru Mosteiro dos Jerónimos w lizbońskiej dzielnicy
 Belém, gdzie na początku XIX wieku katoliccy mnisi opracowali pierwszy przepis. Miałam przyjemność odwiedzić zarówno sam
 klasztor, jak i Fábrica de Pastéis de Belém, czyli miejsce narodzin tych ciastek,
-[podczas naszej pierwszej podróży do Lizbony]({% post_url en/2022-03-20-Lisbon-Portugal %}). To zdecydowanie moje ulubione
+[podczas naszej pierwszej podróży do Lizbony]({% post_url pl/2022-03-20-Lisbon-Portugal %}). To zdecydowanie moje ulubione
 słodkości z Portugalii i chyba nigdy bym się nimi nie znudziła.
 Bardzo ciekawa jest historia tego, dlaczego mnisi stworzyli ciastko tak bogate w żółtka. Zakonnicy i zakonnice zużywali
 ogromne ilości białek jaj do krochmalenia ubrań, między innymi habitów. Pozostałe żółtka wykorzystywano więc kreatywnie

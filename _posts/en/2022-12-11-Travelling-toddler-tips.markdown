@@ -6,7 +6,7 @@ description: "What really changes when you travel with a baby or toddler, and th
 date:   2022-12-11 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	plane toddler baby Malaga Lisbon Portugal Spain
+tags:	plane toddler baby malaga lisbon portugal spain
 cover:  "/assets/Spain/Malaga/20220218_112537.jpg"
 thumbnail:  "/assets/thumbnails/traveltips.JPG"
 post_id: Travel_tips

@@ -6,7 +6,7 @@ description: "Een verticale kilometer omhoog naar de Pico Grande, een van de rus
 date:   2025-05-07 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Portugal wandeling Madeira
+tags:	portugal wandelen madeira
 cover:  "/assets/Portugal/Madeira/Day4/DSC09250.JPG"
 thumbnail:  "/assets/thumbnails/Day4.JPG"
 post_id: Day4

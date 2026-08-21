@@ -5,7 +5,7 @@ description: "Sneeuw in het vroege najaar, een wandeling van 10 km naar de kerk 
 date:   2017-10-02 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	wandelen Georgië
+tags:	wandelen georgië
 cover:  "/assets/Georgia/Mestia/IMG_20171016_134841992_HDR.jpg"
 thumbnail:  "/assets/thumbnails/mestia.jpg"
 post_id: georgia_mestia

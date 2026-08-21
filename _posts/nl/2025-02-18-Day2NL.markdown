@@ -6,7 +6,7 @@ description: "Twee heel verschillende wandelingen op één dag: de kale Drakenst
 date:   2025-02-18 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Portugal wandeling Madeira
+tags:	portugal wandelen madeira
 cover:  "/assets/Portugal/Madeira/Day2/DSC08882.JPG"
 thumbnail:  "/assets/thumbnails/Day2.JPG"
 post_id: Day2
@@ -32,7 +32,7 @@ hotel Resort Spa & Marina. We maakten er altijd een punt van om de bekendste wan
 drukte en parkeerproblemen te vermijden. Die dag was niet alleen parkeren veel makkelijker, maar het aantal mensen dat we
 op de terugweg tegenkwamen lag ook drastisch hoger. Het was surrealistisch om de wandeling te beginnen met zowat niemand
 in de buurt en te eindigen met een lange rij mensen die de andere kant op ging. Toen we vertrokken, kwamen er al een paar
-mensen terug; die waren ongetwijfeld voor de zonsopgang gegaan. Wij beklommen ooit [Poon Hill]({% post_url en/2018-07-09-AnnapurnaPoonHill %})
+mensen terug; die waren ongetwijfeld voor de zonsopgang gegaan. Wij beklommen ooit [Poon Hill]({% post_url nl/2018-07-09-AnnapurnaPoonHill %})
 in het donker en op een lege maag om de zonsopgang te zien, maar toen leerden we dat zo'n vroege tocht niets voor ons is.
 
 <img src="/assets/Portugal/Madeira/Day2/DSC08772.JPG" />

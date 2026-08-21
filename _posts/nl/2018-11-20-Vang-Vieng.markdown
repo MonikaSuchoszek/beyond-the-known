@@ -5,7 +5,7 @@ description: "Vang Vieng staat bekend als feestbestemming, maar de kalkstenen he
 date:   2018-11-20 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	wandelen Laos fietsen grot lagune 
+tags:	wandelen laos fietsen grot lagune
 cover:  "/assets/Laos/VangVieng/DSC03339.JPG"
 thumbnail:  "/assets/thumbnails/vang_vieng.jpg"
 post_id: laos_vang_vieng

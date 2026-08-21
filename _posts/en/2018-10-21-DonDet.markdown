@@ -5,7 +5,7 @@ description: "Crossing from Siem Reap into Laos by bus, van and boat: how the tr
 date:   2018-10-21 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	culture laos
+tags:	culture laos village island cycling
 cover:  "/assets/Laos/DonDet/DSC02996.jpg"
 thumbnail:  "/assets/thumbnails/don_det.jpg"
 post_id: laos_don_det

@@ -6,7 +6,7 @@ description: "One rainy day between a morning flight and an evening train: the B
 date:   2024-12-11 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Portugal city Porto 
+tags:	portugal city porto
 cover:  "/assets/Portugal/Porto/20241205_150642_01.jpg"
 thumbnail:  "/assets/thumbnails/Porto.JPG"
 post_id: Porto

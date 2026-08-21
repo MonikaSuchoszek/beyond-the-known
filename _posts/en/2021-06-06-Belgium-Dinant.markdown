@@ -6,7 +6,7 @@ description: "Camping in the Ardennes: Dinant's citadel and its saxophone, the c
 date:   2021-06-06 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Belgium Wallonia Dinant lake Luxemburg cave Hotton
+tags:	belgium wallonia dinant lake luxembourg cave hotton
 cover:  "/assets/Belgium/Dinant/DSC07602.edit.jpg"
 thumbnail:  "/assets/thumbnails/Dinant.JPG"
 post_id: Belgium_Dinant

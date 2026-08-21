@@ -5,7 +5,7 @@ description: "Een bungalow aan de Nam Ou, vlinders en complete stilte: waarom he
 date:   2019-01-19 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Laos dorp bergen rivier
+tags:	laos dorp bergen rivier
 cover:  "/assets/Laos/MuangNgoy/DSC03794.jpg"
 thumbnail:  "/assets/thumbnails/muang_ngoy.jpg"
 post_id: laos_muang_ngoy

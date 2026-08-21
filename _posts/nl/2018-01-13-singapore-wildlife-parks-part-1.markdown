@@ -5,7 +5,7 @@ description: "Jurong Bird Park en zijn wandelvolières met 5000 vogels: het eers
 date:   2018-01-13 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Singapore stad natuur cultuur
+tags:	singapore stad natuur cultuur
 cover:  "/assets/Singapore/DSC09786.jpg"
 thumbnail:  "/assets/thumbnails/wildlife_parks_1.jpg"
 post_id: singapore_wildlife_parks_1

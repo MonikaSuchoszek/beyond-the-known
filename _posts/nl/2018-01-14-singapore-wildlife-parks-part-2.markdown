@@ -5,7 +5,7 @@ description: "Singapore Zoo, waar grachten de hekken vervangen en lemuren en gib
 date:   2018-01-14 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Singapore stad natuur cultuur
+tags:	singapore stad natuur cultuur
 cover:  "/assets/Singapore/DSC00198.jpg"
 thumbnail:  "/assets/thumbnails/wildlife_parks_2.jpg"
 post_id: singapore_wildlife_parks_2

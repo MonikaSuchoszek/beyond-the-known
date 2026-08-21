@@ -5,7 +5,7 @@ description: "Met de bus, minibus en boot van Siem Reap naar Laos: hoe de transf
 date:   2018-10-21 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	cultuur Laos
+tags:	cultuur laos dorp eiland fietsen
 cover:  "/assets/Laos/DonDet/DSC02996.jpg"
 thumbnail:  "/assets/thumbnails/don_det.jpg"
 post_id: laos_don_det

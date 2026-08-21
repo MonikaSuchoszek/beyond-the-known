@@ -6,7 +6,7 @@ description: "Keukenhof, fietsen door de bollenvelden en Koningsdag in één lan
 date:   2024-05-10 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Nederland Keukenhof fietsen tulpen
+tags:	nederland keukenhof fietsen tulpen
 cover:  "/assets/Netherlands/TulipTrip/20240427_175355.jpg"
 thumbnail:  "/assets/thumbnails/Tulips.JPG"
 post_id: Lisse

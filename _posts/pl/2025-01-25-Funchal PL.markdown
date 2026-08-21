@@ -6,7 +6,7 @@ description: "Dlaczego wybraliśmy Maderę na podróż poślubną i co Funchal o
 date:   2025-01-19 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Portugalia miasto Madera
+tags:	portugalia miasto madera
 cover:  "/assets/Portugal/Madeira/Funchal/DSC08565.JPG"
 thumbnail:  "/assets/thumbnails/Funchal.JPG"
 post_id: Funchal

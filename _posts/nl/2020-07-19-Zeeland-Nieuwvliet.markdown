@@ -6,7 +6,7 @@ description: "Vier dagen kamperen in Zeeland nadat Luxemburg code oranje kreeg: 
 date:   2020-07-19 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Nederland strand zee duinen  
+tags:	nederland strand zee duinen
 cover:  "/assets/Netherlands/Nieuwvliet/DSC07255.jpg"
 thumbnail:  "/assets/thumbnails/Nieuwvliet.jpg"
 post_id: nieuwvliet_holland

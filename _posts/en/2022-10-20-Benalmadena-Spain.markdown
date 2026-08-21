@@ -6,7 +6,7 @@ description: "Why Benalmadena is a good autumn choice with a small child: beach,
 date:   2022-10-20 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Malaga Benalmadena Spain Colomares Monument
+tags:	malaga benalmadena spain colomares monument
 cover:  "/assets/Spain/Malaga/PB142627.jpg"
 thumbnail:  "/assets/thumbnails/Benalmadena.JPG"
 post_id: Benalmadena_Malaga

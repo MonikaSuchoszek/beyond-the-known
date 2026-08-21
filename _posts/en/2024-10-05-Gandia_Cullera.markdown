@@ -6,7 +6,7 @@ description: "Platja de Gandia as a base for a family beach holiday on Spain's e
 date:   2024-10-05 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Spain Valencia Gandia Cullera castle
+tags:	spain valencia gandia cullera castle
 cover:  "/assets/Spain/Gandia/20240823_194625_01.jpg"
 thumbnail:  "/assets/thumbnails/Gandia.JPG"
 post_id: Gandia

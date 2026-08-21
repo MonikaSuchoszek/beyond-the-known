@@ -5,7 +5,7 @@ description: "Kampus Nanyang na skraju lasu tropikalnego, a zaraz potem Marina B
 date:   2018-01-11 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	singapur miasto natura 
+tags:	singapur miasto natura kultura
 cover:  "/assets/Singapore/DSC09244.jpg"
 thumbnail:  "/assets/thumbnails/singapore_first_glance.jpg"
 post_id: singapore_first_glance

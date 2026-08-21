@@ -6,7 +6,7 @@ description: "Pico Ruivo met een gesloten laatste stuk, het kleurrijke Santana e
 date:   2025-06-02 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Portugal wandeling Madeira
+tags:	portugal wandelen madeira
 cover:  "/assets/Portugal/Madeira/Day5/DSC09395.JPG"
 thumbnail:  "/assets/thumbnails/Day5.JPG"
 post_id: Day5

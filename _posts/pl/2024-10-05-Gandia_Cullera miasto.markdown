@@ -6,7 +6,7 @@ description: "Platja de Gandia jako baza na rodzinne wakacje nad morzem we wscho
 date:   2024-10-05 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Spain Valencia Gandia Cullera castle
+tags:	hiszpania walencia gandia cullera zamek
 cover:  "/assets/Spain/Gandia/20240823_194625_01.jpg"
 thumbnail:  "/assets/thumbnails/Gandia.JPG"
 post_id: Gandia

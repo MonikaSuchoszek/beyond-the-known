@@ -5,7 +5,7 @@ description: "Kampot aan de rivier en Kep aan zee: een bezoek aan peperplantage 
 date:   2018-08-12 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	cultuur geschiedenis Cambodja Khmer
+tags:	cultuur cambodja strand kust
 cover:  "/assets/Cambodia/KampotKep/DSC02130.jpg"
 thumbnail:  "/assets/thumbnails/kampot_kep.jpg"
 post_id: cambodia_kampot_kep

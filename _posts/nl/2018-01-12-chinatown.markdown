@@ -5,7 +5,7 @@ description: "Gefrituurde dumplings, Tian Tian chicken rice en al de rest die we
 date:   2018-01-12 08:43:59
 author: Monika Suchoszek
 categories: reizen eten
-tags:	Singapore stad natuur cultuur
+tags:	singapore stad natuur cultuur
 cover:  "/assets/Singapore/DSC09536.jpg"
 thumbnail:  "/assets/thumbnails/chinatown.jpg"
 post_id: singapore_chinatown

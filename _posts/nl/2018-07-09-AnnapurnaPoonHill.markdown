@@ -5,7 +5,7 @@ description: "Landen in Kathmandu midden in Holi en daarna het Annapurna Circuit
 date:   2018-07-09 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Nepal wandelen Himalaya
+tags:	nepal wandelen himalaya
 cover:  "/assets/Nepal/Annapurna/DSC01713.jpg"
 thumbnail:  "/assets/thumbnails/annapurna_poon_hill.jpg"
 post_id: nepal_annapurna_poon_hill

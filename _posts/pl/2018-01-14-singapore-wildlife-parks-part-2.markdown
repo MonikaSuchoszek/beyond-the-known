@@ -5,7 +5,7 @@ description: "Singapurskie Zoo, gdzie zamiast ogrodzeń są rowy, a lemury i gib
 date:   2018-01-14 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	singapur miasto natura
+tags:	singapur miasto natura kultura
 cover:  "/assets/Singapore/DSC00198.jpg"
 thumbnail:  "/assets/thumbnails/wildlife_parks_2.jpg"
 post_id: singapore_wildlife_parks_2

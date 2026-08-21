@@ -6,7 +6,7 @@ description: "Ten days driving through Denmark in August with a child: 18-24C th
 date:   2025-09-25 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Denmark  
+tags:	denmark
 cover:  "/assets/Denmark/Summary/P8183670.JPG"
 thumbnail:  "/assets/thumbnails/Denmark.JPG"
 post_id: denmark_overview

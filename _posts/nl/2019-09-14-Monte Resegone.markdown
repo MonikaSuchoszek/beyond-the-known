@@ -5,7 +5,7 @@ description: "Een pittige dagwandeling vanuit Lecco naar de top van Monte Resego
 date:   2019-09-14 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	wandelen Italië 
+tags:	wandelen italië
 cover:  "/assets/Italy/Monte_Resegone/DSC06696.JPG"
 thumbnail:  "/assets/thumbnails/monte_resegone.jpg"
 post_id: italy_monte_resegone

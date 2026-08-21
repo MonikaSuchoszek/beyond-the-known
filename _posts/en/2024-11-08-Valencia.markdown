@@ -6,7 +6,7 @@ description: "A day at Oceanografic, the largest aquarium in Europe, and the res
 date:   2024-11-08 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Spain Valencia Oceanarium
+tags:	spain valencia oceanarium
 cover:  "/assets/Spain/Valencia/20240830_160508.jpg"
 thumbnail:  "/assets/thumbnails/Valencia.JPG"
 post_id: Valencia

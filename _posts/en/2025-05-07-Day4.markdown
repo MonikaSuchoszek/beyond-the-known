@@ -6,7 +6,7 @@ description: "A vertical kilometre up Pico Grande, one of Madeira's quieter peak
 date:   2025-05-07 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Portugal hike Madeira 
+tags:	portugal hiking madeira
 cover:  "/assets/Portugal/Madeira/Day4/DSC09250.JPG"
 thumbnail:  "/assets/thumbnails/Day4.JPG"
 post_id: Day4

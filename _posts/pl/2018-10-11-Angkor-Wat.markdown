@@ -5,7 +5,7 @@ description: "Trzy dni na rowerze po Angkorze: rozwój i upadek imperium Khmeró
 date:   2018-10-11 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	kultura historia kambodza khmerowie
+tags:	kultura historia kambodza khmer rowery
 cover:  "/assets/Cambodia/AngkorWat/DSC02466.jpg"
 thumbnail:  "/assets/thumbnails/angkor_wat.jpg"
 post_id: cambodia_angkor_wat

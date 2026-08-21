@@ -5,7 +5,7 @@ description: "Trzy kilometry i tysiąc metrów podejścia z Laorca: dwa warianty
 date:   2019-09-27 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking wlochy bieganie Como jezioro
+tags:	trekking wlochy bieganie como jezioro
 cover:  "/assets/Italy/MonteColtignone/DSC06621.JPG"
 thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
 post_id: italy_monte_coltignone

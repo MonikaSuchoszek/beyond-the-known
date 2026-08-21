@@ -5,7 +5,7 @@ description: "Een volledige marathon met meer dan 100 obstakels in minder dan ze
 date:   2017-09-10 08:43:59
 author: Monika Suchoszek
 categories: sport
-tags:	lopen obstakelrun België
+tags:	lopen obstakelrun belgië
 cover:  "/assets/IronViking/IMG-20170902-WA0002.jpg"
 thumbnail:  "/assets/thumbnails/iron_viking.jpg"
 coords:

@@ -6,7 +6,7 @@ description: "Why we chose Madeira for a honeymoon without the toddler, and what
 date:   2025-01-19 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Portugal city Madeira 
+tags:	portugal city madeira
 cover:  "/assets/Portugal/Madeira/Funchal/DSC08565.JPG"
 thumbnail:  "/assets/thumbnails/Funchal.JPG"
 post_id: Funchal

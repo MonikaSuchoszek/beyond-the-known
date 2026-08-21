@@ -6,7 +6,7 @@ description: "Marina di Massa jako spokojniejsza baza na toskańskim wybrzeżu i
 date:   2026-02-02 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Włochy Massa Piza
+tags:	wlochy massa piza
 cover:  "/assets/Italy/Pisa/20251019_143343_01.jpg"
 thumbnail:  "/assets/thumbnails/Pisa.JPG"
 post_id: italy_massa

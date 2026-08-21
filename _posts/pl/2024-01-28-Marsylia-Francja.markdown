@@ -6,7 +6,7 @@ description: "Weekend w najstarszym mieście Francji: od greckiego portu z 600 r
 date:   2023-12-14 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Francja Marsylia Calanques 
+tags:	francja marsylia calanques trekking
 cover:  "/assets/France/Marseille/PB1030912.jpg"
 thumbnail:  "/assets/thumbnails/Marseille.jpg"
 post_id: Marseille

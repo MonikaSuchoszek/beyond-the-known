@@ -6,7 +6,7 @@ description: "Een weekend in de oudste stad van Frankrijk: van de Griekse haven 
 date:   2023-12-14 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Frankrijk Marseille Calanques wandelen
+tags:	frankrijk marseille calanques wandelen
 cover:  "/assets/France/Marseille/PB1030912.jpg"
 thumbnail:  "/assets/thumbnails/Marseille.jpg"
 post_id: Marseille

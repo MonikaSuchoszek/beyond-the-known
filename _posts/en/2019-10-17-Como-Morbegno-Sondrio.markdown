@@ -5,7 +5,7 @@ description: "Como, Lecco, Milan, Morbegno and Sondrio in ten days: what each ci
 date:   2019-10-17 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	italy Como Sondrio Morbegno  
+tags:	italy como sondrio morbegno
 cover:  "/assets/Italy/Como/small_DSC06573.jpg"
 thumbnail:  "/assets/thumbnails/italy_como.jpg"
 post_id: italy_como

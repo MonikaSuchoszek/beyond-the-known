@@ -6,7 +6,7 @@ description: "Flying in and continuing by train from the airport: how we travell
 date:   2025-12-05 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Italy 
+tags:	italy
 cover:  "/assets/Italy/Pisa/20251025_165505.jpg"
 thumbnail:  "/assets/thumbnails/Italy.JPG"
 post_id: italy_overview

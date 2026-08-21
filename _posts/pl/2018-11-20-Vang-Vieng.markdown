@@ -5,7 +5,7 @@ description: "Vang Vieng słynie z imprez, ale prawdziwym powodem, by się tu za
 date:   2018-11-20 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking laos rowery jaskinia jezioro 
+tags:	trekking laos rowery jaskinia laguna
 cover:  "/assets/Laos/VangVieng/DSC03339.JPG"
 thumbnail:  "/assets/thumbnails/vang_vieng.jpg"
 post_id: laos_vang_vieng

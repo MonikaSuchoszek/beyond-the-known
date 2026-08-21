@@ -5,7 +5,7 @@ description: "Waarom de Khmerkeuken zo goed als onbekend is in Europa en welke C
 date:   2018-10-12 08:43:59
 author: Monika Suchoszek
 categories: reizen eten
-tags:	Cambodja Khmer
+tags:	cambodja khmer
 cover:  "/assets/Cambodia/Food/DSC02375.jpg"
 thumbnail:  "/assets/thumbnails/cambodian_cuisine.jpg"
 post_id: cambodia_food

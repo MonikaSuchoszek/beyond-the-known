@@ -5,7 +5,7 @@ description: "Jurong Bird Park i jego ogromne woliery z 5 tysiącami ptaków: pi
 date:   2018-01-13 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	singapur miasto natura 
+tags:	singapur miasto natura kultura
 cover:  "/assets/Singapore/DSC09786.jpg"
 thumbnail:  "/assets/thumbnails/wildlife_parks_1.jpg"
 post_id: singapore_wildlife_parks_1

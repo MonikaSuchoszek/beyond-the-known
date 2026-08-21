@@ -6,7 +6,7 @@ description: "A one-day Cinque Terre plan that actually works, from La Spezia by
 date:   2026-01-15 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Italy 
+tags:	italy
 cover:  "/assets/Italy/Pisa/20251016_104949_01.jpg"
 thumbnail:  "/assets/thumbnails/CinqueTerre.JPG"
 post_id: italy_cinque

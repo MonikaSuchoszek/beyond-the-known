@@ -6,7 +6,7 @@ description: "Een werkbaar dagplan voor Cinque Terre vanuit La Spezia met veerbo
 date:   2026-01-15 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Italië
+tags:	italië
 cover:  "/assets/Italy/Pisa/20251016_104949_01.jpg"
 thumbnail:  "/assets/thumbnails/CinqueTerre.JPG"
 post_id: italy_cinque

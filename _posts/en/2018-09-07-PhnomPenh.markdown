@@ -5,7 +5,7 @@ description: "An unreliable bus, tuk-tuk drivers quoting tourist prices, and wha
 date:   2018-09-07 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	culture history cambodia khmer
+tags:	culture history cambodia khmer palace temples
 cover:  "/assets/Cambodia/PhnomPenh/DSC02290.jpg"
 thumbnail:  "/assets/thumbnails/phnom_penh.jpg"
 post_id: cambodia_phnom_penh

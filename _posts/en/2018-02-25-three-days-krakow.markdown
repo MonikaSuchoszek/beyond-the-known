@@ -5,7 +5,7 @@ description: "Three winter days in Krakow: a free walking tour of the old town, 
 date:   2018-02-25 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	food poland urban
+tags:	food poland city
 cover:  "/assets/Poland/Krakow/DSC01299.jpg"
 thumbnail:  "/assets/thumbnails/krakow.jpg"
 post_id: poland_krakow

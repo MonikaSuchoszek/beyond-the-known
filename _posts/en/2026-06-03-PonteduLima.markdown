@@ -6,7 +6,7 @@ description: "Portugal's oldest town and two beautiful nature walks nearby, plus
 date:   2026-06-03 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Portugal PonteDeLima Braga
+tags:	portugal pontedelima braga
 cover:  "/assets/Portugal/North/Ponte/20260414_153825.jpg"
 thumbnail:  "/assets/thumbnails/Ponte.JPG"
 post_id: north_PonteDeLima_overview

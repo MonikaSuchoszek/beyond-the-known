@@ -5,7 +5,7 @@ description: "Bekomen aan het Phewameer in Pokhara en terug naar Kathmandu: wat 
 date:   2018-07-20 08:43:59
 author: Monika Suchoszek
 categories: reizen eten sport
-tags:	cultuur geschiedenis Nepal natuur
+tags:	cultuur geschiedenis nepal natuur
 cover:  "/assets/Nepal/PokharaKathmandu/DSC01890.jpg"
 thumbnail:  "/assets/thumbnails/pokhara_kathmandu.jpg"
 post_id: nepal_kathmandu

@@ -5,7 +5,7 @@ description: "Three kilometres and a thousand metres of climbing from Laorca: th
 date:   2019-09-27 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking italy 
+tags:	hiking italy running como lake
 cover:  "/assets/Italy/MonteColtignone/DSC06621.JPG"
 thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
 post_id: italy_monte_coltignone

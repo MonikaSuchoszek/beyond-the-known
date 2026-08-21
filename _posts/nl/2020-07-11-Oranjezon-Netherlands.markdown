@@ -6,7 +6,7 @@ description: "Onze eerste daguitstap nadat de coronamaatregelen waren opgeheven:
 date:   2020-07-11 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Nederland strand zee duinen  
+tags:	nederland strand zee duinen
 cover:  "/assets/Netherlands/Oranjezon/P7110260.1.JPG"
 thumbnail:  "/assets/thumbnails/Oranjezon.jpg"
 post_id: oranjezon_holland

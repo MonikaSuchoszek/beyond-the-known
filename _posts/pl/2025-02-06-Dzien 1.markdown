@@ -6,7 +6,7 @@ description: "Pierwszy dzień na Maderze: wyjazd autem z najbardziej stromej uli
 date:   2025-02-06 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Portugalia trekking Madera
+tags:	portugalia trekking madera
 cover:  "/assets/Portugal/Madeira/Day1/DSC08754.JPG"
 thumbnail:  "/assets/thumbnails/Day1.JPG"
 post_id: Day1

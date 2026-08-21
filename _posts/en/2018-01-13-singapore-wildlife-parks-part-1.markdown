@@ -5,7 +5,7 @@ description: "Jurong Bird Park and its walk-through aviaries of 5000 birds: the 
 date:   2018-01-13 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	singapore urban nature culture
+tags:	singapore city nature culture
 cover:  "/assets/Singapore/DSC09786.jpg"
 thumbnail:  "/assets/thumbnails/wildlife_parks_1.jpg"
 post_id: singapore_wildlife_parks_1

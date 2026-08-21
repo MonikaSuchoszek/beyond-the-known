@@ -6,7 +6,7 @@ description: "Dag één op Madeira: de huurauto uit het steilste straatje van Fu
 date:   2025-02-06 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Portugal wandeling Madeira
+tags:	portugal wandelen madeira
 cover:  "/assets/Portugal/Madeira/Day1/DSC08754.JPG"
 thumbnail:  "/assets/thumbnails/Day1.JPG"
 post_id: Day1

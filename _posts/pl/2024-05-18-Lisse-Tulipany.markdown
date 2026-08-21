@@ -6,7 +6,7 @@ description: "Keukenhof, przejażdżka rowerowa przez pola tulipanów i Dzień K
 date:   2024-05-10 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Holandia Keukenhof rower tulipany
+tags:	holandia keukenhof rowery tulipany
 cover:  "/assets/Netherlands/TulipTrip/20240427_175355.jpg"
 thumbnail:  "/assets/thumbnails/Tulipany.JPG"
 post_id: Lisse

@@ -5,8 +5,8 @@
     <language>nl-NL</language>
     <link>https://www.beyond-the-known.eu/nl/</link>
     <atom:link href="https://www.beyond-the-known.eu/nl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Aug 2026 08:11:46 +0200</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 08:11:46 +0200</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 09:09:06 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:09:06 +0200</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -16,7 +16,7 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2026/08/HikesBE/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2026/08/HikesBE/</guid>
         
-        <category>België</category>
+        <category>belgië</category>
         
         
         <category>Reizen</category>
@@ -30,11 +30,11 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2026/06/PonteduLimaNL/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2026/06/PonteduLimaNL/</guid>
         
-        <category>Portugal</category>
+        <category>portugal</category>
         
-        <category>PonteDeLima</category>
+        <category>pontedelima</category>
         
-        <category>Braga</category>
+        <category>braga</category>
         
         
         <category>Reizen</category>
@@ -48,11 +48,11 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2026/05/PGkust/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2026/05/PGkust/</guid>
         
-        <category>Portugal</category>
+        <category>portugal</category>
         
-        <category>Barcelos</category>
+        <category>barcelos</category>
         
-        <category>Braga</category>
+        <category>braga</category>
         
         
         <category>Reizen</category>
@@ -66,11 +66,11 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2026/04/portugal/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2026/04/portugal/</guid>
         
-        <category>Portugal</category>
+        <category>portugal</category>
         
-        <category>Porto</category>
+        <category>porto</category>
         
-        <category>Braga</category>
+        <category>braga</category>
         
         
         <category>Reizen</category>
@@ -84,9 +84,11 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2026/02/MassaNL/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2026/02/MassaNL/</guid>
         
-        <category>Italië</category>
+        <category>italië</category>
         
-        <category>Massa</category>
+        <category>massa</category>
+        
+        <category>pisa</category>
         
         
         <category>Reizen</category>
@@ -100,7 +102,7 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2026/01/CinqueTerreNL/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2026/01/CinqueTerreNL/</guid>
         
-        <category>Italië</category>
+        <category>italië</category>
         
         
         <category>Reizen</category>
@@ -114,7 +116,7 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2025/12/ItalyNL/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2025/12/ItalyNL/</guid>
         
-        <category>Italië</category>
+        <category>italië</category>
         
         
         <category>Reizen</category>
@@ -128,7 +130,7 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2025/09/DenmarkNL/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2025/09/DenmarkNL/</guid>
         
-        <category>Denemarken</category>
+        <category>denemarken</category>
         
         
         <category>Reizen</category>
@@ -142,11 +144,11 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2025/06/Day5NL/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2025/06/Day5NL/</guid>
         
-        <category>Portugal</category>
+        <category>portugal</category>
         
-        <category>wandeling</category>
+        <category>wandelen</category>
         
-        <category>Madeira</category>
+        <category>madeira</category>
         
         
         <category>Reizen</category>
@@ -160,11 +162,11 @@
         <link>https://www.beyond-the-known.eu/nl/reizen/2025/05/Day4NL/</link>
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2025/05/Day4NL/</guid>
         
-        <category>Portugal</category>
+        <category>portugal</category>
         
-        <category>wandeling</category>
+        <category>wandelen</category>
         
-        <category>Madeira</category>
+        <category>madeira</category>
         
         
         <category>Reizen</category>

@@ -5,7 +5,7 @@ description: "How to reach Buddha Park from central Vientiane by public bus for 
 date:   2018-10-31 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	culture laos urban
+tags:	culture laos city
 cover:  "/assets/Laos/BuddhaPark/DSC03214.jpg"
 thumbnail:  "/assets/thumbnails/buddha_park.jpg"
 post_id: laos_buddha_park

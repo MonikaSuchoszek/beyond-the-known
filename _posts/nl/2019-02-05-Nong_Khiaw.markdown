@@ -5,7 +5,7 @@ description: "De steile uitkijkpunten boven Nong Khiaw en de Nam Ou, een hevige 
 date:   2019-02-05 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Laos stad bergen rivier
+tags:	laos stad bergen rivier
 cover:  "/assets/Laos/NongKhiaw/IMG_20180423_105414542_HDR.jpg"
 thumbnail:  "/assets/thumbnails/nong_khiaw.jpg"
 post_id: laos_nong_khiaw

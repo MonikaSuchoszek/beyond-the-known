@@ -6,7 +6,7 @@ description: "Langs het strand en voorbij natuurgebied de Zwarte Polder naar Cad
 date:   2020-08-09 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Nederland strand zee duinen Cadzand-Bad
+tags:	nederland strand zee duinen cadzand-bad
 cover:  "/assets/Netherlands/Nieuwvliet/DSC07292.edit.jpg"
 thumbnail:  "/assets/thumbnails/Cadzand.jpg"
 post_id: cadzand_holland

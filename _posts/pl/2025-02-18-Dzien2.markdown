@@ -6,7 +6,7 @@ description: "Dwie zupełnie różne wędrówki jednego dnia: surowy Półwysep 
 date:   2025-02-18 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Portugalia trekking Madera
+tags:	portugalia trekking madera
 cover:  "/assets/Portugal/Madeira/Day2/DSC08882.JPG"
 thumbnail:  "/assets/thumbnails/Day2.JPG"
 post_id: Day2

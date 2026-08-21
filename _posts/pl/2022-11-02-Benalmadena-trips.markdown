@@ -6,7 +6,7 @@ description: "Mijas i dwa inne pomysły na półdniowe wycieczki z Benalmádeny 
 date:   2022-11-02 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Mijas Benalmadena Hiszpania Colomares Pomnik
+tags:	mijas benalmadena hiszpania colomares pomnik
 cover:  "/assets/Spain/Malaga/20221115_153159.jpg"
 thumbnail:  "/assets/thumbnails/daytrips.JPG"
 post_id: Benalmadena_daytrips

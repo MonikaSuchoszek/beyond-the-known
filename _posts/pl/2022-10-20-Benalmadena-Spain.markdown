@@ -6,7 +6,7 @@ description: "Dlaczego Benalmádena to dobry wybór na jesienny wyjazd z małym 
 date:   2022-10-20 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Malaga Benalmadena Hiszpania Colomares Monument
+tags:	malaga benalmadena hiszpania colomares pomnik
 cover:  "/assets/Spain/Malaga/PB142627.jpg"
 thumbnail:  "/assets/thumbnails/Benalmadena.JPG"
 post_id: Benalmadena_Malaga

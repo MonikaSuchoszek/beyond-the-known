@@ -6,7 +6,7 @@ description: "Dwutygodniowa objazdówka po północnej Portugalii w Wielkanoc: t
 date:   2026-04-19 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Portugalia Porto Braga
+tags:	portugalia porto braga
 cover:  "/assets/Portugal/North/20260410_133934_01.jpg"
 thumbnail:  "/assets/thumbnails/North.JPG"
 post_id: north portugal_overview
@@ -45,7 +45,7 @@ własną podróż.
 Porto oraz okolice Bragi odwiedziłam już wcześniej, w grudniu 2024 roku spędziłam tam długi weekend u koleżanki z pracy, 
 i bardzo mi 
 się tam spodobało. Tym razem chciałam pokazać rodzinie więcej atrakcji północnej Portugalii, wynajmując samochód i 
-organizując pobyt podobny do tego, który odbyliśmy [latem ubiegłego roku w Danii]({% post_url en/2025-09-25-Denmark %}).
+organizując pobyt podobny do tego, który odbyliśmy [latem ubiegłego roku w Danii]({% post_url pl/2025-09-25-Dania %}).
 Dołączył do nas również mój tata, który przyleciał z Polski. Był to nasz pierwszy wyjazd, podczas którego jedna z osób 
 podróżowała z innego kraju. Takie wypady zawsze wiąże się z pewnym ryzykiem, zwłaszcza w przypadku ewentualnych opóźnień 
 lub odwołanych lotów, ale na szczęście wszystko przebiegło bez problemów. My przylecieliśmy dzień wcześniej, natomiast 

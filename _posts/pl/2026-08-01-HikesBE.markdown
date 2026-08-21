@@ -6,7 +6,7 @@ description: "Pięć szlaków w okolicach Liège w Belgii: pętla wokół zamku 
 date:   2026-08-01 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Belgia
+tags:	belgia
 cover:  "/assets/Belgium/Liege/20260515_150509.jpg"
 thumbnail:  "/assets/thumbnails/Hikes.JPG"
 post_id: BE_hikes

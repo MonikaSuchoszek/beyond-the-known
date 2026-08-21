@@ -5,7 +5,7 @@ description: "Hoe PassApp werkt in Phnom Penh en Siem Reap en waarom de app bete
 date:   2018-09-12 08:43:59
 author: Sebastian Proost
 categories: reizen
-tags:	Cambodja tips technologie
+tags:	cambodja tips technologie
 cover:  "/assets/Cambodia/PassApp/DSC02350.jpg"
 thumbnail:  "/assets/thumbnails/passapp.jpg"
 post_id: cambodia_passapp

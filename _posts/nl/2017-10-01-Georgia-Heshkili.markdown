@@ -5,7 +5,7 @@ description: "Onze eerste wandeling in Svaneti: 7 km van Mestia richting de kabe
 date:   2017-10-01 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	wandelen Georgië
+tags:	wandelen georgië
 cover:  "/assets/Georgia/Heshkili/IMG_0209.jpg"
 thumbnail:  "/assets/thumbnails/heshkili.jpg"
 post_id: georgia_heshkili

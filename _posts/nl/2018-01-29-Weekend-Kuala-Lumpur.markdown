@@ -5,7 +5,7 @@ description: "Zeven uur met de bus vanuit Singapore voor één weekend: de drie 
 date:   2018-01-29 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	cultuur Maleisië stad
+tags:	cultuur maleisië stad
 cover:  "/assets/Malaysia/KualaLumpur/DSC00649.jpg"
 thumbnail:  "/assets/thumbnails/kuala_lumpur.jpg"
 post_id: malaysia_kuala_lumpur

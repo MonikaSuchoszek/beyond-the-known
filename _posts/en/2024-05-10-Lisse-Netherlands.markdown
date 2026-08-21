@@ -6,7 +6,7 @@ description: "Keukenhof, cycling through the bulb fields and King's Day in one A
 date:   2024-05-10 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Netherlands Keukenhof cycling tulips
+tags:	netherlands keukenhof cycling tulips
 cover:  "/assets/Netherlands/TulipTrip/20240427_175355.jpg"
 thumbnail:  "/assets/thumbnails/Tulips.JPG"
 post_id: Lisse

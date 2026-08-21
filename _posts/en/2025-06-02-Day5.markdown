@@ -6,7 +6,7 @@ description: "Pico Ruivo with its summit stretch closed, the painted houses of S
 date:   2025-06-02 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Portugal hike Madeira 
+tags:	portugal hiking madeira
 cover:  "/assets/Portugal/Madeira/Day5/DSC09395.JPG"
 thumbnail:  "/assets/thumbnails/Day5.JPG"
 post_id: Day5

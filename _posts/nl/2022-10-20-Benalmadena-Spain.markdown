@@ -6,7 +6,7 @@ description: "Waarom Benalmádena een goede keuze is voor een herfstvakantie met
 date:   2022-10-20 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Málaga Benalmádena Spanje Colomares monument
+tags:	málaga benalmádena spanje colomares monument
 cover:  "/assets/Spain/Malaga/PB142627.jpg"
 thumbnail:  "/assets/thumbnails/Benalmadena.JPG"
 post_id: Benalmadena_Malaga

@@ -7,7 +7,7 @@ byline: "Lush cliffs, stunning viewpoints, banana plantations and natural pools"
 date:   2025-03-20 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Portugal hike Madeira 
+tags:	portugal hiking madeira
 cover:  "/assets/Portugal/Madeira/Day3/20241030_144924_01.jpg"
 thumbnail:  "/assets/thumbnails/Day3.JPG"
 post_id: Day3

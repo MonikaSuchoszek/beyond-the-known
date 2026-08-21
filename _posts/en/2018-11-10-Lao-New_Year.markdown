@@ -5,7 +5,7 @@ description: "Pi Mai Lao, the Lao new year: celebrations in the hottest month, f
 date:   2018-11-10 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	culture laos festival urban
+tags:	culture laos festival city
 cover:  "/assets/Laos/NewYear/DSC03306.jpg"
 thumbnail:  "/assets/thumbnails/lao_new_year.jpg"
 post_id: laos_new_year

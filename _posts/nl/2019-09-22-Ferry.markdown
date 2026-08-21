@@ -5,7 +5,7 @@ description: "Een rustige dag op het Comomeer, met de veerboot tussen Varenna, B
 date:   2019-09-22 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	reizen bezienswaardigheden Italië 
+tags:	stad italië veerboot meer
 cover:  "/assets/Italy/Ferry/DSC06758.JPG"
 thumbnail:  "/assets/thumbnails/ferry_varenna.jpg"
 post_id: italy_ferry_varenna

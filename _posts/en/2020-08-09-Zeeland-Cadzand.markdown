@@ -6,7 +6,7 @@ description: "Walking to Cadzand-Bad along the beach past the Zwarte Polder rese
 date:   2020-08-09 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Netherlands beach sea dunes Cadzand-Bad
+tags:	netherlands beach sea dunes cadzand-bad
 cover:  "/assets/Netherlands/Nieuwvliet/DSC07292.edit.jpg"
 thumbnail:  "/assets/thumbnails/Cadzand.jpg"
 post_id: cadzand_holland

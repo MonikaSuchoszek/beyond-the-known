@@ -6,7 +6,7 @@ description: "A long May weekend in the countryside around Breda: farmhouses, qu
 date:   2023-05-05 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	Netherlands Breda
+tags:	netherlands breda
 cover:  "/assets/Netherlands/Breda/20230501_132917.jpg"
 thumbnail:  "/assets/thumbnails/Breda.JPG"
 post_id: Breda

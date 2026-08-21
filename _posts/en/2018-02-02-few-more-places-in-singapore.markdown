@@ -5,7 +5,7 @@ description: "St John's and Kusu islands, quiet beaches and a few more corners o
 date:   2018-02-02 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	food singapore urban nature 
+tags:	food singapore city nature
 cover:  "/assets/Singapore/DSC101027.jpg"
 thumbnail:  "/assets/thumbnails/singapore_more.jpg"
 post_id: singapore_more_places

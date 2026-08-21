@@ -5,7 +5,7 @@ description: "Een zeven uur durende rit met een lokale bus zonder tussenstops, e
 date:   2018-10-28 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	cultuur Laos stad
+tags:	cultuur laos stad
 cover:  "/assets/Laos/Vientian/DSC03261.jpg"
 thumbnail:  "/assets/thumbnails/vientian.jpg"
 post_id: laos_vientiane

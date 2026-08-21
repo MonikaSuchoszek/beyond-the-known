@@ -5,7 +5,7 @@ description: "Como, Lecco, Milaan, Morbegno en Sondrio in tien dagen: wat elke s
 date:   2019-10-17 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	Italië Como Sondrio Morbegno  
+tags:	italië como sondrio morbegno
 cover:  "/assets/Italy/Como/small_DSC06573.jpg"
 thumbnail:  "/assets/thumbnails/italy_como.jpg"
 post_id: italy_como

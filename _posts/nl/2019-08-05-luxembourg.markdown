@@ -5,7 +5,7 @@ description: "Een deel van de Mullerthal Trail wandelen rond Berdorf: zandsteenk
 date:   2019-08-06 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	wandelen Luxemburg 
+tags:	wandelen luxemburg
 cover:  "/assets/Luxembourg/DSC05283.JPG"
 thumbnail:  "/assets/thumbnails/little_switzerland.jpg"
 post_id: luxembourg_berdorf

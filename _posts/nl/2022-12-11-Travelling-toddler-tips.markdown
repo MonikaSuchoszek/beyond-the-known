@@ -6,7 +6,7 @@ description: "Wat er echt verandert als je met een baby of peuter reist, en met 
 date:   2022-12-11 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	vliegtuig peuter baby Málaga Lissabon Portugal Spanje
+tags:	vliegtuig peuter baby málaga lissabon portugal spanje
 cover:  "/assets/Spain/Malaga/20220218_112537.jpg"
 thumbnail:  "/assets/thumbnails/traveltips.JPG"
 post_id: Travel_tips

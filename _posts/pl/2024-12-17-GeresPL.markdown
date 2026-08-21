@@ -6,7 +6,7 @@ description: "Wilki iberyjskie, półdzikie konie Garrano i szczyty rezerwatu bi
 date:   2024-12-17 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	Portugalia trekking
+tags:	portugalia trekking
 cover:  "/assets/Portugal/Porto/20241208_111108_01.jpg"
 thumbnail:  "/assets/thumbnails/Geres.JPG"
 post_id: Geres

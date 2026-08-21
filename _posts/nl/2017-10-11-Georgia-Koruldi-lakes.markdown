@@ -5,7 +5,7 @@ description: "De zwaarste wandeling van ons verblijf in Mestia: allebei de route
 date:   2017-10-11 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	wandelen Georgië
+tags:	wandelen georgië
 cover:  "/assets/Georgia/Koruldi/IMG_0445.jpg"
 thumbnail:  "/assets/thumbnails/koruldi.jpg"
 post_id: georgia_koruldi_lakes

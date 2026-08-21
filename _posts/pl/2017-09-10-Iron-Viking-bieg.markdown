@@ -5,7 +5,7 @@ description: "Maraton z ponad 100 przeszkodami w niecałe siedem godzin: jak prz
 date:   2017-09-10 08:43:59
 author: Monika Suchoszek
 categories: sport
-tags:	biegi belgia
+tags:	bieganie bieg_z_przeszkodami belgia
 cover:  "/assets/IronViking/IMG-20170902-WA0002.jpg"
 thumbnail:  "/assets/thumbnails/iron_viking.jpg"
 coords:

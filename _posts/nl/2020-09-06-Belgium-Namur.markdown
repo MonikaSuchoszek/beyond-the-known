@@ -6,7 +6,7 @@ description: "De middeleeuwse citadel van Namen en de ruïnes van de abdij van V
 date:   2020-09-06 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	België Wallonië Namen rivier
+tags:	belgië wallonië namen rivier
 cover:  "/assets/Belgium/Namur/DSC07372.JPG"
 thumbnail:  "/assets/thumbnails/Namur.jpg"
 post_id: Belgium_Namur
