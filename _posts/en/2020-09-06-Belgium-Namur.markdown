@@ -29,7 +29,7 @@ gallery_items:
  I just realized that it's the first time I'm writing about Belgium and we live here for 2 years already! This summer we
  are travelling more locally because of travel restriction implemented by the government to reduce the spread of the virus.
  Luckily we bought a car in the spring this year (just two weeks before the lockdown when we both started to work from home)
- so now we are using it to make one-day trips, visiting also neighbouring countries (like the [Netherlands](/tag/en_US/Netherlands/) if current situation allows to do it
+ so now we are using it to make one-day trips, visiting also neighbouring countries (like the [Netherlands](/tag/en_US/netherlands/) if current situation allows to do it
  safely.
 
 Namur was definitely one of the cities on my list to visit in Belgium after hearing about this place nice opinions. Located

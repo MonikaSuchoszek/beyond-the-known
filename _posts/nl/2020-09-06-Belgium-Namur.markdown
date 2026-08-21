@@ -29,7 +29,7 @@ gallery_items:
  Ik besef net dat dit de eerste keer is dat ik over België schrijf, terwijl we hier al twee jaar wonen! Deze zomer
  reizen we meer in eigen streek vanwege de reisbeperkingen die de overheid invoerde om de verspreiding van het virus tegen te gaan.
  Gelukkig kochten we dit voorjaar een auto (amper twee weken voor de lockdown, toen we allebei thuis begonnen te werken),
- zodat we er nu daguitstappen mee maken en ook de buurlanden bezoeken (zoals [Nederland](/tag/nl_NL/Nederland/), als de huidige situatie dat
+ zodat we er nu daguitstappen mee maken en ook de buurlanden bezoeken (zoals [Nederland](/tag/nl_NL/nederland/), als de huidige situatie dat
  veilig toelaat.
 
 Namen stond beslist op mijn lijstje met Belgische steden die ik wilde bezoeken, nadat ik er zoveel goeds over had gehoord. De stad ligt

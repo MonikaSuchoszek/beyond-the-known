@@ -31,7 +31,7 @@ Właśnie zorientowałam się, że tak naprawdę piszę o Belgii po raz pierwszy
 roku nasze podróże, mocno ograniczone przez rządowe restrykcje, zostały zamienione na te bardziej lokalne, weekendowe wypady. Sytuację
 ułatwił nam zakup samochodu na wiosnę tego roku, dwa tygodnie przed zamknięciem granic kraju i tzw lockdown, kiedy to oboje zaczęliśmy
 pracować z domu i co to tej pory się nie zmieniło. Tak więc samochód pozwala nam na jednodniowe lub weekendowe wycieczki
-w kraju lub do sąsiednich krajów (na przykład do [Holandi](/tag/en_US/Netherlands/), jeśli oczywiście przepisy w danym momencie na to pozwalają.
+w kraju lub do sąsiednich krajów (na przykład do [Holandii](/tag/pl_PL/holandia/), jeśli oczywiście przepisy w danym momencie na to pozwalają.
 
 Namur od dawna był jednym z miast w Belgii na mojej liście celów podróżniczych, po tym jak słyszałam dobre opinie o tym miejscu od kilku osób. Położone na
 tyle blisko od miejsca gdzie mieszkamy, że mogliśmy bez problemu podjąć spontaniczną dycyzję o odwiedzeniu tego samego dnia.

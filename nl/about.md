@@ -18,7 +18,7 @@ We reizen samen sinds 2014 en bezochten sindsdien heel wat steden in België
 (Brussel, Antwerpen, Brugge, Gent) en Polen (Warschau, Wrocław, Poznań, Krakau, Międzyzdroje,
 Zakopane). Elk jaar proberen we ook een langere [wandeltocht]({{ '/tag/nl_NL/wandelen' | prepend: site.base }}) te maken! Zo trokken we al naar Marokko,
 IJsland, Georgië en meest recent de Himalaya. We ontdekten ook de schoonheid van de Karkonosze en
-de Tatra in Polen, en van de Alpen rond Bergamo, [Italië]({{ '/tag/nl_NL/Italie' | prepend: site.base }}). We dagen onszelf graag uit met
+de Tatra in Polen, en van de Alpen rond Bergamo, [Italië]({{ '/tag/nl_NL/italië' | prepend: site.base }}). We dagen onszelf graag uit met
 loopwedstrijden zoals halve marathons en obstakelruns (waaronder de Iron Viking, die zichzelf de zwaarste marathon
 ter wereld noemt). Daarbovenop maakten we heel wat weekendtrips in Europa (Cambridge, Barcelona, Leipzig, Hamburg).
 
