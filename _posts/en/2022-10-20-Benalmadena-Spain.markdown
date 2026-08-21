@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  "Banalmadena, perfect autumn destination for a sunny holiday!"
+title:  "Benalmadena, perfect autumn destination for a sunny holiday!"
 description: "Why Benalmadena is a good autumn choice with a small child: beach, mountains, easy transport from the airport and warm October weather."
 date:   2022-10-20 08:43:59
 author: Monika Suchoszek
@@ -27,7 +27,7 @@ everything we needed: easy connection by train from the airport, beach, mountain
 few tourist attractions nearby and plenty of options for the nice accommodation. 
 
 This city is located approximately 20 km from Malaga where you can get easily by the same train that goes to the airport. 
-We were pleasantly surprise by the weather, it was more than 20°C with no rain, and it was the beginning of November! There 
+We were pleasantly surprised by the weather, it was more than 20°C with no rain, and it was the beginning of November! There 
 was no need to rent a car since train connection was so convenient. I had a list of places to visit prepared in 
 advance, and we actually managed to see all of them.
 
@@ -103,9 +103,9 @@ Don't miss out on the opportunity to visit this vibrant and welcoming destinatio
 ## Practical info:
 
   * The airport has perfect connection with Malaga and nearby cities on the coast by train. Buying tickets was very easy,
-someone from the train service told us to use one debet card and scan once for each person and then again while leaving 
-the train station. Our card was charged exactly the price for signe ticket, 2.05 euro per person (20min ride). 
-Train C1 Benalmádena-Arroyo de la Miel in Malaga (walking distance from to the old part of the city), 30min ride, 2.70 euro
+someone from the train service told us to use one debit card and scan once for each person and then again while leaving 
+the train station. Our card was charged exactly the price for a single ticket, 2.05 euro per person (20min ride). 
+Train C1 from Benalmádena-Arroyo de la Miel to Malaga (within walking distance of the old part of the city) takes 30 minutes and costs 2.70 euro.
 More info about trains on the [website](https://www.malagaweb.com/transport/commuter-train-malaga.php)
 
   * We stayed at BenalBeach hotel, huge complex where many apartments were owned by private people and available on 

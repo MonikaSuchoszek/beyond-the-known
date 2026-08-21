@@ -22,11 +22,11 @@ gallery_items:
 This city is a very good choice if you have free weekend and you don't mind to be on a bus for 7h (definitely not 5h 
 as a bus company advertised, expect long queues on the check points at the border and heavy traffic in Kuala Lumpur). 
 Despite delays, heavy rain Saturday afternoon and problems checking out from our hotel, we managed to visit three 
-main turistic areas in the city. On Saturday we decided to go for a dinner and explore the area around Petronas 
+main touristic areas in the city. On Saturday we decided to go for a dinner and explore the area around Petronas 
 Towers (until 2004 the highest building in the world, with the near completion of Exchange 106 it isn't even the 
 tallest building in Kuala Lumpur. They are however still the tallest twin towers.). It's worth to have a walk in a 
 nearby park and observe the Twin Towers from the distance. Even if you are very close to the building, don't worry, 
-local people are taking care of the tourists and selling wide angle lenses for phones :) After sunset the shapes af 
+local people are taking care of the tourists and selling wide angle lenses for phones :) After sunset the shapes of 
 a building become more highlighted and we preferred this magnificent version of a Petronas Towers :D
 
 <img src="/assets/Malaysia/KualaLumpur/DSC00661-e1517205904767.jpg">
@@ -49,7 +49,7 @@ took us about 20 minutes. This limestone hill with few temples, caves and enormo
 attractions in Kuala Lumpur. The Hindu festival Thaipusam in Batu Caves will take place this year on 31st of January, 
 but pilgrims were already gathering there (according to our taxi driver over half a million people attend at the peak 
 of the festival). We noticed followers carrying metal constructions with peacock feathers and flowers on them, a very 
-colorful but heavy burden (can weight up to 100 kg). After a short, powerful dance these men started walking from the 
+colorful but heavy burden (can weigh up to 100 kg). After a short, powerful dance these men started walking from the 
 bottom to the top of 272 stairs, leading to the main cave. I can't imagine doing this in that heat!
 
 
@@ -95,7 +95,7 @@ from where we caught a bus back to Singapore.
 
 
 ## Practical info:
-  * Bus - 40S$ return ticket, StarMart Express (I would not recommend this company due to the fact that we left Singapore with more then an hour of delay, it looked like they were waiting for enough people to fill all seats on a bus. Additionally, we bought a ticket to Boon Lay bus station (we departured from here to KL) near our housing and bus did not stop there on a way back so we (along with a few other travellers) spend an extra hour on MRT to get to our campus :/
+  * Bus - 40S$ return ticket, StarMart Express (I would not recommend this company due to the fact that we left Singapore with more than an hour of delay, it looked like they were waiting for enough people to fill all seats on a bus. Additionally, we bought a ticket to Boon Lay bus station (we departed from here to KL) near our housing and bus did not stop there on a way back so we (along with a few other travellers) spend an extra hour on MRT to get to our campus :/
   * Food - between few to 20 ringgits (Little Penang Kafe in KLCC shopping mall, good place when you are visiting Petronas Towers)
   * Train from Bank Negara station to Batu Caves - 2.30 ringgit
   * Taxi from train station Bank Negara to Batu Caves - 20 ringgit

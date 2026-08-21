@@ -22,9 +22,9 @@ gallery_items:
 In a nutshell, after a few weeks spent hiking in Nepal, we took a plane to Bangkok to start the second part of 
 our journey, this time in very different weather conditions :) Our idea was to make a loop through Cambodia, 
 Laos and then back to Thailand, crossing the country from north to south, finally ending up again in Bangkok. 
-We were lucky enough to spend a few days in a guesthouse with very helpful host who agreed to keep our heavy 
+We were lucky enough to spend a few days in a guesthouse with a very helpful host who agreed to keep our heavy 
 hiking gear in his storage room until we returned to Bangkok in 7 weeks. Our backpacks suddenly became really 
-light and it was time to head off to Cambodia :D
+light and it was time to head off to Cambodia :D
 
 First we took an Uber to get to Eastern Bus Terminal (Ekkamai) in Bangkok where we immediately got on a bus to 
 Trat (230B THB per person). After 7h we finally arrived at the bus station in Trat where we easily 
@@ -44,7 +44,7 @@ you leave !). The dollar is used here as a stronger currency and only small thin
 vegetables from the street stalls you can buy using Cambodian riel. Very often we got change in Cambodian Riel 
 so there is no need to exchange any dollars (1$=4000KHR).
 
-Next day, a tuk tuk driver picked us up from the guesthouse and dropped in front of the bus to Sihanoukville  
+Next day, a tuk tuk driver picked us up from the guesthouse and dropped in front of the bus to Sihanoukville 
 which was actually really useful! For the next 5h we were following the road through incredibly green area, 
 full of wetlands with buffalos walking on them, bushy forests and many fields cut by roads which exposed intense 
 orange color of the soil. What a stunning contrast!
@@ -56,12 +56,12 @@ orange color of the soil. What a stunning contrast!
 
 We decided to stay the next two nights close to Otres Beach. To get there we had to take a tuk tuk from the
 bus station in the center of the city, where our bus finished its ride (5$). But first, let's eat some healthy breakfast! Look at that color, 
-dragon fruit always mades it so pretty and tasty at the same time. I don't need to mention that all fruits tasted sooo much different and better than what
+dragon fruit always makes it so pretty and tasty at the same time. I don't need to mention that all fruits tasted sooo much different and better than what
 we can experience here. 
 
 <img src="/assets/Cambodia/Sihanoukville/IMG_20180327_141957311.jpg">
  
-There are only few streets full 
+There are only a few streets full 
 of bars and restaurants in Otres Beach, some shops, a hairdresser, a beauty salon and plenty options for an 
 accommodation. This place has really relaxing atmosphere and nice, not very crowded beach with many bars. 
 However we noticed enormous construction sites nearby, there will be new Chinese resorts which will possibly 
@@ -73,13 +73,13 @@ change the character of this place in the near future.
 <p class="caption">Ghost crabs digging tiny holes in the sand at the water's edge creating amazing patterns 
 on the beach :) The crabs source nutrients from the tiny balls of sand after each high tide</p>
 
-To plan next day, we checked options for different  boat tours and decided to take a simple one, combining visit 
+To plan next day, we checked options for different boat tours and decided to take a simple one, combining visit 
 of three islands, snorkeling and lunch break at the biggest one, Koh Ta Kiev (15$ per person, booked through our 
 hotel). First a small breakfast (included), then 15 min on the boat and snorkeling close to one of the islands to 
 finally reach Koh Ta Kiev where we had few hours of break to walk, swim and sunbathe :D The water on Cambodian 
-coast was incredibly warm, around 29-30 degrees Celsius ! In the evening we could feel that the air is slightly 
-colder than the water what is a prefect reason to stay in the sea the whole evening. Actually, the entire year 
-water temperature doesn't drop below 28 degrees Celsius what is unbelievable for the person who spend many 
+coast was incredibly warm, around 29-30 degrees Celsius ! In the evening we could feel that the air is slightly 
+colder than the water which is a perfect reason to stay in the sea the whole evening. Actually, the entire year 
+water temperature doesn't drop below 28 degrees Celsius what is unbelievable for the person who spend many 
 summer holidays at cold Baltic Sea where the water can reach crazy 18 degrees Celsius ! Haha, as a kid I had 
 lower expectations. The captain of our boat prepared for us a chicken from BBQ and rice with vegetables, 
 having lunch on a beautiful beach made this experience unforgettable :)
@@ -102,7 +102,7 @@ Sebastian's photos afterwards :D
 <img src="/assets/Cambodia/Sihanoukville/GOPR7902.1.jpg"> 
 
 For the second night we moved to the bungalow with small swimming pool. Actually, this time we figured out 
-why most of the people are coming here, cheap drinks and many bars are were your social life can flourish! 
+why most of the people are coming here, cheap drinks and many bars where your social life can flourish! 
 Good we had our earplugs since some people decided to make a party in front of their bungalow. Next day, after 
 waking up with a 35cm long Tokay Gecko in our room, the minivan to Kampot arrived with (typical for this country) 
 some delay. We were pretty happy with the minivan that picked us up, however this feeling was short-lived as we 

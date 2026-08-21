@@ -43,10 +43,10 @@ that part path again became easy and pleasant, branching into few variants which
 <img src="/assets/Georgia/Murshkeli/IMG_0390.JPG" alt="Inside of the Prometeush cave" />
 
 We could see in a distance the only road leading to Ushguli with heavy trucks on it. Few villages in the valley looked pretty old and 
-destroyed, however the characteristic for this region towers were still on their places. At on point we decided to start heading back to 
+destroyed, however the characteristic for this region towers were still on their places. At one point we decided to start heading back to 
 Mestia, from curiosity choosing the way through one of the villages located in the lower part of the valley. Buildings seemed to be abandoned 
-and  we haven’t seen anyone there, besides one, barking dog. We got trapped in 10 cm deep mud while passing the narrow paths in the village, 
-luckily no one fall into it! We decided to return mostly the same way as we came to avoid more muddy and unpleasant surprises :) We have met 
+and we didn't see anyone there, besides one, barking dog. We got trapped in 10 cm deep mud while passing the narrow paths in the village, 
+luckily no one fell into it! We decided to return mostly the same way as we came to avoid more muddy and unpleasant surprises :) We have met 
 only few tourists, horses and a dog during this really nice, 20 km walk on that bright and warm day.
 
 <img src="/assets/Georgia/Murshkeli/IMG_0401.JPG" alt="Inside of the Prometeush cave" />
@@ -56,7 +56,7 @@ only few tourists, horses and a dog during this really nice, 20 km walk on that 
 <img src="/assets/Georgia/Murshkeli/IMG_0430.JPG" alt="Okatse canyon" />
 
 As always we finished the hike in one of the restaurants in Mestia, waiting for a great meal to compensate the toils of the day. This time
- as a appetizer zucchini rolls with garlic-walnut paste as a filling, served cold :)
+ as an appetizer zucchini rolls with garlic-walnut paste as a filling, served cold :)
 
 <img src="/assets/Georgia/Murshkeli/IMG_185037198.JPG" alt="Okatse canyon" />
 

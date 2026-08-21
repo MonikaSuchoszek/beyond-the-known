@@ -31,7 +31,7 @@ flying freely among the visitors. These lemurs for example welcomed us near the 
   <img src="/assets/Singapore/DSC00050-e1516842620806.jpg" class="column-50" alt="Zoo" />
 </div>
 
-After short walk we noticed gibbons cherfully jumping between tries, using one arm, keeping themselves upside down for a 
+After short walk we noticed gibbons cheerfully jumping between trees, using one arm, keeping themselves upside down for a 
 long time and being really curious about a monitor lizard walking on a grass below them :p Additionally, there were many monkeys I have never seen before, just look 
 at the cute one next to the gibbon :)
 
@@ -97,7 +97,7 @@ her to spot these wounds and take appropriate action. It also enables her to che
 During the tram ride (around 30-40min) we passed 6 different geographical regions showing animals characteristic 
 for each of them. The English commentary was really helpful, providing information about animals as we passed them. 
 I was the most impressed by the giant Asian Elephant, White African Lions and Greater Asian Rhinoceros. Worth to 
-add that in some parts, animals such as deers were running freely in very close proximity from the tram, no fences 
+add that in some parts, animals such as deer were running freely in very close proximity from the tram, no fences 
 at all, unforgettable experience!
 
 ## Practical information:
@@ -112,4 +112,4 @@ the zoo at night best, his top-pick is the Night Safari.
   * Use mosquito repellent in all parks! 
   * Take your own water bottle, there are many places in all the parks where you can refill it! :)
 
- 
+ 

@@ -34,9 +34,9 @@ and restaurants serving delicious local cuisine. It is common to bargain in the 
 culture here and after some practice you will get better at this :) The whole street looks like a huge outlet 
 store of The North Face, low prices are really tempting just note that it is almost certainly fake. So check 
 the zippers and stitching, more tips <a href="https://www.himalayanwonders.com/blog/6-tips-buying-cheap-trekking-gear-kathmandu.html">here</a>.  
-However, the small backpack I got there, survived next 1.5 month in Asia while being used every day and it is 
+However, the small backpack I got there, survived the next 1.5 months in Asia while being used every day and it is 
 still in a very good shape! :) Already on the first day we noticed many paragliders flying above the lake and 
-I convinced Sebastian to try it! We choose  "Frontiers Paragliding", the second company on a TripAdvisor ranking 
+I convinced Sebastian to try it! We chose "Frontiers Paragliding", the second company on a TripAdvisor ranking 
 (even here you can bargain and drive the price down a bit, especially if you are with a group of few friends). 
 Already next day we were driving in a jeep to face our fears and get a taste of this adventure sport for the 
 first time in our lives. I was the one more excited about this idea but it turned out Sebastian was the one who 
@@ -96,7 +96,7 @@ and snacks.
 <img src="/assets/Nepal/PokharaKathmandu/DSC01944.jpg">
 <img src="/assets/Nepal/PokharaKathmandu/DSC01951.jpg">
 
-On the top of the hill, besides the main temple there are many smaller once and workshops selling handmade items. 
+On the top of the hill, besides the main temple there are many smaller ones and workshops selling handmade items. 
 In one of them we bought a stone with carved mantra, Om Mani Padme Hum (phrase repeated during meditation) and 
 mandala showing 8 symbols of happiness. In the middle of the stone are Buddha Eyes (also known as Wisdom Eyes) 
 meaning powers of Lord Buddha to see all people.
@@ -107,7 +107,7 @@ meaning powers of Lord Buddha to see all people.
 
 Time for the next place! Patan Durbar Square, the oldest part of the city from XVII was really destroyed by the 
 earthquake (7.8-magnitude) from 2015. This world heritage site in the Lalitpur district where most of the buildings 
-are in scaffold still attracts many tourists (the entrance fee is 10$ what is a lot compare to other places where 
+are in scaffold still attracts many tourists (the entrance fee is 10$ which is a lot compared to other places where 
 the fee is usually 2$). We also wandered around Patan on very narrow streets, full of home workshops selling 
 Buddhist metal or bronze statues and sculptures creating great opportunity for art lovers.
 
@@ -119,7 +119,7 @@ Buddhist metal or bronze statues and sculptures creating great opportunity for a
 
 Our taxi driver recommended us *the only quiet place in the city* to relax, 
 <a href="http://www.gardenofdreams.org.np/">Garden of Dreams</a> :p Haha, he was absolutely right! This peaceful 
-oasis is a great place to rest from the hustle and bustle of the city. Flowers, fountaine and friendly squirrels 
+oasis is a great place to rest from the hustle and bustle of the city. Flowers, fountain and friendly squirrels 
 this place really unique. There is also a Kaiser Café, serving food and drinks.
 
 <img src="/assets/Nepal/PokharaKathmandu/DSC01989.jpg">

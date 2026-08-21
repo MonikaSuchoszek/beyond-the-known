@@ -18,12 +18,12 @@ gallery_items:
     gallery_image: "/assets/gallery/chinatown.jpg"
     description: "Thian Hock Keng temple, Chinatown district in Singapore."
 ---
-On the way to Chinatown we decided to stop for a lunch in less touristic place and mix with locals at Maxwell 
+On the way to Chinatown we decided to stop for lunch in a less touristic place and mix with locals at Maxwell 
 food centre, one of many hawker centers in Singapore!
 
 <img src="/assets/Singapore/DSC09471.jpg">
 
-You can find here dozens of stalls with huge variety of food, refreshing local beverages and sweet treats.
+You can find here dozens of stalls with a huge variety of food, refreshing local beverages and sweet treats.
 
 <img src="/assets/Singapore/DSC09472.jpg">
 
@@ -34,26 +34,26 @@ inside and very crispy outside, delicious!
 
 Tian-Tian Chicken Rice at stall 10&amp;11, very simple meal consisting of tender chicken and interestingly spiced rice 
 (3.5S$ small portion), food disappeared from the plate immediately!
-This stall defeated Gordon Ramsey in "Hawker Heroes Challenge” and is vary famous in Singapore. We also tried 
+This stall defeated Gordon Ramsay in "Hawker Heroes Challenge” and is very famous in Singapore. We also tried 
 hot&amp;sour soup (stall 92) and egg-chicken-vegetable-rice. The latter was scooped on the plate with impressive 
-vigor and speed. While it doesn't look like a gourmet dinner, the flavors where great and only 3.1S$.
+vigor and speed. While it doesn't look like a gourmet dinner, the flavors were great and only 3.1S$.
 
 <img src="/assets/Singapore/DSC09472.2.jpg">
 
-Sugar cane juice (1.2S$) is very popular here but for me, way to sweet. Sebastian liked his three-layer coffee: a 
+Sugar cane juice (1.2S$) is very popular here but for me, way too sweet. Sebastian liked his three-layer coffee: a 
 bottom of coffee sirup, followed by condensed milk and strong coffee on top :)
 
 <img src="/assets/Singapore/DSC09472.3.jpg">
 
-The Buddha Tooth Replic Museum was the first temple we noticed in the Chinatown district. Note that you need to be 
+The Buddha Tooth Relic Museum was the first temple we noticed in the Chinatown district. Note that you need to be 
 dressed properly to enter this (and other) temple(s). Inside the temple is richly decorated with lustrous gold.
 
 <img src="/assets/Singapore/DSC09476.jpg">
 <img src="/assets/Singapore/DSC09488.jpg">
 
-The Chinatown complex, opened in 1984 is a place full of souvenirs, traditional chinese decorations, clothes and 
+The Chinatown complex, opened in 1984 is a place full of souvenirs, traditional Chinese decorations, clothes and 
 local food. We also spotted some counterfeit watches and bootleg DVDs being sold in a nearby alley. The dominant 
-color inside is red and gold, the colors of traditional chinese decorations.
+color inside is red and gold, the colors of traditional Chinese decorations.
 
 <img src="/assets/Singapore/DSC09496.jpg">
 
@@ -65,7 +65,7 @@ public transport. Next time I will not breath through my nose and try them :p
 
 Few days later, I noticed durian flavour cookies, chocolate and candy in one of the Chinese supermarkets. Since I 
 was very curious about the flavour, I bought bar of chocolate. How big my surprise was when I discovered that these 
-products smell like the fresh fruits! :O Ugh.... I do not recommend to open any of them in a public places ;) Now the 
+products smell like the fresh fruits! :O Ugh.... I do not recommend to open any of them in a public place ;) Now the 
 chocolate is wrapped tightly in a plastic bag and waiting on a balcony for someone willing to try it! :D
 
 <img src="/assets/Singapore/IMG_20180112_18253884501.jpg">

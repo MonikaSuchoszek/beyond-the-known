@@ -23,7 +23,7 @@ The longest and the most demanding trekking was planned for the last day of our 
 predictions were giving us very high chances of stable conditions needed for this long hike. There are few variants 
 of the first part of a trekking, you can take a path starting next to the church described in 
 [this post]({% post_url en/2017-10-02-Georgia-Mestia %}) and follow it until the sign pointing to Koruldi lakes 
-(next to the place where we met horses) or you can start close to Khergiani tower where we finished mentioned above 
+(next to the place where we met horses) or you can start close to Khergiani tower where we finished the above-mentioned 
 hike. This time we decided to use another variant starting close to police station and Queen Tamar square in Mestia. 
 After a short part through a village, this path leads upstream, then turns sharply to the slopes on the right, 
 becoming very narrow and steep. After a while we reached wide path in the forest and followed it for the next 
@@ -47,7 +47,7 @@ wooden sheds which looked abandoned, there are also no mountain shelters in this
 <img src="/assets/Georgia/Koruldi/IMG_0455.jpg">
 <img src="/assets/Georgia/Koruldi/IMG_0460.jpg">
 
-From the view platform to the Koruldi lakes it took as 2.5h of continuous walking. After a short break near the 
+From the view platform to the Koruldi lakes it took us 2.5h of continuous walking. After a short break near the 
 group of alpine lakes (almost not visible because of the snow covering them) for snacks and photos, we were heading 
 back to Mestia. Lakes are localized at the foot of Mt. Ushba and it is possible to walk further up to next viewpoint 
 (around 3.000 m).

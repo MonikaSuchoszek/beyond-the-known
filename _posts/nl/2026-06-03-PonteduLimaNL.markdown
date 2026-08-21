@@ -26,7 +26,7 @@ De volgende twee dagen brachten we door in Braga en in het toeristischere Guimar
 Portugal". Ik had beide steden al in december 2024 bezocht en je kan erover lezen in mijn eerdere blogpost,
 [Een magisch bezoek aan Braga en Guimarães]({% post_url nl/2024-12-14-BragaNL %}).
 Toch was het echt fijn om dezelfde plekken in een compleet ander decor terug te zien, dit keer met overal prachtige
-lentebloemen die de steden kleur gaven en helemaal deden leven. In december hing er een magische kerstsfeer en zaten de
+lentebloemen die de steden kleur gaven en helemaal tot leven brachten. In december hing er een magische kerstsfeer en zaten de
 sinaasappelbomen vol vruchten, dus beide seizoenen hebben hun eigen charme. Omdat we in het centrum van Braga verbleven,
 konden we makkelijk te voet de stad in, ook 's avonds, om iets te gaan eten en te genieten van de mooie pleinen vol kleurige
 bloemen. Naast de stad zelf bezochten we ook Bom Jesus do Monte en het heiligdom van Onze-Lieve-Vrouw van Sameiro. We kregen

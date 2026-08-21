@@ -121,7 +121,7 @@ sinaasappelbomen.
 
 <img src="/assets/Spain/Valencia/20240830_125002.jpg" />
 
-Onze volgende halte was het Plaça de l'Ajuntament, met het stadhuis van Valencia, het hoofdpostkantoor en verschillende
+Onze volgende halte was Plaça de l'Ajuntament, met het stadhuis van Valencia, het hoofdpostkantoor en verschillende
 prachtige historische bankgebouwen. Dit plein is een populaire ontmoetingsplek voor zowel inwoners als toeristen, want
 het is een knooppunt voor veel buslijnen. Bloemenstalletjes en een fontein geven deze grote, levendige ruimte extra
 charme.
@@ -136,7 +136,7 @@ dan waard.
 
 <img src="/assets/Spain/Valencia/20240830_134351.jpg" />
 
-Toen we op het Plaça de la Reina aankwamen, waren we aangenaam verrast door de vernevelaars die op warme dagen voor een
+Toen we op Plaça de la Reina aankwamen, waren we aangenaam verrast door de vernevelaars die op warme dagen voor een
 verfrissende verkoeling zorgen. Het plein ligt pal naast de iconische kathedraal van Valencia, werd onlangs gerenoveerd
 en wordt omringd door cafés, restaurants en winkels, wat het een perfecte plek maakt om iets te eten of te drinken.
 

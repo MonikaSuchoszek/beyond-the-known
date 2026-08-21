@@ -20,8 +20,8 @@ gallery_items:
 ---
 
 Our visit to Krakow started with the guided walking tour in the morning to get a proper introduction of the 
-city and its rich history. We jointed <a href="https://freewalkingtour.com/krakow/">FREE walking TOUR</a> 
-though Krakow's old town which started between St. Florian´s Gate and Barbican and finished at Wawel castle, 
+city and its rich history. We joined <a href="https://freewalkingtour.com/krakow/">FREE walking TOUR</a> 
+though Krakow's old town which started between St. Florian's Gate and Barbican and finished at Wawel castle, 
 located on the top of the hill with the same name (about 2.5 hours tour). Despite the really beautiful, sunny 
 weather after one hour we could already feel that we were in the middle of Polish winter. The tour was really 
 informative, full of interesting facts about the beginning of the city, the period of Swedish invasions and 
@@ -43,7 +43,7 @@ trade routes passing Krakow in Middle ages and connecting the city with the rest
 </div>
 
 
-Sukiennice (Cloth Hall) is a place were you can buy local souvenirs, most of the are hand made, like amber 
+Sukiennice (Cloth Hall) is a place where you can buy local souvenirs, most of them are hand made, like amber 
 jewelry, lacework, cloth handicrafts, wood carvings. We also noticed that many of them were actually cheaper 
 here than in souvenir shops at Floriańska street (main shopping street). We also tried very popular in Krakow snack, 
 called obwarzanek, which is a kind of soft pretzel, mostly covered with sesame or poppy.
@@ -79,9 +79,9 @@ headed back to Krakow.
 <img src="/assets/Poland/Krakow/DSC01342.jpg" />
 
 On our last day we visited two museums; <a href="http://www.mhk.pl/branches/eagle-pharmacy">The Eagle Pharmacy</a> 
-(Tadeusz Pankiewicz's Pharmacy) and <a href="http://www.mhk.pl/branches/oskar-schindlers-factory">Oskar's Schindler 
+(Tadeusz Pankiewicz's Pharmacy) and <a href="http://www.mhk.pl/branches/oskar-schindlers-factory">Oskar Schindler's 
 Factory</a> in Krakow Ghetto. The first one shows all rooms of the former pharmacy and their original roles. It 
-is full of hidden details about how people survived life in ghetto, which medication was&nbsp; available at 
+is full of hidden details about how people survived life in ghetto, which medication was available at 
 that time and which was the most popular. The book, written by the owner of this pharmacy, "The Cracow 
 Ghetto Pharmacy" describes tragic events which occurred in the Krakow ghetto and was published just after the war. 
 There are movies to watch, photos to touch and documents to read, no-one would be bored here!
@@ -119,19 +119,19 @@ Tasty food at a great price!
   * lacework
   * cloth handicrafts
   * wood carvings
-  * accesories with polish folk patterns (umbrella, glasses case, apron, pillow case)
+  * accessories with polish folk patterns (umbrella, glasses case, apron, pillow case)
   * many people will be really happy to get ptasie mleczko (look section below) from Wawel or kabanosy (long thin dry sausage made usually of pork) as a souvenir ;)
 
 ## Food to try:
   * Pierogi - dumplings, hearty (meat, cabbage and mushrooms, Russian) or sweet version (sweet cottage cheese, apples, strawberries)
   * Golonka - knuckle of pork usually with beer sauce
-  * Zrazy - traditional Polish beef reulade
+  * Zrazy - traditional Polish beef roulade
   * Gołąbki - stuffed cabbage rolls
   * Bigos - stew contained sauerkraut, meat, sausage, mushrooms
   * Barszcz - beetroot soup, could be served with dumplings
-  * Rosół - chicken brot
+  * Rosół - chicken broth
   * Żurek - traditional Polish fermented sour soup with egg or white sausage
-  * Placki ziemniaczane - potatoe pancakes, very often served with pork stew
+  * Placki ziemniaczane - potato pancakes, very often served with pork stew
   * Kompot - boiled fruit drink, very common to drink with dinner
 
 ## Sweet treats:

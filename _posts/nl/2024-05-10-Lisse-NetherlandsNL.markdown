@@ -144,7 +144,7 @@ kleurrijke tulpenvelden op het hoogtepunt van het seizoen. Tijdens ons bezoek wa
 De grootste trekpleister van de Keukenhof zijn de 7 miljoen voorjaarsbloeiende bollen, die samen een levende catalogus vormen voor de 100 deelnemende
 bedrijven. Meer dan 500 kwekers tonen een indrukwekkende verscheidenheid aan snijbloemen en potplanten op meer dan 20
 bloemenshows. Vroeg in het seizoen geniet je van krokussen, narcissen, hyacinten en vroege tulpen in volle bloei.
-Naarmate het seizoen vordert, verandert de tuin en verschijnen grotere tulpen en andere bloemen. De Keukenhof is een
+Naarmate het seizoen vordert, verandert de tuin en verschijnen grotere tulpen en andere bloemen. De Keukenhof is
 voor elke bloemenliefhebber een niet te missen bestemming en biedt een spectaculair schouwspel van natuurpracht. Het is wel belangrijk om te weten
 dat het park behoorlijk druk kan worden, zelfs op een maandagochtend. De ervaring is ongetwijfeld magisch, maar door de
 enorme toeloop zou ik dit niet elk jaar opnieuw doen. Toch blijft de Keukenhof een bloemenparadijs dat je minstens

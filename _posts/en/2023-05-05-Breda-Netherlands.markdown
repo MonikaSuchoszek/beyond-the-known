@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  "Peaceful Dutch countryside close to Belgium border"
+title:  "Peaceful Dutch countryside close to the Belgian border"
 description: "A long May weekend in the countryside around Breda: farmhouses, quiet walking and cycling routes, and a very peaceful stretch of border."
 date:   2023-05-05 08:43:59
 author: Monika Suchoszek
@@ -23,7 +23,7 @@ gallery_items:
 May holds a special place in my heart, not only because it marks my birthday but also because it offers plenty of long 
 weekends, making it the perfect time for local trips. This year, we set our sights on the tranquil countryside surrounding 
 Breda, a charming city in the Netherlands. As we left the highway, the landscape 
-changed to large farmhouses with many horse and a tractors dotting the fields. Our adventure began right away as we 
+changed to large farmhouses with many horses and tractors dotting the fields. Our adventure began right away as we 
 admired the rural landscape while walking around the place we stayed. Natuurgebied Pannenhoef was our first destination, 
 a green area on the map that turned out to be a nice place for walks and bird watching. We not only saw birds but also 
 horses and sheep. It had really beautiful surroundings with many cycling routes and wooden bridges. Along the narrow paths, 
@@ -95,7 +95,7 @@ May truly proved to be the ideal time for local trips, allowing us to immerse ou
 cherished memories along the way. I found myself eagerly looking forward to my next adventure. This time, the excitement 
 was amplified as it marked my first weekend trip without my daughter. It was a chance to immerse myself in the vibrant 
 energy of Paris, accompanied by a friend. With a mere 36 hours in the City of Light, we were determined to make every 
-moment count and create lasting memories. More details in upcoming post.
+moment count and create lasting memories. More details in an upcoming post.
 
 ## Practical info:
 
@@ -117,8 +117,8 @@ on the horizon.
   * There are several parking spaces around Natuurgebied Pannenhoef. We left our car once at Pannenhoef Parkeerplaats het 
 Vaartven. This is not a proper parking lot, just some spaces between trees where you are allowed to park, and I can 
 imagine it can be difficult to drive there after rain.
-  * Every evening, I went for a run in the surroundings of the nature reservoir Pannenhoef and Rijsbergen city. Below 
-are the maps of my runs, both around 8km. The first one, in the nature reservoir, was very nice, mainly exploring wetlands. 
+  * Every evening, I went for a run in the surroundings of the nature reserve Pannenhoef and Rijsbergen city. Below 
+are the maps of my runs, both around 8km. The first one, in the nature reserve, was very nice, mainly exploring wetlands. 
 On the second day, I headed towards the mini zoo that we visited, trying to use small paths that crossed the surrounding 
 fields.
 

@@ -53,10 +53,10 @@ experience will not be so good when trying one from Chinatown :p Even the charac
 was different on every stall, depending on a variety and freshness of the fruits. King of Kings was the variety we 
 tried (around 20S$ per kg), very sweet flavour with a creamy consistency (not surprising, consists of fifty-fifty 
 carbohydrates and fat :p). Using disposable plastic gloves was very useful as the pulp turned up to be the 
-consistence of a sticky pudding :D I heard you need to try this fruit a few times to really know is you are 
+consistence of a sticky pudding :D I heard you need to try this fruit a few times to really know if you are a 
 durian lover or not. Actually, I need to admit that taste was different with every bite :) According to some 
-studies, genes regulating the sulphur pathway are responsible for the unbearable smell of this fruit (though after 
-few minutes we didn't have any problems with the smell anymore). The owner of the stall is really en expert and 
+studies, genes regulating the sulphur pathway are responsible for the unbearable smell of this fruit (though after 
+few minutes we didn't have any problems with the smell anymore). The owner of the stall is really an expert and 
 can easily recognize good quality fruits but smelling them and tapping them with his machete.
 
 <img src="/assets/Singapore/DSC100558.jpg" />
@@ -69,7 +69,7 @@ can easily recognize good quality fruits but smelling them and tapping them with
 
 Nice view on the whole Marina Bay, Gardens by the Bay, Esplanade Theaters and sky scrapers. Located on the 57th 
 floor of Marina Bay Sands hotel. Especially worth to go in the evening and admire a sunset and watch the 
-spectacularly illuminated  super trees in the Gardens by the Bay. Hotel guests can also enjoy infinity pool, 
+spectacularly illuminated super trees in the Gardens by the Bay. Hotel guests can also enjoy infinity pool, 
 visible to us only from a distance. There is also a bar where you can enjoy a drink with this amazing view :)
 
 <img src="/assets/Singapore/DSC100965.jpg" />
@@ -87,7 +87,7 @@ snacks and plenty of water with you. The TreeTop Walk, accessible only from the 
 250m long, 25m above the forest floor at the highest point. This free-standing suspension bridge is the highlight of 
 the park (open Tuesday-Sunday, 9am-5pm). We have seen monkeys (one wanted to steal our bags!), a small snake (a 
 banded flying snake), lizards and many interesting plants. We are used to hike with the heavy backpacks, however 
-this trip made as really exhausted! High temperatures and humidity ever higher than in the city made this day really 
+this trip made us really exhausted! High temperatures and humidity even higher than in the city made this day really 
 difficult but it was worth it! :D
 
 <img src="/assets/Singapore/DSC101164.jpg" />
@@ -98,9 +98,9 @@ difficult but it was worth it! :D
 262 Pasir Panjang Rd, Singapore, free entry
 
 Built in 1937 by two Chinese brothers as a place for teaching traditional Chinese values. Now, converted into the 
-theme park showing scenes from Chinese culture, folklore and mythology. We found there countless colorful statues 
-from sumo wrestles, through mermaids to laughing Buddha. The number of different scenes presented in the park was 
-overwhelming for me ... or maybe that was due to the high temperatures :p It is very different for the other places 
+theme park showing scenes from Chinese culture, folklore and mythology. We found there countless colorful statues 
+from sumo wrestlers, through mermaids to laughing Buddha. The number of different scenes presented in the park was 
+overwhelming for me ... or maybe that was due to the high temperatures :p It is very different from the other places 
 in Singapore so you should visit it to get a feeling of Chinese folklore.
 
 <img src="/assets/Singapore/DSC101108.jpg" />

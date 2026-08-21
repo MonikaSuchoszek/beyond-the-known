@@ -397,7 +397,7 @@
       "url"      : "/nl/reizen/2025/05/Day4NL/",
       "date"     : "May 07, 2025",
       "locale"   : "nl_NL",
-      "content" :  "Ik keek zo uit naar deze dag! Een pure wandeldag, met als doel een van de minder toeristische toppen van het eiland en duizend hoogtemeters te overbruggen: dat was het plan voor vandaag. Het weer zag er fantastisch uit, dus we hadden ons niets beters kunnen wensen. Met versnaperingen ingepakt..."
+      "content" :  "Ik keek zo uit naar deze dag! Een pure wandeldag, met als doel een van de minder toeristische toppen van het eiland te bereiken en duizend hoogtemeters te overbruggen: dat was het plan voor vandaag. Het weer zag er fantastisch uit, dus we hadden ons niets beters kunnen wensen. Met..."
       
        , "coords" : {
           "lat" : 32.814375,
@@ -607,7 +607,7 @@
       "url"      : "/nl/reizen/2024/12/GeresNL/",
       "date"     : "December 17, 2024",
       "locale"   : "nl_NL",
-      "content" :  "Het biosfeerreservaat Gerês-Xurés (Reserva de la Biosfera Transfronteriza Gerês-Xurés) strekt zich uit over Galicië (Spanje) en de noordelijke regio van Portugal. Met zijn hoogste toppen, de Nevosa (1.646 m) en de Fontefría, in het hart van het gebergte Serra Gerês-Xurés, werd het in 2009 erkend als UNESCO-biosfeerreservaat. Een zeldzaam maar..."
+      "content" :  "Het biosfeerreservaat Gerês-Xurés (Reserva de la Biosfera Transfronteriza Gerês-Xurés) strekt zich uit over Galicië in Spanje en de Portugese regio Norte. In het hart van het gebergte Serra Gerês-Xurés liggen de hoogste toppen, de Nevosa (1.646 m) en de Fontefría. In 2009 erkende UNESCO het gebied als biosfeerreservaat. Een zeldzaam..."
       
        , "coords" : {
           "lat" : 41.708669,
@@ -897,7 +897,21 @@
     } ,
 
     {
-      "title"    : "Peaceful Dutch countryside close to Belgium border",
+      "title"    : "Rustig Nederlands platteland vlak bij de Belgische grens",
+      "url"      : "/nl/reizen/2023/05/Breda-Netherlands/",
+      "date"     : "May 05, 2023",
+      "locale"   : "nl_NL",
+      "content" :  "Mei heeft een speciaal plekje in mijn hart, niet alleen omdat ik dan jarig ben, maar ook omdat er heel wat lange weekends in vallen, waardoor het de perfecte periode is voor uitstapjes dicht bij huis. Dit jaar trokken we naar het rustige platteland rond Breda, een charmante stad in..."
+      
+       , "coords" : {
+          "lat" : 51.508735,
+          "lng" : 4.671881
+      }
+      
+    } ,
+
+    {
+      "title"    : "Peaceful Dutch countryside close to the Belgian border",
       "url"      : "/en/travel/2023/05/Breda-Netherlands/",
       "date"     : "May 05, 2023",
       "locale"   : "en_US",
@@ -911,11 +925,57 @@
     } ,
 
     {
+      "title"    : "Jak ułatwić sobie podróżowanie z niemowlęciem lub małym dzieckiem",
+      "url"      : "/pl/podroze/2022/12/Travelling-toddler-tips/",
+      "date"     : "December 11, 2022",
+      "locale"   : "pl_PL",
+      "content" :  "Musieliśmy zmienić nasz sposób podróżowania i dostosować go do potrzeb naszej pociechy. Ludzie często mówią, że po zostaniu rodzicem nadal można podróżować. To prawda, można… ale nie będzie już tak samo! Nasze wakacje są teraz mniej intensywne. Odwiedzamy miejsca przyjazne dzieciom, w których mamy realną szansę odpocząć i złapać oddech...."
+      
+    } ,
+
+    {
+      "title"    : "Tips om reizen met een baby of peuter gemakkelijker te maken",
+      "url"      : "/nl/reizen/2022/12/Travelling-toddler-tips/",
+      "date"     : "December 11, 2022",
+      "locale"   : "nl_NL",
+      "content" :  "We moesten onze manier van reizen aanpassen aan de behoeften van onze kleine meid. Mensen zeggen altijd dat je kunt blijven reizen nadat je vader of moeder bent geworden. Ja, dat klopt, het kan … maar het zal niet hetzelfde zijn! Onze vakanties zijn nu minder intensief en we bezoeken..."
+      
+    } ,
+
+    {
       "title"    : "Tips to make travelling with the baby or toddler easier",
       "url"      : "/en/travel/2022/12/Travelling-toddler-tips/",
       "date"     : "December 11, 2022",
       "locale"   : "en_US",
       "content" :  "We had to change our way of travelling and adjust to the needs of our little one. People always say that you can keep travelling even after you became a parent. Yes, it’s true, you can … but it will not be the same! Our holidays now are less intense,..."
+      
+    } ,
+
+    {
+      "title"    : "Nasze 3 najlepsze półdniowe wycieczki z Benalmádeny ",
+      "url"      : "/pl/podroze/2022/11/Benalmadena-trips/",
+      "date"     : "November 02, 2022",
+      "locale"   : "pl_PL",
+      "content" :  "Malaga, a zwłaszcza Benalmádena, to świetna baza wypadowa na krótkie wycieczki po tej części Andaluzji. Mieliśmy trzy dni i postanowiliśmy poświęcić każde popołudnie na odkrywanie innego miejsca. Całość można bez problemu zobaczyć w połowę tego czasu, ale podróżując z małym dzieckiem, nie chcieliśmy się spieszyć. Miasteczko Mijas Naszym pierwszym (i..."
+      
+       , "coords" : {
+          "lat" : 36.59909,
+          "lng" : -4.535895
+      }
+      
+    } ,
+
+    {
+      "title"    : "Onze 3 favoriete uitstappen van een halve dag vanuit Benalmádena ",
+      "url"      : "/nl/reizen/2022/11/Benalmadena-trips/",
+      "date"     : "November 02, 2022",
+      "locale"   : "nl_NL",
+      "content" :  "Málaga, en vooral Benalmádena, zijn fijne uitvalsbasissen voor korte uitstappen in dit deel van Andalusië. We waren er drie dagen en besloten elke namiddag een andere bestemming te verkennen. Je kunt alles makkelijk in de helft van de tijd doen, maar we wilden ons met de baby niet haasten. Het..."
+      
+       , "coords" : {
+          "lat" : 36.59909,
+          "lng" : -4.535895
+      }
       
     } ,
 
@@ -934,7 +994,35 @@
     } ,
 
     {
-      "title"    : "Banalmadena, perfect autumn destination for a sunny holiday!",
+      "title"    : "Benalmádena, idealne miejsce na słoneczny jesienny urlop!",
+      "url"      : "/pl/podroze/2022/10/Benalmadena-Spain/",
+      "date"     : "October 20, 2022",
+      "locale"   : "pl_PL",
+      "content" :  "Po zaplanowaniu wszystkich wyjazdów do Polski na resztę roku został nam jeszcze mniej więcej tydzień urlopu, więc postanowiliśmy znaleźć jakieś przyjemne, ciepłe miejsce do odwiedzenia w Europie. Po sprawdzeniu wszystkich możliwych połączeń lotniczych z najbliższego lotniska zdecydowaliśmy się na najcieplejszą opcję, czyli południe Hiszpanii. Nasz cel, Benalmádena, miał wszystko, czego..."
+      
+       , "coords" : {
+          "lat" : 36.59909,
+          "lng" : -4.535895
+      }
+      
+    } ,
+
+    {
+      "title"    : "Benalmádena, de perfecte herfstbestemming voor een zonnige vakantie!",
+      "url"      : "/nl/reizen/2022/10/Benalmadena-Spain/",
+      "date"     : "October 20, 2022",
+      "locale"   : "nl_NL",
+      "content" :  "Nadat we al onze reizen naar Polen voor de rest van het jaar hadden gepland, hadden we nog ongeveer een week vakantie over. Daarom besloten we op zoek te gaan naar een leuke, warme plek in Europa. Nadat we alle mogelijke vliegverbindingen vanaf de dichtstbijzijnde luchthaven hadden bekeken, kozen we..."
+      
+       , "coords" : {
+          "lat" : 36.59909,
+          "lng" : -4.535895
+      }
+      
+    } ,
+
+    {
+      "title"    : "Benalmadena, perfect autumn destination for a sunny holiday!",
       "url"      : "/en/travel/2022/10/Benalmadena-Spain/",
       "date"     : "October 20, 2022",
       "locale"   : "en_US",
@@ -943,6 +1031,34 @@
        , "coords" : {
           "lat" : 36.59909,
           "lng" : -4.535895
+      }
+      
+    } ,
+
+    {
+      "title"    : "Lizbona z maluchem: nasza pierwsza rodzinna podróż za granicę",
+      "url"      : "/pl/podroze/2022/03/Lisbon-Portugal/",
+      "date"     : "March 20, 2022",
+      "locale"   : "pl_PL",
+      "content" :  "Gdy mój urlop macierzyński dobiegał końca, oboje z partnerem rozpaczliwie potrzebowaliśmy ucieczki od szarej i deszczowej pogody w Belgii. Szukaliśmy miejsca, w którym byłoby ciepło, ale nie upalnie, lot nie trwałby długo, dojazd z lotniska byłby bardzo dobry, a piękno przyrody idealnie łączyłoby się z atrakcjami kulturalnymi. Lizbono, nadchodzimy! Podczas..."
+      
+       , "coords" : {
+          "lat" : 38.729432,
+          "lng" : -9.133721
+      }
+      
+    } ,
+
+    {
+      "title"    : "Lissabon met een kleintje: onze eerste gezinsreis naar het buitenland",
+      "url"      : "/nl/reizen/2022/03/Lisbon-Portugal/",
+      "date"     : "March 20, 2022",
+      "locale"   : "nl_NL",
+      "content" :  "Nu mijn moederschapsverlof op zijn einde liep, snakten mijn partner en ik ernaar om even te ontsnappen aan het grijze, regenachtige weer in België. We zochten een bestemming waar het warm was zonder dat het er bloedheet werd, met een korte vlucht, goede verbindingen vanaf de luchthaven en de perfecte..."
+      
+       , "coords" : {
+          "lat" : 38.729432,
+          "lng" : -9.133721
       }
       
     } ,
@@ -957,6 +1073,34 @@
        , "coords" : {
           "lat" : 38.729432,
           "lng" : -9.133721
+      }
+      
+    } ,
+
+    {
+      "title"    : "Kemping w Ardenach, zwiedzanie jaskiń i wędrówki wokół pięknych jezior",
+      "url"      : "/pl/podroze/2021/06/Belgium-Dinant/",
+      "date"     : "June 06, 2021",
+      "locale"   : "pl_PL",
+      "content" :  "Dinant, rodzinne miasto wynalazcy saksofonu Adolphe’a Saxa, było naszym pierwszym celem w drodze w Ardeny. Po przyjemnym, 20-minutowym spacerze wzdłuż rzeki z parkingu dotarliśmy do centrum miasta, nad którym na naprawdę imponującej skale wznosi się słynna cytadela. Najpierw warto przejść na drugi brzeg Mozy mostem Charles’a de Gaulle’a, aby z..."
+      
+       , "coords" : {
+          "lat" : 50.076332,
+          "lng" : 5.555484
+      }
+      
+    } ,
+
+    {
+      "title"    : "Kamperen in de Ardennen, grotten bezoeken en wandelen rond prachtige meren",
+      "url"      : "/nl/reizen/2021/06/Belgium-Dinant/",
+      "date"     : "June 06, 2021",
+      "locale"   : "nl_NL",
+      "content" :  "Dinant, de geboorteplaats van Adolphe Sax, de uitvinder van de saxofoon, was onze eerste bestemming op weg naar de Ardennen. Na een aangename wandeling van 20 minuten langs de rivier vanaf de parking bereikten we het stadscentrum, waar de beroemde citadel hoog boven ons uittorende op de werkelijk indrukwekkende rots...."
+      
+       , "coords" : {
+          "lat" : 50.076332,
+          "lng" : 5.555484
       }
       
     } ,
@@ -1018,6 +1162,20 @@
     } ,
 
     {
+      "title"    : "Franstalig België, Namen en de abdij van Villers",
+      "url"      : "/nl/reizen/2020/09/Belgium-Namur/",
+      "date"     : "September 06, 2020",
+      "locale"   : "nl_NL",
+      "content" :  "De oude muur van een middeleeuwse vesting, opgetrokken uit rode baksteen en natuursteen, met op de achtergrond een traag stromende rivier, of misschien de ruïnes van een abdij uit de 11e eeuw… Die taferelen voor unieke foto’s kwamen bij me op toen ik nadacht over een bestemming voor het komende..."
+      
+       , "coords" : {
+          "lat" : 50.459952,
+          "lng" : 4.862697
+      }
+      
+    } ,
+
+    {
       "title"    : "French-speaking part of Belgium, Namur and Villers Abbey",
       "url"      : "/en/travel/2020/09/Belgium-Namur/",
       "date"     : "September 06, 2020",
@@ -1037,6 +1195,20 @@
       "date"     : "August 09, 2020",
       "locale"   : "pl_PL",
       "content" :  "Bezchmurne niebo przywitało nas również kolejnego dnia, było dość chłodno, ale perspektywna słonecznego dnia sprawiła, że całkiem szybko byliśmy gotowi na całodzienną, pieszą wycieczkę do miasta położonego dokładnie na granicy z Belgią, Cadzand-Bad. Postanowiliśmy całą drogę przejść po plaży, zaczynając przy rezerwacie przyrody zwanym Zwarte Polder. Jest on miejscem uwielbianym..."
+      
+       , "coords" : {
+          "lat" : 51.390729,
+          "lng" : 3.449261
+      }
+      
+    } ,
+
+    {
+      "title"    : "Opnieuw naar Zeeland! Langs het strand naar Cadzand-Bad",
+      "url"      : "/nl/reizen/2020/08/Zeeland-Cadzand/",
+      "date"     : "August 09, 2020",
+      "locale"   : "nl_NL",
+      "content" :  "Het weer was opnieuw fantastisch. De lucht voelde wat fris aan, maar er werd geen regen voorspeld en dat was het belangrijkste. Ons plan voor vandaag was om Cadzand-Bad, vlak bij de Belgische grens, te bezoeken… te voet! Eerst moesten we rechtdoor naar het strand, waar we vlak voor natuurgebied..."
       
        , "coords" : {
           "lat" : 51.390729,
@@ -1074,6 +1246,20 @@
     } ,
 
     {
+      "title"    : "Weer naar Zeeland! Daguitstap van Nieuwvliet naar Vlissingen",
+      "url"      : "/nl/reizen/2020/07/Zeeland-Nieuwvliet/",
+      "date"     : "July 19, 2020",
+      "locale"   : "nl_NL",
+      "content" :  "We hadden een verlengd weekend voor de boeg. Omdat Luxemburg, onze eerste keuze, op de lijst van landen met code oranje was beland (na een bezoek aan dit land raadde de overheid zelfquarantaine aan), besloten we onze plannen spontaan te wijzigen en opnieuw naar Nederland te trekken. Deze keer hadden..."
+      
+       , "coords" : {
+          "lat" : 51.390729,
+          "lng" : 3.449261
+      }
+      
+    } ,
+
+    {
       "title"    : "Zeeland again! Day trip from Nieuwvliet to Vlissingen",
       "url"      : "/en/travel/2020/07/Zeeland-Nieuwvliet/",
       "date"     : "July 19, 2020",
@@ -1093,6 +1279,20 @@
       "date"     : "July 11, 2020",
       "locale"   : "pl_PL",
       "content" :  "Była to nasza pierwsza okazja na wycieczkę weekendową, zaraz po tym, jak rząd belgijski zniósł restrykcje dotyczące przemieszczania się oraz otworzył swoje granice. Nasza znajoma z Berlina właśnie miała Nas odwiedzić, więc nie było mowy o tym, aby tego nie wykorzystać i nie pokazać jej Holandi :D Ponieważ nadal naszym..."
+      
+       , "coords" : {
+          "lat" : 51.586448,
+          "lng" : 3.582747
+      }
+      
+    } ,
+
+    {
+      "title"    : "Natuurgebied Oranjezon: een herinnering aan mijn vakanties als kind in Polen",
+      "url"      : "/nl/reizen/2020/07/Oranjezon-Netherlands/",
+      "date"     : "July 11, 2020",
+      "locale"   : "nl_NL",
+      "content" :  "Dit was onze eerste kans om er een dagje op uit te trekken nadat de coronamaatregelen waren opgeheven. En omdat onze vriend uit Berlijn op bezoek was, wilden we het mooie weer absoluut benutten en naar het strand gaan :D Omdat we de drukte nog altijd wilden vermijden en gewoon..."
       
        , "coords" : {
           "lat" : 51.586448,
@@ -1130,6 +1330,20 @@
     } ,
 
     {
+      "title"    : "Steden rond het Comomeer",
+      "url"      : "/nl/reizen/2019/10/Como-Morbegno-Sondrio/",
+      "date"     : "October 17, 2019",
+      "locale"   : "nl_NL",
+      "content" :  "Tijdens onze 10 dagen in Italië bezochten we heel wat steden (Como, Lecco, Milaan, Morbegno, Sondrio), ontdekten we prachtige bergen, konden we een dag uitrusten aan de oever van het Comomeer (in Colico) en proefden we ontelbare keren Italiaans ijs, dat ik trouwens het beste ter wereld vind :) Ik..."
+      
+       , "coords" : {
+          "lat" : 45.8117952,
+          "lng" : 9.083471
+      }
+      
+    } ,
+
+    {
       "title"    : "Cities in the area of Como Lake",
       "url"      : "/en/travel/2019/10/Como-Morbegno-Sondrio/",
       "date"     : "October 17, 2019",
@@ -1149,6 +1363,20 @@
       "date"     : "September 27, 2019",
       "locale"   : "pl_PL",
       "content" :  "Po cudownym dniu spędzonym na trekkingu w masywie Monte Resegone oraz zwiedzaniu pięknych miasteczek nad brzegiem jeziora Como, przyszedł czas na kolejne wyzwanie. Zasugerowanym przez naszą godpodynie szczytem była Monte Coltignone, leżąca w okolicy dzielnicy Laorka. Miało być wymagająco i zdecydowanie było, na odcinku zaledwie 3 km teren wznosi się..."
+      
+       , "coords" : {
+          "lat" : 45.8851317,
+          "lng" : 9.3894263
+      }
+      
+    } ,
+
+    {
+      "title"    : "Nog een bestemming vanuit Lecco: Monte Coltignone",
+      "url"      : "/nl/reizen/2019/09/Monte-Coltignone/",
+      "date"     : "September 27, 2019",
+      "locale"   : "nl_NL",
+      "content" :  "Na onze wandeling naar de Monte Resegone en een daguitstap met de veerboot rond het Comomeer, was het eindelijk tijd voor een nieuwe wandeling, deze keer naar de Monte Coltignone. Het zou een zware tocht worden, en dat was het zeker. Drie kilometer en 1000 hoogtemeters, dat kan niet goedkomen..."
       
        , "coords" : {
           "lat" : 45.8851317,
@@ -1186,6 +1414,20 @@
     } ,
 
     {
+      "title"    : "Met de veerboot van Varenna via Bellagio naar Lierna",
+      "url"      : "/nl/reizen/2019/09/Ferry/",
+      "date"     : "September 22, 2019",
+      "locale"   : "nl_NL",
+      "content" :  "Een rustige dag om bezienswaardigheden te bezoeken tussen twee dagen vol stevige wandeltochten: een perfect idee! Oké… uiteindelijk was deze dag met 16 km wandelen toch niet zo rustig ;-) Varenna was die dag onze eerste bestemming, een van de best beoordeelde stadjes aan de oevers van het Comomeer. Meteen..."
+      
+       , "coords" : {
+          "lat" : 45.9841062,
+          "lng" : 9.2588656
+      }
+      
+    } ,
+
+    {
       "title"    : "Varenna-Bellagio-Lierna by ferry",
       "url"      : "/en/travel/2019/09/Ferry/",
       "date"     : "September 22, 2019",
@@ -1205,6 +1447,20 @@
       "date"     : "September 14, 2019",
       "locale"   : "pl_PL",
       "content" :  "Lecco, miasto w którym zatrzymaliśmy się na kilka dni, okazało się być wspaniałą baza wypadową dla miłośników pieszych wędrówek. Położenie miasta nad samym jeziorem Como (południowy kraniec jeziora) zapewnia niesamowite połączenie gór i błękitu wody widocznej w oddali. Moglibyśmy tam zostać dłużej, miasto oferuje możliwość wielu jednodniowych wycieczek w pobliskie..."
+      
+       , "coords" : {
+          "lat" : 45.8581666,
+          "lng" : 9.4689035
+      }
+      
+    } ,
+
+    {
+      "title"    : "Een dagwandeling naar Monte Resegone",
+      "url"      : "/nl/reizen/2019/09/Monte-Resegone/",
+      "date"     : "September 14, 2019",
+      "locale"   : "nl_NL",
+      "content" :  "Lecco, een kleine stad aan de zuidpunt van het Comomeer, bleek een fantastische uitvalsbasis voor wandelliefhebbers. Eigenlijk hadden we hier langer kunnen blijven, want we hadden nog heel wat ideeën voor dagwandelingen of gewoon om bezienswaardigheden te bezoeken. Meer over de stad zelf in de volgende post :) Onze gastvrouw..."
       
        , "coords" : {
           "lat" : 45.8581666,
@@ -1242,6 +1498,20 @@
     } ,
 
     {
+      "title"    : "Een uitstap naar Klein Zwitserland",
+      "url"      : "/nl/reizen/2019/08/luxembourg/",
+      "date"     : "August 06, 2019",
+      "locale"   : "nl_NL",
+      "content" :  "Een bezoek aan Berdorf in Luxemburg? Waarom niet! We konden de kans niet laten liggen om eindelijk een van de opties voor een weekenduitstap vanuit België uit te proberen. Het oorspronkelijke plan was om de hele route 2 van de Mullerthal Trail te wandelen, ongeveer 37 km. Maar het leven..."
+      
+       , "coords" : {
+          "lat" : 49.8187435,
+          "lng" : 6.3486244
+      }
+      
+    } ,
+
+    {
       "title"    : "A trip to Little Switzerland",
       "url"      : "/en/travel/2019/08/luxembourg/",
       "date"     : "August 06, 2019",
@@ -1256,6 +1526,34 @@
     } ,
 
     {
+      "title"    : "Chiang Rai: pierwszy przystanek na północy Tajlandii",
+      "url"      : "/pl/podroze/2019/03/Chiang_Rai/",
+      "date"     : "March 01, 2019",
+      "locale"   : "pl_PL",
+      "content" :  "Dzień zaczęliśmy od porannego autobusu do Wat Rong Khun, znanej wśród turystów jako Biała Świątynia. Pojechaliśmy lokalnym autobusem odjeżdżającym z dworca autobusowego Chiang Rai Bus Terminal 1 (tuż obok nocnego bazaru). Znalezienie właściwego przystanku było bardzo łatwe, ponieważ widniały na nim nazwa świątyni i rozkład jazdy. Bez żadnego problemu kupiliśmy..."
+      
+       , "coords" : {
+          "lat" : 19.905303,
+          "lng" : 99.836221
+      }
+      
+    } ,
+
+    {
+      "title"    : "Chiang Rai: onze eerste stop in het noorden van Thailand",
+      "url"      : "/nl/reizen/2019/03/Chiang_Rai/",
+      "date"     : "March 01, 2019",
+      "locale"   : "nl_NL",
+      "content" :  "We begonnen onze dag met de vroege bus naar Wat Rong Khun, bij toeristen beter bekend als de Witte Tempel. We namen een lokale bus die vertrok van Chiang Rai Bus Terminal 1 (vlak naast de avondmarkt). De juiste bushalte vinden was heel eenvoudig, want er hing een bord met..."
+      
+       , "coords" : {
+          "lat" : 19.905303,
+          "lng" : 99.836221
+      }
+      
+    } ,
+
+    {
       "title"    : "Chiang Rai: first stop in northern Thailand",
       "url"      : "/en/travel/2019/03/Chiang_Rai/",
       "date"     : "March 01, 2019",
@@ -1265,6 +1563,34 @@
        , "coords" : {
           "lat" : 19.905303,
           "lng" : 99.836221
+      }
+      
+    } ,
+
+    {
+      "title"    : "Z Luang Namtha w północnym Laosie przez granicę z Tajlandią",
+      "url"      : "/pl/podroze/2019/02/Luang_Namtha/",
+      "date"     : "February 11, 2019",
+      "locale"   : "pl_PL",
+      "content" :  "W końcu nadszedł czas, aby przekroczyć granicę z Tajlandią i rozpocząć naszą przygodę w ostatnim kraju na liście podczas tej podróży. Wiedzieliśmy, że nie da się dojechać jednym autobusem z Nong Khiaw do oddalonej o 400km granicy z Tajlandią. Dlatego pojechaliśmy minivanem do Luang Namtha, a stamtąd, z pomocą biura..."
+      
+       , "coords" : {
+          "lat" : 20.972146,
+          "lng" : 101.409897
+      }
+      
+    } ,
+
+    {
+      "title"    : "De grens met Thailand oversteken vanuit Luang Namtha in Noord-Laos",
+      "url"      : "/nl/reizen/2019/02/Luang_Namtha/",
+      "date"     : "February 11, 2019",
+      "locale"   : "nl_NL",
+      "content" :  "Eindelijk was het tijd om de grens met Thailand over te steken en ons avontuur te beginnen in het laatste land op ons lijstje voor deze reis. We wisten dat we de 400 kilometer van Nong Khiaw naar de Thaise grens niet in één keer met de bus konden afleggen...."
+      
+       , "coords" : {
+          "lat" : 20.972146,
+          "lng" : 101.409897
       }
       
     } ,
@@ -1289,6 +1615,20 @@
       "date"     : "February 05, 2019",
       "locale"   : "pl_PL",
       "content" :  "Łódki odpływają z Muang Ngoy każdego ranka, zabierając turystów z powrotem do Nong Khiaw. Tam również zatrzymaliśmy się na kilka dni, odkrywając uroki niezwykle stromych, okolicznych wzgórz. Jak do tej pory pogoda była zawsze stabilan w Laosie, ale już pierwszego dnia z Nong Khiaw złapała nas na spacerze straszna ulewa..."
+      
+       , "coords" : {
+          "lat" : 20.57487,
+          "lng" : 102.605278
+      }
+      
+    } ,
+
+    {
+      "title"    : "Nong Khiaw: adembenemende uitkijkpunten met uitzicht over de Nam Ou",
+      "url"      : "/nl/reizen/2019/02/Nong_Khiaw/",
+      "date"     : "February 05, 2019",
+      "locale"   : "nl_NL",
+      "content" :  "De boot vertrekt elke ochtend uit Muang Ngoy en brengt voornamelijk toeristen terug naar Nong Khiaw. Ook wij verbleven er enkele dagen en verkenden de steile heuvels in de omgeving. Tot dan toe was het weer in Laos elke dag stabiel geweest, maar die namiddag toonden zeer hevige regen en..."
       
        , "coords" : {
           "lat" : 20.57487,
@@ -1326,6 +1666,20 @@
     } ,
 
     {
+      "title"    : "Muang Ngoy: onze kleine bungalow, vlinders en zalige stilte",
+      "url"      : "/nl/reizen/2019/01/Muang_Ngoy/",
+      "date"     : "January 19, 2019",
+      "locale"   : "nl_NL",
+      "content" :  "We trokken weer verder, deze keer op zoek naar ongerepte natuur, uitzonderlijke bergen en vooral plekken waar de mensen oprecht zijn en zelfs eenvoudig eten anders smaakt. Het noorden van Laos toonde ons zijn ware schoonheid en leerde ons te genieten van de rust en de eenvoud van het leven...."
+      
+       , "coords" : {
+          "lat" : 20.710645,
+          "lng" : 102.673892
+      }
+      
+    } ,
+
+    {
       "title"    : "Muang Ngoy: our small bungalow, butterflies and blissful silence",
       "url"      : "/en/travel/2019/01/Muang_Ngoy/",
       "date"     : "January 19, 2019",
@@ -1345,6 +1699,20 @@
       "date"     : "December 05, 2018",
       "locale"   : "pl_PL",
       "content" :  "Im dalej jechaliśmy na północ, tym coraz piękniejsze widoki przewijały się za oknami minibusa! Po raz kolejny zachwycałam się krajobrazami i to jeszcze bardziej niż ostatnio. A pomyśleć, że przed nami jeszcz kilka miejscowości do odwiedzenia w tym rejonie :D Soczyście zielone pola ryżowe oraz strome zbocza otaczających krętą drogę,..."
+      
+       , "coords" : {
+          "lat" : 19.89247,
+          "lng" : 102.135622
+      }
+      
+    } ,
+
+    {
+      "title"    : "Luang Prabang, charmante rivieroevers en watervallen",
+      "url"      : "/nl/reizen/2018/12/Luang-Prabang/",
+      "date"     : "December 05, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Dit deel van Laos is zo mooi! Vooral tijdens het eerste halfuur van onze reis vanuit Vang Vieng was het landschap bijzonder idyllisch. Rijstvelden en talloze weelderige, groene heuvels met bijna loodrechte flanken vormden een uitzonderlijke combinatie. Op sommige plaatsen was de weg vernield door een aardverschuiving van de helling...."
       
        , "coords" : {
           "lat" : 19.89247,
@@ -1382,6 +1750,20 @@
     } ,
 
     {
+      "title"    : "Vang Vieng, dichter bij de bergen in het noorden van Laos",
+      "url"      : "/nl/reizen/2018/11/Vang-Vieng/",
+      "date"     : "November 20, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Tijdens de busrit zagen we het landschap enorm veranderen. We reisden verder naar het noorden van het land, naar het bergachtige deel van Laos, en dat was duidelijk te merken. Vang Vieng, een stadje dat bekendstaat als de perfecte bestemming voor mensen die graag stevig feesten (niet echt ons ding),..."
+      
+       , "coords" : {
+          "lat" : 18.919847,
+          "lng" : 102.4442046
+      }
+      
+    } ,
+
+    {
       "title"    : "Vang Vieng, getting closer to the mountains in north Laos",
       "url"      : "/en/travel/2018/11/Vang-Vieng/",
       "date"     : "November 20, 2018",
@@ -1401,6 +1783,20 @@
       "date"     : "November 10, 2018",
       "locale"   : "pl_PL",
       "content" :  "Pi Mai Lao, obchody Nowego Roku w Laosie, podczas najbardziej upalnej części roku były niespodziewanym wydarzeniem podczas naszej podróży :D Oficjalnie święto trwa 3 dni, ale w wielu miastach takich jak Vientiane czy Luang Prabang może się to przeciągnąć do ponad tygodnia. Podczas tych dni ludzie odwiedzają światynie (do wszystkich..."
+      
+       , "coords" : {
+          "lat" : 17.976631,
+          "lng" : 102.6342173
+      }
+      
+    } ,
+
+    {
+      "title"    : "Het Laotiaanse Nieuwjaar vieren",
+      "url"      : "/nl/reizen/2018/11/Lao-New_Year/",
+      "date"     : "November 10, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Pi Mai Lao, de viering van het Laotiaanse Nieuwjaar tijdens de heetste periode van het jaar, was een onverwacht feest waaraan we maar al te graag deelnamen :D Officieel duurt het drie dagen, maar in sommige steden, zoals Vientiane en Luang Prabang, kan het meer dan een week aanhouden. Tijdens..."
       
        , "coords" : {
           "lat" : 17.976631,
@@ -1438,6 +1834,20 @@
     } ,
 
     {
+      "title"    : "Buddha Park in Vientiane",
+      "url"      : "/nl/reizen/2018/10/Buddha-Park/",
+      "date"     : "October 31, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Buddha Park, op 26 km van het stadscentrum, was die dag onze voornaamste bestemming. We besloten het openbaar vervoer te nemen en dat bleek een eenvoudige en goedkope oplossing. Eerst moet je naar het centrale busstation, dat in twee delen is opgesplitst: CBS1 en CBS2. Je vindt er gemakkelijk informatieborden..."
+      
+       , "coords" : {
+          "lat" : 17.912435,
+          "lng" : 102.764951
+      }
+      
+    } ,
+
+    {
       "title"    : "Buddha Park in Vientian",
       "url"      : "/en/travel/2018/10/Buddha-Park/",
       "date"     : "October 31, 2018",
@@ -1457,6 +1867,20 @@
       "date"     : "October 28, 2018",
       "locale"   : "pl_PL",
       "content" :  "Nasza podróż do tego miasta nie należała do najłatwiejszych. W skrócie wyglądało to tak, najpierw poranny rejs łódką z Don Det do Nakasong, następnie autobus do Pakse, gdzie mieliśmy mieć przerwę na lunch. Zamiast tego, autobus jadący do Pakse w pewnej chwili zatrzymał się na poboczu drogi i kierowca wytłumaczył..."
+      
+       , "coords" : {
+          "lat" : 17.971106,
+          "lng" : 102.6175025
+      }
+      
+    } ,
+
+    {
+      "title"    : "Vientiane, hoofdstad met eindeloos veel tempels",
+      "url"      : "/nl/reizen/2018/10/Vientian/",
+      "date"     : "October 28, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Eerst iets over hoe we hier geraakt zijn. Kort samengevat: na een korte boottocht van Don Det naar Nakasong namen we een bus naar Pakse, waar we normaal gezien een lunchpauze zouden houden. In plaats daarvan stopte de bus langs de kant van de weg en moesten we overstappen op..."
       
        , "coords" : {
           "lat" : 17.971106,
@@ -1494,6 +1918,20 @@
     } ,
 
     {
+      "title"    : "Don Det, toegangspoort tot Laos",
+      "url"      : "/nl/reizen/2018/10/DonDet/",
+      "date"     : "October 21, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Een grens over land oversteken is altijd ingewikkelder dan vliegen, maar wij houden wel van een uitdaging. Eigenlijk verliep de rit van Siem Reap naar Don Det in Laos vlotter dan we hadden verwacht :) Misschien dankzij onze goede keuze van busmaatschappij (Asia Van Transfer) of gewoon door puur geluk...."
+      
+       , "coords" : {
+          "lat" : 13.975908,
+          "lng" : 105.920664
+      }
+      
+    } ,
+
+    {
       "title"    : "Don Det, a gateway to Laos",
       "url"      : "/en/travel/2018/10/DonDet/",
       "date"     : "October 21, 2018",
@@ -1513,6 +1951,15 @@
       "date"     : "October 12, 2018",
       "locale"   : "pl_PL",
       "content" :  "Nie mieliśmy pojęcia czego możemy spodziewać się po kuchni kambodżańskiej. Czy faktycznie bardzo rożni się od kuchni tajskiej lub laotańskiej? Jak do tej pory wszystkie dania z tego kontynentu wrzucaliśmy do jednego worka, jako dania kuchni azjatyckiej :D Teraz śmiało możemy stwierdzić, że każdy kraj zaskoczył nas pewnymi połaczeniami smaków,..."
+      
+    } ,
+
+    {
+      "title"    : "Mmm! De Cambodjaanse keuken, een goed bewaard geheim :)",
+      "url"      : "/nl/reizen/eten/2018/10/Cambodian-cuisine/",
+      "date"     : "October 12, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "We hadden geen idee wat we van de Cambodjaanse keuken mochten verwachten. Zou ze echt verschillen van de Thaise of Laotiaanse keuken? Voor deze reis noemden we zowat alle gerechten uit dit werelddeel gewoon Aziatisch eten :p Nadat we enkele landen hadden bezocht, beseften we hoe enorm ze van elkaar..."
       
     } ,
 
@@ -1540,6 +1987,20 @@
     } ,
 
     {
+      "title"    : "Angkor Wat: de opkomst en ondergang van het Khmerrijk",
+      "url"      : "/nl/reizen/2018/10/Angkor-Wat/",
+      "date"     : "October 11, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "De cover van National Geographic die ik tien jaar geleden zag en het artikel erin deden me dromen van een ontdekkingstocht door het Khmerrijk. Het leek toen zo onwerkelijk, maar gelukkig komen sommige dromen sneller uit dan je verwacht. En daar stond ik dan, vol ongeloof voor Angkor Enterprise, met..."
+      
+       , "coords" : {
+          "lat" : 13.4124693,
+          "lng" : 103.8669857
+      }
+      
+    } ,
+
+    {
       "title"    : "Angkor Wat: the rise and fall of the Khmer Empire",
       "url"      : "/en/travel/2018/10/Angkor-Wat/",
       "date"     : "October 11, 2018",
@@ -1550,6 +2011,24 @@
           "lat" : 13.4124693,
           "lng" : 103.8669857
       }
+      
+    } ,
+
+    {
+      "title"    : "PassApp: Stylowe poruszanie się po Phnom Penh i Siem Reap",
+      "url"      : "/pl/podroze/2018/09/PassApp/",
+      "date"     : "September 12, 2018",
+      "locale"   : "pl_PL",
+      "content" :  "Jeśli podobnie jak my nie lubicie się targować, negocjowanie cen przejazdów taksówkami i tuk-tukami będzie zapewne najmniej przyjemną częścią podróży po Kambodży. Na szczęście istnieje alternatywa w postaci PassApp — przynajmniej w Phnom Penh i Siem Reap! Interfejs aplikacji PassApp, niemal taki sam jak w aplikacjach Uber i Lyft Aby..."
+      
+    } ,
+
+    {
+      "title"    : "PassApp: in stijl door Phnom Penh en Siem Reap",
+      "url"      : "/nl/reizen/2018/09/PassApp/",
+      "date"     : "September 12, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Als je net als wij niet graag afdingt, zullen onderhandelingen over de prijs van taxi- en tuktukritten waarschijnlijk het minst leuke deel van je reis door Cambodja zijn. Met PassApp is er gelukkig een alternatief, tenminste in Phnom Penh en Siem Reap! De PassApp-interface, vrijwel hetzelfde als Uber of Lyft..."
       
     } ,
 
@@ -1568,6 +2047,20 @@
       "date"     : "September 07, 2018",
       "locale"   : "pl_PL",
       "content" :  "Świetną decyzją był wybór hotelu niedaleko ogromnego marketu Phsar Thmei, gdzie z łatwością mogliśmy kupić świeże owoce, warzywa oraz ciuchy, buty, biżuterię czy drobne pamiątki. W budynku nieopodal znajdował się duży supermarket w europejskim stylu, jedyny jak się poźniej okazało, na jaki przyszło nam się natknąc podczas całej podróży. Budynek..."
+      
+       , "coords" : {
+          "lat" : 11.563902,
+          "lng" : 104.9290634
+      }
+      
+    } ,
+
+    {
+      "title"    : "Phnom Penh, hoofdstad van Cambodja",
+      "url"      : "/nl/reizen/2018/09/PhnomPenh/",
+      "date"     : "September 07, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "We kregen opnieuw problemen met de bus. Deze keer stopte hij in een heel ander deel van de stad dan ons beloofd was. Een paar tuk-tukchauffeurs stonden al klaar om ons dichter bij het stadscentrum te brengen, maar zoals verwacht vroegen ze opnieuw veel te veel. We merkten dat de..."
       
        , "coords" : {
           "lat" : 11.563902,
@@ -1605,6 +2098,20 @@
     } ,
 
     {
+      "title"    : "Kampot en Kep, aan de kust van Cambodja",
+      "url"      : "/nl/reizen/2018/08/Kampot-Kep/",
+      "date"     : "August 12, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Kampot ligt aan de oevers van de Kampotrivier, met veel restaurants en bars vlak bij het water. De architectuur van de gebouwen en heel wat namen van restaurants en hotels verwijzen naar de tijd toen deze stad een Franse kolonie was. Deze streek is vooral bekend om haar peper- en..."
+      
+       , "coords" : {
+          "lat" : 10.612414,
+          "lng" : 104.317535
+      }
+      
+    } ,
+
+    {
       "title"    : "Kampot and Kep, on the coast of Cambodia",
       "url"      : "/en/travel/2018/08/Kampot-Kep/",
       "date"     : "August 12, 2018",
@@ -1624,6 +2131,20 @@
       "date"     : "July 28, 2018",
       "locale"   : "pl_PL",
       "content" :  "W skrócie wyglądało to tak. Po kilku tygodniach spędzonych na trekkingu w Himalajach, polecieliśmy do Bangkoku, aby tam rozpocząć drugi etap naszej podróży, tym razem w bardzo odmiennym klimacie :) Naszym pomysłem było wyruszenie najpierw do Kambodży, następnie Laosu i z powrotem do Tajlandii, przemierzając ją od północy na południe..."
+      
+       , "coords" : {
+          "lat" : 10.571719,
+          "lng" : 103.551498
+      }
+      
+    } ,
+
+    {
+      "title"    : "Hoe we in Sihanoukville belandden...",
+      "url"      : "/nl/reizen/2018/07/Sihanoukville/",
+      "date"     : "July 28, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Kort samengevat: na een paar weken wandelen in Nepal namen we het vliegtuig naar Bangkok voor het tweede deel van onze reis, deze keer in heel andere weersomstandigheden :) Het plan was om een lus te maken door Cambodja, Laos en dan terug naar Thailand, dwars door het land van..."
       
        , "coords" : {
           "lat" : 10.571719,
@@ -1661,6 +2182,20 @@
     } ,
 
     {
+      "title"    : "Pokhara en Kathmandu: wat te doen en wat te bezoeken",
+      "url"      : "/nl/reizen/eten/sport/2018/07/PokharaKathmandu/",
+      "date"     : "July 20, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Na twee weken wandelen hoopten we vurig op een paar rustige, ontspannen dagen in Pokhara, en we kwamen niet bedrogen uit :) Het Phewameer, omringd door de stad met hoge bergtoppen op de achtergrond, is werkelijk schitterend! Zeker bij zonsondergang, wanneer het water van blauw naar rozig verkleurt en de..."
+      
+       , "coords" : {
+          "lat" : 28.205833,
+          "lng" : 83.961983
+      }
+      
+    } ,
+
+    {
       "title"    : "Pokhara and Kathmandu: things to do and places to visit",
       "url"      : "/en/travel/food/sports/2018/07/PokharaKathmandu/",
       "date"     : "July 20, 2018",
@@ -1684,6 +2219,15 @@
     } ,
 
     {
+      "title"    : "Praktische informatie: Annapurna Circuit",
+      "url"      : "/nl/reizen/2018/07/Annapurna-Practical/",
+      "date"     : "July 11, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Zoals altijd voor een reis deed ik mijn huiswerk en zocht ik uit wat we allemaal moesten meenemen. Voor onze reis naar Nepal was dat niet anders. Het internet staat vol informatie over het Annapurna Circuit, maar wat je precies meeneemt, hangt echt af van de manier waarop je de..."
+      
+    } ,
+
+    {
       "title"    : "Practical information: Annapurna Circuit",
       "url"      : "/en/travel/2018/07/Annapurna-Practical/",
       "date"     : "July 11, 2018",
@@ -1698,6 +2242,20 @@
       "date"     : "July 09, 2018",
       "locale"   : "pl_PL",
       "content" :  "Po dobrej godzinie spędzonej na lotnisku, szczęśliwi i z wizą w ręku, ruszyliśmy w poszukiwaniu taksówki, która zawiozłaby nas do dzielnicy Thamel. Najłatwiej jest wykupić przejazd oficjalną taksówka z miasta, ceny są ustalone z góry, 700 rupii w okolice naszego hotelu (w drodze powrotnej znaleźliśmy z łatwością taksówkę za 500..."
+      
+       , "coords" : {
+          "lat" : 28.793532,
+          "lng" : 83.939208
+      }
+      
+    } ,
+
+    {
+      "title"    : "Annapurna Circuit en Poon Hill gecombineerd",
+      "url"      : "/nl/reizen/2018/07/AnnapurnaPoonHill/",
+      "date"     : "July 09, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "We kwamen op 1 maart aan in Kathmandu, met een flinke jetlag en midden in het Holifeest, de kleurrijkste feestdag van Nepal! Dat was puur toeval, dus in het begin stonden we compleet versteld en waren we niet klaar voor wat er ging komen :) Nog voor we ons hotel..."
       
        , "coords" : {
           "lat" : 28.793532,
@@ -1735,11 +2293,25 @@
     } ,
 
     {
+      "title"    : "Drie dagen in Krakau",
+      "url"      : "/nl/reizen/2018/02/three-days-krakow/",
+      "date"     : "February 25, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Ons bezoek aan Krakau begon ‘s morgens met een begeleide wandeling, zodat we meteen een goede kennismaking kregen met de stad en haar rijke geschiedenis. We sloten aan bij de FREE walking TOUR door de oude stad van Krakau, die startte tussen de Sint-Florianspoort en de Barbakan en eindigde bij..."
+      
+       , "coords" : {
+          "lat" : 50.0616853,
+          "lng" : 19.9350731
+      }
+      
+    } ,
+
+    {
       "title"    : "Three days in Krakow",
       "url"      : "/en/travel/2018/02/three-days-krakow/",
       "date"     : "February 25, 2018",
       "locale"   : "en_US",
-      "content" :  "Our visit to Krakow started with the guided walking tour in the morning to get a proper introduction of the city and its rich history. We jointed FREE walking TOUR though Krakow’s old town which started between St. Florian´s Gate and Barbican and finished at Wawel castle, located on the..."
+      "content" :  "Our visit to Krakow started with the guided walking tour in the morning to get a proper introduction of the city and its rich history. We joined FREE walking TOUR though Krakow’s old town which started between St. Florian’s Gate and Barbican and finished at Wawel castle, located on the..."
       
        , "coords" : {
           "lat" : 50.0616853,
@@ -1754,6 +2326,20 @@
       "date"     : "February 02, 2018",
       "locale"   : "pl_PL",
       "content" :  "Wyspa St John i Kusu 18S$ bilet w obie strony, łódka odpływa z Marina South Pier, niewiele połaczeń, lepiej sprawdzić aktualny rozkład na stronie internetowej Po 25 minutach rejsu, łódka dociera do wyspy St John, gdzie przez kilka godzin opalałam i przechadzałam się po plaży, która była zadziwiajaco ładna, jednak..."
+      
+       , "coords" : {
+          "lat" : 1.223204,
+          "lng" : 103.861145
+      }
+      
+    } ,
+
+    {
+      "title"    : "Nog een paar plekken die je in Singapore moet zien",
+      "url"      : "/nl/reizen/2018/02/few-more-places-in-singapore/",
+      "date"     : "February 02, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "St John’s Island en Kusu Island 18 S$ voor een retourticket, vertrek aan Marina South Pier. Er zijn maar een paar afvaarten per dag, dus check de actuele dienstregeling online. Na 25 minuten kwam de boot eerst aan bij St John’s Island, waar ik een paar uur op het strand..."
       
        , "coords" : {
           "lat" : 1.223204,
@@ -1791,6 +2377,20 @@
     } ,
 
     {
+      "title"    : "Weekendtrip naar Kuala Lumpur",
+      "url"      : "/nl/reizen/2018/01/Weekend-Kuala-Lumpur/",
+      "date"     : "January 29, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Deze stad is een uitstekende keuze als je een weekend vrij hebt en het niet erg vindt om 7 uur op een bus te zitten (zeker geen 5 uur zoals de busmaatschappij beweerde; reken op lange wachtrijen aan de grenscontroles en op veel verkeer in Kuala Lumpur). Ondanks de vertragingen,..."
+      
+       , "coords" : {
+          "lat" : 3.1578931,
+          "lng" : 101.7119808
+      }
+      
+    } ,
+
+    {
       "title"    : "Weekend trip to Kuala Lumpur",
       "url"      : "/en/travel/2018/01/Weekend-Kuala-Lumpur/",
       "date"     : "January 29, 2018",
@@ -1810,6 +2410,20 @@
       "date"     : "January 14, 2018",
       "locale"   : "pl_PL",
       "content" :  "Singapurskie Zoo Najważniejszą cechą, wyróżniającą Singapurskie Zoo na tle innych jest interesująca struktura tego parku. Wybiegi dla zwierząt są niezwykle zielone, ogrodzone przeważnie głębokim rowem zamiast ogrodzenia, co sprawia wrażenie, że widzimy zwierzęta w ich naturalnym środowisku. W wielu miejscach małpy, ptaki czy nietoperze latają i skaczą wolno wokół odwiedzających...."
+      
+       , "coords" : {
+          "lat" : 1.4046188,
+          "lng" : 103.7883253
+      }
+      
+    } ,
+
+    {
+      "title"    : "Dierenparken in Singapore (deel 2)",
+      "url"      : "/nl/reizen/2018/01/singapore-wildlife-parks-part-2/",
+      "date"     : "January 14, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Singapore Zoo De unieke opbouw van de dierentuin van Singapore is meteen de grootste troef van het park. De verblijven staan vol planten en zijn omgeven door een diepe gracht in plaats van een hek, waardoor je de illusie krijgt dat je tussen de dieren in hun natuurlijke omgeving wandelt...."
       
        , "coords" : {
           "lat" : 1.4046188,
@@ -1847,6 +2461,20 @@
     } ,
 
     {
+      "title"    : "Dierenparken in Singapore (deel 1)",
+      "url"      : "/nl/reizen/2018/01/singapore-wildlife-parks-part-1/",
+      "date"     : "January 13, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Jurong Bird Park Jurong Bird Park was het eerste van de vier parken die we bezochten. Hier zag ik meer soorten die ik nog nooit van mijn leven had gezien dan waar dan ook! Volgens de officiële website biedt het park onderdak aan 5000 vogels verdeeld over 400 soorten, waarvan..."
+      
+       , "coords" : {
+          "lat" : 1.3187065,
+          "lng" : 103.7064417
+      }
+      
+    } ,
+
+    {
       "title"    : "Wildlife parks in Singapore (part 1)",
       "url"      : "/en/travel/2018/01/singapore-wildlife-parks-part-1/",
       "date"     : "January 13, 2018",
@@ -1875,11 +2503,25 @@
     } ,
 
     {
+      "title"    : "Chinatown en het Maxwell hawker centre",
+      "url"      : "/nl/reizen/eten/2018/01/chinatown/",
+      "date"     : "January 12, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "Op weg naar Chinatown besloten we te stoppen voor een middagmaal op een minder toeristische plek, tussen de lokale bevolking in het Maxwell food centre, een van de vele hawker centres in Singapore! Je vindt er tientallen kraampjes met een enorme verscheidenheid aan eten, verfrissende lokale dranken en zoete lekkernijen...."
+      
+       , "coords" : {
+          "lat" : 1.282453,
+          "lng" : 103.843415
+      }
+      
+    } ,
+
+    {
       "title"    : "Chinatown and Maxwell hawker center",
       "url"      : "/en/travel/food/2018/01/chinatown/",
       "date"     : "January 12, 2018",
       "locale"   : "en_US",
-      "content" :  "On the way to Chinatown we decided to stop for a lunch in less touristic place and mix with locals at Maxwell food centre, one of many hawker centers in Singapore! You can find here dozens of stalls with huge variety of food, refreshing local beverages and sweet treats. As..."
+      "content" :  "On the way to Chinatown we decided to stop for lunch in a less touristic place and mix with locals at Maxwell food centre, one of many hawker centers in Singapore! You can find here dozens of stalls with a huge variety of food, refreshing local beverages and sweet treats...."
       
        , "coords" : {
           "lat" : 1.282453,
@@ -1894,6 +2536,20 @@
       "date"     : "January 11, 2018",
       "locale"   : "pl_PL",
       "content" :  "Kolejne 3 tygodnie spędzimy w Singapurze, mieszkając na kampusie Uniwersytetu Nanyang, który znajduje się w zachodniej cześci miasta. Do kampusu przylega od zachodu obszar lasu tropikalnego, który jest terenem militarnym i granica kraju jednocześnie. Wstęp na ten obszar jest pilnie strzeżony przez wojsko. Kampus jest dość odizolowany od reszty miasta,..."
+      
+       , "coords" : {
+          "lat" : 1.2867892,
+          "lng" : 103.8545014
+      }
+      
+    } ,
+
+    {
+      "title"    : "Marina Bay en Gardens by the Bay, onze eerste kennismaking met Singapore!",
+      "url"      : "/nl/reizen/2018/01/first-glance-at-singapore/",
+      "date"     : "January 11, 2018",
+      "locale"   : "nl_NL",
+      "content" :  "De Nanyang-campus in het westen van Singapore wordt de komende drie weken onze uitvalsbasis. Nog verder naar het westen ligt niets anders dan regenwoud, dat tegelijk militair gebied is, afgesloten voor bezoekers en meteen ook de grens van het land vormt. De campus van NTU ligt behoorlijk geïsoleerd van de..."
       
        , "coords" : {
           "lat" : 1.2867892,
@@ -1931,6 +2587,20 @@
     } ,
 
     {
+      "title"    : "Prometheusgrot en canyons - daguitstap rond Kutaisi",
+      "url"      : "/nl/reizen/2017/10/Georgia-Prometeush-cave/",
+      "date"     : "October 22, 2017",
+      "locale"   : "nl_NL",
+      "content" :  "We hadden bijna drie volle dagen in Kutaisi gepland voor we ‘s ochtends vroeg terugvlogen naar Berlijn. Dat was ruim voldoende om de stad te verkennen, inkopen te doen op een lokale markt en enkele natuurmonumenten in de buurt te bekijken. Met de gastheer van ons guesthouse als persoonlijke chauffeur..."
+      
+       , "coords" : {
+          "lat" : 42.3766362,
+          "lng" : 42.6008596
+      }
+      
+    } ,
+
+    {
       "title"    : "Prometeus cave and canyons - day trip around Kutaisi",
       "url"      : "/en/travel/2017/10/Georgia-Prometeush-cave/",
       "date"     : "October 22, 2017",
@@ -1950,6 +2620,20 @@
       "date"     : "October 11, 2017",
       "locale"   : "pl_PL",
       "content" :  "Najdłuższą wycieczkę zaplanowaliśmy na ostatni dzień naszego pobytu w Mestii, gdyż wtedy dopiero pogoda miała być bardzo stabilna a to z pewnością przyda nam się w drodze do jezior Korduli. Można tam dotrzeć zaczynając w rożnych punktach wioski. Jedną z opcji jest rozpoczęcie wędrówki szlakiem znajdującym się przy kościele, opisanym..."
+      
+       , "coords" : {
+          "lat" : 43.0874116,
+          "lng" : 42.6869057
+      }
+      
+    } ,
+
+    {
+      "title"    : "Wandelen in Georgië – naar de Koruldimeren",
+      "url"      : "/nl/reizen/2017/10/Georgia-Koruldi-lakes/",
+      "date"     : "October 11, 2017",
+      "locale"   : "nl_NL",
+      "content" :  "De langste en zwaarste trektocht hadden we voor de laatste dag van ons verblijf in Mestia gepland, want de weersvoorspellingen gaven ons een erg grote kans op het stabiele weer dat je voor zo’n lange wandeling nodig hebt. Voor het eerste stuk zijn er verschillende varianten: je kan het pad..."
       
        , "coords" : {
           "lat" : 43.0874116,
@@ -1987,6 +2671,20 @@
     } ,
 
     {
+      "title"    : "Wandelen in Georgië – van Mestia naar de dorpjes Zardlashi en Murshkeli",
+      "url"      : "/nl/reizen/2017/10/Georgia-Murshkeli/",
+      "date"     : "October 10, 2017",
+      "locale"   : "nl_NL",
+      "content" :  "Eindelijk zonnige dagen, en die kans lieten we niet liggen voor nog een trektocht. Deze keer was het het eerste deel van de vierdaagse tocht naar Ushguli. In het begin loopt het pad langs Hotel Tetnuldi, waar we in de verte nu al een fantastisch uitzicht op de Ushba hadden!..."
+      
+       , "coords" : {
+          "lat" : 43.058743,
+          "lng" : 42.7900843
+      }
+      
+    } ,
+
+    {
       "title"    : "Hiking in Georgia – from Mestia to Zardlashi and Murshkeli villages",
       "url"      : "/en/travel/2017/10/Georgia-Murshkeli/",
       "date"     : "October 10, 2017",
@@ -2006,6 +2704,20 @@
       "date"     : "October 03, 2017",
       "locale"   : "pl_PL",
       "content" :  "Jednym z popularnych celów wędrówek w okolicach Mestii, jest lodowiec Chaaladi. Prowadzi do niego bardzo łatwa ścieżka, początkowo kilka kilometrów wzdłuż drogi gruntowej, co niektórzy moga uznać za nieatrakcyjne. I rzeczywiście, głośne ciężarówki, które kursowały do pobliskiej budowy, czyniły ten odcinek szlaku niezbyt przyjemnym doświadczeniem. Na szczeście z pomocą przybył..."
+      
+       , "coords" : {
+          "lat" : 43.1142451,
+          "lng" : 42.7287766
+      }
+      
+    } ,
+
+    {
+      "title"    : "Wandelen in Georgië – de Chaaladi-gletsjer",
+      "url"      : "/nl/reizen/2017/10/Georgia-Chaaladi/",
+      "date"     : "October 03, 2017",
+      "locale"   : "nl_NL",
+      "content" :  "Een van de populairste bestemmingen voor een wandeling in de buurt van Mestia is de Chaaladi-gletsjer. Je geraakt er met een heel makkelijke wandeling langs een onverharde weg, die sommigen zelfs saai zouden noemen. Luidruchtige camions, die af en aan reden naar een mysterieuze werf in de streek, maakten er..."
       
        , "coords" : {
           "lat" : 43.1142451,
@@ -2043,6 +2755,20 @@
     } ,
 
     {
+      "title"    : "Wandelen in Georgië – Mestia",
+      "url"      : "/nl/reizen/2017/10/Georgia-Mestia/",
+      "date"     : "October 02, 2017",
+      "locale"   : "nl_NL",
+      "content" :  "De ochtend verwelkomde ons met sneeuwval! In Duitsland was de herfst amper begonnen, dus we stonden echt versteld van het witte landschap rondom ons. Zodra de sneeuwval eindelijk ophield, besloten we een korte wandeling te maken naar de kerk die we op een heuvel aan de overkant van het dorp..."
+      
+       , "coords" : {
+          "lat" : 43.052971,
+          "lng" : 42.7454973
+      }
+      
+    } ,
+
+    {
       "title"    : "Hiking in Georgia – Mestia",
       "url"      : "/en/travel/2017/10/Georgia-Mestia/",
       "date"     : "October 02, 2017",
@@ -2071,6 +2797,20 @@
     } ,
 
     {
+      "title"    : "Wandelen in Georgië – Heshkili",
+      "url"      : "/nl/reizen/2017/10/Georgia-Heshkili/",
+      "date"     : "October 01, 2017",
+      "locale"   : "nl_NL",
+      "content" :  "Eindelijk, om 13 uur hield het op met regenen en konden we aan onze eerste wandeling in Georgië beginnen! :D herfstkleuren De wandeling, in de richting van het kabelbaanstation van Hatsvali, is ongeveer 7 km lang en je kan er makkelijk een taxi naartoe nemen om wat tijd te winnen...."
+      
+       , "coords" : {
+          "lat" : 43.025855,
+          "lng" : 42.7123773
+      }
+      
+    } ,
+
+    {
       "title"    : "Hiking in Georgia – Heshkili",
       "url"      : "/en/travel/2017/10/Georgia-Heshkili/",
       "date"     : "October 01, 2017",
@@ -2090,6 +2830,20 @@
       "date"     : "September 10, 2017",
       "locale"   : "pl_PL",
       "content" :  "“Nigdy wiecej!” takie było nasze postanowienie po przebiegnięciu ok 32km (chociaż muszę przyznać, że w zeszłym roku zapadła podobna decyzja :p). Tym razem biegliśmy wystarczająco szybko, aby nie zostać wyeliminowanym i zakończyć Iron Viking w czasie 6 godzin i 54 minut. Celem było przebiegnięcie pełnego maratonu z ponad 100 dodatkowymi..."
+      
+       , "coords" : {
+          "lat" : 51.151706,
+          "lng" : 3.8708973
+      }
+      
+    } ,
+
+    {
+      "title"    : "Modder, zweet en pijn... heel veel pijn!",
+      "url"      : "/nl/sport/2017/09/Iron-Viking/",
+      "date"     : "September 10, 2017",
+      "locale"   : "nl_NL",
+      "content" :  "“Dit doen we nooit meer!” dat besloten we na ongeveer 32 km (al vloekte ik een jaar geleden, tijdens onze eerste poging, precies hetzelfde :p). Dit jaar waren we snel genoeg om niet uit de wedstrijd gehaald te worden en finishten we de Iron Viking (Water Edition) in 6 u..."
       
        , "coords" : {
           "lat" : 51.151706,

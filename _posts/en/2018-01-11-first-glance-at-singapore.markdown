@@ -25,7 +25,7 @@ for visitors and border of the country. The NTU campus is quite isolated from th
 of big, green area :p Very similar to Golm in Potsdam, where we were working the last 4 years, you need to take a 
 bus to get anywhere. Luckily, it is only a 20 minute ride to Boon Lay MRT station which is the starting point of 
 our sightseeing trips. It took us almost 1h in total to get to Marina Bay, the most famous part of the city. 
-After leaving MRT station (Raffles Place) we were immediately surrounded by many skyscrappers.
+After leaving MRT station (Raffles Place) we were immediately surrounded by many skyscrapers.
 
 <img src="/assets/Singapore/DSC09217.jpg">
 
@@ -38,7 +38,7 @@ kids used to play in a past.
 <img src="/assets/Singapore/DSC09230.jpg">
 
 Merlion Park was our first stop, an almost 9m tall statue with a lion's head and fish-like body represents 
-Singapore as a both the "Lion City" and a "Sea town". Located by the Singapore river with a beautiful view on the 
+Singapore as both the "Lion City" and a "Sea town". Located by the Singapore river with a beautiful view on the 
 famous Sands Sky Park with its unique ship-like top roof in front, Esplanade Theaters on the left and overwhelming 
 skyscrapers in the back.
 
@@ -46,9 +46,9 @@ skyscrapers in the back.
 <img src="/assets/Singapore/DSC100411.jpg">
 
 
-Next, we took pleasant walk towards Marina Bay and Gardens hidden behind. We passed by a shopping centre 
+Next, we took a pleasant walk towards Marina Bay and Gardens hidden behind. We passed by a shopping centre 
 (The Shoppes) to grab ice coffee and cool down in air-conditioned mall :) As we walked through the shopping center, 
-the small river with a rafts on it, suddenly appeared, creating atmosphere of Venice. You can expected everything in 
+the small river with rafts on it, suddenly appeared, creating atmosphere of Venice. You can expect everything in 
 Singapore, it was definitely not the last time I gave a gasp "wow!" during this trip.
 
 <img src="/assets/Singapore/DSC09259.jpg">
@@ -81,8 +81,8 @@ photos and movies. Good that, I had my long-focus camera lens so I could keep a 
 <img src="/assets/Singapore/DSC09431.jpg">
 
 After sunset we enjoyed a 15 minutes long light and sound show (the theme was "a trip through Asia") near 
-Supertree Grove, a group of 12 tree-like vertical gardend, 25-50 m tall. There are in total 18 Supertrees in the 
-garden and two of the them are connected by a walkway where is possible to enjoy 22 metre high and 128 metre long 
+Supertree Grove, a group of 12 tree-like vertical gardens, 25-50 m tall. There are in total 18 Supertrees in the 
+garden and two of them are connected by a walkway where is possible to enjoy 22 metre high and 128 metre long 
 Skywalk. The illuminated trees looked incredible, I wish the show would have lasted longer!
 
 <img src="/assets/Singapore/DSC09462.jpg">

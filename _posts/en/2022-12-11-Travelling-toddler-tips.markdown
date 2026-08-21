@@ -23,17 +23,17 @@ learned a lot during the first trip.
 
 ## What are our tips for the flight itself?
 
-Take in consideration the time of the flight and if it will fit with yours baby daily routine. E.g. we don't book flights
-with departures time before 10am or after 4pm (which limits our options considerably!). 
+Take into consideration the time of the flight and whether it will fit with your baby's daily routine. E.g. we don't book flights
+with departure times before 10am or after 4pm (which limits our options considerably!). 
 
 We always travel with the buggy and baby carrier (we switch to the carrier while boarding the plane). Do note that
-even though you are allowed to take the carrier up to the plane, you are required to get a label for it before going 
+even though you are allowed to take the buggy up to the plane, you are required to get a label for it before going 
 through security from the check-in desk. In theory, you are allowed
 to take 1 small bag when you buy infant ticket (under age of 2) but we always had a small additional cotton bag with all the 
 little one's food and drinks, no one ever complained (in case there would be an issue, all things would comfortably
 fit in our luggage). In general, the less luggage you have the better. We have standard carry-on bags when 
 traveling for a week (1 small backpack per person) and it's really enough! Once you reach your destination, it's time to 
-find your buggy. Every airport have them in a different spot, usually together with oversized luggage but never next 
+find your buggy. Every airport has them in a different spot, usually together with oversized luggage but never next 
 to the plane. This is why having a carrier can be extremely helpful as sometimes it's a really long walk from the plane 
 to the baggage reclaim. It's also useful to have small blanket to cover the baby while boarding the plane, sometimes it's very 
 windy, and you never know how long you'll have to queue outside to get into the plane.
@@ -56,14 +56,14 @@ These are specific hints about the airports we've used so far:
 
   * Zaventem, Belgium - amazing playing area for kids next to the food corner (entrance next to the Starbucks). There is 
 a microwave, high chairs, changing stations, big table for parents to sit, perfect place to wait for the flight! Going 
-through securing was easy with the baby, all baby food and water was checked so better keep it in a separate bag for easy 
+through security was easy with the baby, all baby food and water was checked so better keep it in a separate bag for easy 
 access.
 
   * Pyrzowice, Poland - we didn't find any playing area for toddlers, there are changing rooms. Security here is
 inefficient and needlessly long. E.g. this is one of the few airports where they require shoes to be taken off and scanned. 
 Expect long queues without a no priority line for families with kids.
 
-  * Lisbon, Portugal - there is a single special land for security checks for elderly, people in wheelchair and parents with 
+  * Lisbon, Portugal - there is a single special lane for security checks for elderly, people in wheelchair and parents with 
 babies, but be aware that it could take even longer than going by regular line as all the "slower people" will be 
 in the special queue! They discourage this because there are a few steps down to get to the regular security check, 
 which shouldn't be an issue when travelling with a buggy.
@@ -79,11 +79,11 @@ very small and closed off for unknown reasons. Going through security was a plea
 
 ## What are the important criteria when looking for accommodation?
 
-Airbnb is our favourite platform when travelling. When we went for you first trip to Lisbon, we thought that having an 
+Airbnb is our favourite platform when travelling. When we went for our first trip to Lisbon, we thought that having an 
 apartment in the city center will give us flexibility.
 We could come back to the apartment, it will be close to the shops and restaurants. BUT, we didn't predict that houses in 
-the old part of the city have paper thin walls. It was so laud that we couldn't sleep and our baby had even more problems with 
-sleep. It also happened few time around midnight and early morning that people were discarding glass bottles outside, waking up
+the old part of the city have paper thin walls. It was so loud that we couldn't sleep and our baby had even more problems with 
+sleep. It also happened a few times around midnight and early morning that people were discarding glass bottles outside, waking up
 everyone in the neighborhood. Next time, we checked the reviews of the apartments carefully, looking for any clues about 
 the noise level. Our apartment in Benalmadena was much better! It had bigger bedroom that even with extra travel cot had enough space 
 to be comfortably used. This time we also stayed in quiet area next to the park (with animals and playground), the beach and 
@@ -102,7 +102,7 @@ As public toilets with changing stations are rare, having a changing mat is a mu
 also come in handy as an extra layer while sitting on grass. Keep in mind that even in some restaurants toilets can
 be very small and lack a changing station, in those cases you'll also be happy you have your own mat with you.
 
-In Lisbon, all tourists attractions had a separate line for families, so we didn't have to wait much at all. Also in the shops, people 
+In Lisbon, all tourist attractions had a separate line for families, so we didn't have to wait much at all. Also in the shops, people 
 were letting us ahead, even if we didn't ask them for this and that was really nice.
 
 <div class="row">
@@ -112,10 +112,10 @@ were letting us ahead, even if we didn't ask them for this and that was really n
 
 
 We travel with both a buggy and baby carrier. It gives us the flexibility needed for visiting different kind of places. 
-For example, it would not be possible to visits city center of Lisbon, Moorish Castle in Portugal or Calamorro Mountain 
-in Spain with the buggy. On the other hand a buggy comes handy for long walks along the see or while visiting some sites like the
+For example, it would not be possible to visit the city center of Lisbon, Moorish Castle in Portugal or Calamorro Mountain 
+in Spain with the buggy. On the other hand a buggy comes handy for long walks along the sea or while visiting some sites like the
 Jerónimos Monastery in Lisbon (which is perfectly suited for a buggy). The easiest way to make a decision 
-"buggy or carrier?" is to check the reviews on the trip advisor or on Google and look for any that describes how kids-friendly a particular tourist attraction is.
+"buggy or carrier?" is to check the reviews on Tripadvisor or on Google and look for any that describes how kids-friendly a particular tourist attraction is.
   * [Buggy](https://www.dreambaby.be/e/fr/db/dreambee-essentials-poussette-canne-grey-melange-214187?utm_source=google&utm_medium=shopping&s_kwcid=AL!6321!3!!!!x!!&gclid=CjwKCAiAheacBhB8EiwAItVO2yQ7N_C6VWkn4sxHW_TIX8rNzywIH3wWZIyx8EqOYPPCespcWfD0HxoCK10QAvD_BwE)
   * [Baby Bjorn carrier](https://www.amazon.com.be/-/en/BABYBJ%C3%96RN-Carrier-Black-Cotton-White/dp/B07KPSS456/ref=sr_1_1?crid=2Q7TKLKF68UZ8&keywords=BabyBj%C3%B6rn+carrier+one&qid=1671045227&sprefix=babybj%C3%B6rn+carrier+one%2Caps%2C60&sr=8-1)
   * [Nanabeebi backpack](https://www.nanabeebi.com/en/products/luiertas-rugzak)

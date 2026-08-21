@@ -134,7 +134,7 @@ delightful lunch at the nearby restaurant, Adega de Belém, which was the perfec
 <img src="/assets/Portugal/Lisbon/20220217_155702.jpg" />
 <img src="/assets/Portugal/Lisbon/20220217_160832.jpg" />
 
-View from view point Miradouro de São Pedro de Alcântara, above Rossion station from where trains to Sintra leave.
+View from view point Miradouro de São Pedro de Alcântara, above Rossio station from where trains to Sintra leave.
 <img src="/assets/Portugal/Lisbon/20220215_141206.jpg" />
 
 ## Practical info:

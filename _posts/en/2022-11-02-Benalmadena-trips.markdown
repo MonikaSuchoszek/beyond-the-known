@@ -57,7 +57,7 @@ Sea. I would highly recommend to get lost in the narrow streets of this cute vil
 Our second destination, the Colomares Monument is a castle-style monument honoring Christopher Columbus and his discovery of the new world, America. 
 This monument was built between 1987 and 1994 by Esteban Martin Martin and his two co-workers. A great place to take some interesting pictures! 
 It's not big, but it feels intense because of the number of ornaments.  It is a mix of many architectural styles and materials: brick, 
-stone and cement. One part of the monument resembles of the stern from La Santa Maria, the largest of the three Spanish 
+stone and cement. One part of the monument resembles the stern of La Santa Maria, the largest of the three Spanish 
 ships used by Christopher Columbus in his first voyage across the Atlantic Ocean in 1492.  You can love it or hate it. 
 We had vastly different opinions, so check it yourself in what camp you'll fall!
 
@@ -77,7 +77,7 @@ The most spectacular species we spotted were *Greta Oto*, a butterfly with trans
 *Morpho pheleides* and the black *Parides iphidamas* with its big red dots on the wings. Besides the butterflies, you 
 can see their small wallaby and very colorful, rainbow finches, both native to Australia. It's a great place for older 
 kids. Young toddlers can have difficulties to spot the butterflies and if they do, you need to be careful and not let 
-them damaged the fragile butterflies as some do get very close to visitors.
+them damage the fragile butterflies as some do get very close to visitors.
 
 <img src="/assets/Spain/Malaga/20221115_164017.jpg" />
 <img src="/assets/Spain/Malaga/20221115_164638.jpg" />
@@ -94,9 +94,9 @@ them damaged the fragile butterflies as some do get very close to visitors.
 
 El Calamorro Monte, panoramic view of Benalmadena. It has several access points, but we decided to take the Benalmádena Cable Car, 
 which runs along its slope from Arroyo de la Miel (next to the old Tivoli amusement park) to the very top of the mountain 
-(approximately 780 metres above the see level). There are a few beautiful view points and a show featuring birds of prey at the top.
+(approximately 780 metres above sea level). There are a few beautiful view points and a show featuring birds of prey at the top.
 You can also start hiking from there in various directions or even cycle downhill (you can take your bike by cable car, 
-though you might need to detach a wheel to get it in the cabin). We were too late for last show with birds of prey 
+though you might need to detach a wheel to get it in the cabin). We were too late for the last show with birds of prey 
 (3:00 pm) but we enjoyed a small tour around the peak, remember to take some extra clothes, with wind and clouds 
 accumulating around the peak, it can get chilly.
   
@@ -111,8 +111,8 @@ accumulating around the peak, it can get chilly.
 
 ## Practical info:
 
-  * Playground, Patio de Juegos, next to Parque La Muralla in Mijas. We spend there a lot of time, this amazing playground has
-attractions for each age group. Our one-year-old baby loved it and it not so easy to find a playground that suits her age.
+  * Playground, Patio de Juegos, next to Parque La Muralla in Mijas. We spent a lot of time there. This amazing playground has
+attractions for each age group. Our one-year-old baby loved it and it is not so easy to find a playground that suits her age.
 
 <img src="/assets/Spain/Malaga/20221114_164100.jpg" />
 
@@ -121,9 +121,9 @@ attractions for each age group. Our one-year-old baby loved it and it not so eas
 little strange. After paying, you should get a code via mail that can be redeemed for the tickets at the reception... We never got that mail though.
 As for the tickets with PayPal fortunately the order ID was also included in the PayPal order confirmation. You need to buy tickets at 
 least one hour before the visit. More on the official [website](https://www.mariposariodebenalmadena.com/en/)
-  * Benalmadena cable car - tickets bought on spot, 16.90 euro per adult, seniors 12.90 euro
+  * Benalmadena cable car - tickets bought on the spot, 16.90 euro per adult, seniors 12.90 euro
   * You can check how to travel by bus by reading practical info section of my related [blog post]({% post_url en/2022-10-20-Benalmadena-Spain %})
-It took us 40 min from Benalmadena to Mijas (Butterfly park was half-way to Mijas) by line 121, 126
+It took us 40 min from Benalmadena to Mijas (Butterfly park was half-way to Mijas) by lines 121 and 126
   
 
   

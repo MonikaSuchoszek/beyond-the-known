@@ -31,7 +31,7 @@ uitstekende bescherming bood tegen de wind en de nieuwkomers beschutting gaf.
 <img src="/assets/France/Marseille/20231110_112904.jpg" />
 
 Een steenworp verderop gonst de moderne haven van bedrijvigheid. Je hebt er een goed zicht op vanaf de "Mirador de
-Saint-Jean", een uitkijkpunt bij de stadsvesting aan de haveningang.
+Saint-Jean", een uitkijkpunt vlak bij de stadsvesting, die schepen naar de ingang van de haven leidt.
 Aan het einde van de haven komt de Quai des Belges elke ochtend tot leven wanneer de vissers er hun verse vangst
 aanprijzen. Hier staat ook een gedenkteken voor die eerste avontuurlijke Griekse kolonisten, ter herinnering aan hun
 stichtende rol in de geschiedenis van de stad.

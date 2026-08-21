@@ -71,7 +71,7 @@ performance :D
 <img src="/assets/Singapore/DSC09918.jpg">
 <img src="/assets/Singapore/DSC09850.jpg">
 
-The feathers of flamingos have really intense orange colors what depands on the level of carotenoids in their diet.
+The feathers of flamingos have really intense orange colors what depends on the level of carotenoids in their diet.
 
 <img src="/assets/Singapore/DSC09923.jpg">
 
@@ -86,14 +86,14 @@ in the air. The last part belonged to ravenous vultures, circling around fake bu
 ## River safari
 
 Giant pandas, Kai Kai and Jia Jia and their friend red panda are the highlight of 
-<a href="https://www.wrs.com.sg/en/river-safari/"><strong>River safari</strong></a> which is localized next to 
+<a href="https://www.wrs.com.sg/en/river-safari/"><strong>River safari</strong></a> which is located next to 
 Singapore Zoo. A large forest, cooled to 18-22°C, is the place where these pandas spend their time in very 
-comfortable conditions with the plenty of sun coming through the glass ceiling.
+comfortable conditions with plenty of sun coming through the glass ceiling.
 
 <img src="/assets/Singapore/DSC00304.jpg">
 
 Turtles, otters, catfish, sturgeons, crocodiles and many other species can be observed in a big number of 
-fish tanks. There is also giant aquarium (the word's largest feshwater gallery!) with Manatees. As we noticed 
+fish tanks. There is also a giant aquarium (the world's largest freshwater gallery!) with Manatees. As we noticed 
 these slow-moving animals, most of the time resting submerged in the water. Actually I haven't seen them breathing 
 and as I later read they don't do this very often, every few to 20 min :)
 
