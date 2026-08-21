@@ -6,7 +6,7 @@ description: "Four days camping in Zeeland after Luxembourg turned orange: the c
 date:   2020-07-19 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	netherlands beach sea dunes
+tags:	netherlands beach sea dunes nature hiking camping coast
 cover:  "/assets/Netherlands/Nieuwvliet/DSC07255.jpg"
 thumbnail:  "/assets/thumbnails/Nieuwvliet.jpg"
 post_id: nieuwvliet_holland

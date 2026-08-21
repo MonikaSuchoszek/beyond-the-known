@@ -5,7 +5,7 @@ description: "Getting from Luang Namtha in northern Laos to Chiang Rai in Thaila
 date:   2019-02-11 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	laos village cycling 
+tags:	laos village cycling tips thailand
 cover:  "/assets/Laos/LuangNamtha/DSC04011.jpg"
 thumbnail:  "/assets/thumbnails/luang_namtha.jpg"
 post_id: laos_luang_namtha

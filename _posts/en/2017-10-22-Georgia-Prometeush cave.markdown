@@ -5,7 +5,7 @@ description: "A day trip from Kutaisi to the Prometheus cave and the Martvili an
 date:   2017-10-22 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking georgia 
+tags:	hiking georgia cave nature
 cover:  "/assets/Georgia/Prometeush_cave/IMG_0580.JPG"
 thumbnail:  "/assets/thumbnails/prometeush_cave.jpg"
 post_id: georgia_prometeush_cave

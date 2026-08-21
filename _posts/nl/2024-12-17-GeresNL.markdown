@@ -6,7 +6,7 @@ description: "Iberische wolven, halfwilde Garrano-paarden en de bergtoppen van h
 date:   2024-12-17 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	portugal wandelen
+tags:	portugal wandelen natuur bergen dieren winter
 cover:  "/assets/Portugal/Porto/20241208_111108_01.jpg"
 thumbnail:  "/assets/thumbnails/Geres.JPG"
 post_id: Geres

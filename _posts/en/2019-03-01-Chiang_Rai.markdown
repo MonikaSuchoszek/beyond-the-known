@@ -5,7 +5,7 @@ description: "Reaching the White Temple by local bus, and the rest of Chiang Rai
 date:   2019-03-01 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	thailand city  
+tags:	thailand city temples culture tips
 cover:  "/assets/Thailand/ChiangRai/IMG_20180428_085452708_HDR_01.jpg"
 thumbnail:  "/assets/thumbnails/white_temple.jpg"
 post_id: thailand_chiang_rai

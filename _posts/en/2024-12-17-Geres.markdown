@@ -6,7 +6,7 @@ description: "Iberian wolves, semi-wild Garrano horses and the peaks of the Gere
 date:   2024-12-17 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	portugal hiking
+tags:	portugal hiking nature mountains wildlife winter
 cover:  "/assets/Portugal/Porto/20241208_111108_01.jpg"
 thumbnail:  "/assets/thumbnails/Geres.JPG"
 post_id: Geres

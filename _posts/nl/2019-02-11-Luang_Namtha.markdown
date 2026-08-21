@@ -5,7 +5,7 @@ description: "In één dag van Luang Namtha in Noord-Laos naar Chiang Rai in Tha
 date:   2019-02-11 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	laos dorp fietsen
+tags:	laos dorp fietsen tips thailand
 cover:  "/assets/Laos/LuangNamtha/DSC04011.jpg"
 thumbnail:  "/assets/thumbnails/luang_namtha.jpg"
 post_id: laos_luang_namtha

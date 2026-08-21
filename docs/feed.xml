@@ -5,8 +5,8 @@
     <language>en-US</language>
     <link>https://www.beyond-the-known.eu/</link>
     <atom:link href="https://www.beyond-the-known.eu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Aug 2026 09:15:55 +0200</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 09:15:55 +0200</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 10:05:04 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:05:04 +0200</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -17,6 +17,14 @@
         <guid isPermaLink="true">https://www.beyond-the-known.eu/en/travel/2026/08/HikesBE/</guid>
         
         <category>belgium</category>
+        
+        <category>hiking</category>
+        
+        <category>nature</category>
+        
+        <category>castle</category>
+        
+        <category>river</category>
         
         
         <category>Travel</category>
@@ -36,6 +44,14 @@
         
         <category>braga</category>
         
+        <category>city</category>
+        
+        <category>history</category>
+        
+        <category>hiking</category>
+        
+        <category>nature</category>
+        
         
         <category>Travel</category>
         
@@ -53,6 +69,14 @@
         <category>barcelos</category>
         
         <category>braga</category>
+        
+        <category>coast</category>
+        
+        <category>city</category>
+        
+        <category>history</category>
+        
+        <category>beach</category>
         
         
         <category>Travel</category>
@@ -72,6 +96,18 @@
         
         <category>braga</category>
         
+        <category>roadtrip</category>
+        
+        <category>city</category>
+        
+        <category>nature</category>
+        
+        <category>beach</category>
+        
+        <category>food</category>
+        
+        <category>tips</category>
+        
         
         <category>Travel</category>
         
@@ -90,6 +126,14 @@
         
         <category>pisa</category>
         
+        <category>beach</category>
+        
+        <category>coast</category>
+        
+        <category>city</category>
+        
+        <category>toddler</category>
+        
         
         <category>Travel</category>
         
@@ -103,6 +147,16 @@
         <guid isPermaLink="true">https://www.beyond-the-known.eu/en/travel/2026/01/CinqueTerre/</guid>
         
         <category>italy</category>
+        
+        <category>coast</category>
+        
+        <category>sea</category>
+        
+        <category>ferry</category>
+        
+        <category>train</category>
+        
+        <category>village</category>
         
         
         <category>Travel</category>
@@ -118,6 +172,14 @@
         
         <category>italy</category>
         
+        <category>train</category>
+        
+        <category>coast</category>
+        
+        <category>city</category>
+        
+        <category>tips</category>
+        
         
         <category>Travel</category>
         
@@ -131,6 +193,20 @@
         <guid isPermaLink="true">https://www.beyond-the-known.eu/en/travel/2025/09/Denmark/</guid>
         
         <category>denmark</category>
+        
+        <category>roadtrip</category>
+        
+        <category>city</category>
+        
+        <category>coast</category>
+        
+        <category>nature</category>
+        
+        <category>ferry</category>
+        
+        <category>toddler</category>
+        
+        <category>tips</category>
         
         
         <category>Travel</category>
@@ -150,6 +226,14 @@
         
         <category>madeira</category>
         
+        <category>island</category>
+        
+        <category>nature</category>
+        
+        <category>mountains</category>
+        
+        <category>beach</category>
+        
         
         <category>Travel</category>
         
@@ -167,6 +251,12 @@
         <category>hiking</category>
         
         <category>madeira</category>
+        
+        <category>island</category>
+        
+        <category>nature</category>
+        
+        <category>mountains</category>
         
         
         <category>Travel</category>

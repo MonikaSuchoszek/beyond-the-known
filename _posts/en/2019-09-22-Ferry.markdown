@@ -5,7 +5,7 @@ description: "A slow day on Lake Como by ferry between Varenna, Bellagio and Lie
 date:   2019-09-22 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	city italy ferry lake
+tags:	city italy ferry lake como
 cover:  "/assets/Italy/Ferry/DSC06758.JPG"
 thumbnail:  "/assets/thumbnails/ferry_varenna.jpg"
 post_id: italy_ferry_varenna

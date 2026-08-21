@@ -6,7 +6,7 @@ description: "Waarom we Madeira kozen voor onze huwelijksreis zonder kleuter, en
 date:   2025-01-19 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	portugal stad madeira
+tags:	portugal stad madeira eiland wandelen
 cover:  "/assets/Portugal/Madeira/Funchal/DSC08565.JPG"
 thumbnail:  "/assets/thumbnails/Funchal.JPG"
 post_id: Funchal

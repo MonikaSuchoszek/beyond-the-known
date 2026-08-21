@@ -6,7 +6,7 @@ description: "Jarmarki bożonarodzeniowe po zmroku w Bradze oraz dzień w Guimar
 date:   2024-12-14 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	portugalia braga miasto
+tags:	portugalia braga miasto kultura historia festiwal zima
 cover:  "/assets/Portugal/Porto/20241206_173438_01.jpg"
 thumbnail:  "/assets/thumbnails/Braga.JPG"
 post_id: Braga

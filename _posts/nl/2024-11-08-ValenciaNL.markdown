@@ -6,7 +6,7 @@ description: "Een dag in het Oceanogràfic, het grootste aquarium van Europa, en
 date:   2024-11-08 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	spanje valencia aquarium
+tags:	spanje valencia aquarium stad cultuur peuter dieren
 cover:  "/assets/Spain/Valencia/20240830_160508.jpg"
 thumbnail:  "/assets/thumbnails/Valencia.JPG"
 post_id: Valencia

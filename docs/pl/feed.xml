@@ -5,8 +5,8 @@
     <language>pl-PL</language>
     <link>https://www.beyond-the-known.eu/pl/</link>
     <atom:link href="https://www.beyond-the-known.eu/pl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Aug 2026 09:15:55 +0200</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 09:15:55 +0200</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 10:05:04 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:05:04 +0200</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -17,6 +17,14 @@
         <guid isPermaLink="true">https://www.beyond-the-known.eu/pl/podroze/2026/08/HikesBE/</guid>
         
         <category>belgia</category>
+        
+        <category>trekking</category>
+        
+        <category>natura</category>
+        
+        <category>zamek</category>
+        
+        <category>rzeka</category>
         
         
         <category>Podróże</category>
@@ -36,6 +44,14 @@
         
         <category>braga</category>
         
+        <category>miasto</category>
+        
+        <category>historia</category>
+        
+        <category>trekking</category>
+        
+        <category>natura</category>
+        
         
         <category>Podróże</category>
         
@@ -53,6 +69,14 @@
         <category>barcelos</category>
         
         <category>braga</category>
+        
+        <category>wybrzeze</category>
+        
+        <category>miasto</category>
+        
+        <category>historia</category>
+        
+        <category>plaza</category>
         
         
         <category>Podróże</category>
@@ -72,6 +96,18 @@
         
         <category>braga</category>
         
+        <category>objazdowka</category>
+        
+        <category>miasto</category>
+        
+        <category>natura</category>
+        
+        <category>plaza</category>
+        
+        <category>jedzenie</category>
+        
+        <category>wskazowki</category>
+        
         
         <category>Podróże</category>
         
@@ -90,6 +126,14 @@
         
         <category>piza</category>
         
+        <category>plaza</category>
+        
+        <category>wybrzeze</category>
+        
+        <category>miasto</category>
+        
+        <category>dziecko</category>
+        
         
         <category>Podróże</category>
         
@@ -103,6 +147,16 @@
         <guid isPermaLink="true">https://www.beyond-the-known.eu/pl/podroze/2026/01/CinqueTerrePL/</guid>
         
         <category>wlochy</category>
+        
+        <category>wybrzeze</category>
+        
+        <category>morze</category>
+        
+        <category>prom</category>
+        
+        <category>pociag</category>
+        
+        <category>wioska</category>
         
         
         <category>Podróże</category>
@@ -118,6 +172,14 @@
         
         <category>wlochy</category>
         
+        <category>pociag</category>
+        
+        <category>wybrzeze</category>
+        
+        <category>miasto</category>
+        
+        <category>wskazowki</category>
+        
         
         <category>Podróże</category>
         
@@ -131,6 +193,20 @@
         <guid isPermaLink="true">https://www.beyond-the-known.eu/pl/podroze/2025/09/Dania/</guid>
         
         <category>dania</category>
+        
+        <category>objazdowka</category>
+        
+        <category>miasto</category>
+        
+        <category>wybrzeze</category>
+        
+        <category>natura</category>
+        
+        <category>prom</category>
+        
+        <category>dziecko</category>
+        
+        <category>wskazowki</category>
         
         
         <category>Podróże</category>
@@ -150,6 +226,14 @@
         
         <category>madera</category>
         
+        <category>wyspa</category>
+        
+        <category>natura</category>
+        
+        <category>gory</category>
+        
+        <category>plaza</category>
+        
         
         <category>Podróże</category>
         
@@ -167,6 +251,12 @@
         <category>trekking</category>
         
         <category>madera</category>
+        
+        <category>wyspa</category>
+        
+        <category>natura</category>
+        
+        <category>gory</category>
         
         
         <category>Podróże</category>

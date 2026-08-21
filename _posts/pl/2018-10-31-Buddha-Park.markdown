@@ -5,7 +5,7 @@ description: "Jak dojechać do Buddha Park z centrum Vientiane transportem publi
 date:   2018-10-31 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	kultura laos miasto
+tags:	kultura laos miasto swiatynie pomnik
 cover:  "/assets/Laos/BuddhaPark/DSC03214.jpg"
 thumbnail:  "/assets/thumbnails/buddha_park.jpg"
 post_id: laos_buddha_park

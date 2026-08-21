@@ -5,7 +5,7 @@ description: "Walking part of the Mullerthal trail around Berdorf: sandstone gor
 date:   2019-08-06 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking luxembourg 
+tags:	hiking luxembourg nature
 cover:  "/assets/Luxembourg/DSC05283.JPG"
 thumbnail:  "/assets/thumbnails/little_switzerland.jpg"
 post_id: luxembourg_berdorf

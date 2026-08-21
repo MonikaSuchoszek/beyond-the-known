@@ -6,7 +6,7 @@ description: "Kamperen in de Ardennen: de citadel van Dinant en haar saxofoon, d
 date:   2021-06-06 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	belgië wallonië dinant meer luxemburg grot hotton
+tags:	belgië wallonië dinant meer luxemburg grot hotton kamperen wandelen kasteel
 cover:  "/assets/Belgium/Dinant/DSC07602.edit.jpg"
 thumbnail:  "/assets/thumbnails/Dinant.JPG"
 post_id: Belgium_Dinant

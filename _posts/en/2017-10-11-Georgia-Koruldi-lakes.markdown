@@ -5,7 +5,7 @@ description: "The hardest hike of our stay in Mestia: both routes up to the Koru
 date:   2017-10-11 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking georgia 
+tags:	hiking georgia mountains lake nature
 cover:  "/assets/Georgia/Koruldi/IMG_0445.jpg"
 thumbnail:  "/assets/thumbnails/koruldi.jpg"
 post_id: georgia_koruldi_lakes

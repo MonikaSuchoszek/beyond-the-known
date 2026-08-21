@@ -5,7 +5,7 @@ description: "Drewniany domek nad rzeką Nam Ou, hamak, motyle i absolutna cisza
 date:   2019-01-19 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	laos wioska gory rzeka
+tags:	laos wioska gory rzeka natura
 cover:  "/assets/Laos/MuangNgoy/DSC03794.jpg"
 thumbnail:  "/assets/thumbnails/muang_ngoy.jpg"
 post_id: laos_muang_ngoy

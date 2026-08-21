@@ -5,7 +5,7 @@ description: "Jak w ciągu jednego dnia dostać się z Luang Namtha w północny
 date:   2019-02-11 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	laos wioska rowery 
+tags:	laos wioska rowery wskazowki tajlandia
 cover:  "/assets/Laos/LuangNamtha/DSC04011.jpg"
 thumbnail:  "/assets/thumbnails/luang_namtha.jpg"
 post_id: laos_luang_namtha

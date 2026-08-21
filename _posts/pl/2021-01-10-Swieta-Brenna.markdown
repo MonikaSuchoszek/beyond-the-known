@@ -6,7 +6,7 @@ description: "Święta u rodziców w Polsce i dwa wyjścia w Beskid Śląski: B�
 date:   2021-01-10 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	polska brenna trekking gory kotarz blatnia
+tags:	polska brenna trekking gory kotarz blatnia natura zima
 cover:  "/assets/Poland/Brenna/PC201308.edit.jpg"
 thumbnail:  "/assets/thumbnails/Blatnia.JPG"
 post_id: Brenna_Blatnia

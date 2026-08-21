@@ -6,7 +6,7 @@ description: "Dzień w Oceanogràfic, największym oceanarium Europy, i reszta W
 date:   2024-11-08 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	hiszpania walencia oceanarium
+tags:	hiszpania walencia oceanarium miasto kultura dziecko zwierzeta
 cover:  "/assets/Spain/Valencia/20240830_160508.jpg"
 thumbnail:  "/assets/thumbnails/Valencia.JPG"
 post_id: Valencia

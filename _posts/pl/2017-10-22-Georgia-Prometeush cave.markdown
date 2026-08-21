@@ -5,7 +5,7 @@ description: "Całodniowa wycieczka z Kutaisi do Jaskini Prometeusza oraz kanion
 date:   2017-10-22 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking gruzja 
+tags:	trekking gruzja jaskinia natura
 cover:  "/assets/Georgia/Prometeush_cave/IMG_0580.JPG"
 thumbnail:  "/assets/thumbnails/prometeush_cave.jpg"
 post_id: georgia_prometeush_cave

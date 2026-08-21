@@ -6,7 +6,7 @@ description: "Christmas markets after dark in Braga and a day in Guimaraes, the 
 date:   2024-12-14 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	portugal braga city
+tags:	portugal braga city culture history festival winter
 cover:  "/assets/Portugal/Porto/20241206_173438_01.jpg"
 thumbnail:  "/assets/thumbnails/Braga.JPG"
 post_id: Braga

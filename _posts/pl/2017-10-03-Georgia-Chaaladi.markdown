@@ -5,7 +5,7 @@ description: "Łatwy szlak z Mestii do lodowca Chaaladi: jak ominąć nudne pier
 date:   2017-10-03 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking gruzja 
+tags:	trekking gruzja gory natura
 cover:  "/assets/Georgia/Chaaladi/IMG_0351.jpg"
 thumbnail:  "/assets/thumbnails/chaaladi.jpg"
 post_id: georgia_chaaladi

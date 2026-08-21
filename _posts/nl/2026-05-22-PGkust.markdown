@@ -6,7 +6,7 @@ description: "Viana do Castelo, Barcelos, de windmolens van Apúlia en de heuvel
 date:   2026-05-22 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	portugal barcelos braga
+tags:	portugal barcelos braga kust stad geschiedenis strand
 cover:  "/assets/Portugal/North/20260409_193000.jpg"
 thumbnail:  "/assets/thumbnails/Coast.JPG"
 post_id: north_coast_overview

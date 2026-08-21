@@ -6,7 +6,7 @@ description: "Zdjęcia średniowiecznej cytadeli w Namur i ruin klasztoru Viller
 date:   2020-09-06 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	belgia walonia namur rzeka
+tags:	belgia walonia namur rzeka miasto historia zamek kultura
 cover:  "/assets/Belgium/Namur/DSC07372.JPG"
 thumbnail:  "/assets/thumbnails/Namur.jpg"
 post_id: Belgium_Namur

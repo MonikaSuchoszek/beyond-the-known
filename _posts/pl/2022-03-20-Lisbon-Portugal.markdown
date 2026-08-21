@@ -6,7 +6,7 @@ description: "Nasza pierwsza podróż za granicę z niemowlęciem: jak Lizbona s
 date:   2022-03-20 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	portugalia lizbona
+tags:	portugalia lizbona miasto niemowle kultura
 cover:  "/assets/Portugal/Lisbon/20220218_130028.jpg"
 thumbnail:  "/assets/thumbnails/Lisbon.JPG"
 post_id: Lisbon

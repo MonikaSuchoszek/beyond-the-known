@@ -5,7 +5,7 @@ description: "Riverside Kampot and seaside Kep: visiting La Plantation pepper fa
 date:   2018-08-12 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	culture cambodia beach coast
+tags:	culture cambodia beach coast history sea river food
 cover:  "/assets/Cambodia/KampotKep/DSC02130.jpg"
 thumbnail:  "/assets/thumbnails/kampot_kep.jpg"
 post_id: cambodia_kampot_kep

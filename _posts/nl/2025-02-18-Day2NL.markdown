@@ -6,7 +6,7 @@ description: "Twee heel verschillende wandelingen op één dag: de kale Drakenst
 date:   2025-02-18 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	portugal wandelen madeira
+tags:	portugal wandelen madeira eiland natuur kust
 cover:  "/assets/Portugal/Madeira/Day2/DSC08882.JPG"
 thumbnail:  "/assets/thumbnails/Day2.JPG"
 post_id: Day2

@@ -5,7 +5,7 @@ description: "An easy walk from Mestia to the Chaaladi glacier: how to skip the 
 date:   2017-10-03 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking georgia 
+tags:	hiking georgia mountains nature
 cover:  "/assets/Georgia/Chaaladi/IMG_0351.jpg"
 thumbnail:  "/assets/thumbnails/chaaladi.jpg"
 post_id: georgia_chaaladi

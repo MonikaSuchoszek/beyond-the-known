@@ -6,7 +6,7 @@ description: "Najstarsze miasto Portugalii i dwa piękne szlaki w okolicy, a tak
 date:   2026-06-03 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	portugalia pontedelima braga
+tags:	portugalia pontedelima braga miasto historia trekking natura
 cover:  "/assets/Portugal/North/Ponte/20260414_153825.jpg"
 thumbnail:  "/assets/thumbnails/Ponte.JPG"
 post_id: north_PonteDeLima_overview

@@ -5,7 +5,7 @@ description: "Een daguitstap vanuit Kutaisi naar de Prometheusgrot en de canyons
 date:   2017-10-22 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	wandelen georgië
+tags:	wandelen georgië grot natuur
 cover:  "/assets/Georgia/Prometeush_cave/IMG_0580.JPG"
 thumbnail:  "/assets/thumbnails/prometeush_cave.jpg"
 post_id: georgia_prometeush_cave

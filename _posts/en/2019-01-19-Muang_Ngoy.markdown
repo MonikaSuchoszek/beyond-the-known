@@ -5,7 +5,7 @@ description: "A bungalow on the Nam Ou river, butterflies and complete silence: 
 date:   2019-01-19 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	laos village mountains river
+tags:	laos village mountains river nature
 cover:  "/assets/Laos/MuangNgoy/DSC03794.jpg"
 thumbnail:  "/assets/thumbnails/muang_ngoy.jpg"
 post_id: laos_muang_ngoy

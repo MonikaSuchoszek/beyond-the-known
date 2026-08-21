@@ -5,7 +5,7 @@ description: "Een onbetrouwbare bus, tuk-tukchauffeurs die toeristenprijzen vroe
 date:   2018-09-07 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	cultuur geschiedenis cambodja khmer paleis tempels
+tags:	cultuur geschiedenis cambodja khmer paleis tempels stad
 cover:  "/assets/Cambodia/PhnomPenh/DSC02290.jpg"
 thumbnail:  "/assets/thumbnails/phnom_penh.jpg"
 post_id: cambodia_phnom_penh

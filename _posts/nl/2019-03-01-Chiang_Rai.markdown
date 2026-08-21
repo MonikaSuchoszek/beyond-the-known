@@ -5,7 +5,7 @@ description: "Met de lokale bus naar de Witte Tempel en de rest van Chiang Rai t
 date:   2019-03-01 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	thailand stad
+tags:	thailand stad tempels cultuur tips
 cover:  "/assets/Thailand/ChiangRai/IMG_20180428_085452708_HDR_01.jpg"
 thumbnail:  "/assets/thumbnails/white_temple.jpg"
 post_id: thailand_chiang_rai

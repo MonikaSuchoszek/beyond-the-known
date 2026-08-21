@@ -5,7 +5,7 @@ description: "Wyspy St John i Kusu, spokojne plaże i kolejne zakątki Singapuru
 date:   2018-02-02 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	jedzenie singapur miasto natura 
+tags:	jedzenie singapur miasto natura wyspa plaza
 cover:  "/assets/Singapore/DSC101027.jpg"
 thumbnail:  "/assets/thumbnails/singapore_more.jpg"
 post_id: singapore_more_places

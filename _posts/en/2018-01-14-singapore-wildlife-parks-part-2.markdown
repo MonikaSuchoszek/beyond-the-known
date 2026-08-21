@@ -5,7 +5,7 @@ description: "Singapore Zoo, where ditches replace fences and lemurs and gibbons
 date:   2018-01-14 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	singapore city nature culture
+tags:	singapore city nature culture wildlife
 cover:  "/assets/Singapore/DSC00198.jpg"
 thumbnail:  "/assets/thumbnails/wildlife_parks_2.jpg"
 post_id: singapore_wildlife_parks_2

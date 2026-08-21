@@ -5,7 +5,7 @@ description: "Wat je moet inpakken en verwachten op het Annapurna Circuit zonder
 date:   2018-07-11 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	nepal wandelen himalaya
+tags:	nepal wandelen himalaya bergen tips
 cover:  "/assets/Nepal/Annapurna/DSC01517.jpg"
 thumbnail:  "/assets/thumbnails/annapurna.jpg"
 post_id: nepal_annapurna_practical

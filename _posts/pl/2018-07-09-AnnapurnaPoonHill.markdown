@@ -5,7 +5,7 @@ description: "Z lotniska w Katmandu prosto w środek święta Holi, a potem trek
 date:   2018-07-09 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	nepal trekking himalaje
+tags:	nepal trekking himalaje gory wioska
 cover:  "/assets/Nepal/Annapurna/DSC01713.jpg"
 thumbnail:  "/assets/thumbnails/annapurna_poon_hill.jpg"
 post_id: nepal_annapurna_poon_hill

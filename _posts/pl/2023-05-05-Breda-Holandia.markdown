@@ -6,7 +6,7 @@ description: "Długi majowy weekend w okolicach Bredy: gospodarstwa, spokojne tr
 date:   2023-05-05 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	holandia breda
+tags:	holandia breda rowery trekking natura
 cover:  "/assets/Netherlands/Breda/20230501_132917.jpg"
 thumbnail:  "/assets/thumbnails/Breda.JPG"
 post_id: Breda

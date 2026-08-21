@@ -5,7 +5,7 @@ description: "Fried dumplings, Tian Tian chicken rice and everything else we ate
 date:   2018-01-12 08:43:59
 author: Monika Suchoszek
 categories: travel food
-tags:	singapore city nature culture
+tags:	singapore city nature culture food
 cover:  "/assets/Singapore/DSC09536.jpg"
 thumbnail:  "/assets/thumbnails/chinatown.jpg"
 post_id: singapore_chinatown

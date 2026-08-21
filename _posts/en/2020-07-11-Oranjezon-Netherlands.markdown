@@ -6,7 +6,7 @@ description: "Our first day trip after the covid restrictions lifted: dunes, pin
 date:   2020-07-11 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	netherlands beach sea dunes
+tags:	netherlands beach sea dunes nature hiking
 cover:  "/assets/Netherlands/Oranjezon/P7110260.1.JPG"
 thumbnail:  "/assets/thumbnails/Oranjezon.jpg"
 post_id: oranjezon_holland

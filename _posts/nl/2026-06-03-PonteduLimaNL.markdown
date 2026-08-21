@@ -6,7 +6,7 @@ description: "Het oudste stadje van Portugal en twee mooie natuurwandelingen in 
 date:   2026-06-03 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	portugal pontedelima braga
+tags:	portugal pontedelima braga stad geschiedenis wandelen natuur
 cover:  "/assets/Portugal/North/Ponte/20260414_153825.jpg"
 thumbnail:  "/assets/thumbnails/Ponte.JPG"
 post_id: north_PonteDeLima_overview

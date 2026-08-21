@@ -6,7 +6,7 @@ description: "Photographing the medieval citadel of Namur and the ruins of Ville
 date:   2020-09-06 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	belgium wallonia namur river
+tags:	belgium wallonia namur river city history castle culture
 cover:  "/assets/Belgium/Namur/DSC07372.JPG"
 thumbnail:  "/assets/thumbnails/Namur.jpg"
 post_id: Belgium_Namur

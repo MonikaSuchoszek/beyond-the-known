@@ -5,7 +5,7 @@ description: "Co spakować i czego się spodziewać na trekkingu wokół Annapur
 date:   2018-07-11 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	nepal trekking himalaje
+tags:	nepal trekking himalaje gory wskazowki
 cover:  "/assets/Nepal/Annapurna/DSC01517.jpg"
 thumbnail:  "/assets/thumbnails/annapurna.jpg"
 post_id: nepal_annapurna_practical

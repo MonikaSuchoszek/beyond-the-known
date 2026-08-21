@@ -5,7 +5,7 @@ description: "Strome punkty widokowe nad Nong Khiaw i rzeką Nam Ou, gwałtowna 
 date:   2019-02-05 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	laos miasto gory rzeka
+tags:	laos miasto gory rzeka natura trekking
 cover:  "/assets/Laos/NongKhiaw/IMG_20180423_105414542_HDR.jpg"
 thumbnail:  "/assets/thumbnails/nong_khiaw.jpg"
 post_id: laos_nong_khiaw

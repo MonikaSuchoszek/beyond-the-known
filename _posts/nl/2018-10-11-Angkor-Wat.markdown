@@ -5,7 +5,7 @@ description: "Drie dagen met de fiets rond Angkor: de opkomst en ondergang van h
 date:   2018-10-11 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	cultuur geschiedenis cambodja khmer fietsen
+tags:	cultuur geschiedenis cambodja khmer fietsen tempels unesco
 cover:  "/assets/Cambodia/AngkorWat/DSC02466.jpg"
 thumbnail:  "/assets/thumbnails/angkor_wat.jpg"
 post_id: cambodia_angkor_wat

@@ -6,7 +6,7 @@ description: "Mróz, śnieg i bezchmurne niebo: wejście na Kotarz niebieskim sz
 date:   2021-01-25 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	polska brenna trekking gory kotarz blatnia zima snieg
+tags:	polska brenna trekking gory kotarz blatnia zima snieg natura
 cover:  "/assets/Poland/Brenna/PC271525.edit.jpg"
 thumbnail:  "/assets/thumbnails/Kotarz.JPG"
 post_id: Brenna_Kotarz

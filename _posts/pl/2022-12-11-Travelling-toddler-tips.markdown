@@ -6,7 +6,7 @@ description: "Co tak naprawdę zmienia się podczas podróży z niemowlęciem lu
 date:   2022-12-11 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	samolot dziecko niemowle malaga lizbona portugalia hiszpania
+tags:	samolot dziecko niemowle malaga lizbona portugalia hiszpania wskazowki
 cover:  "/assets/Spain/Malaga/20220218_112537.jpg"
 thumbnail:  "/assets/thumbnails/traveltips.JPG"
 post_id: Travel_tips

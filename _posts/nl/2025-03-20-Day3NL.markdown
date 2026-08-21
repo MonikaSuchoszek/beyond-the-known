@@ -7,7 +7,7 @@ byline: "Weelderige kliffen, schitterende uitkijkpunten, bananenplantages en nat
 date:   2025-03-20 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	portugal wandelen madeira
+tags:	portugal wandelen madeira eiland natuur kust
 cover:  "/assets/Portugal/Madeira/Day3/20241030_144924_01.jpg"
 thumbnail:  "/assets/thumbnails/Day3.JPG"
 post_id: Day3

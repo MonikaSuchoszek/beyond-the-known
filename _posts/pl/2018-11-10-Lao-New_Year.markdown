@@ -5,7 +5,7 @@ description: "Pi Mai Lao, laotański Nowy Rok: obchody w najgorętszym miesiącu
 date:   2018-11-10 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	kultura laos festiwal miasto
+tags:	kultura laos festiwal miasto swiatynie
 cover:  "/assets/Laos/NewYear/DSC03306.jpg"
 thumbnail:  "/assets/thumbnails/lao_nowy_rok.jpg"
 post_id: laos_new_year

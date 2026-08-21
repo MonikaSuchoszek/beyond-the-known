@@ -5,7 +5,7 @@ description: "Three days by bicycle around Angkor: the rise and fall of the Khme
 date:   2018-10-11 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	culture history cambodia khmer cycling
+tags:	culture history cambodia khmer cycling temples unesco
 cover:  "/assets/Cambodia/AngkorWat/DSC02466.jpg"
 thumbnail:  "/assets/thumbnails/angkor_wat.jpg"
 post_id: cambodia_angkor_wat

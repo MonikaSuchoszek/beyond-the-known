@@ -6,7 +6,7 @@ description: "Dwutygodniowa objazdówka po północnej Portugalii w Wielkanoc: t
 date:   2026-04-19 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	portugalia porto braga
+tags:	portugalia porto braga objazdowka miasto natura plaza jedzenie wskazowki
 cover:  "/assets/Portugal/North/20260410_133934_01.jpg"
 thumbnail:  "/assets/thumbnails/North.JPG"
 post_id: north portugal_overview

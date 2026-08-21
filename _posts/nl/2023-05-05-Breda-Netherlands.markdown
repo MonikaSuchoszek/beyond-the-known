@@ -6,7 +6,7 @@ description: "Een lang weekend in mei op het platteland rond Breda: boerderijen,
 date:   2023-05-05 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	nederland breda
+tags:	nederland breda fietsen wandelen natuur
 cover:  "/assets/Netherlands/Breda/20230501_132917.jpg"
 thumbnail:  "/assets/thumbnails/Breda.JPG"
 post_id: Breda

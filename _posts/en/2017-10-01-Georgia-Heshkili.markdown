@@ -5,7 +5,7 @@ description: "Our first hike in Svaneti: a 7 km walk from Mestia towards the Hat
 date:   2017-10-01 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking georgia 
+tags:	hiking georgia mountains nature
 cover:  "/assets/Georgia/Heshkili/IMG_0209.jpg"
 thumbnail:  "/assets/thumbnails/heshkili.jpg"
 post_id: georgia_heshkili

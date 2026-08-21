@@ -5,7 +5,7 @@ description: "Smażone pierożki, kurczak Tian Tian i reszta tego, co zjedliśmy
 date:   2018-01-12 08:43:59
 author: Monika Suchoszek
 categories: podroze jedzenie
-tags:	singapur miasto natura kultura
+tags:	singapur miasto natura kultura jedzenie
 cover:  "/assets/Singapore/DSC09536.jpg"
 thumbnail:  "/assets/thumbnails/chinatown.jpg"
 post_id: singapore_chinatown

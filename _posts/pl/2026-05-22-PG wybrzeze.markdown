@@ -6,7 +6,7 @@ description: "Viana do Castelo, Barcelos, wiatraki w Apúlii i grodzisko Castro 
 date:   2026-05-22 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	portugalia barcelos braga
+tags:	portugalia barcelos braga wybrzeze miasto historia plaza
 cover:  "/assets/Portugal/North/20260409_193000.jpg"
 thumbnail:  "/assets/thumbnails/Coast.JPG"
 post_id: north_coast_overview

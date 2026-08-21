@@ -5,7 +5,7 @@ description: "Śnieg na początku jesieni, 10 km spaceru do kościoła nad Mesti
 date:   2017-10-02 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking gruzja 
+tags:	trekking gruzja gory wioska snieg
 cover:  "/assets/Georgia/Mestia/IMG_20171016_134841992_HDR.jpg"
 thumbnail:  "/assets/thumbnails/mestia.jpg"
 post_id: georgia_mestia

@@ -5,7 +5,7 @@ description: "Dojazd do Białej Świątyni lokalnym autobusem i dalsze zwiedzani
 date:   2019-03-01 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	tajlandia miasto  
+tags:	tajlandia miasto swiatynie kultura wskazowki
 cover:  "/assets/Thailand/ChiangRai/IMG_20180428_085452708_HDR_01.jpg"
 thumbnail:  "/assets/thumbnails/white_temple.jpg"
 post_id: thailand_chiang_rai

@@ -5,7 +5,7 @@ description: "Pierwsza wędrówka w Gruzji: 7 km z Mestii w stronę stacji kolej
 date:   2017-10-01 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking gruzja 
+tags:	trekking gruzja gory natura
 cover:  "/assets/Georgia/Heshkili/IMG_0209.jpg"
 thumbnail:  "/assets/thumbnails/heshkili.jpg"
 post_id: georgia_heshkili

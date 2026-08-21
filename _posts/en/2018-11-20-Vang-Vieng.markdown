@@ -5,7 +5,7 @@ description: "Vang Vieng has a party reputation, but the limestone hills and cav
 date:   2018-11-20 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking laos cycling cave lagoon 
+tags:	hiking laos cycling cave lagoon mountains nature
 cover:  "/assets/Laos/VangVieng/DSC03339.JPG"
 thumbnail:  "/assets/thumbnails/vang_vieng.jpg"
 post_id: laos_vang_vieng

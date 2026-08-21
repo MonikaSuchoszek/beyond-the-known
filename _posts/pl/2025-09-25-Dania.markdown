@@ -6,7 +6,7 @@ description: "Dziesięć dni objazdówki po Danii w sierpniu z dzieckiem: 18-24 
 date:   2025-09-25 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	dania
+tags:	dania objazdowka miasto wybrzeze natura prom dziecko wskazowki
 cover:  "/assets/Denmark/Summary/P8183670.JPG"
 thumbnail:  "/assets/thumbnails/Denmark.JPG"
 post_id: denmark_overview

@@ -5,7 +5,7 @@ description: "Snow in early autumn, a 10 km walk up to the church above Mestia, 
 date:   2017-10-02 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking georgia 
+tags:	hiking georgia mountains village snow
 cover:  "/assets/Georgia/Mestia/IMG_20171016_134841992_HDR.jpg"
 thumbnail:  "/assets/thumbnails/mestia.jpg"
 post_id: georgia_mestia

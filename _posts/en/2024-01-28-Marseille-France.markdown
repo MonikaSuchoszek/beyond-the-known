@@ -6,7 +6,7 @@ description: "A weekend in the oldest city in France: from the Greek harbour of 
 date:   2023-12-14 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	france marseille calanques hiking
+tags:	france marseille calanques hiking city sea coast history
 cover:  "/assets/France/Marseille/PB1030912.jpg"
 thumbnail:  "/assets/thumbnails/Marseille.jpg"
 post_id: Marseille

@@ -5,7 +5,7 @@ description: "A seven-hour local bus with no stops, and the seemingly endless te
 date:   2018-10-28 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	culture laos city
+tags:	culture laos city temples
 cover:  "/assets/Laos/Vientian/DSC03261.jpg"
 thumbnail:  "/assets/thumbnails/vientian.jpg"
 post_id: laos_vientiane

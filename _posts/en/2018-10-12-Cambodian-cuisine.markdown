@@ -5,7 +5,7 @@ description: "Why Khmer food is almost unknown in Europe, and the Cambodian dish
 date:   2018-10-12 08:43:59
 author: Monika Suchoszek
 categories: travel food
-tags:	cambodia khmer
+tags:	cambodia khmer food culture
 cover:  "/assets/Cambodia/Food/DSC02375.jpg"
 thumbnail:  "/assets/thumbnails/cambodian_cuisine.jpg"
 post_id: cambodia_food

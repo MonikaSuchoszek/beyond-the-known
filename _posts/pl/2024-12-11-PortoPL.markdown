@@ -6,7 +6,7 @@ description: "Jeden deszczowy dzień między porannym lotem a wieczornym pociąg
 date:   2024-12-11 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	portugalia miasto porto
+tags:	portugalia miasto porto historia kultura
 cover:  "/assets/Portugal/Porto/20241205_150642_01.jpg"
 thumbnail:  "/assets/thumbnails/Porto.JPG"
 post_id: Porto

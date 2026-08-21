@@ -5,7 +5,7 @@ description: "Landing in Kathmandu in the middle of Holi, then walking the Annap
 date:   2018-07-09 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	nepal hiking himalayas
+tags:	nepal hiking himalayas mountains village
 cover:  "/assets/Nepal/Annapurna/DSC01713.jpg"
 thumbnail:  "/assets/thumbnails/annapurna_poon_hill.jpg"
 post_id: nepal_annapurna_poon_hill

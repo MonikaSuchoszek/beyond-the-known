@@ -5,7 +5,7 @@ description: "The steep viewpoints above Nong Khiaw and the Nam Ou river, a viol
 date:   2019-02-05 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	laos city mountains river
+tags:	laos city mountains river nature hiking
 cover:  "/assets/Laos/NongKhiaw/IMG_20180423_105414542_HDR.jpg"
 thumbnail:  "/assets/thumbnails/nong_khiaw.jpg"
 post_id: laos_nong_khiaw

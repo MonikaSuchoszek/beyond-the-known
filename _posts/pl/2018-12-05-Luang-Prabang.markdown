@@ -5,7 +5,7 @@ description: "Pola ryżowe, osuwisko na drodze i piękne nadbrzeże rzeki: podr�
 date:   2018-12-05 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	laos miasto mnisi wodospad
+tags:	laos miasto mnisi wodospad rzeka kultura swiatynie
 cover:  "/assets/Laos/LuangPrabang/DSC03712.jpg"
 thumbnail:  "/assets/thumbnails/luang_prabang.jpg"
 post_id: laos_luang_prabang

@@ -5,7 +5,7 @@ description: "St John's en Kusu Island, rustige stranden en nog een paar hoekjes
 date:   2018-02-02 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	eten singapore stad natuur
+tags:	eten singapore stad natuur eiland strand
 cover:  "/assets/Singapore/DSC101027.jpg"
 thumbnail:  "/assets/thumbnails/singapore_more.jpg"
 post_id: singapore_more_places

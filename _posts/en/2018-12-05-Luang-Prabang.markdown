@@ -5,7 +5,7 @@ description: "Rice paddies, a landslide across the road and a beautiful river ba
 date:   2018-12-05 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	laos city monks waterfalls
+tags:	laos city monks waterfalls river culture temples
 cover:  "/assets/Laos/LuangPrabang/DSC03712.jpg"
 thumbnail:  "/assets/thumbnails/luang_prabang.jpg"
 post_id: laos_luang_prabang

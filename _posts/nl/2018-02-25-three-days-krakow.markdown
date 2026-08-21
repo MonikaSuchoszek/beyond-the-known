@@ -5,7 +5,7 @@ description: "Drie winterse dagen in Krakau: een gratis wandeling door de oude s
 date:   2018-02-25 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	eten polen stad
+tags:	eten polen stad cultuur geschiedenis kasteel winter
 cover:  "/assets/Poland/Krakow/DSC01299.jpg"
 thumbnail:  "/assets/thumbnails/krakow.jpg"
 post_id: poland_krakow

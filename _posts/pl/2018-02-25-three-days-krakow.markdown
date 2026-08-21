@@ -5,7 +5,7 @@ description: "Trzy zimowe dni w Krakowie: spacer z przewodnikiem po starym mieś
 date:   2018-02-25 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	jedzenie polska miasto
+tags:	jedzenie polska miasto kultura historia zamek zima
 cover:  "/assets/Poland/Krakow/DSC01299.jpg"
 thumbnail:  "/assets/thumbnails/krakow.jpg"
 post_id: poland_krakow

@@ -5,7 +5,7 @@ description: "Odpoczynek nad jeziorem Phewa w Pokharze i powrót do Katmandu: co
 date:   2018-07-20 08:43:59
 author: Monika Suchoszek
 categories: podroze jedzenie sport
-tags:	historia nepal kultura natura
+tags:	historia nepal kultura natura miasto jezioro jedzenie
 cover:  "/assets/Nepal/PokharaKathmandu/DSC01890.jpg"
 thumbnail:  "/assets/thumbnails/pokhara_kathmandu.jpg"
 post_id: nepal_kathmandu

@@ -5,7 +5,7 @@ description: "From the Himalayas to the Cambodian coast: how a planned loop thro
 date:   2018-07-28 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	nature cambodia khmer sihanoukville beach otres
+tags:	nature cambodia khmer sihanoukville beach otres coast sea
 cover:  "/assets/Cambodia/Sihanoukville/DSC02085.jpg"
 thumbnail:  "/assets/thumbnails/sihanoukeville.jpg"
 post_id: cambodia_sihanoukville

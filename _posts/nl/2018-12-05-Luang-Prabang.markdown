@@ -5,7 +5,7 @@ description: "Rijstvelden, een aardverschuiving over de weg en prachtige riviero
 date:   2018-12-05 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	laos stad monniken watervallen
+tags:	laos stad monniken watervallen rivier cultuur tempels
 cover:  "/assets/Laos/LuangPrabang/DSC03712.jpg"
 thumbnail:  "/assets/thumbnails/luang_prabang.jpg"
 post_id: laos_luang_prabang

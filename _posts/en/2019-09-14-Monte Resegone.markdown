@@ -5,7 +5,7 @@ description: "A demanding day hike from Lecco up Monte Resegone above Lake Como:
 date:   2019-09-14 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking italy 
+tags:	hiking italy mountains lake como
 cover:  "/assets/Italy/Monte_Resegone/DSC06696.JPG"
 thumbnail:  "/assets/thumbnails/monte_resegone.jpg"
 post_id: italy_monte_resegone

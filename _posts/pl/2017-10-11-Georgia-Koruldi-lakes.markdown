@@ -5,7 +5,7 @@ description: "Najtrudniejsza wędrówka podczas pobytu w Mestii: dwa warianty po
 date:   2017-10-11 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking gruzja
+tags:	trekking gruzja gory jezioro natura
 cover:  "/assets/Georgia/Koruldi/IMG_0445.jpg"
 thumbnail:  "/assets/thumbnails/koruldi.jpg"
 post_id: georgia_koruldi_lakes

@@ -6,7 +6,7 @@ description: "Cztery dni pod namiotem w Zelandii: piesza wycieczka z Nieuwvliet 
 date:   2020-07-19 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	holandia plaza morze wydmy
+tags:	holandia plaza morze wydmy natura trekking kemping wybrzeze
 cover:  "/assets/Netherlands/Nieuwvliet/DSC07255.jpg"
 thumbnail:  "/assets/thumbnails/Nieuwvliet.jpg"
 post_id: nieuwvliet_holland

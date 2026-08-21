@@ -5,7 +5,7 @@ description: "Dlaczego kuchnia khmerska jest w Europie prawie nieznana i które 
 date:   2018-10-12 08:43:59
 author: Monika Suchoszek
 categories: podroze jedzenie
-tags:	kambodza khmer
+tags:	kambodza khmer jedzenie kultura
 cover:  "/assets/Cambodia/Food/DSC02375.jpg"
 thumbnail:  "/assets/thumbnails/cambodian_cuisine.jpg"
 post_id: cambodia_food

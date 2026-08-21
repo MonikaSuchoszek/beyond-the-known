@@ -6,7 +6,7 @@ description: "Day one on Madeira: getting the rental car off the steepest street
 date:   2025-02-06 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	portugal hiking madeira
+tags:	portugal hiking madeira island nature unesco
 cover:  "/assets/Portugal/Madeira/Day1/DSC08754.JPG"
 thumbnail:  "/assets/thumbnails/Day1.JPG"
 post_id: Day1

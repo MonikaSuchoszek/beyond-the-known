@@ -5,7 +5,7 @@ description: "Day one of the trek towards Ushguli: clear views of Mt Ushba, a wi
 date:   2017-10-10 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	hiking georgia 
+tags:	hiking georgia mountains village nature
 cover:  "/assets/Georgia/Murshkeli/IMG_0419.JPG"
 thumbnail:  "/assets/thumbnails/murshkeli.jpg"
 post_id: georgia_murshkeli

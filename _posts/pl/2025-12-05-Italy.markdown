@@ -6,7 +6,7 @@ description: "Samolot, a potem pociąg prosto z lotniska: jak podróżowaliśmy 
 date:   2025-12-05 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	wlochy
+tags:	wlochy pociag wybrzeze miasto wskazowki
 cover:  "/assets/Italy/Pisa/20251025_165505.jpg"
 thumbnail:  "/assets/thumbnails/Italy.JPG"
 post_id: italy_overview

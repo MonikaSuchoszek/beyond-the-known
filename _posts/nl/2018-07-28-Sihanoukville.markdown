@@ -5,7 +5,7 @@ description: "Van de Himalaya naar de Cambodjaanse kust: hoe een geplande lus do
 date:   2018-07-28 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	natuur cambodja khmer sihanoukville strand otres
+tags:	natuur cambodja khmer sihanoukville strand otres kust zee
 cover:  "/assets/Cambodia/Sihanoukville/DSC02085.jpg"
 thumbnail:  "/assets/thumbnails/sihanoukeville.jpg"
 post_id: cambodia_sihanoukville

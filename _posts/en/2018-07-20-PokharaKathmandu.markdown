@@ -5,7 +5,7 @@ description: "Recovering beside Phewa Lake in Pokhara and back to Kathmandu: wha
 date:   2018-07-20 08:43:59
 author: Monika Suchoszek
 categories: travel food sports
-tags:	culture history nepal nature
+tags:	culture history nepal nature city lake food
 cover:  "/assets/Nepal/PokharaKathmandu/DSC01890.jpg"
 thumbnail:  "/assets/thumbnails/pokhara_kathmandu.jpg"
 post_id: nepal_kathmandu

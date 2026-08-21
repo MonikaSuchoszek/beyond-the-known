@@ -5,7 +5,7 @@ description: "Drie kilometer en duizend hoogtemeters vanaf Laorca: de twee route
 date:   2019-09-27 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	wandelen italië lopen como meer
+tags:	wandelen italië lopen como meer bergen
 cover:  "/assets/Italy/MonteColtignone/DSC06621.JPG"
 thumbnail:  "/assets/thumbnails/monte_coltignone.jpg"
 post_id: italy_monte_coltignone

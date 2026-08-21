@@ -6,7 +6,7 @@ description: "Mijas village and two more half-day trips from Benalmadena, all sl
 date:   2022-11-02 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	mijas benalmadena spain colomares monument
+tags:	mijas benalmadena spain colomares monument village toddler
 cover:  "/assets/Spain/Malaga/20221115_153159.jpg"
 thumbnail:  "/assets/thumbnails/daytrips.JPG"
 post_id: Benalmadena_daytrips

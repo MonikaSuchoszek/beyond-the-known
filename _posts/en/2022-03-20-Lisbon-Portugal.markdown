@@ -6,7 +6,7 @@ description: "Our first trip abroad with a baby: how Lisbon held up as a destina
 date:   2022-03-20 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	portugal lisbon
+tags:	portugal lisbon city baby culture
 cover:  "/assets/Portugal/Lisbon/20220218_130028.jpg"
 thumbnail:  "/assets/thumbnails/Lisbon.JPG"
 post_id: Lisbon

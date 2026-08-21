@@ -5,7 +5,7 @@ description: "Dag één van de trektocht naar Ushguli: een helder zicht op de Us
 date:   2017-10-10 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	wandelen georgië
+tags:	wandelen georgië bergen dorp natuur
 cover:  "/assets/Georgia/Murshkeli/IMG_0419.JPG"
 thumbnail:  "/assets/thumbnails/murshkeli.jpg"
 post_id: georgia_murshkeli

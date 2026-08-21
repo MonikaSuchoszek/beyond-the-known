@@ -6,7 +6,7 @@ description: "Tien dagen met de auto door Denemarken in augustus met een kind: d
 date:   2025-09-25 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	denemarken
+tags:	denemarken roadtrip stad kust natuur veerboot peuter tips
 cover:  "/assets/Denmark/Summary/P8183670.JPG"
 thumbnail:  "/assets/thumbnails/Denmark.JPG"
 post_id: denmark_overview

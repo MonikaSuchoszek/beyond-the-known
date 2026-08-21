@@ -7,7 +7,7 @@ byline: "Zielone klify, zapierające dech w piersiach punkty widokowe, plantacje
 date:   2025-03-20 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	portugalia trekking madera
+tags:	portugalia trekking madera wyspa natura wybrzeze
 cover:  "/assets/Portugal/Madeira/Day3/20241030_144924_01.jpg"
 thumbnail:  "/assets/thumbnails/Day3.JPG"
 post_id: Day3

@@ -6,7 +6,7 @@ description: "Marina di Massa as a quieter base on the Tuscan coast, with an eas
 date:   2026-02-02 08:43:59
 author: Monika Suchoszek
 categories: travel
-tags:	italy massa pisa
+tags:	italy massa pisa beach coast city toddler
 cover:  "/assets/Italy/Pisa/20251019_143343_01.jpg"
 thumbnail:  "/assets/thumbnails/Pisa.JPG"
 post_id: italy_massa

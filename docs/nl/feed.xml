@@ -5,8 +5,8 @@
     <language>nl-NL</language>
     <link>https://www.beyond-the-known.eu/nl/</link>
     <atom:link href="https://www.beyond-the-known.eu/nl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Aug 2026 09:15:55 +0200</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 09:15:55 +0200</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 10:05:04 +0200</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:05:04 +0200</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -17,6 +17,14 @@
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2026/08/HikesBE/</guid>
         
         <category>belgië</category>
+        
+        <category>wandelen</category>
+        
+        <category>natuur</category>
+        
+        <category>kasteel</category>
+        
+        <category>rivier</category>
         
         
         <category>Reizen</category>
@@ -36,6 +44,14 @@
         
         <category>braga</category>
         
+        <category>stad</category>
+        
+        <category>geschiedenis</category>
+        
+        <category>wandelen</category>
+        
+        <category>natuur</category>
+        
         
         <category>Reizen</category>
         
@@ -53,6 +69,14 @@
         <category>barcelos</category>
         
         <category>braga</category>
+        
+        <category>kust</category>
+        
+        <category>stad</category>
+        
+        <category>geschiedenis</category>
+        
+        <category>strand</category>
         
         
         <category>Reizen</category>
@@ -72,6 +96,18 @@
         
         <category>braga</category>
         
+        <category>roadtrip</category>
+        
+        <category>stad</category>
+        
+        <category>natuur</category>
+        
+        <category>strand</category>
+        
+        <category>eten</category>
+        
+        <category>tips</category>
+        
         
         <category>Reizen</category>
         
@@ -90,6 +126,14 @@
         
         <category>pisa</category>
         
+        <category>strand</category>
+        
+        <category>kust</category>
+        
+        <category>stad</category>
+        
+        <category>peuter</category>
+        
         
         <category>Reizen</category>
         
@@ -103,6 +147,16 @@
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2026/01/CinqueTerreNL/</guid>
         
         <category>italië</category>
+        
+        <category>kust</category>
+        
+        <category>zee</category>
+        
+        <category>veerboot</category>
+        
+        <category>trein</category>
+        
+        <category>dorp</category>
         
         
         <category>Reizen</category>
@@ -118,6 +172,14 @@
         
         <category>italië</category>
         
+        <category>trein</category>
+        
+        <category>kust</category>
+        
+        <category>stad</category>
+        
+        <category>tips</category>
+        
         
         <category>Reizen</category>
         
@@ -131,6 +193,20 @@
         <guid isPermaLink="true">https://www.beyond-the-known.eu/nl/reizen/2025/09/DenmarkNL/</guid>
         
         <category>denemarken</category>
+        
+        <category>roadtrip</category>
+        
+        <category>stad</category>
+        
+        <category>kust</category>
+        
+        <category>natuur</category>
+        
+        <category>veerboot</category>
+        
+        <category>peuter</category>
+        
+        <category>tips</category>
         
         
         <category>Reizen</category>
@@ -150,6 +226,14 @@
         
         <category>madeira</category>
         
+        <category>eiland</category>
+        
+        <category>natuur</category>
+        
+        <category>bergen</category>
+        
+        <category>strand</category>
+        
         
         <category>Reizen</category>
         
@@ -167,6 +251,12 @@
         <category>wandelen</category>
         
         <category>madeira</category>
+        
+        <category>eiland</category>
+        
+        <category>natuur</category>
+        
+        <category>bergen</category>
         
         
         <category>Reizen</category>

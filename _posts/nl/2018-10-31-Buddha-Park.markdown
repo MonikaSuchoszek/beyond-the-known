@@ -5,7 +5,7 @@ description: "Hoe je vanuit het centrum van Vientiane voor bijna geen geld met d
 date:   2018-10-31 08:43:59
 author: Monika Suchoszek
 categories: reizen
-tags:	cultuur laos stad
+tags:	cultuur laos stad tempels monument
 cover:  "/assets/Laos/BuddhaPark/DSC03214.jpg"
 thumbnail:  "/assets/thumbnails/buddha_park.jpg"
 post_id: laos_buddha_park

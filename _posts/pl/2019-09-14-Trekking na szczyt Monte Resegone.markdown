@@ -5,7 +5,7 @@ description: "Wymagająca całodniowa wędrówka z Lecco na Monte Resegone nad j
 date:   2019-09-14 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking wlochy 
+tags:	trekking wlochy gory jezioro como
 cover:  "/assets/Italy/Monte_Resegone/DSC06696.JPG"
 thumbnail:  "/assets/thumbnails/monte_resegone.jpg"
 post_id: italy_monte_resegone

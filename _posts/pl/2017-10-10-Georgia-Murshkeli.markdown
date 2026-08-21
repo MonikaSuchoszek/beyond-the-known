@@ -5,7 +5,7 @@ description: "Pierwszy odcinek szlaku do Ushguli: widoki na Uszbę, stado dzikic
 date:   2017-10-10 08:43:59
 author: Monika Suchoszek
 categories: podroze
-tags:	trekking gruzja
+tags:	trekking gruzja gory wioska natura
 cover:  "/assets/Georgia/Murshkeli/IMG_0419.JPG"
 thumbnail:  "/assets/thumbnails/murshkeli.jpg"
 post_id: georgia_murshkeli
