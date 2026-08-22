@@ -12,9 +12,10 @@ thumbnail:  "/assets/thumbnails/traveltips.JPG"
 post_id: Travel_tips
 ---
 
-Musieliśmy zmienić nasz sposób podróżowania i dostosować go do potrzeb naszej pociechy. Ludzie często mówią, że po zostaniu rodzicem nadal można podróżować. To prawda, można... ale nie będzie już tak samo! Nasze wakacje są teraz mniej intensywne. Odwiedzamy
+Musieliśmy zmienić nasz sposób podróżowania i dostosować go do potrzeb naszej pociechy. Ludzie często mówią, że po zostaniu rodzicem nadal 
+można podróżować. To prawda, można... ale nie będzie już tak samo! Nasze wakacje są teraz mniej intensywne. Odwiedzamy
 miejsca przyjazne dzieciom, w których mamy realną szansę odpocząć i złapać oddech. Znudzony, zmęczony lub sfrustrowany maluch 
-z pewnością nam na to nie pozwoli! Regularnie podróżujemy z Belgii do Polski, żeby odwiedzić moją rodzinę. Po raz pierwszy pojechaliśmy 
+z pewnością nam na to nie pozwoli! Regularnie podróżujemy z Belgii do Polski, żeby odwiedzić moją rodzinę. Po raz pierwszy polecieliśmy 
 do Polski, gdy nasza córka miała 3 miesiące. Udało nam się też dwukrotnie wyjechać na wakacje w Europie: do Lizbony (gdy miała 6 miesięcy) 
 i Malagi (gdy miała 14 miesięcy). Oba wyjazdy bardzo się od siebie różniły ze względu na wiek dziecka, ale także dlatego, że 
 wiele nauczyliśmy się podczas pierwszej podróży.
@@ -22,55 +23,54 @@ wiele nauczyliśmy się podczas pierwszej podróży.
 
 ## Jakie mamy wskazówki dotyczące samego lotu?
 
-Weźcie pod uwagę godzinę lotu i to, czy pasuje ona do codziennego rytmu Waszego dziecka. My na przykład nie rezerwujemy lotów
-z wylotem przed 10:00 ani po 16:00 (co znacznie ogranicza nasze możliwości!). 
+Weźcie pod uwagę godzinę lotu i to, czy pasuje ona do codziennego rytmu Waszego dziecka. My na przykład, na razie nie rezerwujemy lotów
+z wylotem przed 10:00 ani po 16:00 (co znacznie ogranicza nasze możliwości!) bo nasze dziecko zle reaguje na zmienioną rutynę dnia. 
 
-Zawsze podróżujemy z wózkiem i nosidełkiem (na czas wejścia do samolotu przekładamy dziecko do nosidełka). Pamiętajcie, że
-chociaż nosidełko można zabrać aż pod samolot, przed przejściem przez kontrolę bezpieczeństwa trzeba odebrać na nie etykietę 
+Zawsze podróżujemy z wózkiem i nosidłem (na czas wejścia do samolotu przekładamy dziecko do nosidełka). Pamiętajcie, że
+chociaż wózek można zabrać aż pod samolot, przed przejściem przez kontrolę bezpieczeństwa trzeba odebrać na niego etykietę 
 przy stanowisku odprawy. Teoretycznie, kupując bilet dla niemowlęcia (dziecka poniżej 2. roku życia), można zabrać
 1 małą torbę, ale my zawsze mieliśmy też niewielką dodatkową torbę bawełnianą z całym jedzeniem i napojami dla 
-naszej pociechy i nikt nigdy nie zgłaszał zastrzeżeń (gdyby pojawił się problem, wszystkie te rzeczy bez trudu
+naszej pociechy i nikt nigdy nie zgłaszał zastrzeżeń (gdyby pojawił się problem, wszystkie te rzeczy, upchane,
 zmieściłyby się w naszym bagażu). Ogólnie rzecz biorąc, im mniej bagażu, tym lepiej. Na tygodniowy wyjazd zabieramy standardowy bagaż podręczny 
 (1 mały plecak na osobę) i to naprawdę wystarcza! Po dotarciu na miejsce trzeba znaleźć 
-wózek. Na każdym lotnisku odbiera się go gdzie indziej, zwykle razem z bagażem ponadgabarytowym, ale nigdy tuż 
+wózek. Na każdym lotnisku odbiera się go gdzie indziej, zwykle razem z bagażem ponadgabarytowym, na razie nie zdarzylo nam się żeby odebrać go tuż 
 przy samolocie. Właśnie dlatego nosidełko może być niezwykle pomocne, bo czasem droga od samolotu 
-do miejsca odbioru bagażu jest naprawdę długa. Przydaje się również mały kocyk, którym można okryć dziecko podczas wchodzenia do samolotu. Czasami mocno 
+do miejsca odbioru wózka jest naprawdę długa. Przydaje się również mały kocyk, którym można okryć dziecko podczas wchodzenia do samolotu. Czasami mocno 
 wieje i nigdy nie wiadomo, jak długo trzeba będzie czekać w kolejce na zewnątrz.
 
 Zabierzcie dla dziecka wystarczająco dużo wody i przekąsek. Według TSA (Transportation Security Administration) płyny nie podlegają 
 ograniczeniom, gdy podróżuje się z 
-dzieckiem poniżej 12. roku życia. Wodę można przewozić w rozsądnych ilościach. Zwykle mamy ze sobą litrową butelkę wody, dodatkowy kubek niekapek 
+dzieckiem poniżej 2. roku życia. Wodę można przewozić w rozsądnych ilościach. Zwykle mamy ze sobą litrową butelkę wody, dodatkowy kubek niekapek 
 już napełniony wodą, mleko sojowe w kartoniku (250 ml) oraz 2–3 słoiczki jedzenia dla dziecka. Do tego kanapki, owoce i
 warzywa. Może się wydawać, że to dużo, ale dobrze mieć coś w zapasie na wypadek nieprzewidzianych sytuacji (niespodziewanych opóźnień lub 
 odwołania lotu). Wygodnie jest trzymać wodę i jedzenie w osobnej bawełnianej torbie, ponieważ podczas kontroli bezpieczeństwa trzeba pokazać wszystkie płyny 
 przeznaczone dla dziecka. Jeśli Wasze dziecko jest nadal karmione piersią lub mlekiem modyfikowanym, warto nakarmić je podczas startu i 
 lądowania. Niemowlęta podobno nie potrafią świadomie wyrównać ciśnienia w uszach, ale możemy im pomóc, zachęcając je do przełykania. 
-Na życzenie personel pokładowy poda gorącą wodę do przygotowania mleka modyfikowanego. Jeśli karmicie piersią, duża chusta 
+Na życzenie, personel pokładowy poda nam gorącą wodę do przygotowania mleka modyfikowanego. Jeśli karmicie piersią, duża chusta 
 i specjalny biustonosz pomogą zapewnić nieco prywatności.
 
 Pomaga też zabranie nowej małej zabawki dla dziecka. Poprawi mu humor i, miejmy nadzieję, zajmie je
-na dłuższą chwilę :)
+na dłuższą chwilę.
 
 Oto konkretne wskazówki dotyczące lotnisk, z których dotychczas korzystaliśmy:
 
   * Zaventem, Belgia – świetna strefa zabaw dla dzieci obok punktów gastronomicznych (wejście znajduje się przy Starbucksie). Jest tam 
-kuchenka mikrofalowa, krzesełka do karmienia, przewijaki i duży stół, przy którym mogą usiąść rodzice – to idealne miejsce na oczekiwanie na lot! Przejście 
+kuchenka mikrofalowa, krzesełka do karmienia, przewijaki i duży stół, przy którym mogą usiąść rodzice, to idealne miejsce na oczekiwanie na lot! Przejście 
 przez kontrolę bezpieczeństwa z dzieckiem było łatwe. Całe jedzenie i woda dla dziecka zostały sprawdzone, dlatego najlepiej trzymać je w osobnej torbie, aby mieć do nich łatwy 
 dostęp.
 
-  * Pyrzowice, Polska – nie znaleźliśmy żadnej strefy zabaw dla małych dzieci, ale są pomieszczenia z przewijakami. Kontrola bezpieczeństwa jest tutaj
+  * Pyrzowice, Polska – mała strefy zabaw dla małych dzieci, niedaleko toalet oraz pomieszczenia z przewijakami. Kontrola bezpieczeństwa jest tutaj
 nieefektywna i niepotrzebnie długa. To na przykład jedno z niewielu lotnisk, na których trzeba zdjąć buty i poddać je skanowaniu. 
 Spodziewajcie się długich kolejek i braku osobnego przejścia priorytetowego dla rodzin z dziećmi.
 
   * Lizbona, Portugalia – jest osobny pas kontroli bezpieczeństwa dla osób starszych, osób poruszających się na wózkach oraz rodziców z 
 niemowlętami, ale miejcie na uwadze, że przejście nim może potrwać nawet dłużej niż zwykłą kolejką, ponieważ wszyscy „wolniejsi” pasażerowie trafiają 
 do tej specjalnej kolejki! Pracownicy odradzają zwykłą kolejkę, ponieważ prowadzi do niej kilka stopni w dół, 
-co jednak nie powinno stanowić problemu podczas podróży z wózkiem.
+co jednak nie powinno stanowić problemu podczas podróży z wózkiem, bo niejednokrotnie już musieliśmy nosić córkę w wózku po schodach podczas zwiedzania Lizbony.
 
   * Eindhoven, Holandia – to najlepsze lotnisko dla rodziców z niemowlętami pod względem kontroli bezpieczeństwa. 
 Personel dba o to, aby rodzice z dziećmi mogli sprawnie przez nią przejść, a nowoczesne skanery pozwalają zostawić 
 większość rzeczy w plecakach lub walizkach. Później jedzenie i wodę dla dziecka sprawdza się tylko w specjalnym urządzeniu.
-Dla nas jest to zawsze bardzo przyjemne doświadczenie. 
 
   * Malaga (AGP), Hiszpania – na lotnisku było wystarczająco dużo miejsca, aby wygodnie usiąść, ale znaleziona przez nas strefa zabaw była 
 bardzo mała i z nieznanych powodów zamknięta. Przejście przez kontrolę bezpieczeństwa było przyjemnym doświadczeniem.
@@ -80,21 +80,23 @@ bardzo mała i z nieznanych powodów zamknięta. Przejście przez kontrolę bezp
 
 Airbnb to nasza ulubiona platforma podczas podróży. Kiedy po raz pierwszy pojechaliśmy do Lizbony, sądziliśmy, że wynajęcie 
 apartamentu w centrum miasta zapewni nam elastyczność.
-Mogliśmy wrócić do apartamentu, a sklepy i restauracje byłyby blisko. NIE przewidzieliśmy jednak, że domy w 
+Mogliśmy wrócić do apartamentu, a sklepy i restauracje byłyby blisko. Nie przewidzieliśmy jednak, że domy w 
 starej części miasta mają ściany cienkie jak papier. Było tak głośno, że nie mogliśmy spać, a nasze dziecko miało ze snem jeszcze większy problem. 
 Kilka razy około północy i wczesnym rankiem zdarzyło się też, że ludzie wyrzucali na zewnątrz szklane butelki, budząc
 wszystkich w okolicy. Następnym razem uważnie sprawdziliśmy opinie o apartamentach, szukając wszelkich wzmianek o 
-poziomie hałasu. Nasz apartament w Benalmadenie był znacznie lepszy! Miał większą sypialnię, w której nawet po wstawieniu dodatkowego łóżeczka turystycznego nadal było wystarczająco dużo miejsca, 
+poziomie hałasu. Nasz apartament w Benalmadenie był znacznie lepszy! Miał większą sypialnię, w której nawet po wstawieniu dodatkowego łóżeczka turystycznego 
+nadal było wystarczająco dużo miejsca, 
 aby swobodnie z niej korzystać. Tym razem zatrzymaliśmy się również w spokojnej okolicy obok parku (ze zwierzętami i placem zabaw), plaży i 
-przystanków autobusowych (podczas tego wyjazdu także korzystaliśmy z transportu publicznego). Kolejnym przydatnym elementem wyposażenia apartamentu były zasłony zaciemniające, dzięki którym podczas drzemki dziecka 
+przystanków autobusowych (podczas tego wyjazdu także korzystaliśmy z transportu publicznego). Kolejnym przydatnym elementem wyposażenia 
+apartamentu były zasłony zaciemniające, dzięki którym podczas drzemki dziecka 
 można było pogrążyć mieszkanie w mroku. Mała kuchnia do przygotowywania śniadań i przekąsek jest dla nas zawsze niezbędna. 
-Większy prysznic bardzo ułatwiał nam wieczorne kąpiele, szczególnie po zabawie na plaży.
+Większy prysznic bardzo ułatwiał nam wieczorne kąpiele, szczególnie po zabawie na plaży, jeśli nie możemy znalezć mieszkania z wanną.
 
 ## Dotarliście na miejsce? Co dalej?
 
 Zawsze warto wcześniej poszukać placów zabaw w okolicy, którą zamierzacie odwiedzić. Czasami są 
 naprawdę przyjemne i doskonale nadają się na przerwę z maluchem. Kiedy dzieci zaczynają chodzić, nie da się już długo trzymać ich
-w wózku – muszą biegać i odkrywać świat :D Warto mieć mały kocyk lub ręcznik sportowy, na którym można odpocząć w parku. 
+w wózku, muszą biegać i odkrywać świat. Warto mieć mały kocyk lub ręcznik sportowy, na którym można odpocząć w parku. 
 Nawet jeśli Wasze dziecko jest jeszcze bardzo małe, dobrze jest zrobić przerwę, aby mogło poleżeć na brzuszku lub pobawić się zabawkami.
 
 Ponieważ publiczne toalety z przewijakami są rzadkością, mata do przewijania jest niezbędna. Jej wodoodporna warstwa może
