@@ -99,7 +99,7 @@ moment count and create lasting memories. More details in an upcoming post.
 
 ## Practical info:
 
-  * We rented a [cottage house on Airbnb close to Rijsbergen](https://www.hoevenelleveld.nl), only a 1.5-hour drive from 
+  * We rented a cottage house on Airbnb close to Rijsbergen (currently not available for rent), only a 1.5-hour drive from 
 Leuven. The house had an amazing playground for kids, and there were two horses, chickens, and a dog living on the farm. 
 It was a very quiet area, perfect for cycling and running. Every morning and around sunset, we could see hot air balloons 
 on the horizon. 

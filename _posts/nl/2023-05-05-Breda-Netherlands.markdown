@@ -99,7 +99,7 @@ moment ten volle te benutten en blijvende herinneringen te maken. Meer daarover 
 
 ## Praktische info:
 
-  * We huurden een [vakantiehuisje via Airbnb vlak bij Rijsbergen](https://www.hoevenelleveld.nl), op slechts anderhalf uur rijden van 
+  * We huurden een vakantiehuisje via Airbnb vlak bij Rijsbergen (momenteel niet meer beschikbaar), op slechts anderhalf uur rijden van 
 Leuven. Bij het huis hoorde een fantastische speeltuin voor kinderen en op de boerderij woonden twee paarden, kippen en een hond. 
 Het was een heel rustige omgeving, ideaal om te fietsen en te lopen. Elke ochtend en rond zonsondergang zagen we luchtballonnen 
 aan de horizon. 

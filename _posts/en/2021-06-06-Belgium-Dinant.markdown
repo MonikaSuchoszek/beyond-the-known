@@ -61,7 +61,7 @@ you could get from the parking car with a stroller so it's a good ideal for a wa
 next to some small wooden hut that was office where you could buy a tickets to access the other parts of the park. The 
 path we took had no entrance fee (big parking around 5km mark on the map below). There are plenty of other walking paths in this 
 area (Walzin Castle further to the west) so it's definitely a better idea to come to this parking and explore the beauty of 
-Furfooz nature reserve. Unfortunately, I found a [website](https://www.parcdefurfooz.be/index.php/en/welcome/) with more details
+Furfooz nature reserve. Unfortunately, I found a [website](https://www.reservedefurfooz.be/en/home/) with more details
 about this place after our visit so take this opportunity and check all available attractions ahead of time.
 
 <img src="/assets/Belgium/Dinant/20210528_174619.edit.jpg" />

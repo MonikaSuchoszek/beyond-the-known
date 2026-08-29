@@ -25,7 +25,7 @@ Miesiąc maj ma dla mnie szczególne znaczenie. Nie tylko dlatego, że w tym mie
 licznych długich weekendów, które sprawiają, że jest to idealny moment na odkrywanie lokalnych atrakcji. W tym roku nasz wybór padł na okolice Bredy, 
 urokliwego miasta w Holandii. Gdy będac już w Holandii, wreszcie opuściliśmy monotonną autostradę, krajobraz zmienił się na bardziej wiejski, 
 zaczęliśmy dostrzegać malownicze farmy, swobodnie pasące się konie i traktory pracujące na odległych polach. Nasz pierwszy 
-dzień spędziliśmy na odkrywaniu uroków Natuurgebied Pannenhoef, 
+dzień spędziliśmy na odkrywaniu uroków **Natuurgebied Pannenhoef**, 
 zielonego obszaru na mapie, który okazał się być przyjemnym miejscem na spacer oraz obserwację ptaków. Widzieliśmy nie tylko ptaki, 
 ale również konie i owce. Miejsce to miało naprawdę piękną okolicę z licznymi trasami rowerowymi i drewnianymi mostkami. 
 Wędrując wąskimi ścieżkami, odkryliśmy małe ławeczki strategicznie umieszczone w najbardziej zapierających dech w piersiach 
@@ -41,7 +41,7 @@ miejscach. Te ukryte miejsca odpoczynku oferowały doskonałą okazję, by zatrz
 [Farma truskawek](https://www.hetaardbeienterras.nl/) znajdowała się zaledwie kilkaset metrów od naszego wynajętego domu, 
 więc była oczywistym wyborem na wizytę kolejnego dnia. Obszar piknikowy wokół farmy truskawkowej jest świetny, z mnóstwem 
 zabawek dla dzieci i rowerami w różnych rozmiarach. Byliśmy tam na samym początku sezonu truskawkowego, więc jeszcze nie 
-było opcji zbierania truskawek samemu, co jest możliwe w późniejszym terminie, więc ominęła nas największa atrakcja tego 
+było możliwości zbierania truskawek samemu, co jest dostępne w późniejszym terminie, więc ominęła nas największa atrakcja tego 
 miejsca. Pierwszy rzut świeżych truskawek był już dostępny do kupienia, jednak nie były one tak słodkie, jak się tego 
 spodziewaliśmy, prawdopodobnie z powodu pierwszego tygodnia z naprawdę słoneczną pogodą. Nasze główne rozczarowanie dotyczyło 
 jednak jedzenia, zamówione gofry z bitą śmietaną okazały się bardzo słodkie i suche, jak te z półek sklepowych, a polewa 
@@ -68,16 +68,16 @@ aby wypić świeżą kawę. Miejsce jest prowadzone przez osoby niepełnosprawne
 </div>
 
 Nie bez powodu szukaliśmy zakwaterowania w okolicach większego miasta. Liczyliśmy, że Breda dostarczy nam alternatywnych 
-atrakcji w razie złej pogody. Jednak pogoda na tyle się udała, że wybraliśmy się tylko do miasta na obiad, przechodząc 
-przez park miejski pełen ludzi leżących na kocach. Następnie minęliśmy zamek i zakończyliśmy wizytę w włoskiej restauracji 
-na głównym rynku. Potem poszliśmy na krótki spacer po ulicach handlowych położonych wokół głównego kościoła, a następnie 
+atrakcji w razie złej pogody. Jednak pogoda na tyle się udała, że wybraliśmy się tylko do miasta na obiad. Najpierw, przeszliśmy 
+przez park miejski pełen ludzi leżących na kocach, następnie minęliśmy zamek i skierowaliśmy się do włoskiej restauracji 
+na głównym rynku. Po obiedzie, poszliśmy na krótki spacer po ulicach handlowych położonych wokół głównego kościoła, a następnie 
 wróciliśmy do naszego wynajętego domu, który okazał się świetnym miejscem do obserwowania startujących oraz lądujących na 
 pobliskiej łące balonów.
 
 <img src="/assets/Netherlands/Breda/20230430_160527.jpg" />
 <img src="/assets/Netherlands/Breda/20230430_174142.jpg" />
 
-Podczas ostatniego dnia pobytu, po wcześniejszym wymeldowaniu się rano, pojechaliśmy w kierunku, 
+Podczas ostatniego dnia pobytu, po wcześniejszym wymeldowaniu się rano, pojechaliśmy w kierunku 
 parku narodowego położonego na granicy belgijsko-holenderskiej, **Kalmthoutse Heide**. Wybraliśmy szlak pieszy "Duna", prowadzący przez 
 rozległe wrzosowiska, które są popularną atrakcją pod koniec lata, gdy kwitną fioletowe kwiaty. O tej porze roku krajobraz 
 był dość monotonny, z dominującą zielenią i brązem w scenerii.
@@ -103,27 +103,16 @@ krajobrazu. Z niecierpliwością wyczekujemy kolejnego takiego wyjazdu!
 
 ## Informacje praktyczne:
 
-  * Wynajęliśmy dom [na Airbnb niedaleko Rijsbergen](https://www.hoevenelleveld.nl) znajdujący się na farmie, 
+  * Wynajęliśmy dom na Airbnb niedaleko **Rijsbergen** (aktualnie niedostępny do wynajęcia) znajdujący się na farmie, 
 tylko 1.5 godziny jazdy z Leuven. Plac zabaw dla dzieci był niesamowity, a na dodatek mieszkały tam dwa konie 
 przechadzające się pod naszymi oknami, kury oraz pies. Okolica była bardzo cicha, idealna do jazdy na rowerze i 
 biegania. Każdego ranka i przed zachodem słońca mogliśmy obserwować balony unoszące się na horyzoncie.
-  * Nasza wędrówka w parku Kalmthoutse Heide miała około 8km. Zaparkowaliśmy obok Centrum dla Odwiedzających Kalmthout
-(parking jest darmowy, ale lepiej być tam wcześnie rano, ponieważ około południa robi się bardzo tłoczno). Trochę się 
-zgubiliśmy w okolicach 4km, jak można zobaczyć na mapie. Skręciliśmy za szybko w lewo i skończyliśmy na parkingu, ale tak 
-naprawdę powinniśmy byli podążać długą ścieżką przez park, zanim skręcimy w lewo, aby dotrzeć do wydm. Ta część wędrówki 
-nie była dla nas wystarczająco jasno oznaczona. Zdecydowanie łatwiej byłoby, gdyby mapy szlaków były dostępne w większej 
-liczbie miejsc. Nie zrobiliśmy zdjęcia szlaku przy wejściu do parku, co bardzo by nam pomogło. Więcej wędrówek z 
-dokładnymi opisami można znaleźć na [oficjalnej stronie parku](https://grensparkkalmthoutseheide.com/en/wandelroutes/0) 
-
-<img src="/assets/Netherlands/Breda/20230501_150346.jpg" />
-<img src="/assets/Netherlands/Breda/Screenshot 2023-05-02 215019.png" />
-
-  * Wokół Natuurgebied Pannenhoef znajduje się kilka miejsc parkingowych. Raz zaparkowaliśmy nasz samochód na parkingu 
-Pannenhoef Parkeerplaats het Vaartven. To nie jest poprawnie wyznaczony parking, tylko kilka miejsc między drzewami, gdzie można 
+  * Wokół **Natuurgebied Pannenhoef** znajduje się kilka miejsc parkingowych. Raz zaparkowaliśmy nasz samochód na parkingu 
+Pannenhoef Parkeerplaats het Vaartven. To nie jest oficjalnie wyznaczony parking, tylko kilka miejsc między drzewami, gdzie można 
 parkować, i podejrzewam, że po deszczu może być trudno tam dojechać z głównej drogi asfaltowej.
   * Każdego wieczoru wybierałam się pobiegać w okolicach rezerwatu przyrody Pannenhoef i miasta Rijsbergen. Poniżej 
-znajdują się mapy moich biegów, oba około 8 km. Pierwszy bieg, w rezerwacie przyrody Pannenhoef, prowadzil glownie przez
-tereny podmokłe, gdzie znajduja sie drewniane kładki. Drugiego dnia skierowałam się w stronę mini zoo, które odwiedziliśmy 
+znajdują się mapy moich biegów, oba około 8 km. Pierwszy bieg, w rezerwacie przyrody Pannenhoef, prowadził głównie przez
+tereny podmokłe, gdzie znajdują się drewniane kładki. Drugiego dnia skierowałam się w stronę mini zoo, które odwiedziliśmy 
 rano z córka, próbując dobiec tam używajac ścieżek, które prowadziły przez otaczające pola. Oba biegi były bardzo przyjemne!
 
 <img src="/assets/Netherlands/Breda/Screenshot 2023-06-14 204244.JPG" />
@@ -135,5 +124,15 @@ rano z córka, próbując dobiec tam używajac ścieżek, które prowadziły prz
 
 <img src="/assets/Netherlands/Breda/Screenshot 2023-06-14 204339.JPG" />
 
+* Nasza wędrówka w parku **Kalmthoutse Heide** liczyła około 8km. Zaparkowaliśmy obok Centrum dla Odwiedzających Kalmthout
+(parking jest darmowy, ale lepiej być tam wcześnie rano, ponieważ około południa robi się bardzo tłoczno). Trochę się 
+zgubiliśmy w okolicach 4km, jak można zobaczyć na mapie. Skręciliśmy za szybko w lewo i skończyliśmy na parkingu, ale tak 
+naprawdę powinniśmy byli podążać długą ścieżką przez park, zanim skręcimy w lewo, aby dotrzeć do wydm. Ta część wędrówki 
+nie była dla nas wystarczająco jasno oznaczona. Zdecydowanie łatwiej byłoby, gdyby mapy szlaków były dostępne w większej 
+liczbie miejsc. Nie zrobiliśmy zdjęcia szlaku przy wejściu do parku, co bardzo by nam pomogło. Więcej wędrówek z 
+dokładnymi opisami można znaleźć na [oficjalnej stronie parku](https://grensparkkalmthoutseheide.com/en/wandelroutes/0).
+Tak naprawdę przeszliśmy bardzo mały fragment parku więc zdecydowanie jest to miejsce warte powrotu!
 
+<img src="/assets/Netherlands/Breda/20230501_150346.jpg" />
+<img src="/assets/Netherlands/Breda/Screenshot 2023-05-02 215019.png" />
   
