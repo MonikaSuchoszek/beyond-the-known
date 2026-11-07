@@ -6,7 +6,7 @@ cover:  "/assets/categories_header.jpg"
 {% assign cat_posts = site.posts | where: "categories", page.category | where: "locale", page.locale %}
 <div class="post" data-pagefind-ignore>
 
-<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
+<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url('{{ page.cover | prepend: site.baseurl }}');"{% endif %}>
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
 			<h1 class="title">{{ items_text['category_line'] }} <em>{{ page.category | category_label: page.locale }}</em></h1>

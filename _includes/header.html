@@ -16,8 +16,9 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-			{% for link in site.pages -%}
-				{% if link.title and link.main_nav == true and link.locale == page.locale -%}<li class="nav-link"><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>{%- endif %}
+			{%- comment -%} site.data.nav is built by _plugins/precompute_navigation.rb {%- endcomment -%}
+			{% for link in site.data.nav[page.locale] -%}
+				<li class="nav-link"><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
 			{%- endfor %}
 
 			{%- comment -%}

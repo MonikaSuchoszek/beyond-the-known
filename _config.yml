@@ -19,6 +19,7 @@ exclude:
   - "pagefind.yaml"
   - "improvement_plan.md"
   - "plan.md"
+  - "speedup.md"
 
 destination: "./docs"
 

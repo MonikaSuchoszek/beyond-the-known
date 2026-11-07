@@ -3,7 +3,7 @@ module Jekyll
     safe true
 
     def generate(site)
-      languages = Jekyll.configuration({})['languages']
+      languages = site.config['languages']
       languages.each do |language|
         posts = site.posts.docs.select { |post| post['locale'] == language['locale'] }
         tags = posts.flat_map { |post| post.data['tags'] || [] }.to_set

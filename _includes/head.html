@@ -77,8 +77,8 @@
   two separate objects with separate like counts) and og:locale:alternate is the
   same locale list the hreflang block below emits.
 
-  alternates.html loops over every post once, so it is included exactly once per
-  page and both blocks read the `available_list` it leaves behind.
+  Both blocks read the `available_list` that alternates.html leaves behind (it
+  only reads `page.alternates`, precomputed by _plugins/precompute_navigation.rb).
   {%- endcomment -%}
   {%- include canonical_url.html url=page.url -%}
   {%- assign page_canonical = canonical_path -%}

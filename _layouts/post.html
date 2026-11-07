@@ -5,7 +5,7 @@ layout: default
 <img data-pagefind-meta="image[src]" src="{{ page.thumbnail | prepend: site.baseurl }}" style="display:none" />
 <div class="post">
 
-<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
+<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url('{{ page.cover | prepend: site.baseurl }}');"{% endif %}>
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
       <h1 class="title">{{ page.title }}</h1>
@@ -88,45 +88,32 @@ layout: default
 
 {% if site.inter_post_navigation == true %}
 	<section class="post-navigation">
+	{%- comment -%}
+	page.prev_post / page.next_post are the next older / newer post in the same
+	locale, set by _plugins/precompute_navigation.rb.
+	{%- endcomment %}
 	<span class="prev-post">
-		{% for post in site.posts -%}
-			{%- if post.locale == page.locale -%}
-				{%- if prev -%}
-						<a href="{{post.url | prepend: site.baseurl}}">
+		{%- if page.prev_post -%}
+						<a href="{{ page.prev_post.url | prepend: site.baseurl }}">
 							<span class="fa-stack fa-lg">
 								<i class="fa fa-square fa-stack-2x"></i>
 								<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
 							</span>
-							<span class="page-number"><strong>{{ items_text.previous }}:</strong> {{post.title | truncatewords: 5}}</span>
+							<span class="page-number"><strong>{{ items_text.previous }}:</strong> {{ page.prev_post.title | truncatewords: 5 }}</span>
 						</a>
-				{%- endif -%}
-				{% assign prev = false %}
-				{%- if post.id == page.id -%}
-					{% assign prev = true %}
-				{%- endif -%}
-			{%- endif -%}
-		{%- endfor %}
+		{%- endif %}
 		</span>
 
 		<span class="next-post">
-		{% for post in site.posts reversed -%}
-			{%- if post.locale == page.locale -%}
-				{%- if next -%}
-			      <a href="{{ post.url | prepend: site.baseurl}}">
-							<span class="page-number"><strong>{{ items_text.next }}:</strong> {{post.title | truncatewords: 5}}</span>
+		{%- if page.next_post -%}
+			      <a href="{{ page.next_post.url | prepend: site.baseurl }}">
+							<span class="page-number"><strong>{{ items_text.next }}:</strong> {{ page.next_post.title | truncatewords: 5 }}</span>
 							<span class="fa-stack fa-lg">
 								<i class="fa fa-square fa-stack-2x"></i>
 								<i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
 							</span>
 						</a>
-					{% break %}
-				{%- endif -%}
-				{% assign next = false %}
-				{%- if post.id == page.id -%}
-					{% assign next = true %}
-				{%- endif -%}
-			{%- endif -%}
-		{%- endfor %}
+		{%- endif %}
 		</span>
 	</section>
 {% endif %}

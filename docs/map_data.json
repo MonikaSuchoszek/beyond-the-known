@@ -1,6 +1,20 @@
 [
 
     {
+      "title"    : "Discovering Montenegro: A Weekend in Zabljak and Durmitor National Park",
+      "url"      : "/en/travel/2026/10/Zabljak/",
+      "date"     : "October 25, 2026",
+      "locale"   : "en_US",
+      "content" :  "Our flight to Podgorica was very late in the evening, so we didn’t even take a day off work. Directly from the airport, we took a taxi to our Airbnb apartment, which we could access using self-check-in. This was very convenient. We spent next five days exploring Montenegro in September,..."
+      
+       , "coords" : {
+          "lat" : 43.154075,
+          "lng" : 19.125757
+      }
+      
+    } ,
+
+    {
       "title"    : "W pogoni za słońcem w okolicach Liège: pięć belgijskich szlaków",
       "url"      : "/pl/podroze/2026/08/HikesBE/",
       "date"     : "August 01, 2026",

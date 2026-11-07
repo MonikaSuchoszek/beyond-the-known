@@ -10,10 +10,8 @@
 
       <p><strong>Site Map</strong></p>
       <ul class="pages">
-        {% for link in site.pages -%}
-        {%- if link.title and link.main_nav == true and link.locale == page.locale -%}
+        {% for link in site.data.nav[page.locale] -%}
           <li class="nav-link"><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a>
-        {%- endif -%}
         {%- endfor %}
       </ul>
     </div>
